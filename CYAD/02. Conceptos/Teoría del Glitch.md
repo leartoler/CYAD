@@ -1,0 +1,1 @@
+Un artefacto real en un mundo virtual cuya formación es instantánea e inanticipada ([[Reinhard, 2018. Cap. 3.pdf]], p. 154).

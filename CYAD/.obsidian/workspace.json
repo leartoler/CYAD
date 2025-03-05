@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "633aafebe468c377",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5da62a0ea98546c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8db8c6e75ff5b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice de Temas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice de Temas"
+            }
+          },
+          {
+            "id": "302552a3ff2a90e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7e0d786305d4a732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Conceptos/Experiencia de juego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiencia de juego"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3c2b1709712a84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b79a8fdeeaec53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b40978eef11d1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0a2e96e736d879a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4317653b8802882",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e384abcc009c0f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "406c24f8bb852b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64999677a3bbdef0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bibliografia/The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console)"
+            }
+          },
+          {
+            "id": "b1db2d1e12b2319d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enactivismo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Enactivismo"
+            }
+          },
+          {
+            "id": "d5b218e54ad9d06c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9396e3781049a503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enactivismo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enactivismo"
+            }
+          },
+          {
+            "id": "3cb3b5b9baf94cb2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "302552a3ff2a90e7",
+  "lastOpenFiles": [
+    "01. Lecturas/The Ontology of Videogames.md",
+    "01. Lecturas/The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console).md",
+    "02. Conceptos/ontología algorítmica.md",
+    "01. Lecturas/Vibrant Matter. A political ecology of things.md",
+    "04. Videos/Indice Preguntas.md",
+    "Indice Notas.md",
+    "Indice de Temas.md",
+    "03. Bibliografía/Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf",
+    "03. Bibliografía/cosmotecnica.pdf",
+    "03. Bibliografía/Reinhard, 2018. Cap. 4.pdf",
+    "03. Bibliografía/Reinhard, 2018. Introducción.pdf",
+    "03. Bibliografía/Nuevo Materialismo.pdf",
+    "02. Conceptos/Shi.md",
+    "01. Lecturas/Blomberg, J. (2019). The Semiotics of the Game Controller.md",
+    "02. Conceptos/materialismo vital.md",
+    "02. Conceptos/Althusser.md",
+    "02. Conceptos/Experiencia de juego.md",
+    "02. Conceptos/proactantes.md",
+    "02. Conceptos/cuerpos conativos.md",
+    "02. Conceptos/dialéctica negativa.md",
+    "02. Conceptos/pixel.md",
+    "02. Conceptos/The Game of Video Game Objects. A Minimal Theory of when we see Pixelsas Objects rather than Pictures.md",
+    "01. Lecturas/El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.md",
+    "02. Conceptos/deodand.md",
+    "01. Lecturas/Cosmotechnics as Cosmopolitics.md",
+    "02. Conceptos/Videojuego y artefacto.md",
+    "04. Videos/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.md",
+    "02. Conceptos/Ontología del devenir.md",
+    "04. Videos/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.mp4",
+    "01. Lecturas/Suung, Park (2023). Generative Agents. Interactuive Simulacra of human Behavior.md",
+    "04. Videos",
+    "03. Bibliografía/Reinhard, 2018. Cap. 3.pdf",
+    "03. Bibliografía/Reinhard, 2018. Cap. 2.pdf",
+    "03. Bibliografía/Reinhard, 2018. Cap. 1.pdf",
+    "02. Conceptos/Videojuegos y lo inmaterial.md"
+  ]
+}

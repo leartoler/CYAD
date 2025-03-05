@@ -1,0 +1,1 @@
+Un actante que opera dentro y a lo largo de la humanidad, ejerciendo su enfluencia en los modos, disposiciones y desiciones. 

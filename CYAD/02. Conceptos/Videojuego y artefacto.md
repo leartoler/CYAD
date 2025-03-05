@@ -1,0 +1,1 @@
+A pesar de considerarse como mayoritariamente digital, el [[videojuego]] es un [[artefacto]] en tanto es una creacion humana con una historia en particular ([[Reinhard, 2018. Cap. 1.pdf]], p. 30).

@@ -1,0 +1,2 @@
+ La generación procedural elemina al jugador dentro del desarrollo, en donde primero hay un compromiso con el que crea el hardware y después con la manifestación del código en sí mismo ([[Reinhard, 2018. Cap. 3.pdf]], p. 128).
+ 
