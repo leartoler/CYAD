@@ -1,7 +1,7 @@
 ---
 Titulo: Cosmotechnics as Cosmopolitics
 Autor: Yuk Hui
-Año: "2017"
+Año: 2017
 ---
 (Tema :: Fin de la metafísica)
 	Se considera fin de la [[metafísica]] en el sentido de que ya no se percibe nada más allá de la perfección de la ciencia y la tecnología

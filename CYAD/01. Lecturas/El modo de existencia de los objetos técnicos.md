@@ -1,7 +1,7 @@
 ---
 Titulo: El modo de existencia de los objetos técnicos
 Autor: Gilbert Simondón
-Año: "2008"
+Año: 2008
 ---
 ### Tema
 (Tema :: Objeto técnico)
