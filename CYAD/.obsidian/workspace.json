@@ -11,10 +11,14 @@
             "id": "609af21d3fec1294",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02. Conceptos/Memoria Cultural.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memoria Cultural"
             }
           }
         ]
