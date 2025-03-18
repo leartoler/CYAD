@@ -1,4 +1,4 @@
-[[Vibrant Matter. A political ecology of things]]
+[[Bennet, J. (2010). Vibrant Matter. A political ecology of things.]]
 
 **1. Resumen de la lectura**
 

@@ -1,1 +1,0 @@
-![[New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.mp4]]
