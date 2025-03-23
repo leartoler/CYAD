@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28c2bf4cc4c315df",
+        "id": "cd9996eeedf8adfd",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c734dced21a3ca",
+            "id": "2273f603429d68c0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego"
             }
-          },
-          {
-            "id": "1dbba3feaf5e1ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas/Barr, P. (2023). The Stuff Games Are Made Of.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barr, P. (2023). The Stuff Games Are Made Of"
-            }
-          },
-          {
-            "id": "7701192813ee8a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +67,7 @@
             }
           },
           {
-            "id": "d4317653b8802882",
+            "id": "326eb590140d4bbe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 681.5,
+    "width": 309.5,
     "collapsed": true
   },
   "right": {
@@ -214,43 +185,43 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7701192813ee8a87",
+  "active": "2273f603429d68c0",
   "lastOpenFiles": [
-    "01. Lecturas/Barr, P. (2023). The Stuff Games Are Made Of.md",
-    "Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
-    "05. Resumen/Resumen Barr, P. (2023). The Stuff Games Are MAde Of.md",
-    "06. Leído/The Stuff Games Are Made Of_LT.pdf",
-    "04. Bibliografía/The Stuff Games Are Made Of.pdf",
-    "Home.md",
-    "03. Autores/Jussi Parrika.md",
-    "03. Autores/Pippin Barr.md",
-    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
-    "01. Lecturas/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
-    "05. Resumen/Resumen Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
-    "01. Lecturas/Hui, Y. (2017). Cosmotechnics as Cosmopolitics.md",
-    "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
     "01. Lecturas/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
-    "03. Autores/Friedrich Kittler.md",
-    "Indice de Temas.md",
-    "Indice Notas.md",
-    "Indice Preguntas.md",
-    "03. Autores/Lev Manovich.md",
-    "03. Autores/Matt Kirchenbaum.md",
-    "02. Conceptos/Memoria Cultural.md",
-    "02. Conceptos/Mods y archaegaming.md",
-    "02. Conceptos/Principios semióticos.md",
-    "03. Autores/Katherine Hayles.md",
+    "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
+    "01. Lecturas/Dolphijn, R. y Van der Tuin, I. (2012). New Materialism. Interviews and Cartographies..md",
+    "05. Resumen/Resumen New Materialism. Interviews and Cartographies.md",
+    "01. Lecturas/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+    "01. Lecturas/Barr, P. (2023). The Stuff Games Are Made Of.md",
+    "Hardware y Experiencia de Juego.md",
+    "02. Conceptos/Concretización.md",
+    "01. Lecturas/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
+    "01. Lecturas/Günzel, S. (2012). The Mediality of Computer Games.md",
+    "01. Lecturas/The Game of Video Game Objects. A Minimal Theory of when we see Pixelsas Objects rather than Pictures.md",
+    "01. Lecturas/The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console).md",
+    "01. Lecturas/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+    "Temas a estudiar.md",
+    "May.md",
+    "jue.md",
+    "02. Conceptos/inmanente.md",
+    "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
+    "01. Lecturas/Braidotti, R. (2015). Lo Posthumano.md",
+    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
+    "01. Lecturas/Declos, A. (2024). The Ontology of Videogames.md",
+    "01. Lecturas/Hui, Y. (2017). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+    "01. Lecturas/Mäyrä, F. (2008). An introduction to Game Studies.md",
+    "01. Lecturas/Suung, P (2023). Generative Agents. Interactuive Simulacra of human Behavior.md",
+    "02. Conceptos/Juego.md",
+    "06. Leído/Rodriguez,_P_E_2019_La_importancia_de_la_obra_de_G_Simondon_para.pdf",
+    "04. Bibliografía/ontology videogame.pdf",
+    "04. Bibliografía/ExploringVideogamesWithDeleuzeAndGuattari (1).pdf",
+    "04. Bibliografía/Game_Play_and_Material_An_Introduction.pdf",
+    "06. Leído/Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf",
     "04. Bibliografía/Digital_Materialisms_Frameworks_for_Digital_Media_.pdf",
     "06. Leído/Digital Materialisms_ Frameworks for Digital Media Studies_LT.pdf",
-    "06. Leído/Game_Play_and_Material_An_Introduction_LT.pdf",
-    "01. Lecturas/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
-    "05. Resumen/Resumen Game, Play and Material. An introduction.md",
-    "04. Bibliografía/Game_Play_and_Material_An_Introduction.pdf",
-    "06. Leído/Game_Play_and_Material_An_Introduction.pdf",
-    "03. Autores/Murray.md",
-    "Untitled",
-    "06. Leído/Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf",
-    "06. Leído"
+    "04. Bibliografía/2020_EdG_Braidotti_Lo-posthumano.pdf",
+    "04. Bibliografía/Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf",
+    "06. Leído/The Stuff Games Are Made Of_LT.pdf"
   ]
 }

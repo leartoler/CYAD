@@ -1,0 +1,1 @@
+Algo se convierte en juego, segun [[Günzel, S. (2012). The Mediality of Computer Games]], cuando algo se convierte en un juego cuando no se usa con referencia a algo distinto de lo que es (34)

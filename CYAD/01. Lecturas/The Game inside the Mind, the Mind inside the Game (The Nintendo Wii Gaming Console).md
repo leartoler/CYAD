@@ -64,7 +64,7 @@ Al igual que el anterior, se basa en tres premisas:
 	[[Heidegger]], en el [[Ser y el tiempo]], comenta que un objeto, de lo primero que tenemos conciencia no es la presencia objetual del mismo, sino las cosas que podemos hacer con ello, tal como sucede con un martillo que aprehendemos primero lo que podemos realizar. Es decir, las propiedades como tal, por lo general, se tienen conocimiento cuando algo nos impide realizar el acto deseado; la negación.
 
 (Tema :: Enactivismo y percepción 40)
-	En el [[Enactivismo]] la percepción depende y está constituida por la abilidad de percepción de dirigiri hacia el mismo en dirección hacia un objetivo. Es decir, la percepción es registrar las posibilidads de acción dadas por un ambiente. Es entonces que su  solución es empírica aplicado a un mundo externo, dando posibilidades de acción y creencias acerca de los objetivos del mundo.
+	En el [[Enactivismo]] la percepción depende y está constituida por la habilidad de percepción de dirigiri hacia el mismo en dirección hacia un objetivo. Es decir, la percepción es registrar las posibilidads de acción dadas por un ambiente. Es entonces que su  solución es empírica aplicado a un mundo externo, dando posibilidades de acción y creencias acerca de los objetivos del mundo.
 
 (Tema :: Alva Nöe y propiedades del mundo externo(40))
 	[[Alva Noë]] considera que todos los objetos tienen tipos de propiedades

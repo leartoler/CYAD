@@ -4,7 +4,7 @@ Autor: Claudius Clüver, Max Kanderske, Finja Walsdorff, Timo Schemer-Reinhard, 
 Año: 2022
 Editorial: Ludomaterialities
 Libro: "[[Game_Play_and_Material_An_Introduction.pdf]]"
-Leído: "[[Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf]]"
+Leído: "[[Game_Play_and_Material_An_Introduction_LT.pdf]]"
 Resumen generado: "[[Resumen Game, Play and Material. An introduction]]"
 ---
 ### Tema

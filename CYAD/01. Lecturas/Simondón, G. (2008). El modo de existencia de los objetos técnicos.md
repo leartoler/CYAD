@@ -29,7 +29,18 @@ Año: 2008
 	Por ende, hay individuo técnico cuando el medio asociado es condición necesaria.
 
 (Tema :: Individuo técnico (81 - 82))
-	Se habla de individuo técnico cuando el medio asociado existe como condición técnica
+	Se habla de individuo técnico cuando el medio asociado existe como condición técnica.
+
+(Tema :: Individuación)
+	Para [[Simondon]], el proceso de individuación no ocurre solo en el huamno, sino también en el mundo físico, sin embargo, para el objeto técnico dicho proceso tiene por nombre concretización.
+
+(Tema :: Concretización)
+	(46) Se haba de un proceso, en donde el artesanado es el estadio primitivo y la industria corresponde al estadio concreto. En este nivel concreto el objeto ha adquirido su coherencia. Las necesidades, por lo tanto, se moldean sobre el objeto técnico industrial. Igualmente se tienen una parte esencial, misma que no cambia, pues son los aspecto inesenciales los que se pueden hacer a medida, porque son contingentes. 
+	(56) La esencia de la concretización del objeto técnico es la organización de subconjuntos funcionales en el funcionamiento total.
+	(67) El objeto técnico concreto tiende a la coherencia interna, al cerrazón del sistema de causas y efectos que se ejercen circularmente en el interior del recinto. 
+	
+	
+
 
 ### Nota
 (Nota :: La tecnología, como extensión de la cultura, tiene un valor político y social. Se debe expresar una relación simultánea y correlatica entre hombres y máquinas, además de no generar una especialización que puede empobrecer al hombre.)

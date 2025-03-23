@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Hacia una exploración metafísica y ontológica de lo digital a través del videojuego",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.22567567567568,
-  "lineSizeMultiplier": 0.634823284823285,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.366943866943867,
+  "centerStrength": 0.508316008316008,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749548,
+  "scale": 0.22920135941749625,
   "close": false
 }

@@ -2,6 +2,7 @@
 Autor: Alexandre Declos
 Año: 2024
 Resumen generado: "[[Resumen Ontology of videogames]]"
+Libro: "[[ontology videogame.pdf]]"
 ---
 ### 01. Tema
 #### 01. Introducción

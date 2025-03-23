@@ -1,9 +1,4 @@
----
-Autor: Braidotti, Rosi
-Título: Lo Posthumano
-Editorial: Gedisa
-Año: 2015
---- 
+
 
 # Libro
 

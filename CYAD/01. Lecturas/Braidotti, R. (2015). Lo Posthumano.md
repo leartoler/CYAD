@@ -3,7 +3,7 @@ Titulo: Lo Posthumano
 Autor: "[[Rosi Braidotti]]"
 Editorial: Gedisa
 Año: 2015
-Libro:
+Libro: "[[2020_EdG_Braidotti_Lo-posthumano.pdf]]"
 ---
 
 ### Tema

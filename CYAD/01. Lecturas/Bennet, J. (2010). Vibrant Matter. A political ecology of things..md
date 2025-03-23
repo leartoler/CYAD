@@ -3,8 +3,6 @@ Titulo: Vibrant Matter. A political ecology of things
 Autor: "[[Jane Bennett]]"
 Año: 2010
 Libro: "[[Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf]]"
-dg-publish: true
-dg-home: false
 ---
 ### Tema
 

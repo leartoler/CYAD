@@ -46,3 +46,6 @@ Leído: "[[Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf]]"
 ### Preguntas
 (Pregunta :: investigar más sobre la [[intra-acción]])
 
+
+
+
