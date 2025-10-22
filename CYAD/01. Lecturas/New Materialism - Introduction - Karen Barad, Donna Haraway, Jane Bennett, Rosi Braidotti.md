@@ -6,7 +6,7 @@ Editorial: Youtube
 ![[Nuevo Materialismo.pdf]]
 
 ### Temas
-(Tema :: Cuestioamientos acerca de lo humani, la materia y la ontología)
+(Tema :: Cuestioamientos acerca de lo humano, la materia y la ontología)
 
 (Tema :: Temas sobre el nuevo materialismo)
 	[[Karen Barad]], [[Manuel DeLanda]], [[Gentle Realism]], [[Jane Barrett]], [[Felix Guattari]], [[Flat Ontology]], [[Donna Haraway]], [[Ontología del devenir]]

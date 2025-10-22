@@ -7,7 +7,7 @@ Libro: "[[The Stuff Games Are Made Of.pdf]]"
 Leído: "[[The Stuff Games Are Made Of_LT.pdf]]"
 Resumen generado:
 ---
-### Tema
+2### Tema
 
 #### 01. Introduction: What is all this stuff?
 

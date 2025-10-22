@@ -108,28 +108,6 @@ Libro: "[[Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf]]"
 	[[Shi]] es un concepto chino que se usa para conceptualizar el cómo un conjunto de cosas tiene su propia agencialidad a partir de los elementos que la constituyen; es el resultado de una disposición variada de cosas. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Nota
 (Nota :: Una de las cuestiones importantes a las que apela el libro es el impacto político que puede tener la materialidad.)
 

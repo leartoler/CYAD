@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"f78b7ac07eec1db4","type":"text","text":"Videojuego","x":-300,"y":-420,"width":140,"height":60},
+		{"id":"5bdbbdf71dc00141","type":"text","text":"Mediador","x":-80,"y":-360,"width":250,"height":60},
+		{"id":"0aaa8c56e638dba1","type":"text","text":"Medio","x":-80,"y":-520,"width":250,"height":60},
+		{"id":"cce8354b9702c032","type":"text","text":"Metafísica y ontología","x":-307,"y":-180,"width":155,"height":60},
+		{"id":"39ae1e3e4dade10c","type":"text","text":"Cosmotécnica (Yuk Hui)","x":-355,"y":120,"width":250,"height":60},
+		{"id":"e186e3304c3688f0","type":"text","text":"Objeto técnico (Simondón). ","x":-680,"y":120,"width":250,"height":60},
+		{"id":"cb8d748c021ff522","type":"text","text":"Nuevo Materialismo","x":-40,"y":120,"width":250,"height":60},
+		{"id":"7f3aa7b25c5765b0","type":"text","text":"Contexto (general)","x":-152,"y":-40,"width":250,"height":60},
+		{"id":"74675782ada93acc","type":"text","text":"Particular (objeto en sí)","x":-557,"y":-40,"width":250,"height":60},
+		{"id":"e52fce79022fadb3","x":-445,"y":360,"width":430,"height":220,"type":"text","text":"Unificación entre el orden cósmico y el orden moral de la actividad técnica.\n\tPropone entender las diferentes tecnicidades y contribuir a abrir la pluraldad de relaciones entre técnica, mitología, y cosmología, y entender las diferentes relaciones entre el humano y la técnica"},
+		{"id":"caf4287eee5c37b4","x":-780,"y":360,"width":250,"height":60,"type":"text","text":"Determinación del objeto técnico"},
+		{"id":"d535d9cb63375f2a","x":40,"y":360,"width":250,"height":60,"type":"text","text":"Determinación en un contexto"},
+		{"id":"394d4fbaeeec34c0","x":420,"y":250,"width":250,"height":60,"type":"text","text":"Actante"},
+		{"id":"78d8378bc6b87457","x":420,"y":360,"width":250,"height":60,"type":"text","text":"Transversalidad"},
+		{"id":"427f310e8d7890d9","x":420,"y":480,"width":250,"height":60,"type":"text","text":"Ensamblaje"}
+	],
+	"edges":[
+		{"id":"6f1e0cae6f5377d7","fromNode":"f78b7ac07eec1db4","fromSide":"right","toNode":"0aaa8c56e638dba1","toSide":"left"},
+		{"id":"236f29665d5e8d27","fromNode":"f78b7ac07eec1db4","fromSide":"right","toNode":"5bdbbdf71dc00141","toSide":"left"},
+		{"id":"6b22e9851f3e4cdc","fromNode":"f78b7ac07eec1db4","fromSide":"bottom","toNode":"cce8354b9702c032","toSide":"top"},
+		{"id":"22a50722f3d38e88","fromNode":"7f3aa7b25c5765b0","fromSide":"bottom","toNode":"cb8d748c021ff522","toSide":"top"},
+		{"id":"de2a6c16422b7aac","fromNode":"cce8354b9702c032","fromSide":"bottom","toNode":"7f3aa7b25c5765b0","toSide":"top"},
+		{"id":"88b5b418767c63a1","fromNode":"cce8354b9702c032","fromSide":"bottom","toNode":"74675782ada93acc","toSide":"top"},
+		{"id":"7cc56009d89e2456","fromNode":"74675782ada93acc","fromSide":"bottom","toNode":"e186e3304c3688f0","toSide":"top"},
+		{"id":"5ce1c0929cdfd713","fromNode":"e186e3304c3688f0","fromSide":"right","toNode":"39ae1e3e4dade10c","toSide":"left"},
+		{"id":"cdef56e258e770c1","fromNode":"39ae1e3e4dade10c","fromSide":"right","toNode":"cb8d748c021ff522","toSide":"left"},
+		{"id":"b0b49daa245edaf1","fromNode":"39ae1e3e4dade10c","fromSide":"bottom","toNode":"e52fce79022fadb3","toSide":"top"},
+		{"id":"f6a2224e19d93653","fromNode":"e186e3304c3688f0","fromSide":"bottom","toNode":"caf4287eee5c37b4","toSide":"top"},
+		{"id":"79c731d738c7df1d","fromNode":"cb8d748c021ff522","fromSide":"bottom","toNode":"d535d9cb63375f2a","toSide":"top"},
+		{"id":"a7d485319ae5fdf2","fromNode":"d535d9cb63375f2a","fromSide":"right","toNode":"394d4fbaeeec34c0","toSide":"left"},
+		{"id":"16e5a765169c3dda","fromNode":"d535d9cb63375f2a","fromSide":"right","toNode":"78d8378bc6b87457","toSide":"left"},
+		{"id":"07c5cbf285b5cb33","fromNode":"d535d9cb63375f2a","fromSide":"right","toNode":"427f310e8d7890d9","toSide":"left"}
+	]
+}

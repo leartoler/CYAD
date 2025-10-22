@@ -4,26 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cd9996eeedf8adfd",
+        "id": "98f0a51110c42551",
         "type": "tabs",
         "children": [
           {
-            "id": "2273f603429d68c0",
+            "id": "37db13751dfb5681",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
+                "file": "02. Conceptos/fenomenalismo.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego"
+              "title": "fenomenalismo"
+            }
+          },
+          {
+            "id": "9bd4d58d43c96736",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,11 +42,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b79a8fdeeaec53",
+        "id": "425a9811044e1d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "23b40978eef11d1c",
+            "id": "cff4b409f11cfdcc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +59,12 @@
             }
           },
           {
-            "id": "b0a2e96e736d879a",
+            "id": "6e11f77241e9acb1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "transv",
+                "query": "cosmot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +76,7 @@
             }
           },
           {
-            "id": "326eb590140d4bbe",
+            "id": "e8e6e4187885f630",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 381.5
   },
   "right": {
     "id": "e384abcc009c0f1d",
@@ -116,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enactivismo.md",
+                "file": "TagsRoutes/logMessage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Enactivismo"
+              "title": "Outgoing links from logMessage"
             }
           },
           {
@@ -145,17 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enactivismo.md",
+                "file": "11. Preguntas/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enactivismo"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "3cb3b5b9baf94cb2",
+            "id": "8bc836e11ea23078",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -174,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
@@ -185,43 +194,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2273f603429d68c0",
+  "active": "9bd4d58d43c96736",
   "lastOpenFiles": [
-    "01. Lecturas/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
-    "Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
-    "01. Lecturas/Dolphijn, R. y Van der Tuin, I. (2012). New Materialism. Interviews and Cartographies..md",
-    "05. Resumen/Resumen New Materialism. Interviews and Cartographies.md",
-    "01. Lecturas/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
-    "01. Lecturas/Barr, P. (2023). The Stuff Games Are Made Of.md",
-    "Hardware y Experiencia de Juego.md",
-    "02. Conceptos/Concretización.md",
-    "01. Lecturas/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
-    "01. Lecturas/Günzel, S. (2012). The Mediality of Computer Games.md",
+    "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
+    "Pasted image 20251021205330.png",
+    "01. Lecturas/Declos, A. (2024). The Ontology of Videogames.md",
+    "02. Conceptos/fenomenalismo.md",
+    "02. Conceptos/Generación procedural en el jugador.md",
+    "02. Conceptos/Material culture of the Inmaterial.md",
+    "02. Conceptos/ontología algorítmica.md",
+    "02. Conceptos/proactantes.md",
+    "02. Conceptos/sobredeterminación.md",
     "01. Lecturas/The Game of Video Game Objects. A Minimal Theory of when we see Pixelsas Objects rather than Pictures.md",
     "01. Lecturas/The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console).md",
-    "01. Lecturas/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
-    "Temas a estudiar.md",
-    "May.md",
-    "jue.md",
-    "02. Conceptos/inmanente.md",
-    "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
-    "01. Lecturas/Braidotti, R. (2015). Lo Posthumano.md",
-    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "01. Lecturas/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
-    "01. Lecturas/Declos, A. (2024). The Ontology of Videogames.md",
-    "01. Lecturas/Hui, Y. (2017). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
-    "01. Lecturas/Mäyrä, F. (2008). An introduction to Game Studies.md",
     "01. Lecturas/Suung, P (2023). Generative Agents. Interactuive Simulacra of human Behavior.md",
-    "02. Conceptos/Juego.md",
-    "06. Leído/Rodriguez,_P_E_2019_La_importancia_de_la_obra_de_G_Simondon_para.pdf",
+    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas/Siabra F, Joaquin A. (2012). Bosquejo de una metafísica del videojuego.md",
+    "01. Lecturas/Sharp, J. (2015). Works of Game. On The Aesthetic of Games and Art.md",
+    "01. Lecturas/Sandi, D, y Bazán, P. (2021). Diseño de juegos serios. Análisis de metodologías.md",
+    "04. Bibliografía/Diseño de juegos serios_ Análisis de metodologías.pdf",
+    "01. Lecturas/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
+    "01. Lecturas/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+    "01. Lecturas/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.md",
+    "01. Lecturas/Muriel, D. y Crawford, G. (2023). Los videojuegos como cultura. Identidad y experiencia en el mundo actual..md",
+    "01. Lecturas/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+    "01. Lecturas/Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..md",
+    "06. Leído/Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..pdf",
+    "01. Lecturas/Juul, J. (2021). The Game of video game object. A minimal theory of when se wee pixels as objects rather than pictures.md",
+    "04. Bibliografía/essay_juul.pdf",
+    "06. Leído/Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf",
+    "01. Lecturas/Hunicke, R., et. al. (2004). MDA. A formal approach to game design and game research..md",
+    "01. Lecturas/Hui, Y. (2017). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+    "01. Lecturas/Günzel, S. (2012). The Mediality of Computer Games.md",
     "04. Bibliografía/ontology videogame.pdf",
     "04. Bibliografía/ExploringVideogamesWithDeleuzeAndGuattari (1).pdf",
-    "04. Bibliografía/Game_Play_and_Material_An_Introduction.pdf",
-    "06. Leído/Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf",
-    "04. Bibliografía/Digital_Materialisms_Frameworks_for_Digital_Media_.pdf",
+    "06. Leído/Game_Play_and_Material_An_Introduction_LT.pdf",
     "06. Leído/Digital Materialisms_ Frameworks for Digital Media Studies_LT.pdf",
     "04. Bibliografía/2020_EdG_Braidotti_Lo-posthumano.pdf",
     "04. Bibliografía/Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf",
-    "06. Leído/The Stuff Games Are Made Of_LT.pdf"
+    "12. Gráficas/Teoria 1.canvas",
+    "WhatsApp Image 2025-09-30 at 07.53.39_38d0d59c.jpg",
+    "10. Imágenes/Snapshot.png",
+    "10. Imágenes/Pasted image 20250412224141.png",
+    "10. Imágenes/Pasted image 20250412224301.png",
+    "10. Imágenes/Pasted image 20250412224234.png"
   ]
 }
