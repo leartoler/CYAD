@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 6079190
       }
+    },
+    {
+      "query": "Simondon",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 18.1688933408745,
   "linkStrength": 0.550932860461217,
   "linkDistance": 470,
-  "scale": 0.030182895067324217,
+  "scale": 0.015355906606692794,
   "close": false
 }

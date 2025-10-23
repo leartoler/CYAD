@@ -4,5 +4,7 @@
   "mermaid-tools",
   "highlightr-plugin",
   "obsidian-living-graph",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsius-publish",
+  "graph-analysis"
 ]

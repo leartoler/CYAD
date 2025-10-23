@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "dg-home": "checkbox",
-    "Titulo": "text"
+    "Titulo": "text",
+    "Consultado": "checkbox"
   }
 }
