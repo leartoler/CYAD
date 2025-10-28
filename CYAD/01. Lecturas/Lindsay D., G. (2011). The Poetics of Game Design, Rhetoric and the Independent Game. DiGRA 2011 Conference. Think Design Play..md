@@ -1,7 +1,7 @@
 ---
-author:
+Autor:
   - Lindsay D. G.
-Leido: "[[Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..pdf]]"
+Leído: "[[Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..pdf]]"
 ---
 ### Concepto
 
@@ -16,7 +16,7 @@ El verbo, la mecánica, en los juegos independientes sirven mapas como dispositi
 
 ### Nota
 
-(Tema :: Los juegos independientes también crean nuevos verbos para jugar).
+(Nota :: Los juegos independientes también crean nuevos verbos para jugar).
 
 (Nota :: Los juegos son una traducción de la imagen en experiencias.)
 

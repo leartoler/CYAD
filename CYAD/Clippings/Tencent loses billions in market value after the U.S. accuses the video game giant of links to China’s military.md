@@ -1,13 +1,13 @@
 ---
-title: "Tencent loses billions in market value after the U.S. accuses the video game giant of links to China’s military"
-source: "https://finance.yahoo.com/news/tencent-loses-billions-market-value-101912419.html"
-author:
+title: Tencent loses billions in market value after the U.S. accuses the video game giant of links to China’s military
+source: https://finance.yahoo.com/news/tencent-loses-billions-market-value-101912419.html
+Autor:
   - "[[Yahoo Finance]]"
 published: 2025-02-06
 created: 2025-04-12
-description: "The Department of Defense accused Tencent and EV battery giant CATL of having ties to China’s military. Tencent calls the decision “clearly a mistake.”"
+description: The Department of Defense accused Tencent and EV battery giant CATL of having ties to China’s military. Tencent calls the decision “clearly a mistake.”
 tags:
-  - "clippings"
+  - clippings
 ---
 Unlock stock picks and a broker-level newsfeed that powers Wall Street.
 

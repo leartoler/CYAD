@@ -1,13 +1,13 @@
 ---
-title: "McGill researchers help advance genetic research through a video game"
-source: "https://universityaffairs.ca/news/mcgill-researchers-help-advance-genetic-research-through-a-video-game/"
-author:
+title: McGill researchers help advance genetic research through a video game
+source: https://universityaffairs.ca/news/mcgill-researchers-help-advance-genetic-research-through-a-video-game/
+Autor:
   - "[[Angela Mombourquette]]"
 published: 2024-11-14
 created: 2025-04-12
-description: "Borderlands Science, a mini-game within the popular Borderlands 3 video game is putting a new spin on citizen science."
+description: Borderlands Science, a mini-game within the popular Borderlands 3 video game is putting a new spin on citizen science.
 tags:
-  - "clippings"
+  - clippings
 ---
 [Skip to content](https://universityaffairs.ca/news/mcgill-researchers-help-advance-genetic-research-through-a-video-game/#content)
 

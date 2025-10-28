@@ -1,13 +1,13 @@
 ---
-title: "Producir tecnologías alternativas"
-source: "https://vientosur.info/producir-tecnologias-alternativas/"
-author:
+title: Producir tecnologías alternativas
+source: https://vientosur.info/producir-tecnologias-alternativas/
+Autor:
   - "[[Viento Sur]]"
 published: 2020-08-25
 created: 2025-04-14
 description: "El filósofo chino Yuk Hui propone salir de la oposición entre rechazo apresurado de la técnica y progresismo beato: hay que repensar, afirma, las tecnologías en su diversidad y su localidad, tomando conciencia de lo que llama cosmotécnicas. Mientras en Hong Kong –donde enseña–, las revueltas contra la Ley de seguridad nacional china se enfrentan a una represión cada vez más dura, hablamos con él sobre las consecuencias de la hegemonía del sistema cibernético contemporáneo para la cultura, la ecología y las luchas políticas."
 tags:
-  - "clippings"
+  - clippings
 ---
 \[De China a EE UU, los métodos empleados y los supuestos antropológicos son más o menos los mismos en materia de tecnología: control de las poblaciones, fantasma de la totalidad, superación de las limitaciones humanas y aspiraciones a la omnipotencia. Frente a esta lógica imperante, el filósofo chino Yuk Hui propone salir de la oposición entre rechazo apresurado de la técnica y progresismo beato: hay que repensar, afirma, las tecnologías en su diversidad y su localidad, tomando conciencia de lo que llama *cosmotécnicas*. Mientras en Hong Kong –donde enseña–, las revueltas contra la Ley de seguridad nacional china se enfrentan a una represión cada vez más dura, hablamos con él sobre las consecuencias de la hegemonía del sistema cibernético contemporáneo para la cultura, la ecología y las luchas políticas.\]
 

@@ -1,0 +1,1 @@
+En donde una función puede ser realizado por un número de estruturas relaionados sinérgicamente. La unión de las unidades es más que la unidades de forma independiente. 

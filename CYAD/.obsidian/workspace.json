@@ -4,53 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "47e2cdbf7fa70a41",
+        "id": "1f016a08288acd0c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e91c9ab1df7ff66",
+            "id": "abab00a8ebef1112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+                "file": "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon"
+              "title": "Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir."
             }
           },
           {
-            "id": "7f582153ce580176",
+            "id": "69fe98223df20696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El          proyecto simondoniano. la individuación del ser en devenir..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El          proyecto simondoniano. la individuación del ser en devenir."
-            }
-          },
-          {
-            "id": "4f8cf91daa008361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clüver, C. et. al. (2022). Game, Play and Material. An Introduction"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cosmot",
+                "query": "two examples",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 203.5
   },
   "right": {
     "id": "e384abcc009c0f1d",
@@ -171,23 +152,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El          proyecto simondoniano. la individuación del ser en devenir..md",
+                "file": "13. Escritos/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El          proyecto simondoniano. la individuación del ser en devenir."
+              "title": "Outline of WTF con los Videojuegos. Hacia la concretización de lo digital"
             }
           },
           {
             "id": "bae509e502bec04f",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -199,9 +180,59 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "9b1c8836464cb3e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9abee2968be80839",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "14eed8cda98c2e5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cfb109368c4fd321",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4eff972c6de88685",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -222,46 +253,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cff4b409f11cfdcc",
+  "active": "abab00a8ebef1112",
   "lastOpenFiles": [
-    "04. Bibliografía/El proyecto simondiano. la individuación del ser en devenir.pdf",
-    "02. Conceptos/proactantes.md",
-    "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El          proyecto simondoniano. la individuación del ser en devenir..md",
-    "02. Conceptos/cuerpos conativos.md",
-    "Untitled.base",
-    "13. Escritos/Hacia la concretización del videojuego.md",
-    "01. Lecturas/Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica.md",
-    "04. Bibliografía/Cuatro lineas para pensar la divergencia.pdf",
-    "01. Lecturas/01.Template.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "01. Lecturas/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
-    "08. Podcast/Simondon_y_el_Giro_Radical__La_Información_Como_Operación_que_D.m4a",
-    "04. Bibliografía/Sobre la nocion de informacion en simondon.pdf",
-    "01. Lecturas/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
-    "01. Lecturas/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
-    "01. Lecturas/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
-    "01. Lecturas/Untitled 1.md",
-    "02. Conceptos/fenomenalismo.md",
-    "01. Lecturas/Untitled.base",
-    "01. Lecturas/Braidotti, R. (2015). Lo Posthumano.md",
-    "01. Lecturas/Blomberg, J. (2019). The Semiotics of the Game Controller.md",
-    "01. Lecturas/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
-    "Indice Preguntas.md",
-    "Indice Notas.md",
-    "Indice de Temas.md",
-    "13. Escritos/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
-    "13. Escritos/Propuesta 1. Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
-    "10. Imágenes/Pasted image 20251021205330.png",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled 3.base",
-    "Untitled 4.base",
-    "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
     "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
-    "01. Lecturas/Declos, A. (2024). The Ontology of Videogames.md",
-    "04. Bibliografía/Diseño de juegos serios_ Análisis de metodologías.pdf",
+    "Pasted image 20251028023519.png",
+    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "12. Gráficas/Potencia.png",
+    "Pasted image 20251028014259.png",
+    "01. Lecturas/01.Template.md",
+    "12. Gráficas/Individuación.canvas",
     "12. Gráficas/Teoria 1.canvas",
+    "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
+    "Ontogénesis.md",
+    "01. Lecturas/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+    "01. Lecturas/Iliadis, A. (2015). Two examples of concretization.md",
+    "01. Lecturas/Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica.md",
+    "01. Lecturas/Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..md",
+    "01. Lecturas/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+    "01. Lecturas/Günzel, S. (2012). The Mediality of Computer Games.md",
+    "01. Lecturas/El Videojuego, cibertexto y cajón de arena..md",
+    "01. Lecturas/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
+    "la.md",
+    "Simondon, G. (2015). La individuación a la luz de la nociones de forma e información (26-27).md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "13. Escritos/Hacia la concretización del videojuego.md",
+    "13. Escritos/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+    "Clippings/Las IA sirven para pensar (historia, teoría, metáfora).md",
+    "Clippings/Las IA sirven para pensar (historia, teoría, metáfora) 1.md",
+    "Base de Datos.base",
+    "01. Lecturas/Dolphijn, R. y Van der Tuin, I. (2012). New Materialism. Interviews and Cartographies..md",
+    "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
+    "01. Lecturas/Blomberg, J. (2019). The Semiotics of the Game Controller.md",
+    "Clippings/Tencent loses billions in market value after the U.S. accuses the video game giant of links to China’s military.md",
+    "Clippings/How Kim Kardashian’s Robbery Trial Came and Went.md",
+    "Clippings/Producir tecnologías alternativas.md",
+    "Untitled 2.base",
+    "04. Bibliografía/Two examples of concretization.pdf",
+    "06. Leído/Two Examples Of Concretization (1).pdf",
+    "08. Podcast/Concretización_Tecnológica__La_Evolución_Profunda_de_los_Objeto.m4a",
+    "13. Escritos/Two examples of concretization.pdf",
+    "04. Bibliografía/El proyecto simondiano. la individuación del ser en devenir.pdf",
+    "04. Bibliografía/Cuatro lineas para pensar la divergencia.pdf",
+    "10. Imágenes/Pasted image 20251021205330.png",
     "WhatsApp Image 2025-09-30 at 07.53.39_38d0d59c.jpg",
     "10. Imágenes/Snapshot.png",
     "10. Imágenes/Pasted image 20250412224141.png",

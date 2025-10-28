@@ -1,7 +1,7 @@
 ---
 title: How Kim Kardashian’s Robbery Trial Came and Went
 source: https://www.newyorker.com/news/the-lede/how-kim-kardashians-robbery-trial-came-and-went
-author:
+Autor:
   - "[[M. J. Corey]]"
 published: 2025-05-24
 created: 2025-05-24

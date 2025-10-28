@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0caa4e8262408e11","x":-260,"y":-160,"width":320,"height":60,"type":"text","text":"Lo preindividual siempre se mantiene"},
+		{"id":"c85f2ef81563e01a","x":-225,"y":-40,"width":250,"height":60,"type":"text","text":"Lo potencial se conserva"},
+		{"id":"a4c414ebef57d5bb","x":149,"y":-40,"width":271,"height":60,"type":"text","text":"Permite otras individuaciones"},
+		{"id":"9b2b081529c6cfab","x":-242,"y":100,"width":285,"height":100,"type":"text","text":"Fuente de estados metaestables que pueden hacer surgir otras individuaciones"},
+		{"id":"b5da67557d393f8c","x":-224,"y":280,"width":250,"height":60,"type":"text","text":"La relación interior-exterior no apela a nuevas sustancias"}
+	],
+	"edges":[
+		{"id":"099b6adf91ae7adc","fromNode":"0caa4e8262408e11","fromSide":"bottom","toNode":"c85f2ef81563e01a","toSide":"top"},
+		{"id":"1c20c3def8f3d445","fromNode":"c85f2ef81563e01a","fromSide":"right","toNode":"a4c414ebef57d5bb","toSide":"left"},
+		{"id":"41fdc409fc3ce576","fromNode":"c85f2ef81563e01a","fromSide":"bottom","toNode":"9b2b081529c6cfab","toSide":"top"},
+		{"id":"bb235d7e9440dece","fromNode":"9b2b081529c6cfab","fromSide":"bottom","toNode":"b5da67557d393f8c","toSide":"top"}
+	]
+}

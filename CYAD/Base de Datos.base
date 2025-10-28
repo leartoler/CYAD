@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - Título
+  - type: cards
+    name: View
+    cardSize: 530
+    image: note.Titulo
+    imageAspectRatio: 0.25
