@@ -19,8 +19,11 @@ Consultado:
 	Capacidad que se da gracias a la información que el individuo adquiere y recupera por medio de la [[imaginación]], la cual integra la [[percepción]] y la [[afectividad]] y permite crear nuevas normas o artefactos instalándolos en el devenir.
 
 (Tema::El devenir(179))
-	Es una dimensión del ser que corresponde a una capacidad que tiene de desfasarse en relación consigo mismo, de resolver al desfasarse; el ser [[preindividual]] es el [[ser]] en el cual no existe fase; el ser en el seno del cual se consuma una [[individuación]] es aquel en el cual aparece una resolución por repartición del ser en fases, que es el [[devenir]]; el devenir no es un marco en el cual existe el ser; es dimensión del ser, modo de resolución de una incompatibilidad inicial rica en potenciales ([[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]](26-27))
+	Es una dimensión del ser que corresponde a una capacidad que tiene de desfasarse en relación consigo mismo, de resolver al desfasarse; el ser [[preindividual]] es el [[ser]] en el cual no existe fase; el ser en el seno del cual se consuma una [[individuación]] es aquel en el cual aparece una resolución por repartición del ser en fases, que es el [[devenir]]; el devenir no es un marco en el cual existe el ser; es dimensión del ser, modo de resolución de una incompatibilidad inicial rica en potenciales ([[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]]
 
+(Tema::Ontogenética(178))
+	La ontogenética de [[Simondon]] aboga por una visión psicosocial, desde lo cual se piensa entre lo psíquico y lo colectivo. Así, la [[Ontogénesis]] es devenir del ser.
+	
 
 
 

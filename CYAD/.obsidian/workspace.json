@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
+                "file": "Clippings/Computer Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir."
+              "title": "Computer Space"
             }
           },
           {
             "id": "69fe98223df20696",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "13. Escritos/La individuación del videojuego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La individuación del videojuego"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "two examples",
+                "query": "preindividual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "e384abcc009c0f1d",
@@ -253,17 +258,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "abab00a8ebef1112",
+  "active": "69fe98223df20696",
   "lastOpenFiles": [
+    "13. Escritos/Hacia la concretización del videojuego.md",
+    "12. Gráficas/Potencia.png",
+    "Untitled.base",
+    "Clippings/Computer Space.md",
+    "13. Escritos/La individuación del videojuego.md",
+    "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
     "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
     "Pasted image 20251028023519.png",
     "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "12. Gráficas/Potencia.png",
     "Pasted image 20251028014259.png",
     "01. Lecturas/01.Template.md",
     "12. Gráficas/Individuación.canvas",
     "12. Gráficas/Teoria 1.canvas",
-    "01. Lecturas/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
     "Ontogénesis.md",
     "01. Lecturas/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
     "01. Lecturas/Iliadis, A. (2015). Two examples of concretization.md",
@@ -275,9 +284,7 @@
     "01. Lecturas/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
     "la.md",
     "Simondon, G. (2015). La individuación a la luz de la nociones de forma e información (26-27).md",
-    "Untitled.base",
     "Untitled 1.base",
-    "13. Escritos/Hacia la concretización del videojuego.md",
     "13. Escritos/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
     "Clippings/Las IA sirven para pensar (historia, teoría, metáfora).md",
     "Clippings/Las IA sirven para pensar (historia, teoría, metáfora) 1.md",
@@ -286,8 +293,6 @@
     "01. Lecturas/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
     "01. Lecturas/Blomberg, J. (2019). The Semiotics of the Game Controller.md",
     "Clippings/Tencent loses billions in market value after the U.S. accuses the video game giant of links to China’s military.md",
-    "Clippings/How Kim Kardashian’s Robbery Trial Came and Went.md",
-    "Clippings/Producir tecnologías alternativas.md",
     "Untitled 2.base",
     "04. Bibliografía/Two examples of concretization.pdf",
     "06. Leído/Two Examples Of Concretization (1).pdf",
