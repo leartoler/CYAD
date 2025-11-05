@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - Año
+      - APA
+      - Audio
+      - author
+      - Autor
+      - Consultado
+      - created
+      - description
+      - dg-publish
+      - Editorial
+      - Leído
+      - Leido
+      - Libro
+  - type: cards
+    name: View
+    cardSize: 530
+    image: note.Titulo
+    imageAspectRatio: 0.25

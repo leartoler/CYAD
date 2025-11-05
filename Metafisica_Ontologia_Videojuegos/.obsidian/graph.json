@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"autor\":Fabián",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"01. Lecturas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711854
+      }
+    },
+    {
+      "query": "path:\"02. Conceptos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "path:\"03. Autores\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6079190
+      }
+    },
+    {
+      "query": "Simondon",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.91839916839917,
+  "lineSizeMultiplier": 1.12380457380457,
+  "collapse-forces": false,
+  "centerStrength": 0.1,
+  "repelStrength": 18.1688933408745,
+  "linkStrength": 0.550932860461217,
+  "linkDistance": 470,
+  "scale": 0.015355906606692766,
+  "close": false
+}
