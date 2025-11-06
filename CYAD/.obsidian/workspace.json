@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
+                "file": "01. Lecturas/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simondon, G. (2015). La individuación a la luz de la nociones de forma e información"
+              "title": "Bennet, J. (2010). Vibrant Matter. A political ecology of things."
             }
           },
           {
@@ -323,6 +323,26 @@
             "id": "8c7681b9444585c1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6e8da97ac7cc8e00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a8d838773ad964c6",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -330,7 +350,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -354,6 +374,8 @@
   },
   "active": "abab00a8ebef1112",
   "lastOpenFiles": [
+    "Untitled.base",
+    "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
     "02. Conceptos/deodand.md",
     "02. Conceptos/Pregnancia.md",
     "10. Imágenes/Pasted image 20250412224301.png",
@@ -377,7 +399,6 @@
     "12. Gráficas/Individuación.canvas",
     "Clippings/The Case That A.I. Is Thinking.md",
     "10. Imágenes/Lemmings.md",
-    "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
     "Clippings/RemovePaywall  Free online paywall remover.md",
     "02. Conceptos/Allagmática.md",
     "01. Lecturas/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
@@ -394,8 +415,6 @@
     "Clippings/Death Race y la polémica que marcó a los videojuegos para siempre.md",
     "Clippings/How One Perfect Shot Saved Pinball From Being Illegal.md",
     "Clippings/AY-3-8500.md",
-    "Clippings/Al Alcorn.md",
-    "Untitled.base",
     "Untitled.canvas",
     "12. Gráficas/Teoria 1.canvas",
     "Untitled 1.base",
