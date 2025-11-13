@@ -1,0 +1,1 @@
+El ápeiron, según Anaximandro, es el principio indeterminado e ilimitado de todas las cosas, que no puede ser definido ni limitado.

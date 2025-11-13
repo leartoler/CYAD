@@ -57,7 +57,8 @@ Consultado:
 (Tema::El individuo en su individuación(26))
 	El individuo sería captado entonces como una realidad relativa, una ierta fase del ser que supone antes que ella una realidad preindividual y que, aún después de la individuación, no existe completamente sola, pues la individuación no onsume de golpe los potenciales de la realidad preindividual, y por otra parte, lo que la indiviudación hace aparece no es solamente el individuo, sino la pareja individuo-medio. 
 	Así el individuo no es todo el ser y no es individuo ni como principio ni como tal.
-	+ [82] El verdadero individuo solo existe un instante durante la operación técnica: existe tanto como dura la adquisición de forma. Después de esto va degradándose.   
+	+ [82] El verdadero individuo solo existe un instante durante la operación técnica: existe tanto como dura la adquisición de forma. Después de esto va degradándose.  
+	+ (366) El individuo se individua en la medida en que percibe seres, constituye una individuación a través de la acción o la construcción fabricadora, y forma parte del sistema que comprende su realidad individual y los objetos que percibe o constituye
 
 (Tema::El ser(27))
 	Es un sistema tenso, sobreestructurado, por encima de la unidad. 
@@ -75,7 +76,7 @@ Consultado:
 	El individuo tiene ya asociado una realidad preindividual que lo hace parte del grupo; es decir, la realidad colectica ya está contenida en el individuo.
 
 (Tema::Medio(34))
-	Sistema, agrupamiento sintético de dos o varios grados de realidad. 
+	Sistema, agrupamiento sintético de dos o varios grados de realidad. ¿Puede haber preindividualidad en el medio? ¿Algo rico en información no actualizada?
 
 (Tema::El ser(36-37))
 	El ser es algo que posse una unidad transductuva; es decir, que puede cambiar o desfasarse consigo mismo. Dualidad o relación no son sino despliegues de si mismo, algo más que unidad o identidad. 
@@ -114,6 +115,27 @@ Consultado:
 	La intensidad de información supone un sujeto orientado por un dinamismo vital: la información es entonces lo que permite al sujeto situarse en el mundo. 
 	Es decir, tiene en consideración más al sujeto y está sobre la cantidad y la forma. 
 
+(Tema::El detalle y nosotros (360))
+	No basta con percibir detalles, sino que estos detalles tengan un sentido en relación con nosotros, que sean captados como intermediarios entre el sujeto y el mundo, como señales que permiten el acoplamiento entre el sujeto y el mundo. Es decir, no es un elemento más, sino como una forma de comunicar más.
+
+(Tema::Percepción (361))
+	Percibir es ordenar también. Percibir es retener la mayor cantidad de información posible de señales en las formas más profundamente ancladas en el sujeto. 
+	+ Pero, además, la actividad perceptiva es mediación entre cualidad y cantidad; es intensidad, captura y organización de las intensidades dentro de una relación del mundo con el sujeto.
+	+ (362) Es la resolución que transforma en estructura organizada las tensiones que afectaban a este sistema sobresaturado
+	+ (363) La percepción es tanto más pregnante cuanto más fuerte es el dinamismo del estado anterior de incompatibilidad: el temor, el deseo intenso, el miento, dan a la percepción una gran intensidad, asun si la nitidez de esta percepción es debil.
+
+(Tema::Condiciones de percepción (362))
+	Las condiciones de percepción son análogas a las de toda estructuración estable; hace falta que un estado metaestable preceda la percepción.
+
+(Tema::Pregnancia (636-634))
+	La pregnancia está ligada al caracter dinámico del campo perceptivo, no es consecuencia de la forma.
+
+(Tema::Conceptos (364))
+	PAra que la formación de conceptos sea posible, hace falta una tensión intreperceptiva que ponga en juego el sentido de la relación del sujeto con el mundo y considgo mismo. 
+
+(Tema::Afectividad y emotividad(366))
+	Son la forma transductiva por excelencia del psiquismo, intermedio entre la conciencia clara y la subconciencia, unión permanente del individuo consigo mismo y con el mundo, o más bien, unión unión entre la relación del individuo consigo mismo y la unión del individuo con el mundo. 
+
 
 
 
@@ -140,6 +162,10 @@ Consultado:
 (Nota::Cuando se habla de videojuego no se debe de hablar por lo tanto de su forma, sino de la información contenida en sí. Su significación surgida de la disparidad).
 
 (Nota::Al hablar de información y forma, se puede hablar tambipén del cambio de materia y de forma en cada uno de los dispositibos electronicos segun historia del videojuego. Checar esto para ver lla individuación del mismo.)
+
+(Nota::La adquisición de forma técnica emplea adquisiojnes de formas naturales anteriores a ella (46))
+
+
 
 ---
 ### Pregunta 

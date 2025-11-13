@@ -93,6 +93,14 @@ El sonido del [[Pong]] no fue añadido con otro circuito más, sino que eran pro
 (Tema::Chip del pong (84))
 	El primer chip que utilizó [[Pong]] fue el [[AY-3-8500]]. Lo trabajó, entre otros, [[Al Alcorn]].
 
+(Tema::Nueva tecnología en Atari (95))
+	[[Steve Bristow]], quien trabanajaba para Kee, desarrolló unas placas hijas que realizaban la misma función que los Chips de National Semiconductor. Atari las empléo después. 
+
+
+
+
+
+
 ---
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
 
@@ -107,6 +115,8 @@ El sonido del [[Pong]] no fue añadido con otro circuito más, sino que eran pro
 (Nota::Otra de las características principales del primer juego, Space Wars, fue el uso de físicas realistas, elemento que se asocia más en los juegos.)
 
 ((Nota::En el software hay una concretización del mismo ya que por ejemplo en el LISP se tía que realizar todo, pero ya en los lenguajes actuales como python, ya todo está dentro de las librerias. Esto es una simplificación de ello.))
+
+(Nota::Fueron los cientificos alememanes quienes crearon el primer joystick para los misiles en la segunda guerra mundial.)
 
 
 

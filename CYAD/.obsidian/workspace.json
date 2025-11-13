@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
+                "file": "13. Escritos/Tarea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bennet, J. (2010). Vibrant Matter. A political ecology of things."
+              "title": "Tarea"
+            }
+          },
+          {
+            "id": "f792a60872153697",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,26 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Conceptos/Allagmática.md",
+                "file": "02. Conceptos/Amplificación Transductiva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allagmática"
+              "title": "Amplificación Transductiva"
             }
           },
           {
             "id": "1a87f92d35b3b547",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Al Alcorn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Al Alcorn"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -106,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 494.5,
+    "collapsed": true
   },
   "right": {
     "id": "e384abcc009c0f1d",
@@ -343,6 +350,116 @@
             "id": "a8d838773ad964c6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0158022f52b9ccdd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e92b2a539128fa20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "32ecc79b8f1e1e93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "73da970f959b78dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "90d14b523ab1abae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c09a7d63297b97f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "31c9475aee43094c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c9728fe0048e1ca7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f1b4a43a365d5f37",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5d5ef07276852c98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bd29706b652072e6",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -350,7 +467,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -372,12 +489,36 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "abab00a8ebef1112",
+  "active": "bd29706b652072e6",
   "lastOpenFiles": [
+    "01. Lecturas/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
+    "13. Escritos/Tarea.md",
+    "Untitled 1.base",
     "Untitled.base",
+    "13. Escritos/El juego como dimensión transindividual.md",
+    "13. Escritos/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
+    "13. Escritos/Hacia la concretización del videojuego.md",
+    "02. Conceptos/Ápeiron.md",
+    "13. Escritos/Las potencialidades en la geneaología del videojuego.md",
+    "01. Lecturas/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
     "01. Lecturas/Simondon, G. (2015). La individuación a la luz de la nociones de forma e información.md",
-    "02. Conceptos/deodand.md",
+    "02. Conceptos/Amplificación Transductiva.md",
+    "Clippings/Al Alcorn.md",
+    "02. Conceptos/Tercero exluido.md",
+    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
     "02. Conceptos/Pregnancia.md",
+    "01. Lecturas/Huizinga, J. (2007). Homo Ludens..md",
+    "01. Lecturas/Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..md",
+    "01. Lecturas/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+    "01. Lecturas/El Videojuego, cibertexto y cajón de arena..md",
+    "01. Lecturas/Hui, Y. (2017). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+    "01. Lecturas/Günzel, S. (2012). The Mediality of Computer Games.md",
+    "01. Lecturas/Sandi, D, y Bazán, P. (2021). Diseño de juegos serios. Análisis de metodologías.md",
+    "01. Lecturas/The Game of Video Game Objects. A Minimal Theory of when we see Pixelsas Objects rather than Pictures.md",
+    "01. Lecturas/Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica.md",
+    "02. Conceptos/Allagmática.md",
+    "02. Conceptos/Videojuego.md",
+    "ejemplo.md",
     "10. Imágenes/Pasted image 20250412224301.png",
     "10. Imágenes/braingame.png",
     "10. Imágenes/CasinoKid.png",
@@ -389,35 +530,12 @@
     "10. Imágenes/intensor.jpg",
     "10. Imágenes/segaCD2.png",
     "Base de Datos.base",
-    "Indice de Temas.md",
-    "Gunfight.md",
-    "13. Escritos/La individuación del videojuego.md",
-    "13. Escritos/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
     "06. Leído/Two examples of concretization.pdf",
-    "13. Escritos/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
-    "Clippings/Computer Space.md",
     "12. Gráficas/Individuación.canvas",
-    "Clippings/The Case That A.I. Is Thinking.md",
-    "10. Imágenes/Lemmings.md",
-    "Clippings/RemovePaywall  Free online paywall remover.md",
-    "02. Conceptos/Allagmática.md",
-    "01. Lecturas/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
-    "Clippings/Existentialism and the videogame exposing our fear of freedom  Benjamin Carpenter.md",
-    "02. Conceptos/Epitaxis.md",
-    "02. Conceptos/metaestable.md",
-    "01. Lecturas/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "01. Lecturas/Juul, J. (2021). The Game of video game object. A minimal theory of when se wee pixels as objects rather than pictures.md",
-    "01. Lecturas/Dolphijn, R. y Van der Tuin, I. (2012). New Materialism. Interviews and Cartographies..md",
-    "01. Lecturas/Barr, P. (2023). The Stuff Games Are Made of.md",
     "07. Videos/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.mp4",
-    "07. Videos/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti.md",
     "07. Videos/Arcade Game; Death Race (1976 Exidy).mp4",
-    "Clippings/Death Race y la polémica que marcó a los videojuegos para siempre.md",
-    "Clippings/How One Perfect Shot Saved Pinball From Being Illegal.md",
-    "Clippings/AY-3-8500.md",
     "Untitled.canvas",
     "12. Gráficas/Teoria 1.canvas",
-    "Untitled 1.base",
     "Untitled 2.base",
     "04. Bibliografía/Two examples of concretization.pdf",
     "06. Leído/Two Examples Of Concretization (1).pdf",
