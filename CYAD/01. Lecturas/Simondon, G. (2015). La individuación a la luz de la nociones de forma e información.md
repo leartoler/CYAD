@@ -32,6 +32,13 @@ Consultado:
 	Así, la transducción como propagación de un sistema a otro. Amplifica. 
 	(35) - La transducción corresponde a la existencia de relaciones que nacen cuando lo preindividual se individua. 
 
+(Concepto::Energía Potencian (52))
+	Expresa el estado macroscópico del sistema que contiene el futuro individuo; es de origen interlemental.
+
+(Concepto::Resonancia Interna (57))
+	Estado de Sistema que exige la realización de condiciones energéticas topológicas y materiales. 
+	Resonancia en eintercambio de energía y movimiento en un receptáculo determinado. COmunicación entre la materia micrifpisica y energía macrofísica bajo una topoogía determinada. 
+
 (Concepto::Conjunto (346))
 	La unidad del conjunto es estructural, no energética.
 
@@ -83,6 +90,10 @@ Consultado:
 	Su devenir, potencia, es una dimensión de si mismo. No es algo que adviene por algo antrior, sino como parte de su individuación
 	El ser individuado es captado a partir de la individuación, y este a partir del ser preindividual, repartido por órdenes de magnitud. 
 	![[Pasted image 20251028023519.png]]
+
+(Tema::Proceso de individuación (61))
+	El proceso de individuación es la operación que lleva a cabo un intercambio energético entre la materia y la forma, hasta que el conjunto desemboca en u estado de equilibrio. El principio de individuación es la operación [[Allagmática]] común entre la maeria y la forma a través de la acumulación de la energía potencial. Esta energía es energía de un sistema
+
 
 (Tema::Individuación y humano (80))
 	La individuación de los objetos no es enteramente independiente de la existencia del hombre. 
