@@ -8,5 +8,9 @@
   "obsius-publish",
   "graph-analysis",
   "digitalgarden",
-  "editing-toolbar"
+  "editing-toolbar",
+  "infranodus-graph-view",
+  "tags-routes",
+  "new-3d-graph",
+  "juggl"
 ]

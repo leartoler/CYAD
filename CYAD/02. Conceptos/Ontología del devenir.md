@@ -1,1 +1,1 @@
-Propuesta de materialización, propuesto por [[Diane Cole]] ([[01. Lecturas/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti|New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti]])
+Propuesta de materialización, propuesto por [[Diane Cole]] ([[01. Lecturas Videojuegos/New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti|New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti]])

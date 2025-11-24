@@ -8,51 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"autor\":Fabián",
+      "query": "file:Montoya",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"01. Lecturas\"  ",
+      "query": "file:luz",
       "color": {
         "a": 1,
-        "rgb": 16711854
-      }
-    },
-    {
-      "query": "path:\"02. Conceptos\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 1114367
-      }
-    },
-    {
-      "query": "path:\"03. Autores\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6079190
-      }
-    },
-    {
-      "query": "Simondon",
-      "color": {
-        "a": 1,
-        "rgb": 16514816
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.1,
-  "nodeSizeMultiplier": 1.91839916839917,
-  "lineSizeMultiplier": 1.12380457380457,
-  "collapse-forces": true,
-  "centerStrength": 0.0736842105263158,
-  "repelStrength": 18.1688933408745,
-  "linkStrength": 0.721052631578947,
-  "linkDistance": 470,
-  "scale": 0.015355906606692843,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.49263157894737,
+  "lineSizeMultiplier": 1.64736842105263,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 18.1052631578947,
+  "linkStrength": 0.631578947368421,
+  "linkDistance": 206,
+  "scale": 0.01651816331835405,
   "close": false
 }

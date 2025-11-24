@@ -93,7 +93,7 @@
 - [[Agencia No-Humana]]
 - [[Eco-ontología]]
 - [[Actor-Red]]
-- [[Ontología Digital]]
+- [[ontología digital]]
 
 ─────────────────────────────  
 **Otras sugerencias:**

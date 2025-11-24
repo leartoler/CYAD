@@ -155,7 +155,7 @@ El artículo muestra cómo esta concepción tiene consecuencias en la filosofía
     
 - [[Información Simondoniana]]
     
-- [[Transducción]]
+- [[transducción]]
     
 - [[Medio Preindividual]]
     
