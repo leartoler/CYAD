@@ -1,8 +1,10 @@
 ```dataview 
-TABLE Nota
+TABLE Idea
 FROM "01. Lecturas Simondon"
 ```
+
 ```dataview 
-TABLE Nota
+TABLE Idea
 FROM "01. Lecturas Videojuegos"
 ```
+
