@@ -16,7 +16,6 @@ Consultado:
 ---
 ### <mark style="background: #FFF3A3A6;">Tema</mark>
 
-#### Cap. 1
 
 (Tema::Pinball (21))
 	Harry Williams creó los primeros pinball. El movimiento corporal utilizado en el [[baffle]] en esta  nueva iteración. En 1933 Williams construyó [[Contact]], la primera pinball eléctrica
@@ -29,7 +28,6 @@ Consultado:
 	- Chicago coin - Pinball, juegos de feria
 	- [[Midway]] - Juegos de feria
 
-#### Cap 2
 
 (Tema::Evolución de las máquinas (32))
 	Respecto a las máquinas fueron:
@@ -96,6 +94,30 @@ El sonido del [[Pong]] no fue añadido con otro circuito más, sino que eran pro
 (Tema::Nueva tecnología en Atari (95))
 	[[Steve Bristow]], quien trabanajaba para Kee, desarrolló unas placas hijas que realizaban la misma función que los Chips de National Semiconductor. Atari las empléo después. 
 
+(Tema::Coleco (95-97))
+	[[Coleco]] fuen una de las competencoias de [[Atari]]. La compañia se llamaba Connecticut Leather Company, y lo llevaban Arnold y [[Leonard Greenberg]]. En 1975 diseñaron la videoconsola de tenis [[Telestar]] y utilizó chips de [[General Instrument]]. 
+	Uno de los detalles de Coleco es que los representantes de la FCC demostraron que la Telestar generaba interferencias de radio, por lo que al final se le aplicaron [[toroide]] a los chips. También [[Ralph Baer]] fabricó una pantalla nueva usando anillos de [[ferrita]]. 
+	(97) Telestar salió al mercado en 1976.
+
+(Tema::Channel F y los cassetes (97-98))
+	[[Fairchild Camera and Instruments]], pionera en los transistores, lanzó la consola [[Channel F]], con controladores únicos y con cartuchos intercambiables. Además de que ya tenía juegos a color. Tenía juegos de Tenis y Hockey, además de otros 8, que contenían un juego programado en un microchip.  
+
+(Tema::El Chip Stella (98-100))
+	Antes del [[VSC]], la mayoría de kas consolas que estaban dirigidas por empresas de [[semiconductores]] usaban un mapa de memoria como [[framebuffer]], por lo que en esa ápoca lo que buscaban era hacer consolas con la menor cantidad de silicio posible. 
+	(99) Con base al microprocesador [[MOS Technologies 6502]], que podría crear imágenes en la televisión en tiempo real, crearon el chip [[Stella]]. 
+	(100) Con este chip pudieron crear la nueva consola de Atari, el Video Computer System (VCS).
+
+(Tema::Warner compra Atari (101-104))
+	[[Warner]] compró Atari por 100 millones de dólares. El trato casi se viene abajo por la ex espesoa de Bushnell
+
+(Tema::Studio II, de RCA (105))
+	En 1977, [[RCA]] lanzó [[Studio II (RCA). 1977]]. No vendió bien por u problema en el diseño, además de que todos sus juegos eran en blanco y negro. 
+
+(Tema::VSC, en 1977)
+	En 1977, Atarí sacó el [[VCS]], el cual tenía un joystick que servía para controlar el tanque y los aviones del juego [[Combat]]. 
+
+(Tema::Caida de 1977 (105-106))
+	Hubo una caída en la venta de videojuegos cuando Warner compró Atari entre 1977 y 1978, posiblmente debido a la pérdida de interés de los videojuegos domésticos y el exceso de nuevos productos. en 1977 RCA se retiró del mercado
 
 
 

@@ -1,24 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Montoya",
+      "query": "file:Trabajo final",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "file:luz",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14725458
       }
     }
   ],
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1.49263157894737,
   "lineSizeMultiplier": 1.64736842105263,
   "collapse-forces": false,
-  "centerStrength": 0.247368421052632,
-  "repelStrength": 18.1052631578947,
-  "linkStrength": 0.631578947368421,
-  "linkDistance": 206,
-  "scale": 0.0664467746676018,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.4875,
+  "linkDistance": 500,
+  "scale": 0.0078125,
   "close": false
 }

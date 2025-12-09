@@ -7,7 +7,7 @@ Para entender al jugador retomaré un concepto importante en la obra de Simondon
 
 
 
-Con respecto al grupo, ver [[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]]
+Con respecto al grupo, ver [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]]
 
 "Cuando comenta sobre que no puede llamarse meramente espiritual, se desdobla en conciencia colectiva y en coporeidad colectiva, bajo forma de estructuras y de límites que fijan los individuos", lo mismo que sucede con las reglas dentro de un juego. Estos juegos pueden ser tanto en linea, como colectivos como individuales, ya que los ultimos también tienen una disposición creada y limitada por individuos. 
 

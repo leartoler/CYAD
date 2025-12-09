@@ -2,7 +2,12 @@
 Titulo: Vibrant Matter. A political ecology of things
 Autor: "[[Jane Bennett]]"
 Año: 2010
+Editorial: Duke University Press
 Libro: "[[Vibrant Matter A Political Ecology of Things (Jane Bennett).pdf]]"
+APA: "Bennet, J. (2010). Vibrant matter: A political ecology of things. Duke University Press."
+Resumen generado:
+Audio:
+Consultado:
 ---
 ### Tema
 

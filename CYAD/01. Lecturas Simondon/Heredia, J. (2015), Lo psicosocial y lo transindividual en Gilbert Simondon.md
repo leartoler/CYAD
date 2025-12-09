@@ -74,7 +74,6 @@ Consultado:
 
 ---
 ### <mark style="background: #ADCCFFA6;">HT</mark>
-
-#ontogénesis #individuación #psíquico-colectiva #realidad_transindividual #Jean_Piaget #Lucien_Goldmann
+	#ontogénesis #individuación #psíquico-colectiva #realidad_transindividual #Jean_Piaget #Lucien_Goldmann
 
 ---

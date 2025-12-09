@@ -1,8 +1,8 @@
 ---
-Título:
-Autor:
-Año:
-Editorial:
+Título: The Aesthetic of Play
+Autor: Upton B
+Año: 2015
+Editorial: MIT Press
 Libro:
 Leído:
 APA: Upton, B. (2015). The Aesthetic of Play. The MIT Press.

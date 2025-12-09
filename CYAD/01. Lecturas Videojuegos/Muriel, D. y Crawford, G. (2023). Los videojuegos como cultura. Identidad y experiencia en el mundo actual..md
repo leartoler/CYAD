@@ -3,9 +3,42 @@ Titulo: Los videojuegos como cultura. Identidad y experiencia en el mundo actual
 Autor: Daniel Muriel y Garry Crawford
 Editorial: Ampersand
 Año: 2023
-Libro: 
-Leído: 
+Libro:
+Leído:
 Resumen generado:
+Título: Los videojuegos como cultura. Identidad y experiencia en el mundo actual
+APA: Muriel, D., & Crawford, G. (2023). Los videojuegos como cultura. Ampersand.
+Audio:
+Consultado:
+---
+### <mark style="background: #FFB8EBA6;">Concepto</mark>
+
+
+---
+### <mark style="background: #FFF3A3A6;">Tema</mark>
+
+
+---
+### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+
+---
+### <mark style="background: #ADD8E6;">Idea</mark>
+
+
+---
+### <mark style="background: #ADD8E6;">Ideas</mark>
+
+
+---
+### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+---
+### <mark style="background: #BBFABBA6;">Esquema</mark>
+
+---
+### <mark style="background: #ADCCFFA6;">HT</mark>
+
 ---
 
 

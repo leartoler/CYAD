@@ -1,9 +1,14 @@
 ---
 Titulo: Lo Posthumano
 Autor: "[[Rosi Braidotti]]"
-Editorial: Gedisa
 Año: 2015
+Editorial: Gedisa
 Libro: "[[2020_EdG_Braidotti_Lo-posthumano.pdf]]"
+Leído:
+APA: Braidotti, R. (2015). Lo Posthumano (J. C. Gentile, Trad.). Gedisa, S.A.
+Resumen generado:
+Audio:
+Consultado:
 ---
 
 ### Tema

@@ -1,11 +1,11 @@
 ---
-Título:
-Autor:
-Año:
-Editorial:
+Título: Future Metaphysics
+Autor: Armen Avanessian
+Año: 2020
+Editorial: Polity Press
 Libro:
 Leído:
-APA:
+APA: Avanessian, A. (2020). Future metaphysics (J. A. Wagner, Trad.; English edition). Polity Press.
 Resumen generado:
 Audio:
 Consultado:

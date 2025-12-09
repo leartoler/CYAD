@@ -3,6 +3,42 @@ Titulo: Bosquejo de una metafísica del videojuego
 Autor: Joaquin Antonio Siabra Fraile
 Editorial: Círculo Rojo
 Año: 2012
+Título: Bosquejo de una metafísica del videojuego
+Libro:
+Leído:
+APA: Siabra Fraile, J. A. (s/f). Bosquejo de una metafísica del videojuego.
+Resumen generado:
+Audio:
+Consultado:
+---
+### <mark style="background: #FFB8EBA6;">Concepto</mark>
+
+
+---
+### <mark style="background: #FFF3A3A6;">Tema</mark>
+
+
+---
+### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+
+---
+### <mark style="background: #ADD8E6;">Idea</mark>
+
+
+---
+### <mark style="background: #ADD8E6;">Ideas</mark>
+
+
+---
+### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+---
+### <mark style="background: #BBFABBA6;">Esquema</mark>
+
+---
+### <mark style="background: #ADCCFFA6;">HT</mark>
+
 ---
 ### Tema
 

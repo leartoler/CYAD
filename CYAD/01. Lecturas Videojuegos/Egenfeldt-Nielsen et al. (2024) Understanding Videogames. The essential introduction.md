@@ -1,11 +1,11 @@
 ---
-Título:
-Autor:
-Año:
-Editorial:
+Título: Understanding videogames. The essential introduction
+Autor: Egenfeldt-Nielsen
+Año: 2024
+Editorial: Routledge, Taylor & Francis Group
 Libro:
 Leído:
-APA:
+APA: "Egenfeldt-Nielsen, S., Smith, J. H., & Tosca, S. P. (2024). Understanding video games: The essential information (Fifth edition). Routledge, Taylor & Francis Group."
 Resumen generado:
 Audio:
 Consultado:

@@ -1,9 +1,14 @@
 ---
+Título: New Materialism. Interviews and Cartographies
 Autor: Rick Dolphijn e Iris van der Tuin
-Editorial: Open Humanities Press
 Año: 2012
-Resumen generado: "[[Resumen New Materialism. Interviews and Cartographies]]"
+Editorial: Open Humanities Press
+Libro:
 Leído: "[[Dolphijn-van-der-Tuin_2013_New-Materialism_LT.pdf]]"
+APA: "Dolphinj, R., & Van der Tuin, I. (2012). New Materialism: Interviews & Cartographies. Open Humanities Press."
+Resumen generado: "[[Resumen New Materialism. Interviews and Cartographies]]"
+Audio:
+Consultado:
 ---
 ### Tema
 

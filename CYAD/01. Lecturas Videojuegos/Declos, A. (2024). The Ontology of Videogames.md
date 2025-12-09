@@ -1,8 +1,14 @@
 ---
+Título: The ontology of videogames
 Autor: Alexandre Declos
 Año: 2024
-Resumen generado: "[[Resumen Ontology of videogames]]"
+Editorial:
 Libro: "[[ontology videogame.pdf]]"
+Leído:
+APA: Declos, A. (2024). The ontology of videogames. Synthese, 204(4), 119. https://doi.org/10.1007/s11229-024-04774-x
+Resumen generado: "[[Resumen Ontology of videogames]]"
+Audio:
+Consultado:
 ---
 ### 01. Tema
 #### 01. Introducción

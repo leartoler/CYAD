@@ -35,7 +35,7 @@ Consultado: true
 ### <mark style="background: #FFF3A3A6;">Tema</mark>
 
 (Tema::Noción de información en Simondon (74))
-	La información no depende solo de los caracteres internos de una estructura; la información no es una cosa, sino la operación de una casa que llega a un sistema y que produce allí una transformación [[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]], 139
+	La información no depende solo de los caracteres internos de una estructura; la información no es una cosa, sino la operación de una casa que llega a un sistema y que produce allí una transformación [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]], 139
 
 (Tema::Propuesta de Heredia para leer a Simondon (72))
 	Heredia hace una división en tres tiempos:
@@ -70,9 +70,9 @@ Consultado: true
 
 (Tema::Información en individuación. Primer momento (87))
 	El descubrimiento e instauración de aquello que articula (genera ligazón) una realidad con otra. 
-	<span style="background:#fff88f">(88)</span> Siempre supone la interacción activa entre dos realidades y describe el proceso activo mediante el cual estas entran en comunicación interactiva. Así, "Solo existe información cuando aquello que emite señales y aquello que las recibe forman un sistema" [[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]] (331).
+	<span style="background:#fff88f">(88)</span> Siempre supone la interacción activa entre dos realidades y describe el proceso activo mediante el cual estas entran en comunicación interactiva. Así, "Solo existe información cuando aquello que emite señales y aquello que las recibe forman un sistema" [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]] (331).
 	<span style="background:#fff88f">(88).</span> La información es relacional, es una conciliación de lo precedente y novedoso.
-	<span style="background:#fff88f">(88). </span>Así, en [[Simondon, G. (2015). La individuación a la luz de la nociones de forma e información]] la información designa un proceso constante mediante el cual acontece una interacción auténtica (supone acciones mutual, resonancia interna e integración al sistema) entre dos realidades dispares, cuya realización es el núcleo de la individuación.
+	<span style="background:#fff88f">(88). </span>Así, en [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]] la información designa un proceso constante mediante el cual acontece una interacción auténtica (supone acciones mutual, resonancia interna e integración al sistema) entre dos realidades dispares, cuya realización es el núcleo de la individuación.
 	<span style="background:#fff88f">(91) </span>La información no es sustancialista, y tiene un sentido asociado a la individuación. 
 	(88) Designa el proceso constante mediante el cual acontece una interacción auténtica (esto es, que supone acciones mutuas, resonancia interna e integración al sistema) entre dos realidades dispares, cuya realización es el corazón de la individuación, puesto que implica que el individuo se torna otro. 
 	(98) La información sugiere una operación de adquisición de forma que instaura un estado relacional: la unión entre dos realidades dispares que surge como un auténtico acontecimiento, a saber, el de la resolución de dicha disparidad, la superación de la discrepancia y la apertura a la interacción comunicativa. 

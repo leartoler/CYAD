@@ -1,11 +1,14 @@
 ---
-Titulo: 
-Autor: 
-Editorial: 
-Año: 
-Libro: 
+Titulo: La importancia de la obra de G. Simondon para la filosofía contemporánea
+Autor: Pablo Esteban Rodriguez
+Año: 2019
+Editorial:
+Libro:
 Leído: "[[Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12.]]"
+APA: Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos:, 16(3), 3–12.
 Resumen generado:
+Audio:
+Consultado:
 ---
 ### Tema
 

@@ -1,14 +1,26 @@
 ---
 Libro: "[[essay_juul.pdf]]"
+Título:
+Autor:
+Año:
+Editorial:
+Leído:
+APA: "Juul, J. (2021). The Game of Video Game Objects: A  Minimal Theory of when we see Pixels  as Objects rather than Pictures. Extended  Abstracts of the 2021 Annual Symposium on Computer-Human  Interaction in Play, 376–381."
+Resumen generado:
+Audio:
+Consultado:
 ---
-
-### Concepto
+### <mark style="background: #FFB8EBA6;">Concepto</mark>
 
 (Concepto :: Objeto)
 	Contiene alguna existencia a este mundo y contiene una clase de conexión a nuestras acciones potenciales.
 
 
-### Tema
+
+
+---
+### <mark style="background: #FFF3A3A6;">Tema</mark>
+
 (Tema :: objeto y tecnología)
 	Los objetos mediados por la tecnología están mediados (representados de forma no natural), aunque son percibidos como algo no mediado (como objeto real).
 
@@ -31,3 +43,29 @@ Libro: "[[essay_juul.pdf]]"
 	7. Rule of Relevance
 	8. Rule of sculpture
 	9. Rule of Presentation consistency
+
+
+
+---
+### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+
+---
+### <mark style="background: #ADD8E6;">Idea</mark>
+
+
+---
+### <mark style="background: #ADD8E6;">Ideas</mark>
+
+
+---
+### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+---
+### <mark style="background: #BBFABBA6;">Esquema</mark>
+
+---
+### <mark style="background: #ADCCFFA6;">HT</mark>
+
+---
+

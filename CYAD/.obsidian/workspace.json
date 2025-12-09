@@ -4,55 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc91f3909eda166",
+        "id": "3c76cb4ebb23dbf2",
         "type": "tabs",
         "children": [
           {
-            "id": "44550ee4e1858baf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/Definición de videojuego.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Definición de videojuego"
-            }
-          },
-          {
-            "id": "e109490d9197ddea",
+            "id": "81aee96934564f79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Videojuegos/Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica"
-            }
-          },
-          {
-            "id": "7ba5040e924b834c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Videojuegos/Rodriguez H., G. F. (2022). Videojuegos y cultura de masas a finales del siglo XX..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rodriguez H., G. F. (2022). Videojuegos y cultura de masas a finales del siglo XX."
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "medio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +58,20 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "83864e057f0dc7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Red Dead Redemption 2 en Steam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Dead Redemption 2 en Steam"
             }
           },
           {
@@ -123,42 +102,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672
+    "width": 200
   },
   "right": {
     "id": "e384abcc009c0f1d",
     "type": "split",
     "children": [
       {
-        "id": "f4ab6513328594c1",
+        "id": "666625c84f2b3bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "f6e2bd3dd8f4b3c2",
+            "id": "65596a7bcc2a3143",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           },
           {
-            "id": "c41c8c37f8c9c06e",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
-            "id": "3f0cddca89ab3dc4",
+            "id": "00d32ae1f2753b5c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "13. Escritos/Trabajo final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,24 +138,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Trabajo final"
             }
           },
           {
-            "id": "5d15bb8fa37feccb",
+            "id": "a6e3d49b3a1830b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "13. Escritos/Trabajo final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Trabajo final"
             }
           },
           {
-            "id": "b2c5b1563f802cf8",
+            "id": "4760e8994f5db551",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -200,21 +171,42 @@
             }
           },
           {
-            "id": "812648af3bee3541",
+            "id": "15fc9630b9172370",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "13. Escritos/Trabajo final.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Trabajo final"
             }
           },
           {
-            "id": "ad38671bf01a9212",
+            "id": "58ea5ad2ea8a9947",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "32196cda262e7432",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "648ca8404e5b3760",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,17 +216,16 @@
             }
           },
           {
-            "id": "7bf6f6cb1602ef27",
+            "id": "69040c5e0fa2fa36",
             "type": "leaf",
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon",
-              "title": "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md"
+              "icon": "infranodus-icon"
             }
           },
           {
-            "id": "c183be1347d7747d",
+            "id": "4ac2ae3ecccd3065",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -244,7 +235,7 @@
             }
           },
           {
-            "id": "8586c19e4c4b5fd3",
+            "id": "7011b05c8ed616b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -254,7 +245,7 @@
             }
           },
           {
-            "id": "72920b8421234005",
+            "id": "9acfe0693ef8fb3b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -264,7 +255,19 @@
             }
           },
           {
-            "id": "96d0285c88cae579",
+            "id": "6e367e7db80cee27",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "13. Escritos/Trabajo final.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "c18f8297704e73db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -274,127 +277,7 @@
             }
           },
           {
-            "id": "4804100cd10a5e26",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0fd635813cd33a87",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9f9754268fb7f635",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5dc8e32884735542",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bca3298d1eaf4fd1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "95cfe8dff55f1832",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e07957e493989403",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0908a9b7ba05fbac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3046e46a3962a6d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8210ee6a7a16660c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c8e34e08d10c447c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "fe1cc6a3791605bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3de56473a51104fc",
+            "id": "b42929cecbcc22d1",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -404,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -416,68 +299,67 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
-      "new-3d-graph:Open 3d graph": false,
+      "omnisearch:Omnisearch": false,
       "juggl:Juggl global graph": false,
-      "tags-routes:Open tags routes": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7ba5040e924b834c",
+  "active": "b42929cecbcc22d1",
   "lastOpenFiles": [
-    "07. Videos/Hay que ENCERRAR al CEO de ROBLOX.md",
-    "03. Autores/Mayr.md",
-    "03. Autores/Crawford.md",
-    "13. Escritos/Consistencia lógica del protocolo de investigación.md",
-    "Base de Datos.base",
-    "01. Lecturas Metafísica y Ontología",
-    "01. Lecturas Metafísica y Ontología/Avenasian, A. (2020). Future Metaphysics.md",
-    "13. Escritos/Definición de videojuego.md",
-    "01. Lecturas Videojuegos/Barr, P. (2023). The Stuff Games Are Made of.md",
-    "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
-    "01. Lecturas Videojuegos/Egenfeldt-Nielsen et al. (2024) Understanding Videogames. The essential introduction.md",
-    "01. Lecturas Videojuegos/Rodriguez H., G. F. (2022). Videojuegos y cultura de masas a finales del siglo XX..md",
-    "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
-    "01. Lecturas Videojuegos/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
+    "13. Escritos/Introducción.md",
+    "13. Escritos/Libro Blanco.md",
+    "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+    "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
+    "13. Escritos/Trabajo final.md",
+    "01. Lecturas Simondon/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas Simondon/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
+    "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
+    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
     "01. Lecturas Videojuegos/Blomberg, J. (2019). The Semiotics of the Game Controller.md",
-    "03. Autores/Alexander R. Galloway.md",
-    "03. Autores/Alexandre Declos.md",
+    "13. Escritos/Definición de videojuego.md",
+    "Clippings/UNDER A STAR CALLED SUN by haraiva.md",
+    "Clippings/Red Dead Redemption 2 en Steam.md",
+    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "01. Lecturas Simondon/Penas, L. (2013). El concepto de potencia en Simondon. Hacia una filosofía horizontal de los afectos..md",
+    "01. Lecturas Simondon/Iliadis, A. (2015). Two examples of concretization.md",
+    "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
+    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+    "02. Conceptos/devenir.md",
+    "Clippings/haraiva.md",
+    "13. Escritos/La individuación del videojuego.md",
+    "02. Conceptos/Ontología del devenir.md",
+    "Untitled 11.base",
+    "Untitled 10.base",
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "04. Bibliografía/El proyecto simondiano. la individuación del ser en devenir.pdf",
+    "06. Leído/nocion de información.pdf",
+    "02. Conceptos/Ontogénesis.md",
     "01. Lecturas Videojuegos/Declos, A. (2024). The Ontology of Videogames.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "01. Lecturas Videojuegos/Upton, B. (2015). The Aesthetic of Play.md",
-    "01. Lecturas Videojuegos/Ruffino, P. (2018). Future Gaming. Creative Interventions in Video Game Culture.md",
-    "01. Lecturas Videojuegos/Rutter, J y Bryce, J. (2006). Understanding digital games.md",
-    "01. Lecturas Videojuegos/Sandi, D, y Bazán, P. (2021). Diseño de juegos serios. Análisis de metodologías.md",
-    "01. Lecturas Videojuegos/Sharp, J. (2015). Works of Game. On The Aesthetic of Games and Art.md",
-    "01. Lecturas Videojuegos/Siabra F, Joaquin A. (2012). Bosquejo de una metafísica del videojuego.md",
-    "01. Lecturas Videojuegos/Suung, P (2023). Generative Agents. Interactuive Simulacra of human Behavior.md",
-    "01. Lecturas Videojuegos/The Game inside the Mind, the Mind inside the Game (The Nintendo Wii Gaming Console).md",
-    "01. Lecturas Videojuegos/The Game of Video Game Objects. A Minimal Theory of when we see Pixelsas Objects rather than Pictures.md",
-    "01. Lecturas Videojuegos/Tula Molina, F. (2021). Cuatro líneas para pensar la divergencia tecnológica.md",
-    "01. Lecturas Nuevo Materialismo",
-    "video",
-    "01. Lecturas",
-    "10. Imágenes/Pasted image 20250412224301.png",
-    "10. Imágenes/braingame.png",
-    "10. Imágenes/CasinoKid.png",
-    "10. Imágenes/contest.png",
-    "10. Imágenes/lazloleap.png",
-    "10. Imágenes/blockbuster.png",
-    "10. Imágenes/controlsega.png",
-    "10. Imágenes/narc.png",
-    "10. Imágenes/intensor.jpg",
-    "10. Imágenes/segaCD2.png",
+    "01. Lecturas Videojuegos/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
+    "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+    "04. Bibliografía/fulltext.pdf",
+    "terminos_español_g.jpg",
+    "terminos_ingles_g.jpg",
+    "terminos_español.png",
+    "terminos_ingles 2.png",
+    "terminos_ingles 1.png",
+    "terminos_ingles.png",
+    "04. Bibliografía/There_is_no_magic_circle.pdf",
+    "04. Bibliografía/There_is_No_Videogame_Nishida_Posthumanism_and_the.pdf",
+    "Untitled 7.base",
+    "10. Imágenes/NotebookLM Mind Map.png",
+    "10. Imágenes/Atari.png",
+    "10. Imágenes/Channel F 2.png",
+    "10. Imágenes/Channel F.png",
     "12. Gráficas/Individuación.canvas",
     "Untitled.canvas",
     "12. Gráficas/Teoria 1.canvas"

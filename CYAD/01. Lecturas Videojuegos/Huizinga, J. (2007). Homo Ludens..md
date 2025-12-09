@@ -1,11 +1,11 @@
 ---
-Título:
-Autor:
-Año:
-Editorial:
+Título: Homo Ludens
+Autor: Huizinga
+Año: 2007
+Editorial: Emecé
 Libro:
 Leído:
-APA:
+APA: Huizinga, J. (2007). Homo ludens; a study of the play-element in culture (Secte reimpresion). Emecé Editores.
 Resumen generado:
 Audio:
 Consultado:

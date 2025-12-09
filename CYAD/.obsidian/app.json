@@ -4,8 +4,8 @@
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
+    "margin": "2",
+    "downscalePercent": 85
   },
   "mobileToolbarCommands": [
     "editor:undo",
@@ -29,5 +29,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:insert-footnote"
-  ]
+  ],
+  "tabSize": 6
 }

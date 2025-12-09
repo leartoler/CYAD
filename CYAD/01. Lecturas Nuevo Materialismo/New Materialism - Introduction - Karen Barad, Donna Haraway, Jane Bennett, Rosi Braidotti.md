@@ -2,6 +2,7 @@
 Autor: Political Theory and Contemporary Politics
 Título: New Materialism - Introduction - Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti
 Editorial: Youtube
+APA: Political Theory and Contemporary Politics (Director). (2023, julio 28). New Materialism—Introduction—Karen Barad, Donna Haraway, Jane Bennett, Rosi Braidotti [Video recording]. https://www.youtube.com/watch?v=7HlvZk5gKJo
 ---
 ![[Nuevo Materialismo.pdf]]
 

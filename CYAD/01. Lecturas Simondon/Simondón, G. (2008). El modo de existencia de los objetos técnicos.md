@@ -2,6 +2,13 @@
 Titulo: El modo de existencia de los objetos técnicos
 Autor: Gilbert Simondón
 Año: 2008
+Editorial: Prometeo Libros
+Libro:
+Leido:
+APA: Simondon, G. (2007). El modo de existencia de los objetos técnicos. Prometeo Libros.
+Resumen generado:
+Audio:
+Consultado:
 ---
 ### Tema
 (Tema :: Objeto técnico)

@@ -1,11 +1,12 @@
 ---
 Titulo: Computer Games and New Media Cultures. A Handbook of Digital Game Studies
-Autor: 
-Editorial: 
-Año: 
-Libro: 
-Leído: 
+Autor: Günzel, S
+Editorial:
+Año: 2012
+Libro:
+Leído:
 Resumen generado:
+APA: "Günzel, S. (2012). The Mediality of Computer Games. En Computer Games and New Media Cultures: A Handbook of Digital Games Studies (pp. 31–46). Springer Netherlands. https://books.google.com.mx/books?id=lMTKQd59Y1IC"
 ---
 ### Concepto
 

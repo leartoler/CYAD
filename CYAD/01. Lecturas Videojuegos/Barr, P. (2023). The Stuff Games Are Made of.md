@@ -1,11 +1,14 @@
 ---
-Titulo: true
+Titulo: The Stuff Games Are Made of
 Autor: Pippin Barr
-Editorial: MIT Press
 Año: 2023
+Editorial: MIT Press
 Libro: "[[The Stuff Games Are Made Of.pdf]]"
 Leído: "[[The Stuff Games Are Made Of_LT.pdf]]"
+APA: Barr, P. (2023). The Stuff Games Are Made Of. MIT Press.
 Resumen generado:
+Audio:
+Consultado:
 ---
 2### Tema
 

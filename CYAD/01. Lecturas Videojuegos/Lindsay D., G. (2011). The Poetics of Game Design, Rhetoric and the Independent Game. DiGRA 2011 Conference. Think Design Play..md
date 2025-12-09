@@ -2,12 +2,49 @@
 Autor:
   - Lindsay D. G.
 Leído: "[[Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference. Think Design Play..pdf]]"
+Título: The Poetics of Game Design, Rhetoric and the Independent Game
+Año: 2011
+Editorial:
+Libro:
+APA: "Lindsay D., G. (2011). The Poetics of Game Design, Rhetoric and the Independent Game. DiGRA 2011 Conference: Think Design Play."
+Resumen generado:
+Audio:
+Consultado:
 ---
 ### Concepto
 
 ### Tema
 
-(Tema :: Juegos Independientes (3-4))
+(Tema :: Juegos Independientes (3-4))### <mark style="background: #FFB8EBA6;">Concepto</mark>
+
+
+---
+### <mark style="background: #FFF3A3A6;">Tema</mark>
+
+
+---
+### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+
+---
+### <mark style="background: #ADD8E6;">Idea</mark>
+
+
+---
+### <mark style="background: #ADD8E6;">Ideas</mark>
+
+
+---
+### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+---
+### <mark style="background: #BBFABBA6;">Esquema</mark>
+
+---
+### <mark style="background: #ADCCFFA6;">HT</mark>
+
+---
+
 Experiencia del juego diseñados e implementados con un propio objetivo, fuera del estatus quo. 
 Afirman una independencia y tienen intereses en su propia insistencia de ser libres de los estándares y buscan escapar de las experiencias de juegos convencionales. 
 

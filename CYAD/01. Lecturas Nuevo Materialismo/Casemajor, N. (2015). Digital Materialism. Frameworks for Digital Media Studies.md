@@ -2,11 +2,14 @@
 Titulo: "Digital Materialism: Frameworks for Digital Media Studies"
 Autor: Nathalie Casemajor
 Año: 2015
-Editorial: "-"
+Editorial: Westminster Papers in Communication and Culture
 Libro: "[[Digital_Materialisms_Frameworks_for_Digital_Media_.pdf]]"
 Leído: "[[Digital Materialisms_ Frameworks for Digital Media Studies_LT.pdf]]"
+APA: "Casemajor, N. (2015). Digital Materialisms: Frameworks for Digital Media Studies. Westminster Papers in Communication and Culture, 10(1), 4–17. http://dx.doi.org/10.16997/wpcc.209"
 Resumen generado: "[[Resumen Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies]]"
 dg-publish: true
+Audio:
+Consultado:
 ---
 ### Tema
 

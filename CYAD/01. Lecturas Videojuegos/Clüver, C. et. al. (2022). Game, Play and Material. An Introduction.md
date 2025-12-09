@@ -5,7 +5,10 @@ Año: 2022
 Editorial: Ludomaterialities
 Libro: "[[Game_Play_and_Material_An_Introduction.pdf]]"
 Leído: "[[Game_Play_and_Material_An_Introduction_LT.pdf]]"
+APA: Clüver, C., Kanderske, M., Walsdorff, F., Schemer-Reinhard, T., Kammler, A., & Glase, T. (2022). Game, play and material. An introduction. Spiel|Formen. Ludomaterialities, 2.
 Resumen generado: "[[Resumen Game, Play and Material. An introduction]]"
+Audio:
+Consultado:
 ---
 ### Tema
 
