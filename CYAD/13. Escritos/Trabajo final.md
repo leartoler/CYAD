@@ -133,7 +133,7 @@ Con esto se comenta que, si bien sus características puedan ser difusas, tienen
 
 Estas actividades, que van más allá de lo que se puede o no realizar, lo describe de igual forma el autor cuando habla de interactividad, en donde comenta que dicho elemento dota al videojuego de potencialidades; es decir, las posibilidades que puedan ofrecer o el rango de instancias que generan ([[Declos, A. (2024). The Ontology of Videogames]]). Estas potencialidades, realizadas por medio de la interacción, no son posibles por la estructura que entiende Declos como videojuego, sino como parte de un proceso en que el mismo videojuego se va individuando. 
 
-Hacia la individuación del videojuego
+#### Hacia la individuación del videojuego
 
 Cuando se habla de potencial por medio de la interactividad, se está hablando de posibilidad que pueda haber tanto con el jugador como con el videojuego en un proceso de individuación. 
 

@@ -75,13 +75,13 @@ Finalmente, y debido a que este texto no pretende hacer en este momento una gene
 
 com un proceso en continua relación y con una evolución que se va concretando, queda por entender su apartado metafísico, lo que se entiende de su existencia más allá de su ser. 
 
-Metafísica del videojuego
+#### Metafísica del videojuego
 
 En su libro Bosquejo de una metafísica del videojuego, Siabra ([[Siabra F, Joaquin A. (2012). Bosquejo de una metafísica del videojuego]]) da un breve recorrido de la metafísica del videojuego desde su apartado estético, lógico y político, el cual sirve como una introducción filosófica y necesaria sobre el mismo. No obstante, uno de los problemas del título, y que se replica en muchas de las investigaciones que tratan sobre aspectos especulativos, es que no se enfocan en el aspecto esencial del videojuego, su existencia en tanto algo en desarrollo. 
 
 Bajo este rubro, junto al videojuego se está en desarrollo el concepto de cosmotécnica, el cual responde a la unificación, en las actividades técnicas, de los órdenes cósmico y moral, mismas que se diferencian de una cultura a otra [[Hui, Y. (2016). The Question Concerning Technology in China. An Essay in Cosmotechnics]]. Esto quiere decir que, al haber nociones diferentes de creencias y símbolos de una cultura a otra, se diferencían también las concepciones metafísicas de un objeto técnico de un lugar a otro, tal como se pu ese observar con la oralidad, el cual cambia de sentido de una cultura a otra o, incluso, la medicina.
 
-Entendiendo el contexto de videojuego. El nuevo materialismo
+#### Entendiendo el contexto de videojuego. El nuevo materialismo
 
 Una idea dentro de la propuesta de Simondon y su teoría de la individuación es el concepto de relación, el cual la redefine como un aspecto de la resonancia interna del sistema de individuación ([[Combes, M. (2017). Simondon. Una filosofía de lo transindividual.]]). Así, citando se habla de relación se habla de una relación del objeto individuándose con su medio, siendo ello parte misma de su individuación. Se conforma así, con el objeto físico, una individuación externa, que se establece con todo lo que lo rodea. Pero, ¿cómo se puede entender la forma en que se puede relacionar un videojuego con un ambiente complejo como lo es el nuestro? Para ello, la propuesta teórica del nuevo materialismo nos puede ayudar. 
 
