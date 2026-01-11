@@ -1,0 +1,99 @@
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-10 17:05:06] |File parse completed=>|| markdown and linked files nodes:| 296| total file links:| 350|
+|[2025-12-10 17:05:06] |add tags and other files=>||  total nodes: |453|  total links:| 552|
+|[2025-12-10 17:05:06] |After filtered pathes=>|| filtered nodes: |0|  links:| 552|
+|[2025-12-10 17:05:06] |Tags parse completed=>||  tag nodes: |157| tag links:| 202|
+|[2025-12-10 17:05:06] |tags num:| 157| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-10 17:05:27] |File parse completed=>|| markdown and linked files nodes:| 297| total file links:| 350|
+|[2025-12-10 17:05:27] |add tags and other files=>||  total nodes: |454|  total links:| 552|
+|[2025-12-10 17:05:27] |After filtered pathes=>|| filtered nodes: |1|  links:| 552|
+|[2025-12-10 17:05:27] |Tags parse completed=>||  tag nodes: |157| tag links:| 202|
+|[2025-12-10 17:05:27] |tags num:| 157| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-10 17:46:05] |File parse completed=>|| markdown and linked files nodes:| 54| total file links:| 58|
+|[2025-12-10 17:46:05] |add tags and other files=>||  total nodes: |454|  total links:| 260|
+|[2025-12-10 17:46:05] |After filtered pathes=>|| filtered nodes: |1|  links:| 260|
+|[2025-12-10 17:46:05] |Tags parse completed=>||  tag nodes: |400| tag links:| 202|
+|[2025-12-10 17:46:05] |tags num:| 400| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-14 14:11:53] |File parse completed=>|| markdown and linked files nodes:| 297| total file links:| 350|
+|[2025-12-14 14:11:53] |add tags and other files=>||  total nodes: |454|  total links:| 552|
+|[2025-12-14 14:11:53] |After filtered pathes=>|| filtered nodes: |1|  links:| 552|
+|[2025-12-14 14:11:53] |Tags parse completed=>||  tag nodes: |157| tag links:| 202|
+|[2025-12-14 14:11:53] |tags num:| 157| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:18:08] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:18:08] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:18:08] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:18:08] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:18:08] |tags num:| 181| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:20:20] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:20:20] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:20:20] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:20:20] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:20:20] |tags num:| 181| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:20:44] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:20:44] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:20:44] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:20:44] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:20:44] |tags num:| 181| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:24:36] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:24:36] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:24:36] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:24:36] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:24:36] |tags num:| 181| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:25:17] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:25:17] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:25:17] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:25:17] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:25:17] |tags num:| 181| broken files: |0| tag links:| 202|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2025-12-12 15:26:32] |File parse completed=>|| markdown and linked files nodes:| 312| total file links:| 366|
+|[2025-12-12 15:26:32] |add tags and other files=>||  total nodes: |493|  total links:| 568|
+|[2025-12-12 15:26:32] |After filtered pathes=>|| filtered nodes: |1|  links:| 568|
+|[2025-12-12 15:26:32] |Tags parse completed=>||  tag nodes: |181| tag links:| 202|
+|[2025-12-12 15:26:32] |tags num:| 181| broken files: |0| tag links:| 202|

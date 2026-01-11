@@ -1,7 +1,6 @@
 [
   "dataview",
   "obsidian-zotero-desktop-connector",
-  "latex-exporter",
   "omnisearch",
   "text-extractor",
   "ai-image-analyzer",
@@ -9,5 +8,7 @@
   "juggl",
   "mermaid-tools",
   "graph-analysis",
-  "infranodus-graph-view"
+  "infranodus-graph-view",
+  "tags-routes",
+  "latex-exporter"
 ]

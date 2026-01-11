@@ -1,0 +1,16 @@
+{
+  "mySetting": "default",
+  "template_path": "",
+  "base_output_folder": "/",
+  "preamble_file": "preamble.sty",
+  "bib_file": "bibliography.bib",
+  "prioritize_lists": true,
+  "warn_before_overwrite": true,
+  "default_citation_command": "cite",
+  "overwrite_preamble": true,
+  "display_env_titles": true,
+  "default_env_name_to_file_name": false,
+  "last_external_folder": "",
+  "overwrite_figures": true,
+  "overwrite_header": true
+}
