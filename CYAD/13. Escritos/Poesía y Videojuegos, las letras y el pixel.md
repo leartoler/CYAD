@@ -1,0 +1,15 @@
+Introducción 
+El videojuego, al igual que la poesía, son medios que permiten expresar cualquier emoción o sentimiento que tengamos, de ahí que la imagen clásica del videojuego pueda desarrollarse como algo contestatario, como el juego September 12; videojuegos como forma de arte contemporáneo (); o, como de pretende en este taller, videojuegos poéticos. 
+
+La relación de la poesía y los videojuegos no es nueva, se tienen ejemplos como Passage (Rohrer, 2007([[Passage]])) o Loneliss ([[Loneliness en Steam]],), ambos caracterizados por ser titulos cortos, abstractos y poéticos, en el sentido en que expresan un sentimiento más que contar una historia o explotar una emoción. Pero, lo que sí es novedoso, es la apertura que han tenido este tipo de juegos ante el auge de herramientas que facilitan su desarrollo, tales como el motor de juegos Bitsy o Pico-8, y que han permitido autores como Haraiva desarrollen una serie de videojuegos en Bitsy o, incluso, la reciente creación de la revista Game Poems (2025), con diversos títulos realizados en otros motores igualmente accesibles, como Godot o, en última instancia, Unity. Sin embargo, aún con la facilidad de motores de juegos y una mayor accesibilidad a la creación de juegos poéticos, hace falta la inclusión de proyectos desde una perspectiva de América Latina y que de cuenta de los temores, anhelos y características propias de esta área geográfica que, usualmente, no se considera plenamente dentro del desarrollo de discursos o teorías que tengan que ver con videojuegos
+
+De esta forma, en el presente proyecto se busca dar nuevas voces a una forma de expresión que usualmnte queda relegada al entretenimiento, entablando para ello una relaciónentre la poésía y los videojuegos. Es bajo este objetivo que se trabajará con tres ejes principales: discusión y cuestionamiento de la poesía y los videojuegos desde una perspectiva subjetiva; desarrollar diferentes propuestas que expresen este cuestionamiento y sentir; y finalmente, desarrollar una estrategia para que, de forma simple, se puedan enseñar a realizar este tipo de productos, los videojuegos poéticos, a todo tipo de público. 
+
+#### Objetivos
+
+Como objetivo general se tiene planteado desarrollar y ampliar la discusión de la relación, como forma de creación, entre videojuegos y poesía. Para ello se hará necesario su investigación y discusión teórica y, por consiguiente, la elaboración de obra interactiva.
+
+
+#### Metas y cronogramas de actividades
+
+Durante los 8 meses del proyecto se trabajarán cada uno de los ejes mencionados; es decir, en el primer trimestre el trabajo se enfocará en la investigación y discusión teórica entre el videojuego y la poesía; en el segundo trimestre se diseñará y desarrollará la propuesta de trabajo, tanto de la obra como de su difusión; finalmente, en el último bimestre, se trabajará en la realización completa de la obra como seria. Es importante mencionar que durante todo el transcurso del programa se estará experimentando con diferentes medios y motores la relación entre el videojuego y la poesía. 

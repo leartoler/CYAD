@@ -1,4 +1,4 @@
-Después de un fin de semana, los estudiantes de la secundaria No. 4, "Esperanza", llegan a su salón. Dos de ellos comentan de un video viral que vieron en tik tok, uno en el que se prometía una vida de lujos. asdadasdasdasdasdasd
+Después de un fin de semana, los estudiantes de la secundaria No. 4, "Esperanza", llegan a su salón. Dos de ellos comentan de un video viral que vieron en tik tok, uno en el que se prometía una vida de lujos. 
 
 ---
 ## Personajes

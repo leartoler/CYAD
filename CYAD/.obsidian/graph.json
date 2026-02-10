@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 65297
       }
+    },
+    {
+      "query": "file:Hui",
+      "color": {
+        "a": 1,
+        "rgb": 15275715
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.49263157894737,
-  "lineSizeMultiplier": 1.64736842105263,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.13157894736842,
+  "lineSizeMultiplier": 0.976842105263158,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 0.4875,
+  "repelStrength": 12.3157894736842,
+  "linkStrength": 0.663157894736842,
   "linkDistance": 500,
-  "scale": 0.020777514970724095,
-  "close": true
+  "scale": 0.015355906606692758,
+  "close": false
 }

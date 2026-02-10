@@ -84,7 +84,7 @@ Resultado de búsqueda de términos "video game", "computer game" y "digital gam
 ![[terminos_ingles_g.jpg]]
 Fuente: Google Trends (https://trends.google.com).
 
-Figura 3
+Figura 4
 Resultado de búsqueda de términos "videojuego", "juego digital" y "juego computacional", en Google Trens, 2004-2025.
 ![[terminos_español_g.jpg]]
 Fuente: Google Trends (https://trends.google.com).
