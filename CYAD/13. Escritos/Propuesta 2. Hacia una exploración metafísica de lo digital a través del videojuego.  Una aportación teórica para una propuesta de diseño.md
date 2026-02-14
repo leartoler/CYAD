@@ -62,7 +62,7 @@ Avanzando entonces con la importancia de la cultura en una noción metafísica, 
 ## Concretización
 
 Para Simondon, concretización es un parte de un desarrollo evolutivo, no linea en donde un objeto técnico abstracto se convierte en algo determinado y coherente dentro de sus partes. Esta evolución pasa, por ejemplo, del artesanado abstracto a la industria, momento en la que un objeto se ha concretado (Simondon, 2007).
-%%[[Simondón, G. (2008). El modo de existencia de los objetos técnicos]]%%
+%%[[Simondon, G. (2008). El modo de existencia de los objetos técnicos]]%%
 
 Lo interesante de este concepto, que por el momento se aborda de forma superficial, es que, para que un objeto se concrete, debe haber una organización de cada uno de sus subconjuntos, los cuales no solo se limitan a su composición, sino también a su contexto. Pensemos, por ejemplo, en el artesanado que existía, en cierta medida, en las maquinitas y la libertad con la que se podía manipular su hardware, en contraposición a la industria estructurada que hoy representa el videojuego, con empresas que venden sus títulos a través de Internet. Esta forma de concretización del objeto técnico que posibilita lo digital, no solo se aplica a los videojuegos, sino también lo podemos observar en cómo del chat se dio un salto hacia las redes sociales, de los Neopets2 al metaverso, por mencionar algunos.
 

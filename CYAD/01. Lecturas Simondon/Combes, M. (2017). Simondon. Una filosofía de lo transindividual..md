@@ -94,7 +94,7 @@ Consultado:
 	El ser preindividual solo puede perpetuarse al desfasarse, debido a que sus potenciales pertenecen a una dimensión heterogénea.
 	(29) en termodinámica, que significa cambio de sistema, en Simondon el desfase es el devenir.
 	(29) La forma en que funciona se da primero por relación a las fases que resultan de él, razón por la cual lo preindividual no tiene fase. 
-	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en[[Simondón, G. (2008). El modo de existencia de los objetos técnicos]], p. 77.
+	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en[[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], p. 77.
 	(29) El sistema del devenir es polifásico, tal como se observa con el ejemplo del agua que puede ser tanto líquida como sólida. 
 
 (Tema::Individuo (29))

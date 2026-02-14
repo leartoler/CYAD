@@ -4,90 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6b04dc158ffb4071",
+        "id": "aa096bc326145432",
         "type": "tabs",
-        "dimension": 33.557046979865774,
         "children": [
           {
-            "id": "372ac48804cbbcdb",
+            "id": "c0accc919eaa50d3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fragmentar el Futuro.md",
+                "file": "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Fragmentar el Futuro"
+              "title": "Simondon, G. (2008). El modo de existencia de los objetos técnicos"
             }
           },
           {
-            "id": "951d016d98e6962d",
+            "id": "c53ec24a176800b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+                "file": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America"
+              "title": "Combes, M. (2017). Simondon. Una filosofía de lo transindividual."
             }
           },
           {
-            "id": "f04c26f23cb4de0d",
+            "id": "50bbc00a3e877575",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Google GENIE 3 SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google GENIE 3 SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS"
-            }
-          },
-          {
-            "id": "e7c59583eec097b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Is Pluribus actually about AI We asked Vince Gilligan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Is Pluribus actually about AI We asked Vince Gilligan"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dc8f2a62cd4b50dc",
-        "type": "tabs",
-        "dimension": 66.44295302013423,
-        "children": [
-          {
-            "id": "dd59ab5eae5a4c58",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repenzar el futuro 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Repenzar el futuro 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -175,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 367.5
   },
   "right": {
     "id": "e384abcc009c0f1d",
@@ -905,6 +861,66 @@
             "id": "e3286636056a7481",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "13ead1cda0f543aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ed178c0543f3af5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "568cd78c32ec0260",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "db611b241e81520f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "73f497a774194f77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "795052d8de7d17f0",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -912,7 +928,7 @@
             }
           }
         ],
-        "currentTab": 69
+        "currentTab": 75
       }
     ],
     "direction": "horizontal",
@@ -939,49 +955,49 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "dd59ab5eae5a4c58",
+  "active": "c0accc919eaa50d3",
   "lastOpenFiles": [
+    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+    "objeto concreto.md",
+    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "objeto técnico.md",
+    "objeto técnico abstracto.md",
+    "utensilio.md",
+    "Untitled.md",
+    "13. Escritos/Protocolo amplíado.md",
+    "causalidad recurrente.md",
+    "esquemas.md",
+    "asociado.md",
+    "medio técnico,.md",
+    "imaginación.md",
+    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "itch.io.md",
+    "Medio asociado.md",
+    "04. Bibliografía/El_pensamiento_abductivo_como.pdf",
+    "04. Bibliografía/Videogames_Hardware.pdf",
+    "04. Bibliografía/100_videogames.pdf",
+    "04. Bibliografía/Studying_videogames.pdf",
+    "04. Bibliografía/Supercade _ a_vs_h_of_the_vg_1971_1984.pdf",
+    "04. Bibliografía/The_Videogame_Industry_Does_Not_Exist.pdf",
+    "04. Bibliografía/Videogame_Formalism.pdf",
+    "Conjunto técnico.md",
+    "Fragmentar el Futuro.md",
     "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
-    "Clippings/Pánico en el sector gaming Project Genie de Google hunde la cotización de los gigantes del videojuego.md",
     "Repenzar el futuro 2.md",
+    "Clippings/Pánico en el sector gaming Project Genie de Google hunde la cotización de los gigantes del videojuego.md",
     "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
     "Clippings/Google GENIE 3 SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS.md",
     "Clippings/Generación de Mundos 3D Interactivos con AI  Google DeepMind World Model.md",
     "04. Bibliografía/Penix-Tadsen, Phillip - Cultural code_ video games and Latin America-The MIT Press (2016)[2].pdf",
     "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
-    "Fragmentar el Futuro.md",
     "Clippings/Is Pluribus actually about AI We asked Vince Gilligan.md",
     "04. Bibliografía/La gran imagen no tiene forma (Francois Jullien).pdf",
-    "Clippings/LABS.GOOGLE.md",
-    "medio técnico,.md",
-    "La gran imagen no tiene forma.md",
-    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
-    "01. Lecturas Videojuegos/Barr, P. (2023). The Stuff Games Are Made of.md",
-    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "01. Lecturas Simondon/Simondón, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
-    "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
-    "13. Escritos/Poesía y Videojuegos, las letras y el pixel.md",
-    "03. Autores/Simondon.md",
     "04. Bibliografía/What Computers Can’t Do A Critique of Artificial Reason (Hubert Dreyfus).pdf",
-    "01. Lecturas Videojuegos/Upton, B. (2015). The Aesthetic of Play.md",
-    "Índice Ideas.md",
-    "09. Juegos/LSD Revamped by Figglewatts.md",
-    "09. Juegos/LSD - Dream Emulator (Jpn, Limited Edition)  Asmik Ace  Free Borrow & Streaming  Internet Archive.md",
-    "Clippings/The Graveyard en Steam.md",
-    "09. Juegos/Game Poems 1.md",
-    "17. Calendario",
-    "Untitled.base",
-    "Untitled 5.base",
     "Untitled 2.canvas",
-    "Untitled 1.base",
     "Untitled.canvas",
     "Pasted image 20251216185320.png",
     "Pasted image 20251216185346.png",
     "10. Imágenes/terminos_ingles 2.png",
-    "Untitled 4.base",
-    "04. Bibliografía/La-Individuacio-n-y-la-Te-cnica-en-la-Obra-de-Simondon-pdf.pdf",
-    "04. Bibliografía/Metodología de la investigación. Las rutas cuantitativa, cualitativa y mixta (Hernández-Sampieri, R.  Mendoza Torres, C. P.).pdf",
     "Untitled 1.canvas",
     "10. Imágenes/terminos_español.png",
     "10. Imágenes/terminos_español_g.jpg",

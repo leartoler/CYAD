@@ -111,7 +111,7 @@ Esta individuación, entre objeto técnico y jugador (como medio siendo activida
 
 #### La concretización del videojuego
 
-Para Simondon, concretización es una parte de un desarrollo evolutivo, no lineal, en donde un objeto técnico abstracto se convierte en algo determinado y coherente dentro de sus partes ([[Simondón, G. (2008). El modo de existencia de los objetos técnicos]])  . Está evolución del objeto técnico pasa, poder ejemplo, del artesanado abstracto a la industria, de lo complejo y sobre determinado a lo simple y mínimo. 
+Para Simondon, concretización es una parte de un desarrollo evolutivo, no lineal, en donde un objeto técnico abstracto se convierte en algo determinado y coherente dentro de sus partes ([[Simondon, G. (2008). El modo de existencia de los objetos técnicos]])  . Está evolución del objeto técnico pasa, poder ejemplo, del artesanado abstracto a la industria, de lo complejo y sobre determinado a lo simple y mínimo. 
 
 Antes de entender lo que es la concretización y su proceso es necesario saber que el objeto, aquello con lo que se relaciona el individuo, se compone de tres distintos niveles, y son: elemento técnico, individuo técnico y conjunto técnico. Estos niveles, que se podrían considerar que van de lo particular a lo general, en realidad responden a niveles de abstracción, con elementos que componen al individuo técnico y que, al mismo tiempo, conforman un conjunto. Estos mismos niveles, como se explica más adelante Simondon, responden también a una relación distinta en un medio y con individuos determinados. 
 

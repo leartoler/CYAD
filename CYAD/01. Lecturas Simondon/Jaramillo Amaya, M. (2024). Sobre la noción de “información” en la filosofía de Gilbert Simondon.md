@@ -78,7 +78,7 @@ Consultado: true
 	(98) La información sugiere una operación de adquisición de forma que instaura un estado relacional: la unión entre dos realidades dispares que surge como un auténtico acontecimiento, a saber, el de la resolución de dicha disparidad, la superación de la discrepancia y la apertura a la interacción comunicativa. 
 
 (Tema::Información en el MEOT (89))
-	En [[Simondón, G. (2008). El modo de existencia de los objetos técnicos]], la información concierne a las dinámica que entrelaza forma e información; la distinción entre el funcionamiento de la maquina y lo viviente; y cómo la sensibilidad de información se vuelve crítico de evaluación del progreso técnico de una máquina. 
+	En [[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], la información concierne a las dinámica que entrelaza forma e información; la distinción entre el funcionamiento de la maquina y lo viviente; y cómo la sensibilidad de información se vuelve crítico de evaluación del progreso técnico de una máquina. 
 
 (Tema::Información en lo viviente (89))
 	Lo viviente transforma las señales en formas, y siempre hay una apertura. Así, solo lo viviente hacia, convierte y media con la información. Las máquinas, en cambio, reúnen y modifican formas. 
