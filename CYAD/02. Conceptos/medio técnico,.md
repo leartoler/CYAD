@@ -1,0 +1,1 @@
+No dejar a un lado su problematización de este concepto junto con el de medio geográfico en [[Simondon - El modo de existencia de los objetos técnicos [3].pdf]]

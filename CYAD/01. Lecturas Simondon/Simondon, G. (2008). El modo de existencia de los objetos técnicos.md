@@ -76,14 +76,13 @@ Leído:
 	Al poner al objeto técnico definido por su génesis, es posible estudiar su relación entre él y otras realidades. Sus niveles son: 
 	- [[elemento técnico]]: su perfeccionamiento no genera angustia. Siglo XVIII, con una idea de progreso continuo y definido. 
 	- [[individuo técnico]]: Compite con el hombre porque aquí el hombre no es el único portador de herramientas. 
-	- [[conjunto técnico]]: Siglo XX. Lo termodinámico se reemplaza por la teoría de la información, cuyo contenido es regularizador y estabilizador. Es la máquina. 
+	- [[Conjunto técnico]]: Siglo XX. Lo termodinámico se reemplaza por la teoría de la información, cuyo contenido es regularizador y estabilizador. Es la máquina. 
 
 #### Primera parte. Génesis y evolución del objeto técnico
 
 #### Capítulo 1. Génesis del objeto técnico: el proceso de concretización
 
 ##### I. Objeto técnico abstracto y objeto técnico concreto
-
 
 (Tema::Objeto técnico (41))
 	Solo se puede definir al [[objeto técnico]] por su pertenencia a una especie técnica, aunque esta especificidad sea ilusoria porque ninguna estructura corresponde a algún uso definido; puede haber varias en la misma estructura.
@@ -95,7 +94,8 @@ Leído:
 	2. Individuo
 	3. Conjunto
 	(45) el objeto técnico existe entonces como tipo específico obtenido al término de una serie convergente; esto va del modo abstracto al concreto, a algo enteramente unificado.
-	(49) Nace de un trabajo abstracto de organización de subconjuntos. Se da a partir de ciero número de relaciones de causalidad recíprocas. 
+	(49) Nace de un trabajo abstracto de organización de subconjuntos. Se da a partir de cieryo número de relaciones de causalidad recíprocas. 
+	(77) El objeto técnico es entonces la condición de sí mismo como condición de existencia de ese medio mixto, técnico y geográfico a la vez. **Adaptación**: este fenómeno de autocondicionamiento define el principio según el cual el desarrollo de los objetos técnicos se ha hecho posible sin tendencia a la hipertelia y luego a la desadaptación. **Hipertelia**: la hipertelia sobreviene cuando la adaptación es relativa a algo dado que existe antes del proceso de adaptación, porque no las anticipa y no las condiciona.
 	<span style="background:#fff88f">(81) </span>El [[objeto técnico]] individualizado es un objeto que fue inventado, es decir, producido por una causalidad recurrente entre vida y pensamiento del hombre. El objeto que solamente está asociado a la vida o al pensamiento no es objeto ténico, sino [[utensilio]] o aparato. (+), hay, entonces, una relación entre el pensamiento y la vida del inventor. 
 	<span style="background:#fff88f">(83)</span> Se hablar también de la existencia de niveles relativos de individualización en los objetos técnicos, sobre todo a la hora de hablar del [[Conjunto técnico]].
 	<span style="background:#fff88f">(83) </span>Cuando habla del audiómetro y comienza a dilucidar sobre el conjunto técnico, plantea la existencia de niveles relativos de individualización de los objetos técnicos.
@@ -165,29 +165,83 @@ Leído:
 (Tema::Finalidad del objeto técnico (56))
 	La finalidad de la intención técnica no puede alcanzar su perfección en la construcción del objeto  más que si se identidica con el concoimiento científico universal. 
 	
-
 ##### III. Ritmo del progreso técnico; perfeccionamiento continuo y menor perfeccionamiento discontinuo y mayor. 
 
 (Tema::Dos tipos de perfeccionamiento (59))
 	Existen dos tipos de perfeccionamiento: los que modifican la repartición de funciones, aumentando de mandera esencial la sinergia del funcionamiento, y lo que, sin modificar dicha repartición, disminuten las consecuencias nefastas de los antagonismos residuales. Uno reparte y otro disminuye.
 
+(Tema::Concretización (61))
+	La [[Concretización]] toma los perfeccionamientos mayores. Los menores toman el camino de los desvíos, útiles solo en lo práctico pero que no hace evolucionar al objeto técnico. 
+	Además, los cambios menores tienden al proceso continuo. 
+	(67) Da al objeto técnico un lugar intermedio entre el objeto natural y la representación científica.
 
+(Tema::Objeto técnico. Evolución discontinua (61))
+	El objeto técnico es aquello cuya génesis específica procede de lo abstracto a lo concreto. Esta génesis se cumple por medio de perfeccionamientos esenciales, discontinuos, que hacen que el esquema interno del objeto técnico se modifique a través de saltos y no según una linea continua.
+	Las verdaderas etapas del perfeccionamiento del objeto técnico se hace por mutaciones orientadas
 
+##### Orígenes absolutos de un linaje técnico
 
+(Tema::Origen técnico y funcionamiento interno (63))
+	El objeto técnico, además de existir por el resultado de su funcionamiento en los dispositivos exteriores (una conducta asimétrica), existe por los fenómenos de los que es sede en sí mismo; es a través de ellos que posee una fecundidad, una no saturación que le da una posteridad.
+	Dentro del objeto técnico hay una apertura que, a menos que no haya cambios mínimos y graduales, no habrá saturación, y por ende, habrá una posteridad.
 
+(Tema::Evolución técnica natural (64))
+	El objeto técnico va cambiando, teniendo perfeccionamiento ulteriores hacia la saturación, lo concreto. Hay una evolución, engendra una familia y con ello va hacia una evolución técnica natural. 
+	En cada serie, en cada familia, hay un acto definido de invención. 
 
+(Tema::Esencia técnica(64))
+	La esencia técnica se reconoce por el hecho de que sigue siendo estable a través del linaje evolutivo, y no solamente estable, sino también productora de estructuras y funciones por desarrollo interno y saturación progresiva. Es estable y produce estructuras. 
+	(+) Más saturación, más concreto, menos libertad de cambios de esquema y menos tolerancia al utilizarlos.
+	(+) No hay objeto enteramente concreto. Es más concreto que el anterior, pero sigue siendo artificial.
 
+(Tema::Objeto técnico abstracto (67))
+	El objeto técnico avstracto, primitivo, está lejos de constituir un sistema natural; es la traducción en la materia de un conjunto de nociones y de principios científicos separados unos de otros en profundidad, y ligados solamente pos sus consecuencias, que son convergentes para la producción de un efecto buscado.
+	(+) Solo son efectos o aplicaciones. No puede enseñar nada, no puede ser examinado inductivamente, es artificial. 
 
+(Tema::Objeto técnico concreto (67))
+	[[El objeto técnico concreto]], evolucionado, se aproxima al modo de existencia de los objetos naturales, tiende a la coherencia interna, a la cerrazón del sistema de causas y efectos que se ejercen circularmente en el interior de su recinto, y lo que es más, incorpora una parte del mundo natural que interviene como condición de funcionamiento, y forma parte de este modo del sistema de causas y efectos. Al evolucionar, pierde su carácter de artificialidad.
 
+(Tema::Artificialidad(67))
+	Es aquello que el hombre debe intervenir para mantener la existencia del objeto. 
+	Si el humano debe de ser organizador, aquí se convierte en mediado de sus elementos internos para mantener su existencia. 
 
+(Tema::Concretización y artificialidad (68))
+	Cuando el objeto se concreta, tiende a parecerse más al objeto natural. Presenta los siguientes cambios: 
+	- Deja de prescindir del medio artificial, exterior
+	- Su coherencia interna se acrecienta
+	- Su sistema funcional se cierra organizándose. 
+	- Se regula por medio de la relación con otros objetos técnicos o naturales. 
+	- Se asocia con otros objetos
+	- Se les puede someter a estudios inductivos
+	- Son parte de todo un funcionamiento el cual no parte de un solo principio o acto, sino tuvieron que haber sido previstos (esquema).
 
+(Tema::Conjunto técnico (69))
+	Auge de la teoría de la información, cuyo contenido es regulador y estabilizador. Aumenta la cantidad de información, que acrecenta la neguetropía. Aquí es donde se integra el ser técnico en la cultura, que aportará estabilidad y unidad. 
+	
+#### Capítulo II. Evolución de la realidad técnica; elemento, individuo, conjunto.
 
+##### I. Hipertelia y autocondicionamiento en la evolución técnica
 
+(Tema::Esencia del objeto técnico (71))
+	El esquema de la esencia del objeto técnico se adapta a las condiciones maeriales y  humanas de su producción. Se utiliza sus características propias de lo que está hecho y a la tarea por lo cual está hecho. 
 
+(Tema::Tres tipos de hipertelia (72))
+	Hay 3 tipos de [[hipertelia]]:
+	1. Adaptación fina sin fraccionamiento del objeto técnico
+	2. Fraccionamiento del objeto técnico. Es el objeto técnico y algo que lo ayuda.
+	3. Un caso mixto que se adopta demasiado a un medio específico; fuera de él no tiene funcionamiento alguno.
 
+(Tema::Importancia del medio técnico (73))
+	Cuando se habla de su importancia es porque considera, o debe de considerar, el doble vínculo que mantiene el objeto técnico con el medio geográfico y medio técnico. Se habla del ferrocarril y la constante adaptación a las variaciones de regimenes al que se somete, ya sea cuando acelera o frena (variación de energia). Esto sucede debido a que no hay una adaptación como tal del medio. (?) ¿Pero qué pasa en el caso, por ejemplo, de videojuegos sobredeterminados a las gráficas que hacen variar las adaptaciones de las computadoras, no así con las consolas?
 
+(Tema::Adaptación-concretización (76))
+	Proceso que condiciona el nacimiento de un medio en lugar de estar condicionado por un medio ya dado; está condicionado por un medio que sólo existe virtualmente antes de la invención; hay invención porque hay un salto que se efectúa y se justifica por la relación que instituye en el interior del medio que crea. 
 
+(Tema::Medio tecnogeográfico (76))
+	Condición de posibilidad de funcionamiento del objeto técnico. 
 
+(Tema::Evolución del objeto técnico y su progreso (77))
+	La evolución del objeto técnico se puede convertir en progreso en la medida de que esos objetos técnicos sean libres en su evolución y no estén necesitados de una hipertelia fatal. Para que esto sea posible es necesario que la evolución del objeto técnico conduzca a este tercer [[medio tecnogeográfico]] en el cual cada modificación está autocondicionada.
 
 ##### II. La invención técnica; fondo y forma en lo viviente y el pensamiento inventivo
 
@@ -329,6 +383,7 @@ Leído:
 
 (Tema::El artesano (107))
 	La representación del [[artesano]] está inmersa en lo concreto, comprometido en la manipulación material y la existencia sensible; está dominado por su objeto. 
+	(109) Su ciencia estará en el nivel de las representaciones sensoriales y cualitativas, cerca de los caracteres concretos de la materia. Tiene un poder intuitivo y de connivencia con el mundo; el artesano será como un mago y tiene un conocimiento más operativo que intelectual.
 
 (Tema::El ingeniero (107))
 	La representación del [[ingeniero]] es dominadora: hace del objeto una haz de relaciones medidas, un producto, un conjunto de características. 
@@ -336,14 +391,9 @@ Leído:
 (Tema::Relación social entre el objeto técnico y el humano (108))
 	La relación social es un condición para que los objetos técnico se incorporen a la cultura. Ahí, el hombre tiene que tener una relación de igualdad con los objetos, abordarlos y conocerlos. 
 
-##### II. Técnica aprendida por el niño y técnica pensada por el adulto.
 
 
 
-
-
-
-	 
 
 
 
@@ -377,9 +427,6 @@ II. Condiciones de evolución técnica
 
 (Nota::La evolución del objeto técnico no es continua ni discontinua, sino que lleva umbrales definidos por el hecho de que se consumen sistemas sucesivos de coherencia (48))
 
-
-
-
 ##### II. La invención técnica; fondo y forma en lo viviente y el pensamiento inventivo
 
 (Nota::La individualización de los seres técnicos es la condición del progreso técnico (77))
@@ -399,6 +446,14 @@ II. Condiciones de evolución técnica
 ##### I. Mayoría y minoría social de las técnicas
 
 (Nota::El pensamiento humano debe instituir una relación igual, sin privilegio, entre las técnicas y el hombre (107))
+
+#### Capítulo II. Evolución de la realidad técnica; elemento, individuo, conjunto.
+
+##### I. Hipertelia y autocondicionamiento en la evolución técnica
+
+(Nota::Cuando algo se especializa en una acción y no en otra, una siempre se ve desfavorecida (72))
+
+(Nota::El único medio en relación con el cual existe una adaptación no hipertélica es el medio creado por la adaptación misma (76))
 
 
 
@@ -420,6 +475,14 @@ II. Condiciones de evolución técnica
 (Pregunta::¿Qué transducciones nos dan hoy en día, las IA, las nuevas tecnologías o los videojuegos? ¿Esto puede derivar, como se ve actualmente, en el ascenso del lenguaje técnico actual?)
 
 (Pregunta::Ya que el elemento solo puede ser capaz de llevar a cabo la evolución de un individuo, ¿cuales serían esos elementos que lo permitieron? En el hardware es obvio que los chips y procesadores, pero ¿es aplicable también en el software o en el diseño mismo del videojuego?)
+
+(Pregunta::¿Qué es realmente la esencia técnica y cómo puede aplicarse al videojuego?)
+
+(Pregunta::¿Puede haber una evolución en el videojuego por medio de la reducción de incompatibilidad por medio de una redistribución de las funciones en subconjuntos sinérgicos?)
+
+(Pregunta::¿Hay una diferencia entonces entre la consola y la pc en tanto videojuego? Si es así, ¿cuál sería entonces el elemento diferenciador entre un juego indie o emulado en una pc o en una consola vieja? )
+
+(Pregunta::¿Qué elementos sobredeterminados se pueden encontrar en los videojuegos?)
 
 
 

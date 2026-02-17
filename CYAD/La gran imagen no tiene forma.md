@@ -1,1 +1,0 @@
-![[La gran imagen no tiene forma (Francois Jullien).pdf]]

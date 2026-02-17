@@ -161,7 +161,7 @@ El artículo muestra cómo esta concepción tiene consecuencias en la filosofía
     
 - [[Metastabilidad]]
     
-- [[Objeto Técnico]]
+- [[objeto técnico]]
     
 - [[Individuación Técnico-Humana]]
     

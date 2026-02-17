@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa096bc326145432",
+        "id": "ff43819e37ba116a",
         "type": "tabs",
         "children": [
           {
-            "id": "c0accc919eaa50d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Simondon, G. (2008). El modo de existencia de los objetos técnicos"
-            }
-          },
-          {
-            "id": "c53ec24a176800b1",
+            "id": "05c6901c19566560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+                "file": "artesano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combes, M. (2017). Simondon. Una filosofía de lo transindividual."
-            }
-          },
-          {
-            "id": "50bbc00a3e877575",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "artesano"
             }
           }
         ]
@@ -79,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cosmot",
+                "query": "pinrepa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -921,6 +895,66 @@
             "id": "795052d8de7d17f0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1ac4e93687f8f537",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4712da79f8cf2caf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1744a4aede60c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b0399e079895e594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2d0dd83a9e0210c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "eb61420cd46ad288",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -928,11 +962,11 @@
             }
           }
         ],
-        "currentTab": 75
+        "currentTab": 81
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -955,44 +989,45 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "c0accc919eaa50d3",
+  "active": "05c6901c19566560",
   "lastOpenFiles": [
-    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
-    "objeto concreto.md",
     "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "objeto técnico.md",
-    "objeto técnico abstracto.md",
-    "utensilio.md",
-    "Untitled.md",
-    "13. Escritos/Protocolo amplíado.md",
-    "causalidad recurrente.md",
-    "esquemas.md",
-    "asociado.md",
-    "medio técnico,.md",
-    "imaginación.md",
+    "artesano.md",
+    "tecnología.md",
+    "La evolución del videojuego. Su concretización y realidad técnica. Control de lectura de los primeros dos capítulos de El modo de existencia de los objetos técnicos.md",
+    "13. Escritos/La individuación del videojuego.md",
+    "13. Escritos/Trabajo final.md",
+    "13. Escritos/Repenzar el futuro 2.md",
+    "Clippings/Pong-Story  PONG in a Chip.md",
+    "hipertelia.md",
+    "07. Videos/1969 Chicago Coin Speedway.md",
+    "01. Lecturas Videojuegos/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
+    "Clippings/Chicago Coin Speedway Mark III 1969 coin operated driving arcade game.md",
+    "Clippings/Tele-Pong IV de la compañía GTE (NESA) del año 1977.md",
+    "Clippings/Pong-Story  Allied's Name Of The Game systems 1.md",
     "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "itch.io.md",
-    "Medio asociado.md",
+    "05. Resumen/Resumen sobre la noción de información en la filosofia de Simondon.md",
+    "13. Escritos/Hacia la concretización del videojuego.md",
+    "07. Videos/La Historia Completa de los Juegos de Mundo Abierto (DOCUMENTAL).md",
+    "Clippings/Chicago Coin Speedway Mark III 1969 coin operated driving arcade game 1.md",
+    "13. Escritos/Las potencialidades en la geneaología del videojuego.md",
+    "Speed Race.md",
+    "01. Lecturas Videojuegos/Mulas y Bertolazzi (2023). La evolución de los videojuegos.md",
+    "04. Bibliografía/historyofdigitalgames_developmentsinartdesignandinteraction.pdf",
+    "12. Gráficas/Individuación.canvas",
+    "04. Bibliografía/100_videogames.pdf",
+    "Clippings/Home Pong console before Atari's in 1975.md",
+    "Clippings/Pong-Story  Allied's Name Of The Game systems.md",
+    "Clippings/The MOS 76007601 Pong Chips.md",
+    "Untitled.base",
+    "Clippings/Armas secretas de Commodore El juego de televisión 2000K, 3000H.md",
+    "04. Bibliografía/Secrets of Video Game Consoles (Michael Hart). 1.pdf",
+    "04. Bibliografía/Secrets of Video Game Consoles (Michael Hart)..pdf",
     "04. Bibliografía/El_pensamiento_abductivo_como.pdf",
     "04. Bibliografía/Videogames_Hardware.pdf",
-    "04. Bibliografía/100_videogames.pdf",
     "04. Bibliografía/Studying_videogames.pdf",
     "04. Bibliografía/Supercade _ a_vs_h_of_the_vg_1971_1984.pdf",
     "04. Bibliografía/The_Videogame_Industry_Does_Not_Exist.pdf",
-    "04. Bibliografía/Videogame_Formalism.pdf",
-    "Conjunto técnico.md",
-    "Fragmentar el Futuro.md",
-    "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
-    "Repenzar el futuro 2.md",
-    "Clippings/Pánico en el sector gaming Project Genie de Google hunde la cotización de los gigantes del videojuego.md",
-    "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
-    "Clippings/Google GENIE 3 SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS.md",
-    "Clippings/Generación de Mundos 3D Interactivos con AI  Google DeepMind World Model.md",
-    "04. Bibliografía/Penix-Tadsen, Phillip - Cultural code_ video games and Latin America-The MIT Press (2016)[2].pdf",
-    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
-    "Clippings/Is Pluribus actually about AI We asked Vince Gilligan.md",
-    "04. Bibliografía/La gran imagen no tiene forma (Francois Jullien).pdf",
-    "04. Bibliografía/What Computers Can’t Do A Critique of Artificial Reason (Hubert Dreyfus).pdf",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Pasted image 20251216185320.png",
@@ -1006,7 +1041,6 @@
     "10. Imágenes/terminos_ingles.png",
     "10. Imágenes/NotebookLM Mind Map.png",
     "10. Imágenes/Atari.png",
-    "12. Gráficas/Individuación.canvas",
     "12. Gráficas/Teoria 1.canvas"
   ]
 }
