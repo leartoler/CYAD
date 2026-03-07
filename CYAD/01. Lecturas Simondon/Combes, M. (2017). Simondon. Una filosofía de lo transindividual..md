@@ -24,6 +24,8 @@ Consultado:
 ---
 ### <mark style="background: #FFF3A3A6;">Tema</mark>
 
+#### 0. Prólogo
+
 (Tema::Autores claves para entender a Simondon (10))
 	Algunos autores clave para entender a [[Simondon]] son: 
 	- [[Dominique Lecourt]], quien dirigió las primeras dos tesis doctorales sobre Simondon;
@@ -60,6 +62,10 @@ Consultado:
 (Tema::Magia y tecnididad (18)).
 	"La técnida se vuelve provocante e instrumental cuando se le encierra en el paradigma del trabajo y de la dominación; cuando sale de ella, pasa a llamarse tecnicidad."
 
+#### 01. Pensamiento del ser y estatus de lo uno: de la relatividad de lo real a la realidad de la relación 
+
+##### La operación
+
 (Tema::El ser en el tema de la individuación (25))
 	En el texto de [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]], tanto al inicio como al final de la introducción, se formula de dos formas lo que es el ser:
 	1. La primera es el ser en tanto es
@@ -84,7 +90,7 @@ Consultado:
 (Tema::Problema con el lenguaje (27-28))
 	El francés, al no haber una conjugación que indique la procesualidad, Simondon se vio obligado a escribir como escribe en sus libros, de forma complicada.
 
-(Tema::Ontogénesis (27-28))
+(Tema::Ontogénesis (27-28)) 
 	Captura la génesis de los individuos en el seno de la operación de individuación, sustituyendo la ontología por [[ontogénesis]].
 
 (Tema::El ser más que uno (28))
@@ -94,7 +100,7 @@ Consultado:
 	El ser preindividual solo puede perpetuarse al desfasarse, debido a que sus potenciales pertenecen a una dimensión heterogénea.
 	(29) en termodinámica, que significa cambio de sistema, en Simondon el desfase es el devenir.
 	(29) La forma en que funciona se da primero por relación a las fases que resultan de él, razón por la cual lo preindividual no tiene fase. 
-	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en[[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], p. 77.
+	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en [[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], p. 77.
 	(29) El sistema del devenir es polifásico, tal como se observa con el ejemplo del agua que puede ser tanto líquida como sólida. 
 
 (Tema::Individuo (29))
@@ -232,6 +238,35 @@ Consultado:
 (Tema::Simondon y lo afectivo-emotivo (64))
 	Simondon comenta que la capa afectivo emotivo , a saber "son sus modificaciones las que constituyen las modificaciones del individuo". 
 
+(Tema::Disparidad (64-65))
+	Para Simondon, la disparidad es la tensión entre 2 elementos de una situación y que solo una nueva individuación puede resolver por medio de un nuevo nivel de realidad. 
+
+(Tema::Psiquismo. Individuación colectivo y psíquico (64))
+	Simondon comenta que la realidad psíquica no puede resolverse dentro de ella. En el psiquismo hay una disparidad entre la problemática perceptiva y la afectiva.
+
+(Tema::Problemática perceptiva (65))
+	Existencia de múltiples mundos perceptivos en donde se trata de inventar continuamente una forma de compatibilidad entre el medio donde se percibe y quien percibe. 
+
+(Tema::Problemática afectiva (65))
+	Experiencias en el que el ser experimenta que no es solo individuo. Esta dicta que no solo somos individuos y que nuestro ser no es reducible a nuestro ser individuado; hay una realidad preindividual no individuada en el ser. 
+
+(Tema::Afectividad)
+	Capa relacional que constituye el centre de la individualidad; es la conexión entre la relación del individuo consigo mismo y su relación con el mundo. 
+
+(Tema::sujeto (65))
+	Realidad constituida por el individuo y la parte de preindividualidad que lo acompaña en tanto vive. 
+	(+) Se hace notar que habla de realidad aquí como tal.
+	(66) "El sujeto es individuo, y algo distinto que individuo".
+	(66) El sujeto solo puede resolver su tensión al interior de lo colectivo; es un ser que tiende hacia lo colectivo.
+
+(Tema::Angustia (66))
+	Lo preindividual excedido.
+	(67) REnuncia al ser individuado por el ser preindividua, excedido. Esto conlleva a acptar la destrucción de la individualidad. La angustia se da en tanto el sujeto resuelve su tensión al interior, de forma solitaria. 
+
+(Tema::Resumen)
+	Se habla de la tensión entre percepción y afectividad y cómo su resolución de forma individual, sin el otro, conlleva a una angustia también porque lo preindividual excede, ocasionalmente, lo individuado. 
+	
+
 
 
 ---
@@ -306,6 +341,8 @@ Consultado:
 (Nota:: El primer dominio en el cual puede existir una operación de individuación es el dominio físico (40))
 
 (Pregunta::¿Se puede realizar una allagmática en el caso del videojuego? Ver su operación conjunta con el sujeto y no tanto de forma aislada. Sería entonces la estructura del videojuego, su contexto y la tecnología, junto con el individuo que lo juega, igual su estructura y todo lo demás.)
+
+(Pregunta::Cuando Simondon habla sobre la angustia y cómo este ses por la tensión no resuelta entre un preindividual que lo excede y el individuo, ¿A que se refiere con lo preindividual del individuo?)
 
 
 ---

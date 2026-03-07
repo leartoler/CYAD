@@ -102,6 +102,7 @@ Leído:
 	<span style="background:#fff88f">(83)</span> **Coherencia**: La coherencia de un conjunto técnico es máxima cuando está constituido por subconjuntos que poseen el mismo nivel de individualización relativa. (84) Pot ende, el principio de individualiazción de los objetos técnicos en un conjunto es el de los subconjuntos de [[causalidad recurrente]] en el medio asociado.
 	<span style="background:#fff88f">(96)</span> Objeto técnico como aquello que consiste en individuos técnicos.
 	<span style="background:#fff88f">	(105) </span>**Estatutos sociales**: El objeto técnico puede estar ligado al hombre de dos formas: según su estatuto de mayoría o de minoría. Esto es enteramente social y cultural. 
+	(128) "Está en el punto de convergencia de una multitud de datos y de efectos científicos que provienen de dominios de lo más variados, que integran los saberes en apariencia más heteróclitos, y que pueden no estar intelectualmente coordinados, mientras que lo están en la práctica en el funcionamiento del objeto técnico". 
 
 (Tema::Unidad del objeto técnico (42))
 	La unidad del objeto técnico, su individualidad, su especificidad, son carácteres de consistencia y de convergencia de su génesis. La génesis del objeto técnico forma parte de su ser. 
@@ -384,12 +385,103 @@ Leído:
 (Tema::El artesano (107))
 	La representación del [[artesano]] está inmersa en lo concreto, comprometido en la manipulación material y la existencia sensible; está dominado por su objeto. 
 	(109) Su ciencia estará en el nivel de las representaciones sensoriales y cualitativas, cerca de los caracteres concretos de la materia. Tiene un poder intuitivo y de connivencia con el mundo; el artesano será como un mago y tiene un conocimiento más operativo que intelectual.
+	(110) *Conocimiento*: su formación técnica consiste en intuición y en esquemas operatorios puramente concretos, dificilmente formulables y transmisibles por un simbolismo cualquiera, oral o figurado
 
 (Tema::El ingeniero (107))
 	La representación del [[ingeniero]] es dominadora: hace del objeto una haz de relaciones medidas, un producto, un conjunto de características. 
 
 (Tema::Relación social entre el objeto técnico y el humano (108))
 	La relación social es un condición para que los objetos técnico se incorporen a la cultura. Ahí, el hombre tiene que tener una relación de igualdad con los objetos, abordarlos y conocerlos. 
+
+##### II. Técnica aprendida por el niño y técnica pensada por el adulto
+
+(Tema::Resumen de técnica aprendida por el niño y técnica aprendida por el adulto (108-114))
+	De cómo hay técnicas aprendidas por el niño, que es mas característico de lo artesanal y lo intuitivo y otra técnica más racionalizada, pensada por el adulto. 
+
+(Tema::Conocimiento técnico de intuición (110))
+	Consiste en intuición y esquemas operatorios puramente concretos, dificilmente transmisibles por un simbolismo cualquiera. 
+	Una segunda característica es que es iniciatica y exclusiva, por lo general cerrada y propio de una cultura, cubriendo la mayor parte de una persona que la trabaja. 
+	(112) No es solamente producto de condiciones sociales, produce estructuras de los grupos y dichos grupos lo condicionan. 
+
+(Tema::Conocimiento técnico racionalizado (112))
+	El segundo tipo de conocimiento es el racional, teórico, científico y universal. El mayor ejemplo de ello está dado por la [[Enciclopedia]], de [[Diderot]].
+	(113) *Conocimiento racional*: es racional porque emplea el cálculo, la medida, la hipótesis y demás. 
+	(113) *Universalidad*: es universal porque se enseña a un público universal y por la información universal que ofrece. No es un conocimiento cerrado sobre sí mismo, por lo que todo tipo de conocimiento se vincula. Requiere, como relacionado a un adulto, ser autodidacta.
+
+(Tema::Poder técnico de la enciclopedia (112))
+	tenía una fuerza que respondía a una necesidad de la época, que era positiva y creadora. Su mayor fuerza reside en esas láminas y esquemas de modelos de máquinas que son un homenaje a los oficios y al conocimiento racional de las operaciones técnicas. 
+
+##### III. Naturaleza común de las técnicas menores y de las técnicas mayores. Significación del Enciclopedismo. 
+
+(Tema::Resumen de Naturaleza común de las técnicas menores y de las técnias mayores. Significación del Enciclopedismo (114-125))
+	Importancia de la [[Enciclopedia]] y cómo se desarrollo en 3 épocas distintas, con 3 técnicas liberadores distintas y 3 limitaciones: 
+	1. La Ilustración
+	2. el siglo XVIII
+	3. el siglo XX
+De sus características y cómo la tecnología quita la teleología o determinismo, reduciendo así la alienación. Habla también del [[cine]] y la [[televisión]].
+
+(Tema::Relación del Enciclopedismo y del objeto técnico (114))
+	La Enciclopedia es uno de los polos de toda conciencia tecnológica y posee, de este modo, una significación históríca,  un sentido valioso para el conocimiento de la [[tecnicidad]].
+	El enciclopedismo manifiesta y propaga una cierta inversión de los dinamismos fundamentales de la técnica. 
+	(119) intención enciclopédica se comienza a manifestar en las ciencias y las técnicas a través de la tendencia a la racionalización de la máquina y a través de la institución de un simbolismo común a la máquina y al hombre. 
+
+(Tema::Tecnología visto como magia (114))
+	Una parte del sentimiento de eficacia de la magia primitiva se ha convertido en la creencia incondicional del progreso. El objeto moderno esta revestido de un poder de eficacia casi sobrenatural. El progreso es ahora lo que la magía fue en su momento.
+
+(Tema::Primera manifestación del espíritu enciclopédico: el Renacimiento (115))
+	La primera manifestación del espíritu enciclopédico está constituido por el [[Renacimiento]] y es contemporáneo de la revolución ética y religiosa que es la [[Reforma]]. 
+	Aquí la erudición no es un retorno al pasado en tanto que pasado, sino la voluntad de ampliar el círculo del saber, de volver a encontrar a todo el pensamiento a fin de verse liberado de una limitación del saber.
+	(116) Fue también durante el renacimiento en donde se aportó los medios para una universalización de la técnica que la Enciclopedia puso en práctica; ya son valoradas como paradigmas y medios de expresión. 
+
+(Tema::Segunda manifestación del espíritu enciclopédico: el siglo de las luces (116))
+	Liberación del pensamiento científico, mismo que liberó al pendamiento técnico. 
+	(116) Un mayor desarrollo del aspecto técnico que fisiocrático porque la racionalización permitió transformaciones más sensibles en el dominio industrial.
+	(116) Una mayor aceptación de las técnicas agrícolas o de la tierra. 
+
+(Tema::simbolismo visual y operación técnica (117))
+	Con el advenimiento de la técnica fue necesario también un nuevo lenguaje que permitiera expresar esquemas de movimiento o estructuras materiales precisas. Este simbolismo fue el visual. Pasó así de la [[civilización de la palabra]] al de la imagen. 
+	(+) Esto se puede ver también con el lenguaje visual de las computadoras sobre la programación normal. 
+
+(Tema::Esquema(118))
+	Parte de la última etapa que es las tecnologías de la información. Los [[esquemas]] no tienen necesidad de ser traducidos, mientras que la escritura sí
+
+(Tema::Civilización y diferentes etapas (118))
+	La civilización está guiada por un paradigmatismo latente, en el cuál es el nivel de la información que es más importante: con las tecnologías de la información volvió a ser oral.
+	(+) Ver similitudes con el pensamiento de [[Marshall McLuhan]]
+
+(Tema::La cinematografía (118))
+	La [[cinematografía]] se guía por un dinamismo de imágenes, es una acción cinemátiva, dramática, más que una grafía de lo simultáneo, y no algo estable. 
+	(119) El movimiento cinematográfico es rico en una hipnosis y un ritmo que adormecen las facultades reflexivas del individuo y lo lleva a una estado de participación estética.
+	(119) El cine es una arte y un medio de expresión de emociones; la imagen es allí una palabra o una frase, no es el objeto que contiene una estructura a analizar a través de la actividad del ser individual. 
+
+(Tema::La televisión (119))
+	Simondon comenta que es incapaz de descubrir sus propios modos de expresión y que está solo como medio para el placer. 
+	(119) La [[televisión]] podría convertirse en un medio de información contemrporánea de la actividad humana, lo que el cine no puede ser, porque al ser una cosa fija y registrada, pone en pasado todo lo que incorpora. 
+	(+) Sobre el [[funcionamiento de la televisión]].  Hay una conversión de lo estático en dinámico
+	(119) En el televisor hay una doble transformación que se consolida por la necesidad de transmitir una enorme cantidad de información. Esto impide a la televisión dar al individuo un medio flexible y fiel de expresión, e impide un simbolismo visual con capacidad de constituirse universalmente. 
+
+(Tema::Elementos que limitaban al humano con su relación al enciclopedismo (120))
+	"En el [[siglo XVI]], el hombre se sometía a estereotipos intelectuales; en el [[siglo XVIII]] estaba limitado por los aspectos jerárquicos de la rigidez social; en el [[siglo XX]] es esclavo de su dependencia en relación con los poderes desconocidos y lejanos que lo dirigen sin que los conozca y pueda reaccionar contra ellos; lo que lo hace servil en el aslamiento , y la falta de homogeneidad de la información lo que aliena".
+
+(Tema::El hombre y su relación con la máquina (120))
+	El hombre actual posee una fuerte inclinación que lo empuja a conducirse como máquina portadorea de herramienras, porque cumplió esa función durante largos siglos antes de la creación de las máquinas, en tiempo en lo que s existían los elementos técnicos, bajo la forma de herramientas, y los conjuntos técnicos, bajo la forma de talleres y de astilleros, pero no los ndividuos técnicos, bajo la forma de máquinas. 
+
+(Tema::Sobre el humanismo y cómo lo entiende el enciclopedismo (121))
+	Se entiende por [[humanismo]] a la voluntad de llevar a un estatuto de libertad lo que fue alienado del ser humano, para que nada humano sea extraño al hombre. 
+	Cada época recrea un humanismo que siempre es, en cierta medida, apropiado para las cinscunstancias, porque apunta al aspecto más grave de la aliencación que acarrea o produce una civilización. 
+	(121) El [[Renacimiento]] definió un humaniso apto para compensar la alienación debida al dogmatismo ético e intelectual; apuntó a volver a encontrar la libertad del pensamiento intelectual teórico. 
+	(121) En el siglo XVIII quiso a volver encontrar la significación del esfuerzo del pensamiento humano aplicado a las técnicas y volvió a encontrar con la idea de progreso la nobleza de esta continuidad creadora que se descubre en las invenciones; definió el derecho a existir de la iniciativa técnica a pesar de las fuerzas inhibidoras de la socidad. 
+	(121) En el siglo XX busca un humanismo apaz de compensar esta forma de alienación que interviene en el interior mismo del desarrollo de las técnicas, como consecuencia d la especialización que la sociedad exige y produce. 
+
+![[Pasted image 20260303064056.png]]
+
+![[Pasted image 20260303064105.png]]
+
+##### IV. Necesidad de una síntesis en el nivel de la educación entre el modo mayor y el modo menor de acceso a las técnicas
+
+![[Pasted image 20260303064439.png]]
+
+![[Pasted image 20260303064451.png]]
 
 
 
@@ -455,7 +547,13 @@ II. Condiciones de evolución técnica
 
 (Nota::El único medio en relación con el cual existe una adaptación no hipertélica es el medio creado por la adaptación misma (76))
 
+#### Segunda parte. El hombre y el objeto técnico
 
+#### Capítulo 1. Los dos modos fundamentales de relación del hombre con el hecho técnico. 
+
+##### III. Naturaleza común de las técnicas menores y de las técnicas mayores. Significación del Enciclopedismo. 
+
+(Nota::es importante hacer notar cómo lo que es el humanismo en Simondon tiene otra connotación a la utilizada por otro tiempo de pensamientos. Él ve en el enciclopedismo no la occidentalización de un conocimiento, sino el cómo se apropió de esquemas técnicos y las ventajas que eso supuso.)
 
 
 
@@ -466,6 +564,9 @@ II. Condiciones de evolución técnica
 (Idea::Se hablaría entonces de que los avances modernos con Clause, en el campo de la IA, ya es propiamente algo artificial en tanto que no requiere  ya del humano para el trabajo que realiza. ¿Qué tan cierto puede ser esto?)
 
 (Idea::Durante el entendimiento de lo que es el conocimiento del objeto técnico se comenta que las estructuras no se pidrias hacer salvo que se conozca todo, pero esto no es posible ahora con las cajas negras de los modelos de la IA, que no se conocen del todo (56))
+
+(Idea::Cuanso Simondon habla de lo oral y lo visual es muy parecido a la idea que tiene McLuhan y la escuela de Chicago sobre lo que es la técnica de lo oral y visual y cómo se pasa de uno a uno, siendo por ejemplo la radio lo oral uy ahora con el intnernet fue escrito y ahora de nuevo visual.)
+
 
 
 

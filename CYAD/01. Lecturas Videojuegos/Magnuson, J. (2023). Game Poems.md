@@ -19,6 +19,8 @@ Consultado:
 ---
 ### <mark style="background: #FFF3A3A6;">Tema</mark>
 
+#### 00. Introducción
+
 (Tema::Autores de poesía y juegos)
 	[[Mariam Asad]]: poesía moderna al diseño de juegos
 	[[Thomas Papa]]: Análisis de haiku como forma relevante de análisis y creación de videojuegos. 
@@ -35,12 +37,22 @@ Consultado:
 (Tema::Poesía y juegos (11))
 	Poesía como modo de intervención que puede existir en cualquier medio.
 
+![[Pasted image 20260305171134.png]]
+
+(Tema::separación de poesía y juegos (10))
+
+(Tema::poesía y juegos (11))
+
+#### 01. Chapter I. Thinking in terms of lyric poetric
+
 (Tema::La poética en Aristóteles (16))
 	Hay 3 tipos de poesías: 
 	1. [[Poesía lírica]]
 	2. [[Poesía épica]]
 	3. [[Drama]]
 	La primera es de expresión personal, mientras que la épica y el drama se caracterizan por ser extensas, narrativas y objetivas. Lo lírico empieza en el renacimiento en Europa. 
+
+#### 02. Chapter II. Game poems are short
 
 (Tema::Poesía lírica (26))
 	Enfocado en el qué pasa ahora, una experiencia, de momento a momento, en donde cada detalle importa. 
@@ -49,6 +61,8 @@ Consultado:
 (Tema::Game Poems (27))
 	Este tipo de juegos están enfocados a perseguir a perseguir una idea de emoción o idea sencilla, más que un tema en particular. 
 
+#### 03. Chapter III. Game poems are subjective
+
 (Tema::Subjetividad en los poemas líricos (31))
 	El sujeto está en el centro de la creación. Son personales y reflexivos y privilegian la exploración interna del actor. 
 	(32) Así, la realidad lírica no puede comparase con ninguna otra realidad. Es subjetiva por naturaleza. 
@@ -56,6 +70,23 @@ Consultado:
 (Tema::Objetividad y subjetividad en los videojuegos (32))
 	El autor comenta que el [[Videojuego]] predominantemente es objetivo, ya que relacionan personas y objetos en una representación de un espacio físico. En cambio, los juegos poéticos desarrollan la experiencia de un sujeto a través de una proyección metafórica. 
 	(+) Se deja a un lado, sin embargo, que al ser el jugador el que está en el juego, es también subjetivo. Hay, por lo tanto, objetividad y subjetividad, uno a lado del otro. 
+#### 04. Chapter IV. Game poems make use of poetic address
+
+![[Pasted image 20260305171926.png]]
+
+
+![[Pasted image 20260305171954.png]]
+
+(Tema::dirección poética (39))
+
+(Tema::Juegos narrativos vs. poéticos (42))
+
+(Tema::Relación de individuos (43))
+
+#### 05. Chapter V. Game poems exists in a ritual space rather than a narrative space
+
+
+
 
 
 ---

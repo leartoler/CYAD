@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(258, 88%, 66%)",
-      "directory": "17. Calendario"
+      "color": "#ffffff",
+      "directory": "18. Calendario"
     }
   ],
   "defaultCalendar": 0,

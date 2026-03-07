@@ -11,5 +11,8 @@
   "infranodus-graph-view",
   "tags-routes",
   "latex-exporter",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "obsidian-export-image",
+  "slash-commander",
+  "smart-connections"
 ]

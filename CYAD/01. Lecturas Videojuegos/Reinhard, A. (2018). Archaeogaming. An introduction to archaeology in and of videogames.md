@@ -35,7 +35,7 @@ Consultado:
 	. Espacio del juego en sí.
 
 (Tema::Videojuegos y Tecnología (11))
-	Según Goldberg y Larrson, citado de Reinhard, los videojuegos han estado más relacionados a la [[Tecnología]] que a la [[Cultura]]. Dicho esto, el videojuego no puede separarse de su contexto y cultura y son, por lo tanto, sitios y artefactos. 
+	Según Goldberg y Larrson, citado de Reinhard, los videojuegos han estado más relacionados a la [[tecnología]] que a la [[Cultura]]. Dicho esto, el videojuego no puede separarse de su contexto y cultura y son, por lo tanto, sitios y artefactos. 
 
 (Tema::Arqueología recreacional (27))
 	[[Arqueología]] para el público y que maximiza la apariencia pública
