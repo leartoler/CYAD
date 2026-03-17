@@ -151,7 +151,7 @@ El artículo muestra cómo esta concepción tiene consecuencias en la filosofía
 
 ## **9. Conceptos en [[doble corchete]]**
 
-- [[Individuación]]
+- [[individuación]]
     
 - [[Información Simondoniana]]
     

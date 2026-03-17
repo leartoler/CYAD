@@ -1,0 +1,5 @@
+
+"embedding_models:transformers#1773027753622": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773027753622,"key":"transformers#1773027753622"},
+"embedding_models:transformers#1773027829108": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773027829108,"key":"transformers#1773027829108"},
+"embedding_models:transformers#1773661456373": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773661456373,"key":"transformers#1773661456373"},
+"embedding_models:transformers#1773745265514": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773745265514,"key":"transformers#1773745265514"},

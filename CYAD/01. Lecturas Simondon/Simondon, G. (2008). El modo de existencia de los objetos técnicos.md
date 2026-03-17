@@ -12,7 +12,7 @@ Consultado:
 Título:
 Leído:
 ---
-### <mark style="background: #FFB8EBA6;">Concepto</mark>
+## <mark style="background: #FFB8EBA6;">Concepto</mark>
 
 
 (Concepto::Artificial (12))
@@ -29,9 +29,9 @@ Leído:
 
 
 ---
-### <mark style="background: #FFF3A3A6;">Tema</mark>
+## <mark style="background: #FFF3A3A6;">Tema</mark>
 
-#### Prólogo
+### Prólogo
 
 (Tema:: Simondon, genealogía (11))
 	Simondon es genealogista, en el sentido de poner en escena la procedencia. Busca la [[genealogía]] (procedencia) del individuo y del objeto técnico. Pero dicha génesis se da solo si deja a un lado esta génesis, una conversión hacia un plano individual. 
@@ -59,7 +59,7 @@ Leído:
 (Tema::Crítica a la cibernética (20))
 	Simondon hace fuertes críticas a la cibernética realizando analogías de los más inverosímiles, al menos hasta ese momento. 
 
-#### Introducción 
+### Introducción 
 
 (Tema::Abdicación a la máquina (32))
 	Esto conlleva a la crítica de la [[cibernética]], el abdicar frente a ella y delegar nuestra humanidad. 
@@ -78,7 +78,7 @@ Leído:
 	- [[individuo técnico]]: Compite con el hombre porque aquí el hombre no es el único portador de herramientas. 
 	- [[Conjunto técnico]]: Siglo XX. Lo termodinámico se reemplaza por la teoría de la información, cuyo contenido es regularizador y estabilizador. Es la máquina. 
 
-#### Primera parte. Génesis y evolución del objeto técnico
+### Primera parte. Génesis y evolución del objeto técnico
 
 #### Capítulo 1. Génesis del objeto técnico: el proceso de concretización
 
@@ -180,7 +180,7 @@ Leído:
 	El objeto técnico es aquello cuya génesis específica procede de lo abstracto a lo concreto. Esta génesis se cumple por medio de perfeccionamientos esenciales, discontinuos, que hacen que el esquema interno del objeto técnico se modifique a través de saltos y no según una linea continua.
 	Las verdaderas etapas del perfeccionamiento del objeto técnico se hace por mutaciones orientadas
 
-##### Orígenes absolutos de un linaje técnico
+##### IV. Orígenes absolutos de un linaje técnico
 
 (Tema::Origen técnico y funcionamiento interno (63))
 	El objeto técnico, además de existir por el resultado de su funcionamiento en los dispositivos exteriores (una conducta asimétrica), existe por los fenómenos de los que es sede en sí mismo; es a través de ellos que posee una fecundidad, una no saturación que le da una posteridad.
@@ -367,7 +367,7 @@ Leído:
 (Tema::La máquina herramienta (99))
 	La [[máquina herramienta]] es aquella que no tiene regulación interior autónoma y que precisa de una persona para hacerla funcionar. El hombre interviene aquí como ser viviente y utiliza su propio sentido de autoregulación para operar la máquina herramienta. 
 
-#### Segunda parte. El hombre y el objeto técnico
+### Segunda parte. El hombre y el objeto técnico
 
 #### Capítulo 1. Los dos modos fundamentales de relación del hombre con el hecho técnico. 
 
@@ -483,6 +483,218 @@ De sus características y cómo la tecnología quita la teleología o determinis
 
 ![[Pasted image 20260303064451.png]]
 
+#### Capítulo 2. Función reguladora de la cultura en la relación entre el hombre y el mundo de los objetos técnicos. Problemas actuales
+
+##### I. Las diferentes modalidades de la noción de progreso
+
+![[Pasted image 20260308222403.png]]
+
+
+![[Pasted image 20260308222433.png]]
+
+(Tema::Enciclopedistas (131))
+
+(Tema::Progreso científico del siglo XXI (133))
+
+##### II. Crítica de la relación del hombre y del objeto técnico tal como lo presenta la  noción de progreso nacida de la termodinámica y de la energética. Recurso a ala teoría de la información
+
+![[Pasted image 20260308222903.png]]
+
+![[Pasted image 20260308222922.png]]
+
+![[Pasted image 20260308222944.png]]
+
+
+##### III. Límites de la noción tecnológica de información para dar cuenta de la relación del hombre y del objeto técnico. El margen de indeterminación en los individuos técnicos. El automatismo
+
+![[Pasted image 20260308223648.png]]
+
+![[Pasted image 20260308223708.png]]
+
+![[Pasted image 20260308223731.png]]
+
+![[Pasted image 20260308223913.png]]
+
+
+##### IV. El pensamiento filosófico debe operar la integración de la realidad técnica a la cultura universal fundando una tecnología.
+
+![[Pasted image 20260308224141.png]]
+
+
+![[Pasted image 20260308224255.png]]
+
+### Tercera parte. Génesis y evolución de los objetos técnicos 
+
+#### Introducción
+
+(Tema::Génesis y objeto técnico (171))
+
+(Tema::Génesis del objeto técnico (171))
+
+(Tema::Interpretación genética generalizada (171))
+
+(Tema::Génesis según el ILFI (171))
+
+(Tema::Devenir como adaptación. Función y finalidad (172))
+
+(Tema::Evolución y finalidad (173))
+
+(Tema::Hipótesis de esquema genético (173))
+
+(Tema::Etapa de estructuración individuante: fase mágica. El cómo se conceptualiza la tecnicidad (173-174))
+
+(Tema::Tecnicidad (174))
+
+(Tema::Tecnicidad no es algo completo (174))
+
+(Tema::Tecnicidad como ruptura (174))
+
+(Tema::Convergencia y divergencia (174-175))
+
+(Tema::Sobresaturación en la tecnicidad (175))
+
+(Tema::Génesis de la tecnicidad (175))
+
+
+![[Pasted image 20260311191531.png]]
+
+![[Pasted image 20260311191553.png]]
+
+![[Pasted image 20260311191616.png]]
+
+![[Pasted image 20260311191635.png]]
+
+#### Capítulo 1. Génesis de la tecnicidad
+
+##### I. La noción de fase aplicado al devenir. La tecnicidad como fase.
+
+(Tema::La tecnicidad como fase y significado de fase (177))
+
+(Tema::Adopción del sistema de fases. Cómo se conforma (177-178))
+
+(Tema::La fase mágica y tecnicidad (178))
+
+(Tema::Desdoblamientos de fases (178))
+
+(Tema::Distancia entre fases y modos teóricos (178))
+
+(Tema::Relaciones entre fases, etapas y relaciones equilibradas (178-179))
+
+(Tema::Objetivo del pensamiento reflexivo (179))
+
+(Tema::Génesis de la técnica y religión. Condición y lo que posibilita (179-180))
+
+
+![[tecnicidad 1.png]]
+
+![[fases 1.png]]
+
+![[Pasted image 20260311192850.png]]
+
+
+##### II. El desfasaje de la unidad mágica primitiva
+
+(Tema::Necesidad del conocimiento de la génesis (180))
+
+(Tema::Tecnicidad y objetos técnicos (180))
+
+(Tema::Motor de los desdoblamientos y estructuración (180-181))
+
+(Tema::Unidad mágica y primitiva (181-183))
+
+(Tema::Puntos clave del mundo mágico (182))
+
+(Tema::Estructuración del mundo mágico y concepto de lugar privilegiado (182))
+
+(Tema::Puntos clave: unión. Unión de dos realidades (183))
+
+(Tema::Estructuración del mundo mágico. Conceptos de punto clave (183))
+
+(Tema::Esquema y base en el pensamiento mágico (183-184))
+
+(Tema::Sobre la ascención como culmen de un punto clave (184))
+
+(Tema::Red de límite temporal. Fechas límites (184))
+
+(Tema::Pensamiento mágico en la actualidad (184-185))
+
+(Tema::Tiempo y espacio corriente (185))
+
+(Tema::Objetivación de puntos clave en objetos técnicos (185))
+
+(Tema::Ruptura de la estructuración inicial: objetivación en la técnica y subjetivación en el sujeto (185-186))
+
+(Tema::Técnica y religión y cómo dotan de dirección a la ciencia y ética (186-187))
+
+(Tema::Particularidades de la tecnicidad (187-188))
+
+
+![[Pasted image 20260316054207.png]]
+
+![[Pasted image 20260316054239.png]]
+
+![[Pasted image 20260316054300.png]]
+
+![[Pasted image 20260316054322.png]]
+
+![[Pasted image 20260316054344.png]]
+
+![[Pasted image 20260316054358.png]]
+
+##### III. Las divergencias entre el pensamiento técnico y el pensamiento religioso 
+
+(Tema::Fondo y figura en la tecnicidad. Desprendimiento (188))
+
+(Tema::Figura y fondo en el universo mágico)
+
+(Tema::El desdoblamiento de lo religioso y su papel en tanto fondo (189-190))
+
+(Tema::La subjetivación religiosa (190-191))
+
+(Tema::Tecnicidad y religiosidad (191))
+
+(Tema::La religión y la totalidad (191))
+
+(Tema::Multiplicidad y unidad de los objetos técnicos (191))
+
+(Tema::Pensamiento técnico (191-192))
+
+(Tema::El pensamiento técnico y su adherencia al elemento (192))
+
+(Tema::Apuntes de la tecnicidad y aplicación de esquemas (192))
+
+(Tema::Tecnicidad, elementos y acción (192-193))
+
+(Tema::Religión y ética. Pensamiento religioso y técnico en las ciencias (193))
+
+(Tema::Inducción y pensamiento religioso (193-194))
+
+(Tema::Ética de la técnica (194-195))
+
+(Tema::Ética en el pensamiento religioso (195))
+
+
+![[Pasted image 20260316060233 1.png]]
+
+![[Pasted image 20260316060253 1.png]]
+
+
+![[Pasted image 20260316060506 1.png]]
+
+![[Pasted image 20260316060520 1.png]]
+
+
+#### Capítulo II. Relaciones entre el pensamiento técnico y otras especies de pensamiento
+
+##### I. Pensamiento técnico y pensamiento estético
+
+
+##### II. Pensamiento técnico, pensamiento teórico, pensamiento practico
+
+
+#### Capítulo III. Pensamiento técnico y pensamiento filosófico
+
+#### Conclusión
 
 
 
@@ -496,7 +708,14 @@ De sus características y cómo la tecnología quita la teleología o determinis
 
 
 ---
+
+
+
+
+
+
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
+
 
 
 #### Primera parte. Génesis y evolución del objeto técnico

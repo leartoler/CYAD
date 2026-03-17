@@ -170,7 +170,7 @@ Además de la incluida en el artículo:
     
 - [[Transducción]]
     
-- [[Individuación]]
+- [[individuación]]
     
 - [[Afectividad]]
     
