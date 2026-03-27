@@ -23,16 +23,14 @@
             "id": "2b68be49add28877",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
-                "page": 1,
-                "left": -22,
-                "top": 651,
-                "zoom": 0.6818804824561404
+                "file": "01. Lecturas Simondon/Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators"
+              "icon": "lucide-file",
+              "title": "Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon"
             }
           },
           {
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
+                "file": "01. Lecturas Simondon/Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for [Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators"
+              "title": "Backlinks for Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon"
             }
           },
           {
@@ -286,15 +284,24 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "e105e905bb6264bc",
+  "active": "2b68be49add28877",
   "lastOpenFiles": [
-    "01. Lecturas Simondon/Blanco, J., et al(2015). Amar a las máquinas/Heredia, J. M. (2015). Técnica y transindividualidad.md",
-    "01. Lecturas Simondon/Blanco, J., et al(2015). Amar a las máquinas/Montoya, J. W. (2015). El individuo técnico. un objeto inevitable.md",
+    "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas/Heredia, J. M. (2015). Técnica y transindividualidad.md",
+    "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas/Montoya, J. W. (2015). El individuo técnico. un objeto inevitable.md",
+    "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
+    "SMART-~1/multi/Índice_Ideas_md.ajson",
+    "SMART-~1/multi/TagsRoutes_logMessage_md.ajson",
+    "SMART-~1/multi/Sin_título_canvas.ajson",
+    "SMART-~1/multi/PenasLopez_ConceptoPotencia_2013_md.ajson",
+    "SMART-~1/multi/qwe_md.ajson",
+    "SMART-~1/multi/Presentacion_md.ajson",
+    "SMART-~1/multi/LiteratureNotes_The_type_–_variety_concept_as_a_basis_for_the_analysis_of_Maya_pottery_md.ajson",
+    "SMART-~1/multi/Lafitte_md.ajson",
+    "SMART-~1/multi/Indice_Notas_md.ajson",
     "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
     "01. Lecturas Simondon/Segunda sesión de individuación.md",
     "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
     "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano..md",
-    "04. Bibliografía/Martin Heidegger, El orígen de la obra de arte.pdf",
     "10. Imágenes/DOCUMENT_SCAN_0_20260319_172443.jpeg",
     "13. Escritos/Trabajo final.md",
     "01. Lecturas Videojuegos/Lebowitz, J., y Klug, Ch., (2011). Interactive storytelling for videogames.md",
@@ -304,7 +311,6 @@
     "Pasted image 20260325111231.png",
     "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
     "Presentacion.md",
-    "20260325-1021-03.2260211.mp4",
     "13. Escritos/La individuación del videojuego.md",
     "TagsRoutes/logMessage.md",
     "10. Imágenes/Pasted image 20260318182459.jpg",
@@ -315,7 +321,6 @@
     "PenasLopez_ConceptoPotencia_2013.md",
     "Untitled.md",
     "LiteratureNotes/The type – variety concept as a basis for the analysis of Maya pottery.md",
-    "qwe.md",
-    "LiteratureNotes"
+    "qwe.md"
   ]
 }
