@@ -15,13 +15,13 @@ Consultado:
 (Concepto::[[Hecceidad]])
 	Principio de individuación
 
-(Concepto::[[Término(24)]])
+(Concepto::Término(24))
 	Relacionado al término primero. Un término es ya un individuo o algo individualizable y que puede ser fuente de hecceidad.
 
 (Concepto::Ontogénesis(26))
 	Carácter del devenir del ser, aquello por lo que deviene y lo hace ser como es. 
 
-(Concepto::[[Devenir(27)]])
+(Concepto::Devenir (27))
 	Una dimensión del ser, modo de resolución de una incompatibilidad que tiene potenciales.
 
 (Concepto::Información(36))
@@ -60,6 +60,11 @@ Consultado:
 (Tema::Proceso de individuación (18))
 	Los procesos de individuación psíquica se construyen incesantemente junto con los procesos de individuación colectiva sobre un fondo de individuación vital que, a su vez, se construye sobre un fondo de individuación física. 
 #### Introducción
+
+(Tema::Sobre el mundo psicosocial de lo transindividual (33))
+
+![[Pasted image 20260319095523.png]]
+
 
 (Tema::El individuo en su individuación(26))
 	El individuo sería captado entonces como una realidad relativa, una ierta fase del ser que supone antes que ella una realidad preindividual y que, aún después de la individuación, no existe completamente sola, pues la individuación no onsume de golpe los potenciales de la realidad preindividual, y por otra parte, lo que la indiviudación hace aparece no es solamente el individuo, sino la pareja individuo-medio. 

@@ -1,70 +1,70 @@
 {
   "main": {
-    "id": "633aafebe468c377",
+    "id": "9270437867bd66c8",
     "type": "split",
     "children": [
       {
-        "id": "ff43819e37ba116a",
+        "id": "3ee64aa736ac7dba",
         "type": "tabs",
         "children": [
           {
-            "id": "98394f919cb21eb7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/Tercer control.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tercer control"
-            }
-          },
-          {
-            "id": "31dd3047ca291d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America"
-            }
-          },
-          {
-            "id": "4dd1260c148710bd",
+            "id": "f8097b7c05551b4c",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "10. Imágenes/Pasted image 20260317134558.png"
+                "file": "10. Imágenes/DOCUMENT_SCAN_0_20260319_172443.jpeg"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260317134558"
+              "title": "DOCUMENT_SCAN_0_20260319_172443"
+            }
+          },
+          {
+            "id": "2b68be49add28877",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
+                "page": 1,
+                "left": -22,
+                "top": 651,
+                "zoom": 0.6818804824561404
+              },
+              "icon": "lucide-file-text",
+              "title": "[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators"
+            }
+          },
+          {
+            "id": "a2fe7e52acb6fd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Escritos/Trabajo final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabajo final"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e3c2b1709712a84d",
+    "id": "3b6e3403d9075ffa",
     "type": "split",
     "children": [
       {
-        "id": "425a9811044e1d9b",
+        "id": "13d4a7446abb914a",
         "type": "tabs",
         "children": [
           {
-            "id": "cff4b409f11cfdcc",
+            "id": "e105e905bb6264bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +77,12 @@
             }
           },
           {
-            "id": "6e11f77241e9acb1",
+            "id": "37df5169093b4616",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "individuación",
+                "query": "\"objeto concreto\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             }
           },
           {
-            "id": "e8e6e4187885f630",
+            "id": "857032a10896e707",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,68 +102,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "93b03e3eb7f631a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 1186.5
   },
   "right": {
-    "id": "e384abcc009c0f1d",
+    "id": "251599948ab2c7fd",
     "type": "split",
     "children": [
       {
-        "id": "666625c84f2b3bc0",
+        "id": "0f2824c95d4cb4da",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1a1b47a6e48212",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
-            "id": "17748624dbc410ad",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "ef42c623fc0ddeb9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
-            }
-          },
-          {
-            "id": "1b5cf4a9ff24825a",
+            "id": "e2d156c6189e1bca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Desastre y fraude arqueológico en Quintana Roo  El Universal.md",
+                "file": "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Desastre y fraude arqueológico en Quintana Roo  El Universal"
+              "title": "Backlinks for [Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators"
             }
           },
           {
-            "id": "38364ab6b0fa6940",
+            "id": "aed3014ffc70d99f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Desastre y fraude arqueológico en Quintana Roo  El Universal.md",
+                "file": "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Desastre y fraude arqueológico en Quintana Roo  El Universal"
+              "title": "Outgoing links from 4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego"
             }
           },
           {
-            "id": "8ba0920be281132f",
+            "id": "a084571bda1e7282",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -206,22 +166,66 @@
             }
           },
           {
-            "id": "fc35d9e4ee5ceb5f",
+            "id": "e480268d88094f74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9b225d1cad830f12",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Desastre y fraude arqueológico en Quintana Roo  El Universal.md",
+                "file": "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Desastre y fraude arqueológico en Quintana Roo  El Universal"
+              "title": "Outline of 4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego"
             }
           },
           {
-            "id": "d9727f0cb386d7c0",
+            "id": "54111b5d441633e6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "ebe3096c7cc2562d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "4f687e39bbd664cc",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
+            }
+          },
+          {
+            "id": "c2c53765059afe67",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -231,7 +235,7 @@
             }
           },
           {
-            "id": "ac2f0cc94909bf42",
+            "id": "b4236e9f0421aac8",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -241,7 +245,7 @@
             }
           },
           {
-            "id": "f52ea9aca213fdec",
+            "id": "8af46d43e9be9e20",
             "type": "leaf",
             "state": {
               "type": "infranodus-graph-view",
@@ -249,90 +253,69 @@
               "icon": "infranodus-icon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "juggl:Juggl global graph": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "infranodus-graph-view:InfraNodus Graph View": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "cff4b409f11cfdcc",
+  "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "01. Lecturas Videojuegos/Juul, J. (2021). The Game of video game object. A minimal theory of when se wee pixels as objects rather than pictures.md",
-    "01. Lecturas Videojuegos/Juul, J. (2003). The game, the player, the world. Looking for a heart of gameness.md",
-    "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
-    "10. Imágenes/Pasted image 20260317134558.png",
-    "10. Imágenes/Pasted image 20260317134546.png",
-    "10. Imágenes/Pasted image 20260317134533.png",
-    "10. Imágenes/Pasted image 20260317134519.png",
-    "10. Imágenes/Pasted image 20260317134507.png",
-    "10. Imágenes/Pasted image 20260317134454.png",
-    "10. Imágenes/Pasted image 20260317133537.png",
-    "10. Imágenes/Pasted image 20260317133522.png",
-    "10. Imágenes/Pasted image 20260317133254.png",
-    "10. Imágenes/Pasted image 20260317133241.png",
-    "04. Bibliografía/Penix-Tadsen, Phillip - Cultural code_ video games and Latin America-The MIT Press (2016)[2].pdf",
-    "Indice.md",
-    "Indice de Temas.md",
-    "Indice Notas.md",
-    "Sin título.canvas",
-    "13. Escritos/Tercer control.md",
-    "Clippings/El Tren Maya arrastra al debate a los arqueólogos del INAH  El Universal.md",
-    "01. Lecturas Videojuegos/Dragon, J. (2025). The Expressionis Game Manifiesto.md",
-    "06. Leído/ExpressionistGames.pdf",
-    "06. Leído/Lindsay_Rethoric.pdf",
-    "Índice Ideas.md",
-    "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon.md",
-    "01. Lecturas Videojuegos/Huizinga, J. (2007). Homo Ludens..md",
-    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
-    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
-    "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
-    "10. Imágenes/Export (4).pdf",
-    "02. Conceptos/artesano.md",
-    "2026-01-26.md",
-    "2026-01-16.md",
-    "10. Imágenes/funcionamiento de la televisión.md",
-    "02. Conceptos/individuación.md",
-    "Games of Cimplicity.md",
+    "01. Lecturas Simondon/Blanco, J., et al(2015). Amar a las máquinas/Heredia, J. M. (2015). Técnica y transindividualidad.md",
+    "01. Lecturas Simondon/Blanco, J., et al(2015). Amar a las máquinas/Montoya, J. W. (2015). El individuo técnico. un objeto inevitable.md",
     "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "17. Clases/Asesorías_02/Sesión 3 - 20260303.md",
-    "02. Conceptos/Amplificación Transductiva.md",
-    "Clippings/The Number Go Up Addiction.md",
-    "17. Clases/Taller_Colaborativo_2/Sesión_03",
-    "17. Clases/Taller_Colaborativo_2",
-    "18. Calendario",
-    "17. Clases/Asesorías_02/Sesión 3. Simondon.pdf",
-    "17. Clases/Asesorías_02",
-    "17. Clases",
-    "12. Gráficas/Individuación.canvas",
-    "12. Gráficas/Teoria 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "01. Lecturas Simondon/Segunda sesión de individuación.md",
+    "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+    "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano..md",
+    "04. Bibliografía/Martin Heidegger, El orígen de la obra de arte.pdf",
+    "10. Imágenes/DOCUMENT_SCAN_0_20260319_172443.jpeg",
+    "13. Escritos/Trabajo final.md",
+    "01. Lecturas Videojuegos/Lebowitz, J., y Klug, Ch., (2011). Interactive storytelling for videogames.md",
+    "Pasted image 20260325111350.png",
+    "Pasted image 20260325111329.png",
+    "Pasted image 20260325111308.png",
+    "Pasted image 20260325111231.png",
+    "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "Presentacion.md",
+    "20260325-1021-03.2260211.mp4",
+    "13. Escritos/La individuación del videojuego.md",
+    "TagsRoutes/logMessage.md",
+    "10. Imágenes/Pasted image 20260318182459.jpg",
+    "10. Imágenes/Pasted image 20260320172636.png",
+    "10. Imágenes/Pasted image 20260320192904.png",
+    "10. Imágenes/Pasted image 20260321030106.png",
+    "10. Imágenes/Pasted image 20260321031057.png",
+    "PenasLopez_ConceptoPotencia_2013.md",
+    "Untitled.md",
+    "LiteratureNotes/The type – variety concept as a basis for the analysis of Maya pottery.md",
+    "qwe.md",
+    "LiteratureNotes"
   ]
 }

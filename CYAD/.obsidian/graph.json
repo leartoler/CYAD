@@ -8,44 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Protocolo amplíado",
+      "query": "file: 4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego",
       "color": {
         "a": 1,
-        "rgb": 65297
+        "rgb": 14701138
       }
     },
     {
-      "query": "file:Jaramillo",
+      "query": "path:\"13. Escritos\"  ",
       "color": {
         "a": 1,
-        "rgb": 15275715
-      }
-    },
-    {
-      "query": "path:Hart",
-      "color": {
-        "a": 1,
-        "rgb": 14810880
-      }
-    },
-    {
-      "query": "Path:Blanco",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
+        "rgb": 1966335
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.7,
-  "nodeSizeMultiplier": 0.822105263157895,
-  "lineSizeMultiplier": 0.976842105263158,
-  "collapse-forces": false,
-  "centerStrength": 0.310526315789474,
-  "repelStrength": 20,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.3296875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.208333333333333,
+  "repelStrength": 12.3958333333333,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.03410811296123961,
-  "close": true
+  "linkDistance": 155,
+  "scale": 0.010952991388876015,
+  "close": false
 }

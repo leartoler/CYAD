@@ -3,7 +3,7 @@ Título: El concepto de potencia en Simondon. Hacia una filosofía horizontal de
 Autor: Miguel Penas López
 Año: 2013
 Editorial: CIECS UNC
-Libro: Astrolabio. Nueva época
+Libro: "[[PenasLopez_ConceptoPotencia_2013.pdf]]"
 Leído:
 APA: Penas López, M. (2013). El concepto de potencia en Simondon. Hacia una filosofía horizontal de los afectos. Astrolabio. Nueva época, 10, 216–241.
 Resumen generado: "[[Resumen Penas L., M. (2013). El concepto de potencia en Simondon]]"

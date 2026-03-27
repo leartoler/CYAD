@@ -9,3 +9,7 @@ OR "01. Lecturas Yuk Hui"
 
 
 
+```dataview 
+TABLE Título, Autor, Tema, Nota, Idea
+FROM "01. Lecturas Simondon"
+```

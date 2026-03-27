@@ -13,7 +13,7 @@
       }
     },
     "excluded_headings": "",
-    "file_exclusions": "Untitled",
+    "file_exclusions": "Untitled,01. Lecturas Simondon/Blanco,J.,Parente,D.,Rodriguez,P. Y Vaccari,A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon/Montoya,J. W. (2015). El individuo técnico. un objeto inevitable.md,01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon/Montoya, J. W. (2015). El individuo técnico. un objeto inevitable.md",
     "folder_exclusions": ""
   },
   "language": "en",
@@ -28,7 +28,8 @@
     "muted": {
       "done_import": true,
       "embedding_complete": true,
-      "done_initial_scan": true
+      "done_initial_scan": true,
+      "saving_collection": true
     }
   },
   "smart_view_filter": {

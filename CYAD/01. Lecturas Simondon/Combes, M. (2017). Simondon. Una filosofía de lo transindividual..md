@@ -64,7 +64,7 @@ Consultado:
 
 #### 01. Pensamiento del ser y estatus de lo uno: de la relatividad de lo real a la realidad de la relación 
 
-##### La operación
+##### I. La operación
 
 (Tema::El ser en el tema de la individuación (25))
 	En el texto de [[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información]], tanto al inicio como al final de la introducción, se formula de dos formas lo que es el ser:
@@ -79,10 +79,10 @@ Consultado:
 
 (Tema::Individuación (27))
 	Es el proceso en donde el principio no solo es puesto a práctica, sino también constituido.
-	(27) Con ello, Simondon sustituye al individuo (como algo ya dado) por individuación (proceso), el principio por operación. 
+	==(27)== Con ello, Simondon sustituye al individuo (como algo ya dado) por individuación (proceso), el principio por operación. 
 	(27) “Buscar conocer al individuo a través de la individuación antes que la individuación a partir del individuo”.
-	(27) La génesis del ser como momento del [[devenir]].
-	(27) El ser solo puede ser conocido de manera adecuada en su medio, si se le capta en su centro (a través de la operación de individuación y no a partir del término de dicha operación).
+	==(27==) La génesis del ser como momento del [[devenir]].
+	==(27)== El ser solo puede ser conocido de manera adecuada en su medio, si se le capta en su centro (a través de la operación de individuación y no a partir del término de dicha operación).
 	(39) DEl mismo modo que no se puede buscar fuera de un [[dominio]] las estructuras de resolución que operan en el interior de ese dominio, no se puede pretender estudiar la individuación en general. Siempre se trata con casos de individuación singulares.  
 	(49) No se estudia la individuación en general, sino en singular, de grupos singulares; sin embargo, hay ciertos caracteres comunes al conjunto sin los cuales no sería capaz de realizar su estudio. 
 	(49) Solo hay operación de individuación en el interior de un sistema que contiene suficiente energía potencial como para que la aparición de una singularidad, es decir de un germen estructura, desencadene una adquisición de forma. 	
@@ -92,6 +92,8 @@ Consultado:
 
 (Tema::Ontogénesis (27-28)) 
 	Captura la génesis de los individuos en el seno de la operación de individuación, sustituyendo la ontología por [[ontogénesis]].
+
+##### II. Más que uno
 
 (Tema::El ser más que uno (28))
 	Cuando se come a que el ser es múltiple es porque puede ser captado como más que unidad e identidad. Dentro de los potenciales hay múltiples de él que pueden derivar de su energía potencial. Es potencia de mutación y tiene reserva del devenir.
@@ -115,6 +117,8 @@ Consultado:
 (Tema::Información (30-31))
 	La forma se convierte en información. Es la operación de adquisición de forma, la dirección irreversible en el cual opera la individuación. Es la preforma que guía la elaboración del objeto técnico. 
 	(31) En el ejemplo del ladrillo, hay una operación de modulación de información al ser que el molde modula la forma de una materia que ya está predispuesta al cambio
+
+##### III. Transducción
 
 (Tema::Unidad Transductiva (32))
 	Lo uno, la unidad, adviene en el ser y debe de ser comprendido como el sedimento relativo del “escalamiento del ser”, de su capacidad de desfasarse. Es decir, es aquello que se desafía y escala en el ser, se presenta en cada una de sus fases, dando pie a la fase que sigue.
@@ -146,6 +150,8 @@ Consultado:
 (Tema::Reinterpretaión de Parménides (34))
 	Se observa la inspiración que tiene Simondon sobre el pensamiento griego al retomar a [[Parménides]] en el cual “Lo mismo, por su parte, es a la vez pensar y ser”.
 
+##### IV. La analogía
+
 (Tema::Analogía(36))
 	Es la puesta en relacíón de dos operaciones.
 	(37) En el método analógico se plantea una autonomía de las operaciones en relación a los términos. Se debe conocer, además, el proceso que hace posible a la [[analogía]] y no al revés, como suele suceder. 
@@ -166,6 +172,8 @@ Consultado:
 	Una de las críticas que hace [[Combes]] es que la analogía parece ser tratada como algo reiterativo; es decir, “el descubrimiento de la analogía en el orden del pensamiento es concebido él mismo pór analogía con la operación de cristalización. Ante esta crítica el autor considera que debe de tomarse distancia a la hora de hacer esta analogía, puesto 
 	que la individuacIón es individual.  
 
+##### VI. La allagmática
+
 (Tema::Allagmática (42))
 	La [[Allagmática]] es la teoría de las operaciones. Se trata de la vertiente operatoria de la teoría científica.
 	<span style="background:#fff88f">(43)</span> Algunas tareas de la allagmática son “determinar la verdadera relación entre la estructura y la operación en el ser”.
@@ -181,7 +189,11 @@ Consultado:
 (Tema::Individuo (44))
 	Es el resultado parcial y provisorio de la individuación por el hecho de que, guardando con él una reserva de preindividualidad, es capaz de individuaciones plurales. 
 	<span style="background:#fff88f">	(46) </span>considerar al ser como “relación en el ser, relación del ser, manera de ser”.
-	<span style="background:#fff88f">(61)</span> El individuo es una realidad de una relación metaestable
+	<span style="background:#fff88f">(61)</span> El individuo es una realidad de una relación metaestable.
+
+##### VII. La realidad de lo relativo
+
+###### a. Del conocimiento de la relación al conocimiento como relación
 
 (Tema::Relación (44))
 	Dentro de la teoría de la individuación, la relación se redefine como “un aspecto de la resonancia interna de un sistema de individuación”. Es decir, es parte del individuo. 
@@ -200,6 +212,8 @@ Consultado:
 (Tema::Cualidades vs. características en el individuo (45))
 	Transparencia, lo digital o incluso los colores no se dejan pasar como cualidades de una sustancia sino como características que aparecen en un sistema durante un cambio de estado. 
 
+###### b. Consistencia y constitución
+
 (Tema::El individuo físico (48))
 	Que el individuo físico consista en relaciones se entiende de 2 maneras:
 	1. El individuo físico no es nada distinto a las relaciones, a la operación individual te o a las individuación es 
@@ -207,6 +221,8 @@ Consultado:
 
 (Tema::Sobre el límite en los individuos (50-51))
 	No hay una distinción entre [[interioridad]] y [[exterioridad]], ya que lo interior se puede subvertir y viceversa. Es por ello que el individuo aparece como un ser limitado y no finito. Lo que caracteriza a los individuos, por lo tanto, es la limitación, la cual se desplaza con base a un crecimiento indefinido. Tómese por ejemplo un cristal, el cual al hacer reacción y crecer marca nuevos límites y nuevos centros, no hay por lo tanto una finitud, puesto que puede crecer de forma indefinida, sino límites que hay en cada cambio de fase. 
+
+###### c. Esta relación que es el individuo
 
 (Tema::Medio asociado en la individuación física (52))
 	En el dominio de la individuación física, el medio asociado es el campo; es decir, la verdadera magnitud física, que sin ser una parte del individuo, está “centrada alrededor de él”.
@@ -221,6 +237,11 @@ Consultado:
 (Tema::Diferencia entre la individuación física y la vital (54))
 	La principal distinción entre lo físico y lo vital es que el primero tiene una exterioridad, solo una individuación exterior, mientras que lo viviente tiene una doble individuación, “una individuación perpetuada, que es la vida misma”, la interior y la exterior, en constante relación.  Así, lío viviente tiene una verdadera individuación porque la individuación se cumple dentro suyo. Comenta Simondon: “el individuo viviente tiene […] una verdadera interioridad, porque la individuación se cumple dentro suyo; el interior también es constituyente en ek individuo viviente, mientras quye en el individuo físico solo el límite es constituyente, y lo que es topológicamente interior es genéticamente anterior. El individuo viviente es contemporáneo de sí m is o en todos sus elementos, no así el individuo físico, que conlleva un pasado radicalmente pasado aun cuando está creciendo” (ILFI, 15)
 
+
+#### 2. La relación transindividual
+
+##### I. La individuación psíquica y colectiva: ¿Una o varias individuaciones?
+
 (Tema::Lo transindividual (58))
 	Lo [[transindividual]] es lo que unifica no el individuo y la sociedad, sino una relación interior al individuo (la que define su psiquismo) y una relación exterior (la que define lo colectivo): la unidad transindividual de las dos relaciones es pues una relación de relaciones.
 
@@ -234,6 +255,9 @@ Consultado:
 (Tema::Dominio (61))
 	Los dominios resultan de la manera en la que la metaestabilidad del sistema individuo/medio se conserva o al contrario de degrada después de la individuación. El dominio físico es donde el individuo, al aparecer, hace desaparecer el estado metaestable suprimiendo las tensiones del sistema en el que aparece. En el dominio de lo viviente, el individuo mantiene alli la metaestabiliad del sistema en donde nace. 
 	<span style="background:#fff88f">(62) </span>Lo que define a un domino, por lo tanto, no son las sustancias que lo llenan, sino las funciones que nacen del desdoblamiento individuante y que le dan su nombre. 
+
+
+##### II. Afectividad y emotividad, la vida más que individual
 
 (Tema::Simondon y lo afectivo-emotivo (64))
 	Simondon comenta que la capa afectivo emotivo , a saber "son sus modificaciones las que constituyen las modificaciones del individuo". 
@@ -265,7 +289,8 @@ Consultado:
 
 (Tema::Resumen)
 	Se habla de la tensión entre percepción y afectividad y cómo su resolución de forma individual, sin el otro, conlleva a una angustia también porque lo preindividual excede, ocasionalmente, lo individuado. 
-	
+
+
 
 
 

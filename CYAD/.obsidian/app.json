@@ -3,10 +3,10 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A3",
+    "pageSize": "A5",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 70
+    "downscalePercent": 79
   },
   "mobileToolbarCommands": [
     "editor:undo",

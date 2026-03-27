@@ -1,7 +1,7 @@
 ---
 Titulo: El modo de existencia de los objetos técnicos
 Autor: Gilbert Simondón
-Año: 2008
+Año: 2007
 Editorial: Prometeo Libros
 Libro:
 Leido:
@@ -785,6 +785,10 @@ II. Condiciones de evolución técnica
 (Idea::Durante el entendimiento de lo que es el conocimiento del objeto técnico se comenta que las estructuras no se pidrias hacer salvo que se conozca todo, pero esto no es posible ahora con las cajas negras de los modelos de la IA, que no se conocen del todo (56))
 
 (Idea::Cuanso Simondon habla de lo oral y lo visual es muy parecido a la idea que tiene McLuhan y la escuela de Chicago sobre lo que es la técnica de lo oral y visual y cómo se pasa de uno a uno, siendo por ejemplo la radio lo oral uy ahora con el intnernet fue escrito y ahora de nuevo visual.)
+
+(idea::Mencionar lo de la cultura de cómo don en el capítulo 5, antes de entrar de lleno con lo de yuk huí. Mencionar si acaso un poco de bordieu en videojuegos y cinematografía capítulo 2).
+[[López, P. B, Rangel, J. M., Meritano, C., E. (2024). Videojuegos y cinematografía]]
+
 
 
 
