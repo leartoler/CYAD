@@ -32334,9 +32334,18 @@ var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
     });
     new import_obsidian.Setting(containerEl).setName("AI model").setDesc("Choose the AI model to use.").addDropdown((dropdown) => {
       const key = "AI_MODEL";
-      dropdown.addOption("gpt-4o-mini", "GPT-4o (faster and shorter)").addOption("gpt-4", "GPT-4 (thoughtful but slower)").addOption("gpt-4o", "GPT-4o (newer and faster)").addOption(
+      dropdown.addOption("gpt-4o-mini", "GPT-4o (faster and shorter)").addOption("gpt-4", "GPT-4 (thoughtful but slower)").addOption("gpt-4o", "GPT-4o (optimal)").addOption("gpt-5", "GPT-5 (slower with reasoning)").addOption(
+        "gpt-5-mini",
+        "GPT-5-mini (faster with reasoning)"
+      ).addOption(
         "gpt-3.5-turbo",
         "GPT-3.5 Turbo (older and weirder)"
+      ).addOption("claude-opus-4.5", "Claude Opus 4.5").addOption("claude-sonnet-4.5", "Claude Sonnet 4.5").addOption("gemini-2.5-pro", "Gemini 2.5 Pro").addOption("gemini-2.5-flash-lite", "Gemini 2.5 Flash Lite").addOption("gemini-2.5-flash", "Gemini 2.5 Flash").addOption(
+        "grok-4.1-fast-non-reasoning",
+        "Grok 4.1 Fast Non-Reasoning"
+      ).addOption(
+        "grok-4.1-fast-reasoning",
+        "Grok 4.1 Fast Reasoning"
       ).setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
     new import_obsidian.Setting(containerEl).setName("Link mentions to").setDesc(
@@ -32839,7 +32848,7 @@ ${statementToAdd}` : ""}`;
     ).join(" | ");
     const dotGraph = dotGraphPrompt || conceptsInTopics;
     currentContextSize += dotGraph.length;
-    const maxPromptSizeForModel = ((_a = SETTINGS) == null ? void 0 : _a.AI_MODEL.includes("gpt-4")) ? MAX_CONTEXT_SIZE : Math.floor(MAX_CONTEXT_SIZE / 4);
+    const maxPromptSizeForModel = ((_a = SETTINGS) == null ? void 0 : _a.AI_MODEL.includes("gpt-3")) ? Math.floor(MAX_CONTEXT_SIZE / 4) : MAX_CONTEXT_SIZE;
     const defaultSizePerTopic = params.adviceMode == "summary" ? 5e3 : 1500;
     const maxSizePerTopic = Math.min(
       Math.floor(
@@ -33508,64 +33517,6 @@ async function generateAiAdvice(params) {
 
 // src/graph_view/components/GraphViewOverlayChat.tsx
 var import_obsidian4 = require("obsidian");
-
-// node_modules/jwt-decode/build/esm/index.js
-var InvalidTokenError = class extends Error {
-};
-InvalidTokenError.prototype.name = "InvalidTokenError";
-function b64DecodeUnicode(str) {
-  return decodeURIComponent(atob(str).replace(/(.)/g, (m, p) => {
-    let code = p.charCodeAt(0).toString(16).toUpperCase();
-    if (code.length < 2) {
-      code = "0" + code;
-    }
-    return "%" + code;
-  }));
-}
-function base64UrlDecode(str) {
-  let output = str.replace(/-/g, "+").replace(/_/g, "/");
-  switch (output.length % 4) {
-    case 0:
-      break;
-    case 2:
-      output += "==";
-      break;
-    case 3:
-      output += "=";
-      break;
-    default:
-      throw new Error("base64 string is not of the correct length");
-  }
-  try {
-    return b64DecodeUnicode(output);
-  } catch (err) {
-    return atob(output);
-  }
-}
-function jwtDecode(token, options) {
-  if (typeof token !== "string") {
-    throw new InvalidTokenError("Invalid token specified: must be a string");
-  }
-  options || (options = {});
-  const pos = options.header === true ? 0 : 1;
-  const part = token.split(".")[pos];
-  if (typeof part !== "string") {
-    throw new InvalidTokenError(`Invalid token specified: missing part #${pos + 1}`);
-  }
-  let decoded;
-  try {
-    decoded = base64UrlDecode(part);
-  } catch (e) {
-    throw new InvalidTokenError(`Invalid token specified: invalid base64 for part #${pos + 1} (${e.message})`);
-  }
-  try {
-    return JSON.parse(decoded);
-  } catch (e) {
-    throw new InvalidTokenError(`Invalid token specified: invalid json for part #${pos + 1} (${e.message})`);
-  }
-}
-
-// src/graph_view/components/GraphViewOverlayChat.tsx
 var import_react3 = __toESM(require_react());
 
 // src/components/GraphNameModal.tsx
@@ -33893,7 +33844,7 @@ var AiChatTextContext = (params) => {
   ] });
 };
 var GraphViewOverlayChat = (params) => {
-  var _a, _b, _c;
+  var _a, _b, _c, _d;
   let extractedGraphData = params.stateRef.current.extractedGraphData;
   const globalChatHistory = (_a = params.chatHistory) != null ? _a : [];
   const allStatements = extractedGraphData.all_statements_with_top;
@@ -33937,10 +33888,8 @@ var GraphViewOverlayChat = (params) => {
     type: SETTINGS.EXPORT_TYPE,
     graphName: SETTINGS.CONTEXT_NAME
   };
-  const auth_token = SETTINGS.INFRANODUS_API_KEY;
-  const decodedToken = auth_token ? jwtDecode(auth_token) : {};
   const [currentUser, setCurrentUser] = (0, import_react3.useState)(
-    decodedToken && decodedToken.user ? decodedToken.user.id : ""
+    (_d = params.currentUser) != null ? _d : ""
   );
   (0, import_react3.useEffect)(() => {
     globalChatHistory.forEach(({ id }) => animateChatMessageIn(id));
@@ -35752,6 +35701,7 @@ var GraphViewOverlay = (params) => {
       overlayShowMode === "aiChat" && /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
         GraphViewOverlayChat,
         {
+          currentUser,
           startingChat: textToShow === "ai generating..." ? "" : textToShow,
           closeChat: () => setOverlayShowMode(null),
           stateRef,
@@ -35861,6 +35811,70 @@ var ErrorHandler = (params) => {
         ". If you don't have an account, you can create a free trial one on any tier and use this plugin straight away."
       ] })
     ] }),
+    params.error === "api-key-free-exceeded" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h2", { children: "You've used all your free InfraNodus trial quota." }),
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
+        "Please,",
+        " ",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "sign up",
+            href: SETTINGS.INFRANODUS_API_URL + "/signup?utm_source=obsidian_plugin_rate_limit",
+            addSpacesAround: true
+          }
+        ),
+        " ",
+        "or log in to generate",
+        " ",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "an InfraNodus API key",
+            href: SETTINGS.INFRANODUS_API_URL + "/api-access?utm_source=obsidian_plugin_rate_limit",
+            addSpacesAround: true
+          }
+        ),
+        " ",
+        "and then add it to your",
+        " ",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "plugin settings",
+            action: () => ctx.setShowingSettings(true),
+            addSpaceLeft: true
+          }
+        ),
+        "."
+      ] })
+    ] }),
+    params.error === "api-key-paid-exceeded" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h2", { children: "You've used up all your InfraNodus API quota" }),
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
+        "Please, go to the",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "infranodus subscriptions",
+            href: SETTINGS.INFRANODUS_API_URL + "/subscription",
+            addSpacesAround: true
+          }
+        ),
+        " ",
+        "page to upgrade your plan or",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "contact us",
+            href: "https://support.noduslabs.com/hc/en-us/requests/new",
+            addSpaceLeft: true
+          }
+        ),
+        " ",
+        "if you believe this is an error or would like us to extend your quota."
+      ] })
+    ] }),
     params.error === "no-content" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
       /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h2", { children: "No content found" }),
       /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
@@ -35939,7 +35953,7 @@ var ErrorHandler = (params) => {
         "and describe what you were trying to do."
       ] }),
       params.errorText == "net::ERR_NAME_NOT_RESOLVED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
-        "Could not connect to the InfraNodus API domain. Please, check your connection, try again later, or contact our ",
+        "Could not connect to the InfraNodus API domain. Please, check your connection, try again later, or contact our",
         " ",
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
           ActionLink,
@@ -35951,7 +35965,12 @@ var ErrorHandler = (params) => {
         ),
         "and describe what you were trying to do."
       ] }),
-      params.errorText != "net::ERR_CONNECTION_REFUSED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("p", { children: params.errorText || "An unknown error occured. Please try again later or with another page." }),
+      params.errorText != "net::ERR_CONNECTION_REFUSED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
+        `${params.errorText} || "An unknown error occured. Please
+								try again later or with another page."`,
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("br", {}),
+        "The connection was refused. This could be due to the rate limit. If you are a on a free plan, please, upgrade. If you are on a paid plan, please, try to reduce the number of requests per minute."
+      ] }),
       ((_a = params.errorText) == null ? void 0 : _a.includes("API key")) && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("br", {}),
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
@@ -36250,6 +36269,27 @@ var GraphViewOverlaySettings = (params) => {
         {
           value: "gpt-3.5-turbo",
           label: "GPT-3.5 Turbo\xA0(older and weirder)"
+        },
+        { value: "gpt-5", label: "GPT-5 (slower with reasoning)" },
+        {
+          value: "gpt-5-mini",
+          label: "GPT-5-mini (faster with reasoning)"
+        },
+        { value: "claude-opus-4.5", label: "Claude Opus 4.5" },
+        { value: "claude-sonnet-4.5", label: "Claude Sonnet 4.5" },
+        { value: "gemini-2.5-pro", label: "Gemini 2.5 Pro" },
+        {
+          value: "gemini-2.5-flash-lite",
+          label: "Gemini 2.5 Flash Lite"
+        },
+        { value: "gemini-2.5-flash", label: "Gemini 2.5 Flash" },
+        {
+          value: "grok-4.1-fast-non-reasoning",
+          label: "Grok 4.1 Fast Non-Reasoning"
+        },
+        {
+          value: "grok-4.1-fast-reasoning",
+          label: "Grok 4.1 Fast Reasoning"
         }
       ]
     },
@@ -36568,11 +36608,30 @@ var GraphViewOverlaySettings = (params) => {
 
 // src/graph_view/lib/handleErrors.ts
 function handleGraphDataError(params) {
+  var _a, _b, _c, _d;
   console.log("[handleGraphDataError]", params.graphDataResponse);
   if (params.graphDataResponse.error === "Please, log in to access the page you requested.") {
     console.log("[handleGraphDataError] Setting error to invalid-api-key");
     params.setError("invalid-api-key");
     throw new Error("No API key found");
+  }
+  if ((_b = (_a = params.graphDataResponse) == null ? void 0 : _a.error) == null ? void 0 : _b.includes(
+    "Free API call limit has been exceeded"
+  )) {
+    console.log(
+      "[handleGraphDataError] Setting error to api-key-free-exceeded"
+    );
+    params.setError("api-key-free-exceeded");
+    throw new Error("Free API call limit has been exceeded");
+  }
+  if ((_d = (_c = params.graphDataResponse) == null ? void 0 : _c.error) == null ? void 0 : _d.includes(
+    "API call limit has been exceeded"
+  )) {
+    console.log(
+      "[handleGraphDataError] Setting error to api-key-paid-exceeded"
+    );
+    params.setError("api-key-paid-exceeded");
+    throw new Error("Paid API call limit has been exceeded");
   }
   if (params.graphDataResponse.error == "Your session has expired. Please, log in again.") {
     console.log("[handleGraphDataError] Setting error to invalid-api-key");
@@ -36694,6 +36753,62 @@ var LoadingView = (params) => {
     /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("span", { className: "h-6 mt-2 text-sm text-gray-500 dark:text-gray-400", children: currentText })
   ] });
 };
+
+// node_modules/jwt-decode/build/esm/index.js
+var InvalidTokenError = class extends Error {
+};
+InvalidTokenError.prototype.name = "InvalidTokenError";
+function b64DecodeUnicode(str) {
+  return decodeURIComponent(atob(str).replace(/(.)/g, (m, p) => {
+    let code = p.charCodeAt(0).toString(16).toUpperCase();
+    if (code.length < 2) {
+      code = "0" + code;
+    }
+    return "%" + code;
+  }));
+}
+function base64UrlDecode(str) {
+  let output = str.replace(/-/g, "+").replace(/_/g, "/");
+  switch (output.length % 4) {
+    case 0:
+      break;
+    case 2:
+      output += "==";
+      break;
+    case 3:
+      output += "=";
+      break;
+    default:
+      throw new Error("base64 string is not of the correct length");
+  }
+  try {
+    return b64DecodeUnicode(output);
+  } catch (err) {
+    return atob(output);
+  }
+}
+function jwtDecode(token, options) {
+  if (typeof token !== "string") {
+    throw new InvalidTokenError("Invalid token specified: must be a string");
+  }
+  options || (options = {});
+  const pos = options.header === true ? 0 : 1;
+  const part = token.split(".")[pos];
+  if (typeof part !== "string") {
+    throw new InvalidTokenError(`Invalid token specified: missing part #${pos + 1}`);
+  }
+  let decoded;
+  try {
+    decoded = base64UrlDecode(part);
+  } catch (e) {
+    throw new InvalidTokenError(`Invalid token specified: invalid base64 for part #${pos + 1} (${e.message})`);
+  }
+  try {
+    return JSON.parse(decoded);
+  } catch (e) {
+    throw new InvalidTokenError(`Invalid token specified: invalid json for part #${pos + 1} (${e.message})`);
+  }
+}
 
 // src/graph_view/GraphView.tsx
 var import_jsx_runtime12 = __toESM(require_jsx_runtime());
@@ -36829,7 +36944,8 @@ var GraphView = (params) => {
     wordsToSearch,
     wordsToHide,
     gapShown,
-    loadingState
+    loadingState,
+    currentUser
   ]);
   const currentPlatform8 = import_obsidian14.Platform.isMobileApp || import_obsidian14.Platform.isMobile ? "mobile" : "desktop";
   (0, import_react9.useEffect)(() => {
@@ -37294,8 +37410,6 @@ var GraphView = (params) => {
             window.clearInterval(textCheck);
           } else if (SETTINGS.RELOADING_GRAPH === "automatic") {
             cleared = true;
-            params.graphContext.reloadGraph().catch((_) => {
-            });
             window.clearInterval(textCheck);
             return;
           } else if (SETTINGS.RELOADING_GRAPH === "into reading") {
@@ -37722,7 +37836,7 @@ var _InfraNodusGraphView = class extends import_obsidian15.ItemView {
           return;
         this.previousCorrespondingViewDataMode = mode;
         if (mode === "preview") {
-          if (SETTINGS.RELOADING_GRAPH === "into reading") {
+          if (SETTINGS.RELOADING_GRAPH === "into reading" || SETTINGS.RELOADING_GRAPH === "automatic") {
             this.reloadGraph(
               { leaf: this.leaf, filePath: this.filePath },
               true

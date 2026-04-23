@@ -4,7 +4,7 @@ Autor:
 Año:
 Editorial:
 Libro:
-Leído: "[[fulltext.pdf]]"
+Leído: "[[Juul, J. (2003). The game, the player, the world.pdf]]"
 APA:
 Resumen generado:
 Audio:

@@ -3,7 +3,7 @@ Título:
 Autor:
 Año:
 Editorial:
-Libro: "[[There_is_no_magic_circle.pdf]]"
+Libro: "[[Consalvo, M. (2019). There is no magic circle.pdf]]"
 Leído:
 APA:
 Resumen generado:

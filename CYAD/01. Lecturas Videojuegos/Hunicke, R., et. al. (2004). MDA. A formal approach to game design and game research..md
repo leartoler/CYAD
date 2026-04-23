@@ -1,5 +1,5 @@
 ---
-Libro: "[[MDA.pdf]]"
+Libro: "[[Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA. A formal approach to game design and game research.pdf]]"
 ---
 
 

@@ -3,7 +3,7 @@ Titulo: Exploring videogames with Deleuze and Guattari
 Autor: "[[Colin Cremin]]"
 Año: 2016
 Editorial: Routledge
-Libro: "[[ExploringVideogamesWithDeleuzeAndGuattari (1).pdf]]"
+Libro: "[[Cremin, C. (2016) Exploring videogames with Deleuze and Guattari.pdf]]"
 Leído:
 APA: "Cremin, C. (2015). Exploring Videogames with Deleuze and Guattari: Towards an affective theory of form. Taylor & Francis."
 Resumen generado: "[[Resumen Exploring videogames with Deleuze and Guattari]]"

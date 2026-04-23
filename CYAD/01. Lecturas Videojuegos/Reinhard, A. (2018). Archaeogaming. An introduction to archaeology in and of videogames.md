@@ -3,7 +3,7 @@ Título: Archaeogaming. An introduction to archaeology in and of videogames
 Autor: Andrew Reinhard
 Año: 2018
 Editorial: Berghahn Books
-Libro: "[[Archaeogaming-Ebook.pdf]]"
+Libro: "[[Reinhard, A. (2018). Archaeogaming.pdf]]"
 Leído:
 APA: "Reinhard, A. (2018). Archaeogaming: An introduction to archaeology in and of video games. Berghahn Books."
 Resumen generado:

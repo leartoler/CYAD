@@ -3,7 +3,7 @@ Titulo: An introduction to Game Studies. Games in culture
 Autor: Mäyrä, F
 Editorial: SAGE Publications
 Año:
-Libro: "[[An Introduction to Game Studies (Mayra, Frans) (Z-Library).pdf]]"
+Libro: "[[Mayra, F. (2008). An introduction to game studies.pdf]]"
 Leído:
 Resumen generado:
 Título:

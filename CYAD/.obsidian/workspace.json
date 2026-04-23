@@ -4,51 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee64aa736ac7dba",
+        "id": "c51d343a83a85593",
         "type": "tabs",
         "children": [
           {
-            "id": "f8097b7c05551b4c",
+            "id": "db8fc07fd33dc589",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "10. Imágenes/DOCUMENT_SCAN_0_20260319_172443.jpeg"
+                "file": "04. Bibliografía/Bibliografía videojuegos/Macklin, C. y Sharp, J. (2016). Games, design and play.pdf",
+                "page": 1,
+                "left": -31,
+                "top": 529,
+                "zoom": 0.4910714285714286
               },
-              "icon": "lucide-image",
-              "title": "DOCUMENT_SCAN_0_20260319_172443"
-            }
-          },
-          {
-            "id": "2b68be49add28877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Simondon/Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon"
-            }
-          },
-          {
-            "id": "a2fe7e52acb6fd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/Trabajo final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trabajo final"
+              "icon": "lucide-file-text",
+              "title": "Macklin, C. y Sharp, J. (2016). Games, design and play"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,10 +55,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"objeto concreto\"",
+                "query": "casual revol",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -105,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1186.5
+    "width": 1254.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -121,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Lecturas Simondon/Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon.md",
+                "file": "13. Escritos/articulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heredia (2022) Enseñanza y tecnología en la filosofía de Simondon"
+              "title": "Backlinks for articulo"
             }
           },
           {
@@ -243,19 +218,31 @@
             }
           },
           {
-            "id": "8af46d43e9be9e20",
+            "id": "df167cbad3a1501f",
             "type": "leaf",
             "state": {
-              "type": "infranodus-graph-view",
+              "type": "smart-connections-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "c3a11e777a891dbd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -284,43 +271,53 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "2b68be49add28877",
+  "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas/Heredia, J. M. (2015). Técnica y transindividualidad.md",
-    "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas/Montoya, J. W. (2015). El individuo técnico. un objeto inevitable.md",
-    "04. Bibliografía/[Inside Technology] Casey O’Donnell - Developer’s Dilemma - The Secret World of Videogame Creators.pdf",
-    "SMART-~1/multi/Índice_Ideas_md.ajson",
-    "SMART-~1/multi/TagsRoutes_logMessage_md.ajson",
-    "SMART-~1/multi/Sin_título_canvas.ajson",
-    "SMART-~1/multi/PenasLopez_ConceptoPotencia_2013_md.ajson",
-    "SMART-~1/multi/qwe_md.ajson",
-    "SMART-~1/multi/Presentacion_md.ajson",
-    "SMART-~1/multi/LiteratureNotes_The_type_–_variety_concept_as_a_basis_for_the_analysis_of_Maya_pottery_md.ajson",
-    "SMART-~1/multi/Lafitte_md.ajson",
-    "SMART-~1/multi/Indice_Notas_md.ajson",
-    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "01. Lecturas Simondon/Segunda sesión de individuación.md",
-    "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
-    "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano..md",
-    "10. Imágenes/DOCUMENT_SCAN_0_20260319_172443.jpeg",
+    "04. Bibliografía/Bibliografía videojuegos/Harris, J. (2021). Exploring roguelikes games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Macklin, C. y Sharp, J. (2016). Games, design and play.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Isbister, K. (2012). Better game characters by design.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Moore, M, (2011). Basics of game design.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Juul, J. (2013). The art of failure.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Anthropy, A. y Clark, N. (2014). A game design vocabulary.pdf",
+    "04. Bibliografía/ontology videogame (1).pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Rutter, J. y Bryce, J. (2006). Understanding Digital Games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Andiloro, A. (2024). There is no videgame. Nishida, posthumanis and the Basho of gameplay.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Consalvo, M. (2019). There is no magic circle.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Wolf, M. J. P. (Ed.). (2015). Video games around the world.pdf",
+    "04. Bibliografía/La gran imagen no tiene forma.md",
+    "13. Escritos/segundo.md",
+    "13. Escritos/Tercer control.md",
+    "13. Escritos/Protocolo amplíado.md",
     "13. Escritos/Trabajo final.md",
-    "01. Lecturas Videojuegos/Lebowitz, J., y Klug, Ch., (2011). Interactive storytelling for videogames.md",
-    "Pasted image 20260325111350.png",
-    "Pasted image 20260325111329.png",
-    "Pasted image 20260325111308.png",
-    "Pasted image 20260325111231.png",
-    "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
-    "Presentacion.md",
-    "13. Escritos/La individuación del videojuego.md",
-    "TagsRoutes/logMessage.md",
-    "10. Imágenes/Pasted image 20260318182459.jpg",
-    "10. Imágenes/Pasted image 20260320172636.png",
-    "10. Imágenes/Pasted image 20260320192904.png",
-    "10. Imágenes/Pasted image 20260321030106.png",
-    "10. Imágenes/Pasted image 20260321031057.png",
-    "PenasLopez_ConceptoPotencia_2013.md",
     "Untitled.md",
-    "LiteratureNotes/The type – variety concept as a basis for the analysis of Maya pottery.md",
-    "qwe.md"
+    "Sin título.md",
+    "Clippings/The Graveyard en Steam.md",
+    "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
+    "09. Juegos/Game Poems 1.md",
+    "Clippings/Diario de Sueños de Roblox.md",
+    "Clippings/Jason Rohrer.md",
+    "09. Juegos/dys4ia by Anna Anthropy.md",
+    "09. Juegos/Loneliness by Jordan Magnuson.md",
+    "Clippings/Jordan Magnuson.md",
+    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
+    "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "13. Escritos/articulo.md",
+    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
+    "01. Lecturas Videojuegos/Siabra F, Joaquin A. (2012). Bosquejo de una metafísica del videojuego.md",
+    "01. Lecturas Videojuegos/Sharp, J. (2015). Works of Game. On The Aesthetic of Games and Art.md",
+    "TagsRoutes/logMessage.md",
+    "01. Lecturas Videojuegos/Catrina, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
+    "Pasted image 20260410165728.png",
+    "01. Lecturas Videojuegos/Muriel, D. Y Crawford, G,. (2023). Los videojuegos como cultura.md",
+    "10. Imágenes/Pasted image 20260330193050.png",
+    "10. Imágenes/Pasted image 20260330145103.png",
+    "10. Imágenes/Pasted image 20260330145404.png",
+    "10. Imágenes/Pasted image 20260330193032.png",
+    "10. Imágenes/Pasted image 20260330131808.png",
+    "10. Imágenes/Pasted image 20260330131750.png",
+    "10. Imágenes/Pasted image 20260330144738.png",
+    "10. Imágenes/Pasted image 20260330131911.png",
+    "10. Imágenes/Pasted image 20260330131833.png"
   ]
 }

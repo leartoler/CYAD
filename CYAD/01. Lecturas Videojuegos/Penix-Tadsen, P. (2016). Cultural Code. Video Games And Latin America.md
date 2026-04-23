@@ -1,5 +1,5 @@
 ---
-Libro: "[[Penix-Tadsen, Phillip - Cultural code_ video games and Latin America-The MIT Press (2016)[2].pdf]]"
+Libro: "[[Penix-Tadsen, P. (2016). Cultural Code. Video Games and Latin America.pdf]]"
 Título: Cultural Code. Video Games And Latin America
 Autor: Penix-Tadsen
 Año: 2016
