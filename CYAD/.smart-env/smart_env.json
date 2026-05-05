@@ -29,7 +29,8 @@
       "done_import": true,
       "embedding_complete": true,
       "done_initial_scan": true,
-      "saving_collection": true
+      "saving_collection": true,
+      "new_version_available": true
     }
   },
   "smart_view_filter": {

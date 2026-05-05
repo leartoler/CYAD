@@ -11,16 +11,14 @@
             "id": "db8fc07fd33dc589",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04. Bibliografía/Bibliografía videojuegos/Macklin, C. y Sharp, J. (2016). Games, design and play.pdf",
-                "page": 1,
-                "left": -31,
-                "top": 529,
-                "zoom": 0.4910714285714286
+                "file": "01. Lecturas Videojuegos/Catrina, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Macklin, C. y Sharp, J. (2016). Games, design and play"
+              "icon": "lucide-file",
+              "title": "Catrina, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán"
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1254.5
+    "width": 402.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -271,10 +269,16 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "e105e905bb6264bc",
+  "active": "db8fc07fd33dc589",
   "lastOpenFiles": [
-    "04. Bibliografía/Bibliografía videojuegos/Harris, J. (2021). Exploring roguelikes games.pdf",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "Pasted image 20260504165601.png",
+    "Pasted image 20260504165544.png",
+    "Pasted image 20260504165504.png",
+    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
     "04. Bibliografía/Bibliografía videojuegos/Macklin, C. y Sharp, J. (2016). Games, design and play.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Egendfeld, et. al. (2016). Understanding Video Games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Harris, J. (2021). Exploring roguelikes games.pdf",
     "04. Bibliografía/Bibliografía videojuegos/Isbister, K. (2012). Better game characters by design.pdf",
     "04. Bibliografía/Bibliografía videojuegos/Moore, M, (2011). Basics of game design.pdf",
     "04. Bibliografía/Bibliografía videojuegos/Juul, J. (2013). The art of failure.pdf",
@@ -282,8 +286,6 @@
     "04. Bibliografía/ontology videogame (1).pdf",
     "04. Bibliografía/Bibliografía videojuegos/Rutter, J. y Bryce, J. (2006). Understanding Digital Games.pdf",
     "04. Bibliografía/Bibliografía videojuegos/Andiloro, A. (2024). There is no videgame. Nishida, posthumanis and the Basho of gameplay.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Consalvo, M. (2019). There is no magic circle.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Wolf, M. J. P. (Ed.). (2015). Video games around the world.pdf",
     "04. Bibliografía/La gran imagen no tiene forma.md",
     "13. Escritos/segundo.md",
     "13. Escritos/Tercer control.md",
@@ -300,7 +302,6 @@
     "09. Juegos/Loneliness by Jordan Magnuson.md",
     "Clippings/Jordan Magnuson.md",
     "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
     "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
     "13. Escritos/articulo.md",
     "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
@@ -309,15 +310,11 @@
     "TagsRoutes/logMessage.md",
     "01. Lecturas Videojuegos/Catrina, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
     "Pasted image 20260410165728.png",
-    "01. Lecturas Videojuegos/Muriel, D. Y Crawford, G,. (2023). Los videojuegos como cultura.md",
     "10. Imágenes/Pasted image 20260330193050.png",
     "10. Imágenes/Pasted image 20260330145103.png",
     "10. Imágenes/Pasted image 20260330145404.png",
     "10. Imágenes/Pasted image 20260330193032.png",
     "10. Imágenes/Pasted image 20260330131808.png",
-    "10. Imágenes/Pasted image 20260330131750.png",
-    "10. Imágenes/Pasted image 20260330144738.png",
-    "10. Imágenes/Pasted image 20260330131911.png",
-    "10. Imágenes/Pasted image 20260330131833.png"
+    "10. Imágenes/Pasted image 20260330131750.png"
   ]
 }
