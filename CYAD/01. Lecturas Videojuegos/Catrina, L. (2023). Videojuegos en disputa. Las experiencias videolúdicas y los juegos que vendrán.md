@@ -57,11 +57,43 @@ Consultado:
 
 ![[Pasted image 20260504165601.png]]
 
-
-
-
-
 #### 2. El auge del sueño californiano
+
+(Tema::Aparato. Militar capitalista y el videojuego(19-19))
+
+(Tema::Mercancía ideal (19))
+
+(Tema::Sobre el fordismo (19))
+
+(Tema::Postfordismo y nuevas tecnologías (20))
+
+(Tema::Características del postfordismo y las nuevas tecnologías (21))
+
+(Tema::El videojuego y porqué representa al producto ideal en el postfordismo según Kline, Dyer-Whiteford y De Peuter (21))
+[[Kline]]
+[[Dyer-Whiteford]]
+[[Peuter]]
+
+(Tema::El videojuego y el plano simbólico en el trabajo (22))
+
+(Tema::El videojuego como laboratorio de experimentación capitalista (23))
+
+(Tema::Ideología californiana (23-24))
+
+![[Pasted image 20260505163511.png]]
+
+![[Pasted image 20260505163528.png]]
+
+![[Pasted image 20260505163543.png]]
+
+![[Pasted image 20260505163557.png]]
+
+
+
+
+
+
+
 
 
 
@@ -108,14 +140,23 @@ Consultado:
 
 (Nota::Lev Manovich y cómo el cortar y pegar hizo resurgir al collage(14))
 
+(Nota::Se considera al videojuego como la mercancía ideal ya que convierte la experiencia de juego y el ocio en un acto de consumo)
+
+(Nota::La teoría de los medios, de McLuhan, es un pensamiento que ha sido adoptado por los objetivistas. Todo en apoyo de una idea de utopía comunitaria y del cómo las nuevas tecnologías y el libre mercado posibilita la independencia y el avance social y lo colectivo (24))
+
 
 ---
 ### <mark style="background: #ADD8E6;">Idea</mark>
+
+(Idea::De cómo el tiempo y el espacio se configura dentro del capitalismo y las nuevas tecnologías. Lo digital acorta el tiempo y anula lo espacial, ¿Cómo se configura ahora con la irrupción de la IA?)
+
 
 
 
 ---
 ### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+(Pregunta::¿El juego representa esta época del postfordismo o solo es el resultado de una actualidad digital? ¿En dónde se localiza al videojuego o qué fue primero?)
 
 ---
 ### <mark style="background: #BBFABBA6;">Esquema</mark>
@@ -124,3 +165,7 @@ Consultado:
 ### <mark style="background: #ADCCFFA6;">HT</mark>
 
 ---
+
+### <mark style="background: #ADCCFFA6;">TODO</mark>
+
+- [ ] Checar bien sobre la inmaterialidad del videojuego

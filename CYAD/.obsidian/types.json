@@ -5,6 +5,12 @@
     "tags": "tags",
     "dg-home": "checkbox",
     "Titulo": "text",
-    "Consultado": "checkbox"
+    "Consultado": "checkbox",
+    "lt-language": "text",
+    "lt-picky": "checkbox",
+    "lt-autoCheck": "checkbox",
+    "lt-dictionary": "multitext",
+    "lt-disabledRules": "multitext",
+    "lt-disabledCategories": "multitext"
   }
 }
