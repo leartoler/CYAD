@@ -1,3 +1,7 @@
+---
+Tipo: Control de lectura
+---
+
 El siguiente texto es un resumen de la introducción del libro La indiviudación a la luz de las nociones de forma y de información (2009), escrito por Simondon como parte de una primera parte de su tesis doctoral. En esta primera parte se comenzará a desarrollar lo que será la parte medular del libro: la individuación. Además, se dará comienzo también sobre algunos conceptos con los que gira también la tesis principal de la ontología relacional de Simondon, como es el caso de la información. 
 
 Desarrollo

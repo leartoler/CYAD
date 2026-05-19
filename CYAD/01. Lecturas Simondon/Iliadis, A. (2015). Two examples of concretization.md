@@ -3,7 +3,7 @@ Título: Two examples of concretization
 Autor: Iliadis Andrew
 Año: 2015
 Editorial:
-Libro: "[[04. Bibliografía/Two examples of concretization.pdf]]"
+Libro: "[[04. Bibliografía/Bibliografia Simondon/Two examples of concretization.pdf]]"
 Leído: "[[Two Examples Of Concretization (1).pdf]]"
 APA: Iliadis, A. (2015). Two examples of concretization. Journal of Media and Communication, 6, 86–95.
 Resumen generado:

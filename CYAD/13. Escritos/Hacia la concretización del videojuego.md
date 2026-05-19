@@ -1,3 +1,6 @@
+---
+Tipo: Control de lectura
+---
 
 En su libro de El modo de existencia de los objetos técnicos (2007), Simondon explica que el individuo deviene dentro de un proceso, de ahí que en la introducción se de énfasis al comentar que un genealogista; es decir, que el individuo está en un proceso constante de individuación, de ser, algo que en el objeto técnico no se hará del todo. Este proceso, medular en su obra, tiene por concepto "concretizar", pero ¿qué es realmente y cómo se puede aplicar, en caso de que sea pertinente, en el videojuego?
 

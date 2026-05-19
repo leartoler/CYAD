@@ -1,3 +1,6 @@
+---
+Tipo: Informe
+---
 
 ### Introducción
 
@@ -20,3 +23,5 @@ Actividades: Se amplió la lectura de la propuesta realizada por Simondon, espec
 ### Evidencias
 
 Sin evidencias, debido principalmente al ser el primer trimeste. 
+
+

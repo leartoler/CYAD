@@ -10,18 +10,51 @@
           {
             "id": "e4c93ff179598ac4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Misas en Roblox Así se vive la fé de los jóvenes en el mundo virtual..md",
+                "file": "13. Escritos/Segundo informe Trimestral.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Segundo informe Trimestral"
+            }
+          },
+          {
+            "id": "0b2d33423d9dd753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Videos/Videoensayos/ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Misas en Roblox Así se vive la fé de los jóvenes en el mundo virtual."
+              "title": "ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA"
+            }
+          },
+          {
+            "id": "957af725aedeb7be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. Bibliografía/Bibliografía Metodología/Metodología de la investigación. Las rutas cuantitativas.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 767,
+                "zoom": 1.4113313008130082
+              },
+              "icon": "lucide-file-text",
+              "title": "Metodología de la investigación. Las rutas cuantitativas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "recursivo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 473.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -234,9 +267,19 @@
               "icon": "smart-lookup",
               "title": "Lookup"
             }
+          },
+          {
+            "id": "97e99d628333f6f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -269,53 +312,52 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "e4c93ff179598ac4",
+  "active": "957af725aedeb7be",
   "lastOpenFiles": [
-    "SMART-~1/multi/TagsRoutes_logMessage_md.ajson",
-    "SMART-~1/multi/Índice_Ideas_md.ajson",
-    "SMART-~1/multi/Sin_título_canvas.ajson",
-    "SMART-~1/multi/Sin_título_md.ajson",
-    "SMART-~1/multi/Segundo_informe_Trimestral_md.ajson",
-    "SMART-~1/multi/LiteratureNotes_The_type_–_variety_concept_as_a_basis_for_the_analysis_of_Maya_pottery_md.ajson",
-    "SMART-~1/multi/qwe_md.ajson",
-    "SMART-~1/multi/Presentacion_md.ajson",
-    "SMART-~1/multi/Indice_md.ajson",
-    "SMART-~1/multi/funcionamiento_de_la_televisión_md.ajson",
-    "SMART-~1/multi/PenasLopez_ConceptoPotencia_2013_md.ajson",
-    "Clippings/McGill researchers help advance genetic research through a video game.md",
-    "Clippings/Misas en Roblox Así se vive la fé de los jóvenes en el mundo virtual..md",
-    "Clippings/Roblox da para todo Ahora una iglesia celebra misas virtuales que se llenan de feligreses digitales.md",
-    "13. Escritos/Presentacion.md",
-    "Indice de Temas.md",
-    "Indice.md",
-    "2026-01-16.md",
-    "2026-01-26.md",
-    "03. Autores/Carly Kocurek.md",
-    "by THE PLUSH GIRLS.md",
-    "Devenir(27).md",
-    "Indice Notas.md",
+    "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
+    "10. Imágenes/Pasted image 20260519025333.png",
+    "10. Imágenes/Pasted image 20260519025319.png",
+    "10. Imágenes/Pasted image 20260519025101.png",
+    "10. Imágenes/Pasted image 20260519025011.png",
     "13. Escritos/Segundo informe Trimestral.md",
-    "13. Escritos/Sin título.md",
-    "03. Autores/Lafitte.md",
-    "04. Bibliografía/PenasLopez_ConceptoPotencia_2013.md",
-    "10. Imágenes/Pasted image 20260410165728.png",
-    "13. Escritos/Formato del Reporte de Actividades.md",
-    "10. Imágenes/Pasted image 20260507105731.png",
-    "10. Imágenes/Pasted image 20260505163543.png",
-    "10. Imágenes/Pasted image 20260505163511.png",
-    "10. Imágenes/Pasted image 20260505163557.png",
-    "10. Imágenes/Pasted image 20260505163528.png",
-    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
-    "01. Lecturas Videojuegos/Catrina, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
-    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
-    "10. Imágenes/Pasted image 20260504165601.png",
-    "10. Imágenes/Pasted image 20260504165544.png",
-    "10. Imágenes/Pasted image 20260504165504.png",
-    "01. Lecturas Simondon/Simondon, G. (2008). El modo de existencia de los objetos técnicos.md",
-    "04. Bibliografía/La gran imagen no tiene forma.md",
-    "13. Escritos/segundo.md",
-    "13. Escritos/Tercer control.md",
-    "13. Escritos/Protocolo amplíado.md",
-    "10. Imágenes/Pasted image 20260330193050.png"
+    "07. Videos/Videoensayos/ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA.md",
+    "10. Imágenes/Pasted image 20260519022306.png",
+    "10. Imágenes/Pasted image 20260519022138.png",
+    "10. Imágenes/Pasted image 20260519022124.png",
+    "Image_0.png",
+    "10. Imágenes/Pasted image 20260519021556.png",
+    "10. Imágenes/Pasted image 20260519021536.png",
+    "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
+    "04. Bibliografía/Bibliografía filosofía/Introduccion A La Ontologia.pdf",
+    "04. Bibliografía/Bibliografía Metodología/Introducción a la investigación cualitativa (Uwe Flick) (Z-Library).pdf",
+    "04. Bibliografía/Bibliografía videojuegos/ICR_TD_All_ok.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/histoira y videojuegos.pdf",
+    "04. Bibliografía/Bibliografía filosofía/hipotesis filosofica.pdf",
+    "04. Bibliografía/Bibliografía filosofía",
+    "04. Bibliografía/Bibliografía juegos/herding-with-the-hounds-the-game-of-fifty-eight-holes-in-the-abseron-peninsula.pdf",
+    "04. Bibliografía/Bibliografía juegos",
+    "04. Bibliografía/Bibliografía videojuegos/Game_Play_and_Material_An_Introduction.pdf",
+    "04. Bibliografía/THE GAME, THE PLAYER, THE WORLD.pdf",
+    "07. Videos/Conferencias/Jaroslav Švelch - Making Games in Communist Czechoslovakia (Game Days Trnava 2019).md",
+    "13. Escritos/Sabían que en términos de reproducción, vaporeon.md",
+    "01. Lecturas Simondon/Sandroné, D. (2022). Máquinas técnicas e información en el pensamiento de Simondon.md",
+    "01. Lecturas Simondon/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
+    "01. Lecturas Simondon/Primera sesión de individuación.md",
+    "07. Videos/Conferencias/Ciclo de clases - El futuro no es un sueño próximo Yuk Hui (2da clase).md",
+    "Clippings/Arte contemporáneo y diseño conexiones y cruces clave.md",
+    "Clippings/Armas secretas de Commodore El juego de televisión 2000K, 3000H.md",
+    "Clippings/Arcweave  Your All-in-One game design tool.md",
+    "Clippings/A Series of Gunshots calls out senseless gun violence in games.md",
+    "Clippings/A Brief History of the Walking Simulator  Sidcourse.md",
+    "Clippings/10 Awesome Music Videos Inspired By Video Games.md",
+    "Clippings/(22) Do Players Care If a Game Is Made with AI  LinkedIn.md",
+    "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
+    "07. Videos/Música/Red Hot Chilli Peppers - Californication.md",
+    "07. Videos/Música/Red Hot Chili Peppers - Californication (Official Music Video) HD UPGRADE 1.md",
+    "07. Videos/Música/Red Hot Chili Peppers - Californication (Official Music Video) HD UPGRADE.md",
+    "07. Videos/Música/Move your feet.md",
+    "07. Videos/Videoensayos/Little white guys.md",
+    "07. Videos/Computer Space Arcade Review 1.md",
+    "07. Videos/Música/Das Racist - Who's That Brooown! produced by Saba  OFFICIAL MUSIC VIDEO.md"
   ]
 }

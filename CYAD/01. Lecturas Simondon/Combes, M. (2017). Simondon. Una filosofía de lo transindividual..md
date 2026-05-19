@@ -285,10 +285,70 @@ Consultado:
 
 (Tema::Angustia (66))
 	Lo preindividual excedido.
-	(67) REnuncia al ser individuado por el ser preindividua, excedido. Esto conlleva a acptar la destrucción de la individualidad. La angustia se da en tanto el sujeto resuelve su tensión al interior, de forma solitaria. 
+	(67) Renuncia al ser individuado por el ser preindividua, excedido. Esto conlleva a acptar la destrucción de la individualidad. La angustia se da en tanto el sujeto resuelve su tensión al interior, de forma solitaria. 
 
 (Tema::Resumen)
 	Se habla de la tensión entre percepción y afectividad y cómo su resolución de forma individual, sin el otro, conlleva a una angustia también porque lo preindividual excede, ocasionalmente, lo individuado. 
+
+##### III. La paradoja de lo tranindividual
+
+(Tema::Percepción y emoción (68))
+
+(Tema::Lo percibido desde lo colectivo. EL otro(68-69))
+
+(Tema::Lo colectivo (69))
+
+(Tema::Sobre la experimentación subjetivo (71))
+
+(Tema::Lo transindividual y la soledad (72))
+
+(Tema::La angustia (72))
+
+(Tema::Tipo de relación en lo transindividual (73))
+
+(Tema::Relación interindividual (73))
+
+(Tema::Desindividuación transindividual (73-74))
+
+(Tema::transindividual (74))
+
+![[Snapshot.jpeg]]
+
+![[Snapshot (1).jpeg]]
+
+![[Snapshot (2).jpeg]]
+
+##### IV. Un dominio de travesía (lo transindividual subjetivo)
+
+(Tema::El otro como conformación del yo (74-75))
+
+(Tema::Lo colectivo y lo individual (75))
+
+(Tema::Individualidad psicológica (75))
+
+(Tema::Lo transindividual objetivo y transindividual subjetivo (76-77))
+
+(Tema::Constitución de lo tranindividual (78))
+
+(Tema::Lo transindividual en el individuo (79-80))
+
+![[Snapshot (3).jpeg]]
+
+![[Snapshot (4).jpeg]]
+
+##### V. Lo colectivo como proceso
+
+(Tema::Lo social (80))
+
+(Tema::Grupo o lo social (80-81))
+
+(Tema::Dos modos de socialidad (82))
+
+![[Snapshot (5).jpeg]]
+
+##### VI. El ser-físico de lo colectivo (lo transindividual objetivo)
+
+
 
 
 
@@ -334,8 +394,11 @@ Consultado:
 
 (Nota::"En relaación al hombre que percibe, el animal parece perpetuamente sentir sn poder elevarse al nivel de la representaión del objeto más allá del contacon con el objeto" (62))
 
+(Nota::El estar con otro, con lo afuera, permite conocer el dentro, individuarse)
 
+(Nota::Lo psicológico visto como algo trnasicional; lo colectivo como último desfase del ser).
 
+(Nota::Lo colectivo parte de aquello que sobrepasa al individuo y comunica sin mediación con una parte individuada con el otro)
 
 
 
@@ -350,7 +413,7 @@ Consultado:
 
 (Idea::Si bien Simondon está en contra de la idea sustancialista de Spinoza, está de acuerdo en cuanto a cómo los afectos son lo que nos relacionan con el medio, ya que aumentan o disminuyen nuestra potencia de actuar. Así, como Spinoza, comenta que la la capacidad de afectar y de ser afectado constituyen el centro de la teoría spinoziana del sujeto.)
 
-
+()
 
 ---
 ### <mark style="background: #FF5582A6;">Pregunta</mark> 
@@ -368,6 +431,8 @@ Consultado:
 (Pregunta::¿Se puede realizar una allagmática en el caso del videojuego? Ver su operación conjunta con el sujeto y no tanto de forma aislada. Sería entonces la estructura del videojuego, su contexto y la tecnología, junto con el individuo que lo juega, igual su estructura y todo lo demás.)
 
 (Pregunta::Cuando Simondon habla sobre la angustia y cómo este ses por la tensión no resuelta entre un preindividual que lo excede y el individuo, ¿A que se refiere con lo preindividual del individuo?)
+
+(Pregunta::¿Lo transindividual es una fase anterior al individuo? Visto en que la relación con el otro conforma al individuo, sí, podría considerarse así).
 
 
 ---
