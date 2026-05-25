@@ -11,6 +11,8 @@
     "lt-autoCheck": "checkbox",
     "lt-dictionary": "multitext",
     "lt-disabledRules": "multitext",
-    "lt-disabledCategories": "multitext"
+    "lt-disabledCategories": "multitext",
+    "Fecha": "date",
+    "": "checkbox"
   }
 }

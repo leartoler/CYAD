@@ -116,7 +116,7 @@ Consultado:
 ### Idea
 
 (Idea::Conjugar el pensamiento del juego y lo sacro con lo de simondon y lo mágico, lo de las fases pretécnica)
-[[Simondon, G. (2008). El modo de existencia de los objetos técnicos]]
+[[Simondon, G. (2007). El modo de existencia de los objetos técnicos]]
 
 
 (Idea::Dentro del juego cultural (30) hay entonces, como parte de una cosmotécnica, un nacimiento a partir de esta representación? Es decir, a partir del juego cultural, el rito y todo lo demás, que nace una moral y eso, de nuevo, hace posible la técnica?)

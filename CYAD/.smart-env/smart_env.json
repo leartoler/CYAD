@@ -30,7 +30,8 @@
       "embedding_complete": true,
       "done_initial_scan": true,
       "saving_collection": true,
-      "new_version_available": true
+      "new_version_available": true,
+      "embedding_progress": true
     }
   },
   "smart_view_filter": {
@@ -74,6 +75,6 @@
     "results_limit": 20
   },
   "embedding_models": {
-    "default_model_key": "transformers#1773745265514"
+    "default_model_key": "transformers#1779584207195"
   }
 }

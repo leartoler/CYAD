@@ -15,7 +15,6 @@
   "obsidian-export-image",
   "slash-commander",
   "smart-connections",
-  "pdf-plus",
   "zotlit",
   "heading-level-indent",
   "obsidian-hover-editor",
@@ -23,5 +22,13 @@
   "supercharged-links-obsidian",
   "obsidian-enhancing-export",
   "obsidian-pandoc",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-linter",
+  "obsidian-citation-plugin",
+  "obsidian-pandoc-reference-list",
+  "keep-the-rhythm",
+  "obsidian-annotator",
+  "obsidian-epub-plugin",
+  "translate",
+  "image-converter"
 ]

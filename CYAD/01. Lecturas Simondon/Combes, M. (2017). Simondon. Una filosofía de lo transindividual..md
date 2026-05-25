@@ -102,7 +102,7 @@ Consultado:
 	El ser preindividual solo puede perpetuarse al desfasarse, debido a que sus potenciales pertenecen a una dimensión heterogénea.
 	(29) en termodinámica, que significa cambio de sistema, en Simondon el desfase es el devenir.
 	(29) La forma en que funciona se da primero por relación a las fases que resultan de él, razón por la cual lo preindividual no tiene fase. 
-	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en [[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], p. 77.
+	(29) Un desfase es también un aspecto resultante del desdoblamiento del ser, esto se puede consultar en [[Simondon, G. (2007). El modo de existencia de los objetos técnicos]], p. 77.
 	(29) El sistema del devenir es polifásico, tal como se observa con el ejemplo del agua que puede ser tanto líquida como sólida. 
 
 (Tema::Individuo (29))
@@ -348,11 +348,39 @@ Consultado:
 
 ##### VI. El ser-físico de lo colectivo (lo transindividual objetivo)
 
+(Tema::Naturaleza (84))
 
+(Tema::Lo colectivo como segunda individuación (84))
 
+(Tema::La individuación de lo colectivo (85))
 
+(Tema::Naturaleza (85-86))
+	La naturaleza es lo indeterminado, que está cargado de potenciales
 
+(Tema::La naturaleza en lo colectivo (86))
 
+(Tema::Transindividualidad objetivo (87))
+
+(Tema::Transindividualidad subjetiva (87))
+
+![[Snapshot (6).jpeg]]
+
+![[Snapshot (7).jpeg]]
+
+![[Snapshot (8).jpeg]]
+
+#### Escolio. Intimidad de lo común 
+
+(Tema::Afecto-emotividad. Latencia emotiva (91))
+
+(Tema::Lo colectivo y emocción (91-92))
+
+(Tema::Gabriel Tarde. Pensamiento (92-93))
+[[Gabriel Tarde]]
+
+![[Snapshot (9).jpeg]]
+
+![[Snapshot (10).jpeg]]
 
 ---
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
@@ -400,6 +428,25 @@ Consultado:
 
 (Nota::Lo colectivo parte de aquello que sobrepasa al individuo y comunica sin mediación con una parte individuada con el otro)
 
+(Nota::No hay una distinción como tal entre el humano y otra especia, no hay una diferencia de esencia (83))
+
+(Nota::El pasaje de lo físico a lo biológico es epistemológico (85))
+
+(Nota::Naturaleza, por definición, es algo indeterminado (85))
+
+(Nota::La individuación de lo colectivo lo que constituye la relación entre seres individuados. La relación expresa la individuación de lo colectivo (86))
+
+(Nota::”Lo colectivo posee su propia ontogénesis, su propia operación de individuación, que utiliza los potenciales por la realidad preindividual contenida en los seres individuados (86))
+
+(Nota::Lo preindividual que se individua en lo colectivo es aquello que solo puede individuarse colectivamente (88))
+
+(Nota::En Simondon el campo social es un campo en tensión don de vienen adquisiciones de forma. El azar puede producir el equivalente a un germen estructural. Lo colectivo está en los sujetos desde un punto de vista energético, en potenciales que pueden conducir a una individuación (93))
+
+(Tema::Crítica de Paul Ricoeur hacia Simondon y cómo este último adjetivará la naturaleza y no reconoce su realidad discursiva (95))
+[[Paul Ricoeur]]
+
+(Nota::Lo transindividual como aquella disposición a lo colectivo (97))
+
 
 
 ---
@@ -413,7 +460,12 @@ Consultado:
 
 (Idea::Si bien Simondon está en contra de la idea sustancialista de Spinoza, está de acuerdo en cuanto a cómo los afectos son lo que nos relacionan con el medio, ya que aumentan o disminuyen nuestra potencia de actuar. Así, como Spinoza, comenta que la la capacidad de afectar y de ser afectado constituyen el centro de la teoría spinoziana del sujeto.)
 
-()
+(Idea::Hay una filiación hacia lo presocrático en Simondon)
+
+(Idea::Es necesario hablar de lo preindividual, aquello que aún carga una potencia)
+
+(Idea::En Simondon la naturaleza es aquello que transforma. No hay una dicotomía entre el sujeto, cultura y naturaleza. Naturaleza es lo transindividual)
+
 
 ---
 ### <mark style="background: #FF5582A6;">Pregunta</mark> 

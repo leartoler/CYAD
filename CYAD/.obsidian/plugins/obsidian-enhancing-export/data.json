@@ -55,5 +55,10 @@
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\viznu\\OneDrive\\Documents"
+  },
+  "lastExportType": "PDF",
+  "lastEditName": "Latex"
 }

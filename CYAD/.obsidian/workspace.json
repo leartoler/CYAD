@@ -4,57 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "07e356b7959593aa",
+        "id": "bb411ed6eb263530",
         "type": "tabs",
+        "dimension": 53.117359413202934,
         "children": [
           {
-            "id": "e4c93ff179598ac4",
+            "id": "6c68ea38d7c4b3e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04. Bibliografía/Bibliografía videojuegos/Anthropy, A. (2012). Rise of the videogame zinesters.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Anthropy, A. (2012). Rise of the videogame zinesters"
+            }
+          },
+          {
+            "id": "08c2e3b929ad33f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Escritos/02. Artículos/articulo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "articulo"
+            }
+          },
+          {
+            "id": "17656bc1ff27f5a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Escritos/01. Asesorías/Trabajo final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabajo final"
+            }
+          },
+          {
+            "id": "4ac8075aa1eb065a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Escritos/01. Asesorías/Tercer control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tercer control"
+            }
+          },
+          {
+            "id": "6bbef147eeaa64b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simondon, G. (2007). El modo de existencia de los objetos técnicos"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "de030ee6c50dbea5",
+        "type": "tabs",
+        "dimension": 46.882640586797066,
+        "children": [
+          {
+            "id": "03b797baa824a71d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Escritos/Segundo informe Trimestral.md",
+                "file": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Segundo informe Trimestral"
-            }
-          },
-          {
-            "id": "0b2d33423d9dd753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Videos/Videoensayos/ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA"
-            }
-          },
-          {
-            "id": "957af725aedeb7be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04. Bibliografía/Bibliografía Metodología/Metodología de la investigación. Las rutas cuantitativas.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 767,
-                "zoom": 1.4113313008130082
-              },
-              "icon": "lucide-file-text",
-              "title": "Metodología de la investigación. Las rutas cuantitativas"
+              "title": "Lo político en los videojuegos. Una relación necesaria"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recursivo",
+                "query": "massana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,12 +152,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "55cfbe3c4a8b3ead",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 366.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -189,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Escritos/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -234,8 +290,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -244,8 +300,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -272,18 +328,77 @@
             "id": "97e99d628333f6f9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f3795b815f2ed04",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "ba7fce0a73480081",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          },
+          {
+            "id": "9e50960e27ab3277",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "0d588a0256bad1ec",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "a038629be16db2a1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "27b49001f5546677",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 412.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -306,58 +421,58 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "keep-the-rhythm:Keep the Rhythm": false,
+      "translate:Open translation view": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "957af725aedeb7be",
+  "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
-    "10. Imágenes/Pasted image 20260519025333.png",
-    "10. Imágenes/Pasted image 20260519025319.png",
-    "10. Imágenes/Pasted image 20260519025101.png",
-    "10. Imágenes/Pasted image 20260519025011.png",
-    "13. Escritos/Segundo informe Trimestral.md",
-    "07. Videos/Videoensayos/ASÍ ERAN LOS VIDEOJUEGOS EN LA UNIÓN SOVIÉTICA.md",
-    "10. Imágenes/Pasted image 20260519022306.png",
-    "10. Imágenes/Pasted image 20260519022138.png",
-    "10. Imágenes/Pasted image 20260519022124.png",
-    "Image_0.png",
-    "10. Imágenes/Pasted image 20260519021556.png",
-    "10. Imágenes/Pasted image 20260519021536.png",
+    "04. Bibliografía/Bibliografía videojuegos/videojuegos_3.0.pdf",
+    "13. Escritos/01. Asesorías/Tercer control.md",
+    "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+    "13. Escritos/01. Asesorías/Trabajo final.md",
+    "13. Escritos/02. Artículos/articulo.md",
+    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas Metafísica y Ontología/Benjamin, W. (2003). La obra de arte en la época de su reproductibilidad técnica.md",
+    "04. Bibliografía/Bibliografía videojuegos/Anthropy, A. (2012). Rise of the videogame zinesters.pdf",
+    "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.pdf",
+    "Clippings/The White House compares deadly conflict to video games and movies in memeified videos to win support for Iran war.md",
+    "04. Bibliografía/Bibliografía videojuegos/An Introduction to Game Studies (Mayra, Frans) (Z-Library).pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Penix-Tadsen (2019). Video Games and the Global South.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Sutton, B. (2001). The Ambiguity of Play.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Sicart, M. (2009). The Ethics of Computer Games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Brown, H. (2008). Videogames and Education Humanistic Approaches.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Mitchell y Clarke, (2007). Videogames  Art.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Roth, M. (2017) Thought-Provoking Play Political Philosophies in Science Fictional Videogame.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Schulzke, M. (2020). Simulating Good and Evil The Morality and Politics.pdf",
+    "13. Escritos/04. Medium/Untitled 2.md",
+    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+    "01. Lecturas Metafísica y Ontología/Avenasian, A. (2020). Future Metaphysics.md",
+    "Clippings/China's video games market From regulated to cultural export 1.md",
+    "Clippings/China's video games market From regulated to cultural export.md",
+    "Clippings/The Gaming Market in South Korea 2025.md",
+    "Clippings/El cocreador de Halo considera los memes de Donald Trump y el Jefe Maestro como 'absolutamente repugnantes'.md",
+    "Clippings/¿Qué está pasando en Mahahual Cronología del proyecto ‘Perfect Day'.md",
+    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
+    "05. Resumen/Resumen New Materialism. Interviews and Cartographies.md",
+    "Daxue Consulting.md",
+    "Clippings/The Internet landscape of South Korea and KRNOG update.md",
+    "Clippings/Del Army BTS a Roblox Así fue la presión digital para frenar Perfect Day en Mahahual.md",
+    "01. Lecturas Videojuegos/Massanari, A. (2024). Gaming democracy.md",
+    "13. Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
+    "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
     "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
-    "04. Bibliografía/Bibliografía filosofía/Introduccion A La Ontologia.pdf",
-    "04. Bibliografía/Bibliografía Metodología/Introducción a la investigación cualitativa (Uwe Flick) (Z-Library).pdf",
-    "04. Bibliografía/Bibliografía videojuegos/ICR_TD_All_ok.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/histoira y videojuegos.pdf",
-    "04. Bibliografía/Bibliografía filosofía/hipotesis filosofica.pdf",
-    "04. Bibliografía/Bibliografía filosofía",
-    "04. Bibliografía/Bibliografía juegos/herding-with-the-hounds-the-game-of-fifty-eight-holes-in-the-abseron-peninsula.pdf",
-    "04. Bibliografía/Bibliografía juegos",
-    "04. Bibliografía/Bibliografía videojuegos/Game_Play_and_Material_An_Introduction.pdf",
-    "04. Bibliografía/THE GAME, THE PLAYER, THE WORLD.pdf",
-    "07. Videos/Conferencias/Jaroslav Švelch - Making Games in Communist Czechoslovakia (Game Days Trnava 2019).md",
-    "13. Escritos/Sabían que en términos de reproducción, vaporeon.md",
-    "01. Lecturas Simondon/Sandroné, D. (2022). Máquinas técnicas e información en el pensamiento de Simondon.md",
-    "01. Lecturas Simondon/Rodriguez, P. E. (2019). La importancia de la obra de G. Simondon para la filosofía contemporánea. doispontos, 16(3), 3–12..md",
-    "01. Lecturas Simondon/Primera sesión de individuación.md",
-    "07. Videos/Conferencias/Ciclo de clases - El futuro no es un sueño próximo Yuk Hui (2da clase).md",
-    "Clippings/Arte contemporáneo y diseño conexiones y cruces clave.md",
-    "Clippings/Armas secretas de Commodore El juego de televisión 2000K, 3000H.md",
-    "Clippings/Arcweave  Your All-in-One game design tool.md",
-    "Clippings/A Series of Gunshots calls out senseless gun violence in games.md",
-    "Clippings/A Brief History of the Walking Simulator  Sidcourse.md",
-    "Clippings/10 Awesome Music Videos Inspired By Video Games.md",
-    "Clippings/(22) Do Players Care If a Game Is Made with AI  LinkedIn.md",
-    "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
-    "07. Videos/Música/Red Hot Chilli Peppers - Californication.md",
-    "07. Videos/Música/Red Hot Chili Peppers - Californication (Official Music Video) HD UPGRADE 1.md",
-    "07. Videos/Música/Red Hot Chili Peppers - Californication (Official Music Video) HD UPGRADE.md",
-    "07. Videos/Música/Move your feet.md",
-    "07. Videos/Videoensayos/Little white guys.md",
-    "07. Videos/Computer Space Arcade Review 1.md",
-    "07. Videos/Música/Das Racist - Who's That Brooown! produced by Saba  OFFICIAL MUSIC VIDEO.md"
+    "10. Imágenes/Pasted image 20260321053739.png",
+    "IMG_2990.png",
+    "IMG_2989.png",
+    "Pasted image 20260523205729.png",
+    "IMG_2987.png",
+    "IMG_2986.png",
+    "IMG_2985.png",
+    "IMG_2984.png",
+    "IMG_2982.png",
+    "IMG_2981.png"
   ]
 }

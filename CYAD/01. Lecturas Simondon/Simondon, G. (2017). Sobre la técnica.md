@@ -38,10 +38,38 @@ Consultado:
 
 
 
+##### 03. El objeto de una psicosociología de la tecnicidad
+
+(Tema::Lo que es la tecnicidad (16-17))
+
+
+
+
+
+
+##### 04. Objetividad y objetualidad del objeto técnico
+
+(Tema::Lo objetual (18))
+
+(Tema::Modos de existencia económico, social y psicosocial (18))
+
+(Tema::Tecnicidad (19))
+
+(Tema::Sobre la objetividad del objeto (19))
+
+(Tema::Producción del objeto técnico y su creador (19-20))
+
+##### 05. ¿Por qué hacer una psicosociología de la tecnicidad?
+
+(Tema::tecnicidad y objeto técnico (20))
+
 
 ---
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
 
+(Nota::Sobre el arte y cómo su creación ya es social per se, más allá de lo técnico (19))
+
+(Nota::Lo transindividual es una operación de individuación a partir de una realidad preindividual. Hace coincidir a los individuos, comunicar por medio de las significaciones (23))
 
 ---
 ### <mark style="background: #ADD8E6;">Idea</mark>

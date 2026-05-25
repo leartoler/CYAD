@@ -17,16 +17,29 @@ Consultado:
 ---
 ### <mark style="background: #FFF3A3A6;">Tema</mark>
 
-(Tema :: Historia del estudio del videojuego (6-8))
-	La historia que propone la autora va desde los estudios antropológicos, pasando por las investigaciones hacia la simulación, el juego como hipertexto y, finalmente, la narratología y ludología.
+#### 1. Introducción
 
-(Tema :: Concepto de Game Studie(6))
-	Los game studies es un campo multidisciplinario de estudio y aprendizaje con los juegos y relacionado a su fenómeno como objeto de estudio. 
+(Tema::Game Studies (6))
 
+(Tema::Antecedentes de los game studies (5))
+
+(Tema::Hipertextualidad (8))
+
+(Tema::Ludología vs narratología)
+
+(Tema::Inicio de la revista de Game studies (10))
+
+(Tema::Sobre el nombre de videojuego o digital game (12))
+
+![[IMG_2986.png]]
+
+![[IMG_2987.png]]
 
 
 ---
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+(Nota::el estudio analítico de los juegos puede tener un elemento en la forma en que jugamos y percibimos a otros jugadores (3))
 
 
 ---

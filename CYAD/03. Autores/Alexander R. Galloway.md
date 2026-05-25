@@ -86,7 +86,7 @@
 - **Digital y videojuegos:**
     - Galloway examina los videojuegos no sólo como formas de entretenimiento, sino como arte que revela la lógica algorítmica y las estructuras de poder inherentes a la cultura digital.
 - **Metafísica y ontología:**
-    - Su análisis del [[protocolo]] y de la interfaz tiene implicaciones ontológicas al cuestionar cómo se mediatiza y se estructura la experiencia de la realidad en la era digital.
+    - Su análisis del [[Protocolo]] y de la interfaz tiene implicaciones ontológicas al cuestionar cómo se mediatiza y se estructura la experiencia de la realidad en la era digital.
 - **Intersección estética y digital:**
     - El “[[efecto de la interfaz]]” plantea cómo el diseño de las interfaces transforma la percepción del mundo, contribuyendo a debates sobre la naturaleza del ser y la experiencia en entornos computacionales.
 - **Crítica al control y la descentralización:**

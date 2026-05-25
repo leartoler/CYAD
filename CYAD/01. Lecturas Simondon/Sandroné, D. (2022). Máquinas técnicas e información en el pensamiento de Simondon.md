@@ -19,6 +19,8 @@ Consultado:
 #### 1. Introducción
 
 
+
+
 #### 2. Órganos y canales técnicos
 
 
@@ -48,6 +50,10 @@ Consultado:
 
 ---
 ### <mark style="background: #FFB86CA6;">Nota</mark> 
+
+(Nota::La relación entre los objetos técnicos es transductiva (10))
+
+
 
 
 ---

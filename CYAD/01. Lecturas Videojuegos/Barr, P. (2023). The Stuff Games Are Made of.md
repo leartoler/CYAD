@@ -140,7 +140,7 @@ url:
 (Tema::Elementos en los videojuegos (149))
 
 ![[Pasted image 20260316145847.png]]
-Ver relación con [[Simondon, G. (2008). El modo de existencia de los objetos técnicos]]
+Ver relación con [[Simondon, G. (2007). El modo de existencia de los objetos técnicos]]
 
 
 ---

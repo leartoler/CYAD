@@ -26,7 +26,7 @@ tags:
 + Técnicas menores son aquellas del cuerpo
 + Técnicas mayores son aquellas de la razón
 
-Los dos de arriba se escriben ampliamente en [[Simondon, G. (2008). El modo de existencia de los objetos técnicos]], en el capitulo 3
+Los dos de arriba se escriben ampliamente en [[Simondon, G. (2007). El modo de existencia de los objetos técnicos]], en el capitulo 3
 
 + Importancia de los esquemas
 + Idea del enciclopedismo tecnológico
