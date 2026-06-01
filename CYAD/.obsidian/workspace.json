@@ -4,100 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb411ed6eb263530",
-        "type": "tabs",
-        "dimension": 53.117359413202934,
-        "children": [
-          {
-            "id": "6c68ea38d7c4b3e0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04. Bibliografía/Bibliografía videojuegos/Anthropy, A. (2012). Rise of the videogame zinesters.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Anthropy, A. (2012). Rise of the videogame zinesters"
-            }
-          },
-          {
-            "id": "08c2e3b929ad33f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/02. Artículos/articulo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "articulo"
-            }
-          },
-          {
-            "id": "17656bc1ff27f5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/01. Asesorías/Trabajo final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trabajo final"
-            }
-          },
-          {
-            "id": "4ac8075aa1eb065a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Escritos/01. Asesorías/Tercer control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tercer control"
-            }
-          },
-          {
-            "id": "6bbef147eeaa64b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simondon, G. (2007). El modo de existencia de los objetos técnicos"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "de030ee6c50dbea5",
         "type": "tabs",
-        "dimension": 46.882640586797066,
         "children": [
           {
             "id": "03b797baa824a71d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260522002108.png"
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Lo político en los videojuegos. Una relación necesaria"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260522002108"
             }
           }
         ]
@@ -132,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "massana",
+                "query": "balmori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,17 +76,21 @@
             "id": "55cfbe3c4a8b3ead",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Videojuegos/Mulas y Bertolazzi (2023). La evolución de los videojuegos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mulas y Bertolazzi (2023). La evolución de los videojuegos"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 376.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -260,8 +183,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -270,8 +193,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -290,8 +213,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -300,8 +223,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -392,19 +315,29 @@
               "state": {},
               "icon": "infranodus-icon"
             }
+          },
+          {
+            "id": "a8330d844ea1ca49",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 412.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -422,57 +355,56 @@
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "keep-the-rhythm:Keep the Rhythm": false,
-      "translate:Open translation view": false,
-      "tags-routes:Open tags routes": false
+      "translate:Open translation view": false
     }
   },
-  "active": "e105e905bb6264bc",
+  "active": "03b797baa824a71d",
   "lastOpenFiles": [
-    "04. Bibliografía/Bibliografía videojuegos/videojuegos_3.0.pdf",
-    "13. Escritos/01. Asesorías/Tercer control.md",
+    "Pasted image 20260522001633.png",
+    "Mandoky, K. (2008). Estética cotidiana y juegos de la cultura-1779536300171.webp",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "IMG_3010.png",
+    "IMG_3009.png",
+    "IMG_3008.png",
+    "IMG_3006.png",
+    "IMG_3005.png",
+    "IMG_3004.png",
+    "IMG_3002.png",
+    "IMG_3001.png",
+    "IMG_2999.png",
+    "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
+    "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
+    "01. Lecturas Videojuegos/Lebowitz, J., y Klug, Ch., (2011). Interactive storytelling for videogames.md",
+    "01. Lecturas Videojuegos/Mendizabal, I. (2004). Máquinas de pensar. Videojuegos, representaciones y simulaciones de poder.md",
+    "04. Bibliografía/Bibliografía videojuegos/Mendizabal (2004). Máquinas de pensar. Videojuegos y poder.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Mitchell (2018).Ludopolitics Videogames.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Lerner, J. (2014). Making Democracy Fun. How Game Design Can Empower Citizens and Transform Politics.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Cremin, C. (2016) Exploring videogames with Deleuze and Guattari.pdf",
     "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
-    "13. Escritos/01. Asesorías/Trabajo final.md",
-    "13. Escritos/02. Artículos/articulo.md",
-    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
-    "01. Lecturas Metafísica y Ontología/Benjamin, W. (2003). La obra de arte en la época de su reproductibilidad técnica.md",
     "04. Bibliografía/Bibliografía videojuegos/Anthropy, A. (2012). Rise of the videogame zinesters.pdf",
-    "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
-    "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.pdf",
-    "Clippings/The White House compares deadly conflict to video games and movies in memeified videos to win support for Iran war.md",
-    "04. Bibliografía/Bibliografía videojuegos/An Introduction to Game Studies (Mayra, Frans) (Z-Library).pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Penix-Tadsen (2019). Video Games and the Global South.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Sutton, B. (2001). The Ambiguity of Play.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Sicart, M. (2009). The Ethics of Computer Games.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Brown, H. (2008). Videogames and Education Humanistic Approaches.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Mitchell y Clarke, (2007). Videogames  Art.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Roth, M. (2017) Thought-Provoking Play Political Philosophies in Science Fictional Videogame.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Schulzke, M. (2020). Simulating Good and Evil The Morality and Politics.pdf",
-    "13. Escritos/04. Medium/Untitled 2.md",
-    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+    "04. Bibliografía/Bibliografía videojuegos/videojuegos_3.0.pdf",
+    "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+    "01. Lecturas Videojuegos/Bogost, I. (2007). Persuasive games.md",
+    "04. Bibliografía/Bibliografía videojuegos/_Ian_Bogost__Persuasive_Games.pdf",
     "01. Lecturas Metafísica y Ontología/Avenasian, A. (2020). Future Metaphysics.md",
-    "Clippings/China's video games market From regulated to cultural export 1.md",
-    "Clippings/China's video games market From regulated to cultural export.md",
-    "Clippings/The Gaming Market in South Korea 2025.md",
-    "Clippings/El cocreador de Halo considera los memes de Donald Trump y el Jefe Maestro como 'absolutamente repugnantes'.md",
-    "Clippings/¿Qué está pasando en Mahahual Cronología del proyecto ‘Perfect Day'.md",
-    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
-    "05. Resumen/Resumen New Materialism. Interviews and Cartographies.md",
-    "Daxue Consulting.md",
-    "Clippings/The Internet landscape of South Korea and KRNOG update.md",
-    "Clippings/Del Army BTS a Roblox Así fue la presión digital para frenar Perfect Day en Mahahual.md",
-    "01. Lecturas Videojuegos/Massanari, A. (2024). Gaming democracy.md",
-    "13. Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
-    "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
-    "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
-    "10. Imágenes/Pasted image 20260321053739.png",
-    "IMG_2990.png",
-    "IMG_2989.png",
-    "Pasted image 20260523205729.png",
-    "IMG_2987.png",
-    "IMG_2986.png",
-    "IMG_2985.png",
-    "IMG_2984.png",
-    "IMG_2982.png",
-    "IMG_2981.png"
+    "09. Juegos/Mcdonalds videogame.md",
+    "Clippings/The Beauty of Broken Why Intentional Jank Makes Games Better.md",
+    "TagsRoutes/logMessage.md",
+    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+    "01. Lecturas Videojuegos/Hui, Y. (2016). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+    "13. Escritos/04. Medium/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+    "13. Escritos/04. Medium/Sabían que en términos de reproducción, vaporeon.md",
+    "13. Escritos/04. Medium/Repenzar el futuro 2.md",
+    "13. Escritos/04. Medium/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+    "13. Escritos/04. Medium/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
+    "13. Escritos/04. Medium/Untitled 2.md",
+    "13. Escritos/04. Medium/Untitled 1.md",
+    "01. Lecturas Videojuegos/Carrubba, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
+    "Clippings/Ubisoft's Former Executives to Go On Trial For Workplace Abuse.md",
+    "04. Bibliografía/Bibliografía videojuegos/ICR_TD_All_ok.pdf",
+    "01. Lecturas Videojuegos/Balmori, E. Et al. (2019). Tentación en el Desierto. Una aproximación interdisciplinaria a la divulgación de conocimiento histórico..md",
+    "13. Escritos/01. Asesorías/Trabajo final.md",
+    "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/An Introduction to Game Studies (Mayra, Frans) (Z-Library).pdf"
   ]
 }

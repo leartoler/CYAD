@@ -1,0 +1,1 @@
+https://www.molleindustria.org/flash/index.html?file=/swf/mcdonalds.swf

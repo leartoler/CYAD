@@ -9,6 +9,8 @@ APA:
 Resumen generado:
 Audio:
 Consultado:
+tags:
+  - cinematicas
 ---
 ### <mark style="background: #FFB8EBA6;">Concepto</mark>
 

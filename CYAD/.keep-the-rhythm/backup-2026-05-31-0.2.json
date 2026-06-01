@@ -83,7 +83,10 @@
     "daysWithCompletedGoal": [
       "2026-05-20",
       "2026-05-22",
-      "2026-05-23"
+      "2026-05-23",
+      "2026-05-24",
+      "2026-05-25",
+      "2026-05-28"
     ],
     "dailyActivity": [
       {
@@ -1242,8 +1245,8 @@
           },
           {
             "timeKey": "05:50",
-            "w": 107,
-            "c": 636
+            "w": 81,
+            "c": 451
           },
           {
             "timeKey": "05:55",
@@ -1269,6 +1272,11 @@
             "timeKey": "06:30",
             "w": 7,
             "c": 32
+          },
+          {
+            "timeKey": "06:40",
+            "w": 0,
+            "c": 2
           },
           {
             "timeKey": "06:50",
@@ -1499,6 +1507,66 @@
             "timeKey": "16:45",
             "w": 4,
             "c": 43
+          },
+          {
+            "timeKey": "22:05",
+            "w": 30,
+            "c": 183
+          },
+          {
+            "timeKey": "22:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:50",
+            "w": 38,
+            "c": 202
+          },
+          {
+            "timeKey": "22:55",
+            "w": 107,
+            "c": 660
+          },
+          {
+            "timeKey": "23:00",
+            "w": -88,
+            "c": -623
+          },
+          {
+            "timeKey": "23:05",
+            "w": 32,
+            "c": 178
+          },
+          {
+            "timeKey": "23:10",
+            "w": 84,
+            "c": 581
+          },
+          {
+            "timeKey": "23:15",
+            "w": 27,
+            "c": 167
+          },
+          {
+            "timeKey": "23:20",
+            "w": 26,
+            "c": 157
+          },
+          {
+            "timeKey": "23:25",
+            "w": 23,
+            "c": 139
+          },
+          {
+            "timeKey": "23:30",
+            "w": 25,
+            "c": 188
+          },
+          {
+            "timeKey": "23:35",
+            "w": -69,
+            "c": -446
           }
         ],
         "id": 82
@@ -1908,6 +1976,41 @@
             "timeKey": "16:55",
             "w": 57,
             "c": 541
+          },
+          {
+            "timeKey": "19:25",
+            "w": 21,
+            "c": 113
+          },
+          {
+            "timeKey": "20:30",
+            "w": 15,
+            "c": 105
+          },
+          {
+            "timeKey": "20:40",
+            "w": 10,
+            "c": 82
+          },
+          {
+            "timeKey": "20:45",
+            "w": 15,
+            "c": 90
+          },
+          {
+            "timeKey": "20:50",
+            "w": 32,
+            "c": 187
+          },
+          {
+            "timeKey": "20:55",
+            "w": 20,
+            "c": 119
+          },
+          {
+            "timeKey": "21:00",
+            "w": 34,
+            "c": 223
           }
         ],
         "id": 116
@@ -1925,9 +2028,1262 @@
           }
         ],
         "id": 117
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
+        "wordCountStart": 675,
+        "charCountStart": 5109,
+        "changes": [],
+        "id": 118
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "wordCountStart": 2642,
+        "charCountStart": 16522,
+        "changes": [
+          {
+            "timeKey": "06:50",
+            "w": -11,
+            "c": -85
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
+        "wordCountStart": 304,
+        "charCountStart": 1850,
+        "changes": [],
+        "id": 120
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 2887,
+        "charCountStart": 18596,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": -37,
+            "c": -225
+          },
+          {
+            "timeKey": "13:05",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "13:30",
+            "w": 2,
+            "c": 17
+          },
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "14:25",
+            "w": 4,
+            "c": 18
+          },
+          {
+            "timeKey": "14:30",
+            "w": 71,
+            "c": 429
+          },
+          {
+            "timeKey": "14:35",
+            "w": 13,
+            "c": 86
+          },
+          {
+            "timeKey": "14:40",
+            "w": -10,
+            "c": -64
+          },
+          {
+            "timeKey": "14:45",
+            "w": 20,
+            "c": 118
+          },
+          {
+            "timeKey": "14:50",
+            "w": 56,
+            "c": 314
+          },
+          {
+            "timeKey": "14:55",
+            "w": 39,
+            "c": 237
+          },
+          {
+            "timeKey": "15:00",
+            "w": 84,
+            "c": 510
+          },
+          {
+            "timeKey": "15:05",
+            "w": 16,
+            "c": 96
+          },
+          {
+            "timeKey": "15:10",
+            "w": 18,
+            "c": 96
+          },
+          {
+            "timeKey": "15:15",
+            "w": 36,
+            "c": 205
+          },
+          {
+            "timeKey": "15:25",
+            "w": 45,
+            "c": 272
+          },
+          {
+            "timeKey": "15:30",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "15:35",
+            "w": 24,
+            "c": 158
+          },
+          {
+            "timeKey": "15:40",
+            "w": 64,
+            "c": 380
+          },
+          {
+            "timeKey": "16:50",
+            "w": 20,
+            "c": 116
+          },
+          {
+            "timeKey": "16:55",
+            "w": 17,
+            "c": 104
+          },
+          {
+            "timeKey": "17:00",
+            "w": 64,
+            "c": 389
+          },
+          {
+            "timeKey": "17:05",
+            "w": 15,
+            "c": 85
+          },
+          {
+            "timeKey": "17:10",
+            "w": -18,
+            "c": -75
+          },
+          {
+            "timeKey": "17:15",
+            "w": 29,
+            "c": 174
+          },
+          {
+            "timeKey": "17:20",
+            "w": 3,
+            "c": 14
+          },
+          {
+            "timeKey": "17:25",
+            "w": -71,
+            "c": -474
+          },
+          {
+            "timeKey": "19:10",
+            "w": 17,
+            "c": 103
+          },
+          {
+            "timeKey": "19:15",
+            "w": 24,
+            "c": 148
+          },
+          {
+            "timeKey": "19:20",
+            "w": 47,
+            "c": 300
+          },
+          {
+            "timeKey": "19:25",
+            "w": 30,
+            "c": 139
+          },
+          {
+            "timeKey": "19:30",
+            "w": -59,
+            "c": -344
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "20:55",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "21:25",
+            "w": 3,
+            "c": 12
+          },
+          {
+            "timeKey": "21:30",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "21:50",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "21:55",
+            "w": 1,
+            "c": 13
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 43
+          },
+          {
+            "timeKey": "22:05",
+            "w": 6,
+            "c": 34
+          },
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "22:15",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "22:25",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "22:30",
+            "w": 47,
+            "c": 279
+          },
+          {
+            "timeKey": "22:35",
+            "w": -9,
+            "c": -78
+          },
+          {
+            "timeKey": "22:40",
+            "w": 7,
+            "c": 56
+          },
+          {
+            "timeKey": "22:45",
+            "w": 41,
+            "c": 238
+          },
+          {
+            "timeKey": "22:50",
+            "w": 13,
+            "c": 88
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Videojuegos/Massanari, A. (2024). Gaming democracy.md",
+        "wordCountStart": 195,
+        "charCountStart": 1460,
+        "changes": [],
+        "id": 122
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
+        "wordCountStart": 314,
+        "charCountStart": 2594,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "05. Resumen/Resumen New Materialism. Interviews and Cartographies.md",
+        "wordCountStart": 762,
+        "charCountStart": 5765,
+        "changes": [],
+        "id": 124
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7157,
+        "charCountStart": 44962,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/¿Qué está pasando en Mahahual Cronología del proyecto ‘Perfect Day'.md",
+        "wordCountStart": 1690,
+        "charCountStart": 11939,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/Del Army BTS a Roblox Así fue la presión digital para frenar Perfect Day en Mahahual.md",
+        "wordCountStart": 1594,
+        "charCountStart": 11170,
+        "changes": [],
+        "id": 127
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/El cocreador de Halo considera los memes de Donald Trump y el Jefe Maestro como 'absolutamente repugnantes'.md",
+        "wordCountStart": 723,
+        "charCountStart": 5161,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/The Gaming Market in South Korea 2025.md",
+        "wordCountStart": 1835,
+        "charCountStart": 13179,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/The Internet landscape of South Korea and KRNOG update.md",
+        "wordCountStart": 2706,
+        "charCountStart": 17554,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/China's video games market From regulated to cultural export.md",
+        "wordCountStart": 2088,
+        "charCountStart": 14585,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Daxue Consulting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/China's video games market From regulated to cultural export 1.md",
+        "wordCountStart": 2088,
+        "charCountStart": 14585,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 134
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Metafísica y Ontología/Avenasian, A. (2020). Future Metaphysics.md",
+        "wordCountStart": 456,
+        "charCountStart": 3058,
+        "changes": [],
+        "id": 135
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/02. Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "wordCountStart": 297,
+        "charCountStart": 1796,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/01. Asesorías/Tercer control.md",
+        "wordCountStart": 2651,
+        "charCountStart": 15817,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Clippings/The White House compares deadly conflict to video games and movies in memeified videos to win support for Iran war.md",
+        "wordCountStart": 1685,
+        "charCountStart": 11735,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "13. Escritos/01. Asesorías/Trabajo final.md",
+        "wordCountStart": 6186,
+        "charCountStart": 38048,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "01. Lecturas Metafísica y Ontología/Benjamin, W. (2003). La obra de arte en la época de su reproductibilidad técnica.md",
+        "wordCountStart": 1149,
+        "charCountStart": 7348,
+        "changes": [],
+        "id": 142
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Trabajo final.md",
+        "wordCountStart": 6186,
+        "charCountStart": 38048,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Carrubba, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
+        "wordCountStart": 665,
+        "charCountStart": 4716,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 3598,
+        "charCountStart": 22842,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "00:30",
+            "w": 65,
+            "c": 396
+          },
+          {
+            "timeKey": "00:35",
+            "w": 42,
+            "c": 249
+          },
+          {
+            "timeKey": "00:40",
+            "w": 30,
+            "c": 175
+          },
+          {
+            "timeKey": "00:45",
+            "w": 24,
+            "c": 135
+          },
+          {
+            "timeKey": "00:50",
+            "w": 8,
+            "c": 49
+          },
+          {
+            "timeKey": "01:00",
+            "w": 18,
+            "c": 95
+          },
+          {
+            "timeKey": "01:05",
+            "w": 24,
+            "c": 159
+          },
+          {
+            "timeKey": "01:10",
+            "w": -7,
+            "c": -36
+          },
+          {
+            "timeKey": "02:30",
+            "w": -36,
+            "c": -248
+          },
+          {
+            "timeKey": "02:35",
+            "w": -222,
+            "c": -1377
+          },
+          {
+            "timeKey": "02:50",
+            "w": 16,
+            "c": 98
+          },
+          {
+            "timeKey": "02:55",
+            "w": 6,
+            "c": 54
+          },
+          {
+            "timeKey": "03:00",
+            "w": 27,
+            "c": 153
+          },
+          {
+            "timeKey": "03:05",
+            "w": 152,
+            "c": 936
+          },
+          {
+            "timeKey": "03:10",
+            "w": 14,
+            "c": 90
+          },
+          {
+            "timeKey": "03:15",
+            "w": 52,
+            "c": 281
+          },
+          {
+            "timeKey": "03:20",
+            "w": 62,
+            "c": 359
+          },
+          {
+            "timeKey": "03:25",
+            "w": -22,
+            "c": -112
+          },
+          {
+            "timeKey": "03:30",
+            "w": 46,
+            "c": 311
+          },
+          {
+            "timeKey": "03:35",
+            "w": -27,
+            "c": -194
+          },
+          {
+            "timeKey": "03:40",
+            "w": -21,
+            "c": -115
+          },
+          {
+            "timeKey": "04:15",
+            "w": -1,
+            "c": -1
+          },
+          {
+            "timeKey": "04:50",
+            "w": 43,
+            "c": 342
+          },
+          {
+            "timeKey": "04:55",
+            "w": 0,
+            "c": -16
+          },
+          {
+            "timeKey": "05:05",
+            "w": 24,
+            "c": 145
+          },
+          {
+            "timeKey": "05:10",
+            "w": 26,
+            "c": 152
+          },
+          {
+            "timeKey": "05:15",
+            "w": 5,
+            "c": 48
+          },
+          {
+            "timeKey": "05:20",
+            "w": 39,
+            "c": 228
+          },
+          {
+            "timeKey": "05:25",
+            "w": 41,
+            "c": 210
+          },
+          {
+            "timeKey": "05:45",
+            "w": 38,
+            "c": 238
+          },
+          {
+            "timeKey": "05:50",
+            "w": 19,
+            "c": 138
+          },
+          {
+            "timeKey": "05:55",
+            "w": 28,
+            "c": 156
+          },
+          {
+            "timeKey": "06:00",
+            "w": 16,
+            "c": 85
+          },
+          {
+            "timeKey": "11:00",
+            "w": -1,
+            "c": -19
+          },
+          {
+            "timeKey": "11:05",
+            "w": 48,
+            "c": 294
+          },
+          {
+            "timeKey": "11:10",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "11:55",
+            "w": 10,
+            "c": 64
+          },
+          {
+            "timeKey": "12:00",
+            "w": 45,
+            "c": 268
+          },
+          {
+            "timeKey": "12:05",
+            "w": 44,
+            "c": 270
+          },
+          {
+            "timeKey": "12:10",
+            "w": 24,
+            "c": 139
+          },
+          {
+            "timeKey": "12:15",
+            "w": 6,
+            "c": 20
+          },
+          {
+            "timeKey": "12:20",
+            "w": 16,
+            "c": 160
+          },
+          {
+            "timeKey": "12:25",
+            "w": 11,
+            "c": 79
+          },
+          {
+            "timeKey": "12:30",
+            "w": 39,
+            "c": 236
+          },
+          {
+            "timeKey": "12:45",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "12:50",
+            "w": 41,
+            "c": 254
+          },
+          {
+            "timeKey": "12:55",
+            "w": 64,
+            "c": 416
+          },
+          {
+            "timeKey": "13:00",
+            "w": 80,
+            "c": 487
+          },
+          {
+            "timeKey": "13:05",
+            "w": 25,
+            "c": 170
+          },
+          {
+            "timeKey": "13:10",
+            "w": 15,
+            "c": 80
+          },
+          {
+            "timeKey": "13:15",
+            "w": -239,
+            "c": -1606
+          },
+          {
+            "timeKey": "14:10",
+            "w": 36,
+            "c": 214
+          },
+          {
+            "timeKey": "14:40",
+            "w": -23,
+            "c": -145
+          },
+          {
+            "timeKey": "14:45",
+            "w": 7,
+            "c": 2
+          },
+          {
+            "timeKey": "14:50",
+            "w": 64,
+            "c": 418
+          },
+          {
+            "timeKey": "14:55",
+            "w": 26,
+            "c": 173
+          },
+          {
+            "timeKey": "15:00",
+            "w": 52,
+            "c": 309
+          },
+          {
+            "timeKey": "15:05",
+            "w": 56,
+            "c": 363
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "15:15",
+            "w": 7,
+            "c": 51
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Clippings/Street Fighter 2 An Oral History.md",
+        "wordCountStart": 4111,
+        "charCountStart": 24271,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Mulas y Bertolazzi (2023). La evolución de los videojuegos.md",
+        "wordCountStart": 1025,
+        "charCountStart": 6606,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Tercer control.md",
+        "wordCountStart": 2651,
+        "charCountStart": 15817,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/02. Artículos/Libro Blanco.md",
+        "wordCountStart": 4065,
+        "charCountStart": 25064,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/02. Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/segundo control.md",
+        "wordCountStart": 2240,
+        "charCountStart": 13604,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Sin título.md",
+        "wordCountStart": 184,
+        "charCountStart": 1140,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Introducción.md",
+        "wordCountStart": 1573,
+        "charCountStart": 9627,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Hacia la concretización del videojuego.md",
+        "wordCountStart": 924,
+        "charCountStart": 5620,
+        "changes": [],
+        "id": 155
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego 2.md",
+        "wordCountStart": 1517,
+        "charCountStart": 9210,
+        "changes": [],
+        "id": 156
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego.md",
+        "wordCountStart": 1517,
+        "charCountStart": 9205,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Protocolo amplíado.md",
+        "wordCountStart": 14062,
+        "charCountStart": 86630,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/01. Asesorías/Protocolo.md",
+        "wordCountStart": 4972,
+        "charCountStart": 31336,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
+        "wordCountStart": 845,
+        "charCountStart": 5385,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "07. Videos/Conferencias/Ciclo de clases - El futuro no es un sueño próximo Yuk Hui (2da clase).md",
+        "wordCountStart": 384,
+        "charCountStart": 2545,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "02. Conceptos/Fragmentar el Futuro.md",
+        "wordCountStart": 1197,
+        "charCountStart": 7292,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Metafísica y Ontología/Herrera (2023), filosofía maya.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "03:25",
+            "w": 51,
+            "c": 497
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Metafísica y Ontología/León Portilla (2014). La tinta roja y negra.md",
+        "wordCountStart": 51,
+        "charCountStart": 497,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Bogost, I. (2007). Persuasive games.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "04:05",
+            "w": 70,
+            "c": 643
+          },
+          {
+            "timeKey": "04:10",
+            "w": 85,
+            "c": 533
+          },
+          {
+            "timeKey": "04:55",
+            "w": 125,
+            "c": 746
+          },
+          {
+            "timeKey": "05:00",
+            "w": 289,
+            "c": 1837
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Balmori, E. Et al. (2019). Tentación en el Desierto. Una aproximación interdisciplinaria a la divulgación de conocimiento histórico..md",
+        "wordCountStart": 3,
+        "charCountStart": 39,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Dubbelman (2016). Narrative game mechanic.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "05:15",
+            "w": 51,
+            "c": 497
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "09. Juegos/Mcdonalds videogame.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "05:50",
+            "w": 11,
+            "c": 71
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Clippings/The Beauty of Broken Why Intentional Jank Makes Games Better.md",
+        "wordCountStart": 1149,
+        "charCountStart": 7523,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Clippings/Ubisoft's Former Executives to Go On Trial For Workplace Abuse.md",
+        "wordCountStart": 697,
+        "charCountStart": 4801,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+        "wordCountStart": 871,
+        "charCountStart": 6840,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Untitled 1.md",
+        "wordCountStart": 588,
+        "charCountStart": 3625,
+        "changes": [],
+        "id": 173
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "wordCountStart": 297,
+        "charCountStart": 1796,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
+        "wordCountStart": 643,
+        "charCountStart": 3907,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "wordCountStart": 678,
+        "charCountStart": 3963,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Repenzar el futuro 2.md",
+        "wordCountStart": 1399,
+        "charCountStart": 8392,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Sabían que en términos de reproducción, vaporeon.md",
+        "wordCountStart": 679,
+        "charCountStart": 4120,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "13. Escritos/04. Medium/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "wordCountStart": 678,
+        "charCountStart": 3963,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Videojuegos/Hui, Y. (2016). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+        "wordCountStart": 239,
+        "charCountStart": 1766,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "TagsRoutes/logMessage.md",
+        "wordCountStart": 1500,
+        "charCountStart": 9674,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "01. Lecturas Metafísica y Ontología/Avenasian, A. (2020). Future Metaphysics.md",
+        "wordCountStart": 456,
+        "charCountStart": 3058,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2026-05-27",
+        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 4592,
+        "charCountStart": 28814,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "01. Lecturas Videojuegos/Mendizabal, I. (2004). Máquinas de pensar. Videojuegos, representaciones y simulaciones de poder.md",
+        "wordCountStart": 824,
+        "charCountStart": 5816,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "01. Lecturas Videojuegos/Lebowitz, J., y Klug, Ch., (2011). Interactive storytelling for videogames.md",
+        "wordCountStart": 237,
+        "charCountStart": 1765,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 2,
+            "c": 22
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:55",
+            "w": 57,
+            "c": 546
+          },
+          {
+            "timeKey": "09:00",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 186
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 244,
+        "charCountStart": 1761,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "09:05",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "09:30",
+            "w": 14,
+            "c": 95
+          },
+          {
+            "timeKey": "09:35",
+            "w": 41,
+            "c": 320
+          },
+          {
+            "timeKey": "09:40",
+            "w": 37,
+            "c": 255
+          },
+          {
+            "timeKey": "09:45",
+            "w": 75,
+            "c": 502
+          },
+          {
+            "timeKey": "09:50",
+            "w": 4,
+            "c": 30
+          },
+          {
+            "timeKey": "09:55",
+            "w": 0,
+            "c": -16
+          },
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "21:35",
+            "w": 9,
+            "c": 66
+          },
+          {
+            "timeKey": "21:40",
+            "w": 62,
+            "c": 499
+          },
+          {
+            "timeKey": "21:45",
+            "w": 66,
+            "c": 405
+          },
+          {
+            "timeKey": "21:50",
+            "w": 104,
+            "c": 666
+          },
+          {
+            "timeKey": "21:55",
+            "w": 76,
+            "c": 533
+          },
+          {
+            "timeKey": "22:00",
+            "w": 4,
+            "c": 34
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
+        "wordCountStart": 1428,
+        "charCountStart": 9683,
+        "changes": [],
+        "id": 188
       }
     ],
-    "wholeVaultWordCount": 481079,
-    "wholeVaultCharCount": 3144158
+    "wholeVaultWordCount": 484369,
+    "wholeVaultCharCount": 3165256
   }
 }
