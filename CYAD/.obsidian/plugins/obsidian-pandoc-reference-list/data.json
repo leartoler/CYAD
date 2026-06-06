@@ -5,12 +5,14 @@
     {
       "id": 1,
       "name": "Mi biblioteca",
-      "lastUpdate": 1780307906658
+      "lastUpdate": 1780749644493
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
   "pullFromZotero": true,
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "showCitekeyTooltips": true,
+  "enableCiteKeyCompletion": true
 }

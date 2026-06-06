@@ -8,7 +8,6 @@ created: 2025-05-24
 description: M. J. Corey on the burglary trial in Paris, in which eight people were found guilty by a court for robbing Kim Kardashian of millions of dollars’ worth of jewelry, in 2016.
 tags:
   - clippings
-dg-publish: true
 ---
 The sun hasn’t yet risen in Paris, and I’m waiting outside the Palais de Justice to watch Kim Kardashian testify against the so-called grandpa robbers—a gang of career criminals, many of whom were in their fifties and sixties, who bound and gagged her in her penthouse suite, during Paris Fashion Week in October, 2016, and stole millions of dollars’ worth of jewelry. At the time, Kardashian was still in the midst of proving that she was the kind of figure who even belonged at Fashion Week; back then, the culture still differentiated between social-media stars and real stars. The heist announced Kardashian’s graduation into something greater than a glorified Instagram influencer, earning her right to the city’s fashion scene through trauma and eliciting public sympathy from the mayor of Paris. The event also provoked a stream of news headlines and social-media conversations about whether the attack had been a publicity stunt, whether her conspicuous consumption had made her an inevitable target, and whether we should allow the robbery to humanize her at all. This media cycle was ultimately eclipsed, less than a month later, by the election of as President—another figure who was known for his savvy use of social media, and who, like Kardashian, was seen as famous for being famous.
 

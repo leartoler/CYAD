@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 La imagen, la figura en movimiento, siempre se ha considerado un elemento esencial cuando se habla de videojuegos, ya sea cuando al inicio solo había una nave hecha de líneas a los títulos que vemos hoy, llenos de realismo y luces. También es innegable la importancia que ha tenido la evolución de esta imagen, por lo que hablar de ello es también considerar su influencia dentro de múltiples medios como el cine, la animación y, también, en la industria musical. 
 
 Pero, más allá de ver cómo ha evolucionado y se ha nutrido de otras fuentes, también la imagen, la estética o el "feeling", entendida esta como un cierto dejo de estilo, ha influenciado diversas formas de comunicación y expresión. Una de ellas han sido los videos musicales, aquella expresión que antiguamente, durante los años 90's, cobró notoriedad al acompañar a los sencillos musicales más importantes de cada artista; con títulos tan famoso como Do the Evolution, de Pearl Jam o incluso otros más sencillos como VIrtual Insantiny, de Jamiroquia, los videos musicales marcaron un hito dentro de la cultura que al día de hoy parece extinguirse. Así, la relación que tuvieron los videojuegos con estos videos musicales van desde la forma estética que predominaba en aquella época; las mecánicas propias de los videojuegos; la cultura gamer visualizada o, ya en la actualidad, la asociación de marcas y una asociación cada vez más cercana. 

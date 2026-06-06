@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # 1. Introducción
 
 De conformar una serie de pixeles en movimiento a complejas estructuras narrativas, el videojuego ha evolucionado como un medio con un lenguaje propio que comparte con otras formas de expresión y, además, dentro de su individuación, ha conformado dentro de sí distintos lenguajes como el cinematográfico. Ejemplo de ello tenemos las cinemáticas, animaciones que suspenden el elemento lúdico para dar paso a una narrativa que hace avanzar la historia del videojuego; o las novelas visuales, videojuegos que están entre lo literario, el comic y el videojuego; o los videojuegos del tipo *escoge tu propia aventura*; o, como ejemplo final, los *machinimas*[^2], aquellas expresiones audiovisuales que se crean a partir de los propios motores de videojuegos. 
@@ -97,4 +101,3 @@ Productos como las cinemáticas, vistos en sagas como Final Fantasy (Square, 198
 
 
 
-%%

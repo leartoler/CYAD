@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Introducción
 
 Este artículo forma parte de un proyecto de investigación doctoral que se centra principalmente en la ontología y la metafísica del videojuego, por lo que la cuestión de si los videojuegos pueden o no ser políticos resulta de interés fundamental, no solo porque se vincula con la discusión más amplia sobre si ciertas actividades culturales, como el arte, deberían ser políticas, sino también, como se verá más adelante, por la relevancia actual de los videojuegos y de los nuevos medios digitales en la política.
