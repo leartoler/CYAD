@@ -9,21 +9,29 @@ Actualmente se está cuestionando lo que es el videojuego, que lo hace ser lo qu
 
 ```dataview 
 LIST
-FROM "13. Escritos/01. Metafísica y ontología del videojuego"
+FROM "Escritos/Metafísica y ontología del videojuego"
 WHERE dg-publish = true
 ```
 ---
 Igualmente se está cuestionando el papel que tiene ética dentro del videojuego. Esto con los artículos: 
 ```dataview 
 LIST
-FROM "13. Escritos/Etica en el videojuego"
+FROM "Escritos/Etica en el videojuego"
 ```
 --- 
 Por último, se pueden consultar algunos de los borradores de artículos realizados durante el desarrollo de la investigación. En: 
 
 ```dataview 
 LIST
-FROM "13. Escritos/02. Artículos"
+FROM "Escritos/Artículos"
+WHERE dg-publish = true
+```
+---
+Además, se tienen también algunos artículos que analizan al videojuego desde la teoría de la complejidad. En: 
+
+```dataview 
+LIST
+FROM "Escritos/Complejidad y Videojuegos"
 WHERE dg-publish = true
 ```
 

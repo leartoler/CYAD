@@ -919,12 +919,40 @@
       "categoryId": "flowchart",
       "sortingOrder": 0,
       "isPinned": false
+    },
+    {
+      "id": "a56d7a4c-4610-415c-abbb-2b317010e7ce",
+      "categoryId": "sankeyDiagram",
+      "description": "",
+      "content": "sankey-beta\n        %% source,target,value\n        Electricity grid,Over generation / exports,104.453\n        Electricity grid,Heating and cooling - homes,113.726\n        Electricity grid,H2 conversion,27.14",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "05fbccf1-ea0c-447c-98ca-b561f6737ea1",
+      "categoryId": "xyChart",
+      "description": "a sample XYChart diagram",
+      "content": "xychart-beta\n        title \"Sales Revenue\"\n        x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]\n        y-axis \"Revenue (in $)\" 4000 --> 11000\n        bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]\n        line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]",
+      "sortingOrder": 0,
+      "isPinned": false
     }
   ],
   "customCategories": [],
   "selectedCategoryId": "architecture",
   "defaultCategorySortOrders": {},
   "categoryModifications": {},
+  "defaultElementCategoryIds": [
+    "mindmap",
+    "timeline",
+    "quadrantChart",
+    "c4Diagram",
+    "sankeyDiagram",
+    "xyChart",
+    "packet",
+    "kanban",
+    "block",
+    "architecture"
+  ],
   "categories": {
     "Flowchart": "Flowchart",
     "SequenceDiagram": "SequenceDiagram",

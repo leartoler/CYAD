@@ -1,0 +1,30 @@
+---
+dg-publish: true
+fontsize: 12pt
+geometry: margin=2.5cm
+documentclass: article
+author:
+  - Fabián Gutiérrez Gómez
+linestretch: "1.5"
+indent: "true"
+---
+Dentro de los cambios de paradigma que han ocurrido dentro de las ciencias sociales, o la filosofía, pocos han tenido una repercusión en la conceptualización, como son las nociones de complejidad o aquellas basadas en las ciencias biológicas o de la computación. Y remito a la filosofía porque es precisamente desde este campo en el que la filosofía de la tecnología bebe directamente conceptos que vienen tanto de los ya mencionados como también de la cibernética y la termodinámica. 
+
+# Lo biológico y termodinámico en la filosofía de la tecnología
+
+Para entender todo el impacto que ha tenido lo retomado por Mier (2007), me remito a los conceptos utilizados dentro de la filosofía de la tecnología y, particularmente, los empleados por Simondon, Yuk Hui y la escuela del Nuevo Materialismo. Y es que si algo caracteriza al pensamiento del primero es ver lo técnico con una fuerte conceptualización hacia lo biológico, visto en primera instancia por el cómo la tecnología evoluciona y los procesos de poiesis que tiene en su interior a la hora de su concretización. Sin embargo, es también dentro de la cognición, aquel campo que remite Mier como condición de procesos de la vida, en el que también Simondon lo usa dentro de uno de sus conceptos más importantes: la individuación.
+
+La individuación, para Simondon (2007), es aquel proceso en el que algo llega a ser lo que es. Es a través de distintas fases, que van de lo físico, biológico y psicológico, en lo que algo se va individuando continuamente. Pero, es dentro de estas individuaciones, en el que la cognición, el conocerse como sujeto individuado, es ya un ser, por lo que, tal como lo comenta Combes (2017), el pensamiento mismo es una fase del ser-devenir. Esta fase, que proviene de una individuación en proceso, ocurre por medio de una transducción, término utilizado tanto en la biología como en el desarrollo epistémico y ontológico de Simondon, en donde en el primero corresponde a la forma en que se consume la génesis del pensamiento y, dentro de su ontología, como aquella operación estructurante de la individuación. Como ejemplo, se puede observar ello en cómo el autor da cuenta de los diferentes procesos de formación, como es el caso del ladrillo, y da cuenta de cómo adquiere su forma y la manera en que la materia incide en ello, todo dentro de un proceso que es análoga a su texto, complejo pero ejemplificado en toda medida. 
+
+De igual manera, lo recursivo, que se menciona como determinante a la hora de entender el lenguaje, es utilizado para entender lo técnico y orgánico en Yuk Hui. Es decir, lo recursivo, de forma general, es la retroalimentación que hace posible la reorganización y que da, como salida, el funcionamiento o generación de algo nuevo. Como se puede observar, esto es aplicable tanto en un sistema social y cultural como el nuestro hasta la generación de inteligencia artificial (IA).
+
+Es decir, que los conceptos que utiliza y rastrea Mier son utilizados por los pensadores que son base del trabajo que actualmente se está realizando en torno al videojuego, porque este, más allá de un sistema técnico, es un proceso que está en constante individuación y para cuyo entendimiento es necesario tener herramientas conceptuales interdisciplinarias. Y es que el videojuego, al no ser un sistema técnico cerrado, tiende también a una autoorganización que va más allá de los desarrolladores o las empresas quienes crean los títulos, tal como se puede observar con el desarrollo de mods, fanart, o incluso machinimas; de igual manera se pueden ver sistemas de equilibrio que van más allá de la pantalla, tal como se pudo observar con el fenómeno de GameStop y la manipulación que hubo de sus acciones (Malz, 2021), mismos que pueden verse como un proceso de equilibrio y desequilibrio realizado directamente por una autorganización de los usuarios; o finalmente, como lo demostró la pandemia del COVID, los videojuegos traspasaron esa barrera de lo lúdico y se trasladaron hacia lo social, a la vida diaria que ya es digital; de ahí la necesidad de nuevas herramientas conceptuales que estén a la par. 
+
+# Referencias
+
+- Combes, M. (with Ires, P.). (2017). Simondon: una filosofía de lo transindividual ([1a. ed.]). Cactus.
+- López Aguilar, F., & Brambila Paz, F. (2007). Antropología fractal. Centro de Investigación en Matemáticas : Sociedad Matemática Mexicana.
+- Malz, A. (2021, octubre 14). The GameStop Episode: What Happened and What Does It Mean? Cato Institute. https://www.cato.org/cato-journal/fall-2021/gamestop-episode-what-happened-what-does-it-mean
+- Simondon, G. (2007). El modo de existencia de los objetos técnicos. Prometeo Libros.
+
+

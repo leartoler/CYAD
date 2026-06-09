@@ -43,13 +43,15 @@ var import_obsidian4 = require("obsidian");
 
 // src/export_longform/utils.ts
 var import_obsidian = require("obsidian");
+var collected_warnings = [];
 function notice_and_warn(message) {
   message = "Warning:\n" + message;
+  collected_warnings.push(message);
   new import_obsidian.Notice(message);
   console.warn(message);
 }
 function escape_latex(input) {
-  return input.replace(/\\/g, "\\textbackslash").replace(/\{/g, "\\{").replace(/\}/g, "\\}").replace(/%/g, "\\%").replace(/&/g, "\\&").replace(/#/g, "\\#").replace(/\$/g, "\\$").replace(/_/g, "\\_").replace(/\^/g, "\\^{}").replace(/</g, "$<$").replace(/>/g, "$>$").replace(/\|/g, "$|$").replace(/∞/g, "$\\infty$").replace(/±/g, "$\\pm$").replace(/×/g, "$\\times$").replace(/÷/g, "$\\div$").replace(/≠/g, "$\\neq$").replace(/≤/g, "$\\leq$").replace(/≥/g, "$\\geq$").replace(/≈/g, "$\\approx$").replace(/√/g, "$\\sqrt{}$").replace(/∑/g, "$\\sum$").replace(/∏/g, "$\\prod$").replace(/∫/g, "$\\int$").replace(/α/g, "$\\alpha$").replace(/β/g, "$\\beta$").replace(/γ/g, "$\\gamma$").replace(/δ/g, "$\\delta$").replace(/ε/g, "$\\epsilon$").replace(/θ/g, "$\\theta$").replace(/λ/g, "$\\lambda$").replace(/μ/g, "$\\mu$").replace(/π/g, "$\\pi$").replace(/σ/g, "$\\sigma$").replace(/φ/g, "$\\phi$").replace(/ω/g, "$\\omega$").replace(/€/g, "\\euro{}").replace(/£/g, "\\pounds{}").replace(/¥/g, "\\yen{}").replace(/¢/g, "\\cent{}").replace(/©/g, "\\copyright{}").replace(/®/g, "\\textregistered{}").replace(/™/g, "\\texttrademark{}").replace(/…/g, "\\ldots{}").replace(/—/g, "---").replace(/–/g, "--").replace(/†/g, "\\dagger{}").replace(/‡/g, "\\ddagger{}").replace(/¶/g, "\\P{}").replace(/§/g, "\\S{}").replace(/•/g, "\\textbullet{}").replace(/✓/g, "\\checkmark{}").replace(/→/g, "$\\rightarrow$").replace(/←/g, "$\\leftarrow$").replace(/↑/g, "$\\uparrow$").replace(/↓/g, "$\\downarrow$").replace(/↔/g, "$\\leftrightarrow$").replace(/⇒/g, "$\\Rightarrow$").replace(/⇐/g, "$\\Leftarrow$").replace(/⇔/g, "$\\Leftrightarrow$").replace(/∀/g, "$\\forall$").replace(/∃/g, "$\\exists$").replace(/∅/g, "$\\emptyset$").replace(/∈/g, "$\\in$").replace(/∉/g, "$\\notin$").replace(/⊂/g, "$\\subset$").replace(/⊃/g, "$\\supset$").replace(/⊆/g, "$\\subseteq$").replace(/⊇/g, "$\\supseteq$").replace(/∩/g, "$\\cap$").replace(/∪/g, "$\\cup$").replace(/∆/g, "$\\Delta$").replace(/∇/g, "$\\nabla$").replace(/∂/g, "$\\partial$").replace(/ℕ/g, "$\\mathbb{N}$").replace(/ℤ/g, "$\\mathbb{Z}$").replace(/ℚ/g, "$\\mathbb{Q}$").replace(/ℝ/g, "$\\mathbb{R}$").replace(/ℂ/g, "$\\mathbb{C}$").replace(/°/g, "$^{\\circ}$").replace(/‰/g, "\\perthousand{}").replace(/‽/g, "\\textinterrobang{}").replace(/“/g, "``").replace(/”/g, "''").replace(/‘/g, "`").replace(/’/g, "'").replace(/\u00A0/g, "~").replace(/\u00AD/g, "-").replace(/\u200B/g, "").replace(/\u200C/g, "").replace(/\u200D/g, "").replace(/\uFEFF/g, "");
+  return input.replace(/\\(?=\s|\d)/g, "\\textbackslash").replace(/\{/g, "\\{").replace(/\}/g, "\\}").replace(/%/g, "\\%").replace(/&/g, "\\&").replace(/#/g, "\\#").replace(/\$/g, "\\$").replace(/_/g, "\\_").replace(/\^/g, "\\^{}").replace(/</g, "$<$").replace(/>/g, "$>$").replace(/\|/g, "$|$").replace(/∞/g, "$\\infty$").replace(/±/g, "$\\pm$").replace(/×/g, "$\\times$").replace(/÷/g, "$\\div$").replace(/≠/g, "$\\neq$").replace(/≤/g, "$\\leq$").replace(/≥/g, "$\\geq$").replace(/≈/g, "$\\approx$").replace(/√/g, "$\\sqrt{}$").replace(/∑/g, "$\\sum$").replace(/∏/g, "$\\prod$").replace(/∫/g, "$\\int$").replace(/α/g, "$\\alpha$").replace(/β/g, "$\\beta$").replace(/γ/g, "$\\gamma$").replace(/δ/g, "$\\delta$").replace(/ε/g, "$\\epsilon$").replace(/θ/g, "$\\theta$").replace(/λ/g, "$\\lambda$").replace(/μ/g, "$\\mu$").replace(/π/g, "$\\pi$").replace(/σ/g, "$\\sigma$").replace(/φ/g, "$\\phi$").replace(/ω/g, "$\\omega$").replace(/€/g, "\\euro{}").replace(/£/g, "\\pounds{}").replace(/¥/g, "\\yen{}").replace(/¢/g, "\\cent{}").replace(/©/g, "\\copyright{}").replace(/®/g, "\\textregistered{}").replace(/™/g, "\\texttrademark{}").replace(/…/g, "\\ldots{}").replace(/—/g, "---").replace(/–/g, "--").replace(/†/g, "\\dagger{}").replace(/‡/g, "\\ddagger{}").replace(/¶/g, "\\P{}").replace(/§/g, "\\S{}").replace(/•/g, "\\textbullet{}").replace(/✓/g, "\\checkmark{}").replace(/→/g, "$\\rightarrow$").replace(/←/g, "$\\leftarrow$").replace(/↑/g, "$\\uparrow$").replace(/↓/g, "$\\downarrow$").replace(/↔/g, "$\\leftrightarrow$").replace(/⇒/g, "$\\Rightarrow$").replace(/⇐/g, "$\\Leftarrow$").replace(/⇔/g, "$\\Leftrightarrow$").replace(/∀/g, "$\\forall$").replace(/∃/g, "$\\exists$").replace(/∅/g, "$\\emptyset$").replace(/∈/g, "$\\in$").replace(/∉/g, "$\\notin$").replace(/⊂/g, "$\\subset$").replace(/⊃/g, "$\\supset$").replace(/⊆/g, "$\\subseteq$").replace(/⊇/g, "$\\supseteq$").replace(/∩/g, "$\\cap$").replace(/∪/g, "$\\cup$").replace(/∆/g, "$\\Delta$").replace(/∇/g, "$\\nabla$").replace(/∂/g, "$\\partial$").replace(/ℕ/g, "$\\mathbb{N}$").replace(/ℤ/g, "$\\mathbb{Z}$").replace(/ℚ/g, "$\\mathbb{Q}$").replace(/ℝ/g, "$\\mathbb{R}$").replace(/ℂ/g, "$\\mathbb{C}$").replace(/°/g, "$^{\\circ}$").replace(/‰/g, "\\perthousand{}").replace(/‽/g, "\\textinterrobang{}").replace(/“/g, "``").replace(/”/g, "''").replace(/‘/g, "`").replace(/’/g, "'").replace(/\u00A0/g, "~").replace(/\u00AD/g, "-").replace(/\u200B/g, "").replace(/\u200C/g, "").replace(/\u200D/g, "").replace(/\uFEFF/g, "");
 }
 function find_image_file(find_file, address) {
   const matchExcalidraw = /^.*\.excalidraw$/.exec(address);
@@ -82,7 +84,9 @@ var DEFAULT_SETTINGS = {
   default_env_name_to_file_name: false,
   last_external_folder: "",
   overwrite_figures: false,
-  overwrite_header: false
+  overwrite_header: false,
+  export_comments: false,
+  copy_errors_to_clipboard: false
 };
 function init_data(longform_file, read_tfile, find_file) {
   return {
@@ -104,7 +108,7 @@ function init_data(longform_file, read_tfile, find_file) {
   };
 }
 function address_is_image_file(address) {
-  if (/\.(?:jpeg|svg|pdf|png|jpg|gif|svg|pdf|tiff|excalidraw?)$/.exec(address)) {
+  if (/\.(?:jpeg|svg|pdf|png|jpg|gif|svg|pdf|tiff|excalidraw)$/.exec(address)) {
     return true;
   }
   return false;
@@ -207,7 +211,7 @@ var Header = class {
     } else if (this.level === 3) {
       header_string = "\\subsubsection{" + header_title + "}\n";
     } else if (this.level >= 4) {
-      header_string = "\n\\textbf{" + header_title + "}\n\n";
+      header_string = "\n\\paragraph{" + header_title + "}\n\n";
     }
     buffer_offset += buffer.write(header_string, buffer_offset);
     const promises = this.data.header_stack.map(
@@ -486,7 +490,7 @@ var DoubleQuotes = class {
     return [this];
   }
   async latex(buffer, buffer_offset, settings) {
-    return buffer_offset + buffer.write("``" + this.content + '"', buffer_offset);
+    return buffer_offset + buffer.write("``" + escape_latex(this.content) + '"', buffer_offset);
   }
 };
 var SingleQuotes = class {
@@ -503,7 +507,7 @@ var SingleQuotes = class {
     return [this];
   }
   async latex(buffer, buffer_offset, settings) {
-    return buffer_offset + buffer.write("`" + this.content + "'", buffer_offset);
+    return buffer_offset + buffer.write("`" + escape_latex(this.content) + "'", buffer_offset);
   }
 };
 var Strong = class {
@@ -867,7 +871,11 @@ var Comment = class {
     return [this];
   }
   async latex(buffer, buffer_offset, settings) {
-    return buffer_offset;
+    if (settings.export_comments) {
+      return buffer_offset + buffer.write("%" + this.content + "\n", buffer_offset);
+    } else {
+      return buffer_offset;
+    }
   }
 };
 
@@ -898,17 +906,20 @@ var EmbedWikilink = class {
           new Paragraph([new Text(err_msg)]),
           new BlankLine()
         ];
-      } else {
-        data.media_files.push(file);
-        const p = new Plot(file, data.current_file, this.display);
-        p.label = await label_from_location(
-          data,
-          file.name,
-          data.current_file,
-          settings
-        );
-        return [p];
       }
+      data.media_files.push(file);
+      const p = new Plot(
+        file,
+        data.current_file,
+        this.display == void 0 ? void 0 : new Paragraph([new Text(this.display)])
+      );
+      p.label = await label_from_location(
+        data,
+        file.name,
+        data.current_file,
+        settings
+      );
+      return [p];
     }
     const return_data = await parse_embed_content(
       this.content,
@@ -988,6 +999,78 @@ var EmbedWikilink = class {
     return 0;
   }
 };
+function concatenateFromIndex2(arr) {
+  const parts = [];
+  for (let i = 2; i < arr.length; i++) {
+    const elt = arr[i];
+    if (elt !== void 0) {
+      parts.push(elt);
+    }
+  }
+  if (parts.length === 0) {
+    return "";
+  }
+  let result = parts[0];
+  for (let i = 1; i < parts.length; i++) {
+    const curr = parts[i];
+    if (result.endsWith(" ") || curr.startsWith(" ")) {
+      result += curr;
+    } else {
+      result += " " + curr;
+    }
+  }
+  return result;
+}
+var CaptionedPlot = class {
+  constructor(address, caption) {
+    this.address = address;
+    this.caption = caption;
+  }
+  static get_regexp() {
+    return /(?:\S*?::\s*\n?\s*)?!\[\[([^\r\n#\|\]]*\.(?:jpeg|svg|pdf|png|jpg|gif|svg|pdf|tiff|excalidraw))(?:#[^\n\r\u2028\u2029\]\|]+?)?(?:\|[^\n\r\u2028\u2029\]]*?)?\]\][^\S\n\r\u2028\u2029]*\n\n?>(?: \[![^\]\n\r\u2028\u2029]+\])?[^\S\n\r\u2028\u2029]*([^\n\r]*)(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r]>?[^\S\n\r\u2028\u2029]*([^\n\r]+))?(?:[\n\r][\s]*?[\n\r]|[\n\r][\s]*?$|$)/g;
+  }
+  static build_from_match(args, settings) {
+    const address = args[1];
+    const caption = concatenateFromIndex2(args);
+    return new CaptionedPlot(address, caption);
+  }
+  async unroll(data, settings) {
+    const file = find_image_file(data.find_file, this.address);
+    if (file === void 0) {
+      const err_msg = "Content not found: Could not find the content of the plot with image '" + this.address + "'";
+      notice_and_warn(err_msg);
+      return [
+        new BlankLine(),
+        new Paragraph([new Text(err_msg)]),
+        new BlankLine()
+      ];
+    }
+    data.media_files.push(file);
+    const caption = new Paragraph(parse_inline([new Text(this.caption)], settings));
+    const finished_caption = await caption.unroll(data, settings);
+    const caption_paragraph = finished_caption[0];
+    if (!(caption_paragraph instanceof Paragraph)) {
+      throw new Error("caption_paragraph must be an instance of Paragraph");
+    }
+    const p = new Plot(
+      file,
+      data.current_file,
+      caption_paragraph
+    );
+    p.file_of_origin = data.current_file;
+    p.label = await label_from_location(
+      data,
+      file.name,
+      data.current_file,
+      settings
+    );
+    return [p];
+  }
+  async latex(buffer, buffer_offset, settings) {
+    throw new Error("Not implemented");
+    return buffer_offset;
+  }
+};
 var Plot = class {
   constructor(image, current_file, caption) {
     this.file_of_origin = current_file;
@@ -1011,14 +1094,23 @@ var Plot = class {
       caption_text = "";
       const warning = "WARNING: Figure created from '" + this.image.name + "' has no caption.\nYou may want to add one in the display part of the wikilink: for example,\n![[plot.png|my caption]]\nIn note:\n" + this.file_of_origin.path;
       notice_and_warn(warning);
+      buffer_offset += buffer.write(
+        "\\caption{" + caption_text + "\\label{" + this.label + "}}\n",
+        buffer_offset
+      );
     } else {
-      caption_text = this.caption;
+      buffer_offset += buffer.write("\\caption{", buffer_offset);
+      buffer_offset = await this.caption.latex(
+        buffer,
+        buffer_offset,
+        settings
+      );
+      buffer_offset += buffer.write(
+        "\\label{" + this.label + "}}\n",
+        buffer_offset
+      );
     }
-    buffer_offset += buffer.write(
-      "\\caption{" + caption_text + "\\label{" + this.label + "}}\n",
-      buffer_offset
-    );
-    buffer_offset += buffer.write("\\end{figure}\n", buffer_offset);
+    buffer_offset += buffer.write("\\end{figure}\n\n", buffer_offset);
     return buffer_offset;
   }
 };
@@ -1099,7 +1191,7 @@ var Environment = class {
   async latex(buffer, buffer_offset, settings) {
     let start_env_string = "\\begin{" + this.type + "}";
     if (this.type === "proof" && this.label !== void 0) {
-      start_env_string += "[\\hypertarget{" + this.label + "}Proof of \\Cref{" + this.label.replace("proof", "statement") + "}]";
+      start_env_string += "[\\hypertarget{" + this.label + "}Proof of \\Cref{" + this.label.replace(/proof$/g, "statement") + "}]";
     } else if (this.type !== "remark" && settings.display_env_titles) {
       if (this.display_title !== void 0) {
         if (this.display_title !== "") {
@@ -1184,7 +1276,7 @@ var UnrolledWikilink = class {
     const file = this.unroll_data.find_file(this.address);
     if (!file) {
       notice_and_warn(
-        "Wikilink with address '" + this.address + "' points to no file. Wikilink is in file: '" + this.unroll_data.current_file.path + "'"
+        "Wikilink with address '" + this.address + "' points to no file.\nWikilink is in file: '" + this.unroll_data.current_file.path + "'"
       );
       return buffer_offset + buffer.write(
         "FAILED TO RESOLVE:[[" + this.address + "]]",
@@ -1195,16 +1287,13 @@ var UnrolledWikilink = class {
       const file_contents = await this.unroll_data.read_tfile(file);
       const [yaml] = parse_yaml_header(file_contents);
       const bib_key_match = (_a = yaml.source) == null ? void 0 : _a.match(
-        /@([a-zA-Z0-9\-_]+)|\[\[@([a-zA-Z0-9\-_]+)\]\]/
+        /@?([a-zA-Z0-9\-_]+)|\[\[@([a-zA-Z0-9\-_]+)\]\]/
       );
       const bib_key = bib_key_match ? bib_key_match[1] || bib_key_match[2] : void 0;
       const published_result_name = yaml.published_result_name;
-      if (bib_key && typeof published_result_name === "string") {
-        const citation = new Citation(
-          bib_key,
-          "std",
-          published_result_name || this.displayed
-        );
+      if (bib_key) {
+        const suffix = typeof published_result_name === "string" && published_result_name !== "" ? published_result_name : this.displayed;
+        const citation = new Citation(bib_key, void 0, suffix);
         return citation.latex(buffer, buffer_offset, settings);
       } else {
         notice_and_warn(
@@ -1216,9 +1305,16 @@ var UnrolledWikilink = class {
         );
       }
     }
+    let img_file = void 0;
+    if (address_is_image_file(this.address)) {
+      img_file = find_image_file(
+        this.unroll_data.find_file,
+        this.address
+      );
+    }
     const label = await label_from_location(
       this.unroll_data,
-      this.address,
+      img_file == void 0 ? this.address : file.name,
       this.unroll_data.current_file,
       settings,
       this.header
@@ -1233,7 +1329,7 @@ var UnrolledWikilink = class {
       return buffer_offset + buffer.write("\\Cref{" + label + "}", buffer_offset);
     } else {
       return buffer_offset + buffer.write(
-        "\\hyperlink{" + label + "}{the proof}",
+        "\\hyperref[" + label + "]{the proof}",
         buffer_offset
       );
     }
@@ -1674,7 +1770,7 @@ async function parse_embed_content(address, find_file, read_tfile, parsed_cache,
   const header_elt = await find_header(header, [content.body], settings);
   if (header_elt === void 0) {
     notice_and_warn(
-      "Header not found: " + header + " in file with address " + address + "In note:\n" + file_of_origin.path
+      "Header not found: " + header + " in file with address " + address + "\nIn note:\n" + file_of_origin.path
     );
     return void 0;
   }
@@ -1691,14 +1787,23 @@ function parse_display(input, settings) {
   );
   new_display = split_display(
     new_display,
-    Quote.build_from_match,
-    Quote.get_regexp(),
+    DisplayCode.build_from_match,
+    DisplayCode.get_regexp(),
+    settings
+  );
+  return [parsed_yaml[0], new_display];
+}
+function parse_after_headers(new_display, settings) {
+  new_display = split_display(
+    new_display,
+    CaptionedPlot.build_from_match,
+    CaptionedPlot.get_regexp(),
     settings
   );
   new_display = split_display(
     new_display,
-    DisplayCode.build_from_match,
-    DisplayCode.get_regexp(),
+    Quote.build_from_match,
+    Quote.get_regexp(),
     settings
   );
   new_display = split_display(
@@ -1707,9 +1812,6 @@ function parse_display(input, settings) {
     EmbedWikilink.get_regexp(),
     settings
   );
-  return [parsed_yaml[0], new_display];
-}
-function parse_after_headers(new_display, settings) {
   new_display = split_display(
     new_display,
     Environment.build_from_match,
@@ -1851,6 +1953,12 @@ function parse_yaml_header(input) {
 function parse_inline(inline_arr, settings) {
   inline_arr = split_inline(
     inline_arr,
+    DoubleQuotes.get_regexp(),
+    DoubleQuotes.build_from_match,
+    settings
+  );
+  inline_arr = split_inline(
+    inline_arr,
     ExplicitRef.get_regexp(),
     ExplicitRef.build_from_match,
     settings
@@ -1895,12 +2003,6 @@ function parse_inline(inline_arr, settings) {
     inline_arr,
     InlineMath.get_regexp(),
     InlineMath.build_from_match,
-    settings
-  );
-  inline_arr = split_inline(
-    inline_arr,
-    DoubleQuotes.get_regexp(),
-    DoubleQuotes.build_from_match,
     settings
   );
   inline_arr = split_inline(
@@ -1971,9 +2073,17 @@ var ExportPaperPlugin = class extends import_obsidian4.Plugin {
       }
     };
   }
+  async copy_warnings_to_clipboard() {
+    if (!this.settings.copy_errors_to_clipboard)
+      return;
+    if (collected_warnings.length === 0)
+      return;
+    await navigator.clipboard.writeText(collected_warnings.join("\n"));
+  }
   // External export method with FileSystemAdapter
   async export_to_external_folder(active_file, external_folder, skip_overwrite_check = false) {
     var _a, _b, _c;
+    collected_warnings.length = 0;
     const parsed_contents = await parse_longform(
       this.app.vault.cachedRead.bind(this.app.vault),
       this.find_file,
@@ -2114,11 +2224,13 @@ var ExportPaperPlugin = class extends import_obsidian4.Plugin {
     }
     this.settings.last_external_folder = external_folder;
     await this.saveSettings();
+    await this.copy_warnings_to_clipboard();
     new import_obsidian4.Notice(
       `${export_message}To external folder: ${output_folder_path}`
     );
   }
   async find_files_and_export(active_file, settings) {
+    collected_warnings.length = 0;
     if (this.settings.base_output_folder === "") {
       this.settings.base_output_folder = "/";
     }
@@ -2305,6 +2417,7 @@ var ExportPaperPlugin = class extends import_obsidian4.Plugin {
         preamble_file
       );
     }
+    await this.copy_warnings_to_clipboard();
     new import_obsidian4.Notice(
       partial_message + "To the vault folder inside the vault:\n" + output_folder_path + "/"
     );
@@ -2553,6 +2666,22 @@ var LatexExportSettingTab = class extends import_obsidian4.PluginSettingTab {
         "Last used external folder (e.g., /home/user/latex)"
       ).setValue(this.plugin.settings.last_external_folder).onChange(async (value) => {
         this.plugin.settings.last_external_folder = (0, import_obsidian4.normalizePath)(value);
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian4.Setting(containerEl).setName("Export Obsidian comments").setDesc(
+      "That comments of the form %%...%% become latex comments. If false, the Obsidian comments are not included in the export."
+    ).addToggle(
+      (cb) => cb.setValue(this.plugin.settings.export_comments).onChange(async (value) => {
+        this.plugin.settings.export_comments = value;
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian4.Setting(containerEl).setName("Copy errors to clipboard automatically").setDesc(
+      "When enabled, all warning messages from an export are automatically copied to the clipboard."
+    ).addToggle(
+      (cb) => cb.setValue(this.plugin.settings.copy_errors_to_clipboard).onChange(async (value) => {
+        this.plugin.settings.copy_errors_to_clipboard = value;
         await this.plugin.saveSettings();
       })
     );

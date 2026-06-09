@@ -10,16 +10,77 @@
           {
             "id": "03b797baa824a71d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "10. Imágenes/braingame.png"
+                "file": "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "braingame"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "El desorejamiento se traduce en ordenacismo.  La relación con la vidriería"
+            }
+          },
+          {
+            "id": "0ef7fc2ebd3e3106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Home/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "59520a98394d8b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escritos/Etica en el videojuego/Videojuegos y política.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Videojuegos y política"
+            }
+          },
+          {
+            "id": "e4d86cc36c8c0409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Home/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "cf6b2b51e1cf9c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lo político en los videojuegos. Una relación necesaria"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ciencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 646.5
+    "width": 616.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -243,8 +304,8 @@
             "state": {
               "type": "smart-lookup-view",
               "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
+              "icon": "lucide-ghost",
+              "title": "smart-lookup-view"
             }
           },
           {
@@ -313,21 +374,12 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
-            }
-          },
-          {
-            "id": "a8330d844ea1ca49",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "infranodus-graph-view"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -336,6 +388,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Toggle Footer Connections": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -351,62 +404,59 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "infranodus-graph-view:InfraNodus Graph View": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "keep-the-rhythm:Keep the Rhythm": false,
       "translate:Open translation view": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-kanban:Create new board": false,
-      "tags-routes:Open tags routes": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "03b797baa824a71d",
+  "active": "e4d86cc36c8c0409",
   "lastOpenFiles": [
-    "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
-    "13. Escritos/01. Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
-    "13. Escritos/01. Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
-    "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
-    "05. Kanban/Kanban.md",
-    "05. Kanban",
-    "18. Calendario/2026-03-10 Reunión Asesor.md",
+    "Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales.md",
+    "Escritos/Etica en el videojuego/Videojuegos y política.pdf",
+    "Escritos/Etica en el videojuego/Videojuegos y política.md",
+    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
     "01. Home/Home.md",
-    "13. Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México.md",
-    "13. Escritos/Etica en el videojuego/Cultura y videojuegos.md",
-    "13. Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
-    "13. Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
-    "13. Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
-    "Indice de Temas.md",
-    "Índice Ideas.md",
-    "Indice Notas.md",
-    "Indice.md",
-    "13. Escritos/01. Metafísica y ontología del videojuego/La individuación del videojuego.md",
-    "10. Imágenes/1.svg",
-    "13. Escritos/01. Metafísica y ontología del videojuego/Definición de videojuego II.md",
-    "13. Escritos/01. Metafísica y ontología del videojuego/Definición de videojuego.md",
-    "13. Escritos/01. Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+    "Escritos/Etica en el videojuego/Más allá del control.pdf",
+    "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
+    "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
+    "Escritos/Etica en el videojuego/Más allá del control.md",
+    "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
+    "Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
+    "19. Referencias/CYAD 1.bib",
+    "19. Referencias/apa.csl",
+    "19. Referencias/CYAD.bib",
+    "19. Referencias",
+    "Clippings/Microsoft Kinect Can't Identify African-Americans.md",
+    "Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México.md",
+    "01. Home/Articulos.md",
+    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+    "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.pdf",
+    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+    "Escritos/06. Videojuegos/Personajes.md",
+    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
+    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.tex",
+    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.pdf",
+    "Escritos/03. Clases de Procesos/Notas sobre la complejidad en la ciencias sociales y su impacto en.pdf",
     "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
-    "10. Imágenes/Pasted image 20260606011454.png",
-    "10. Imágenes/Pasted image 20260606013018.png",
-    "03. Autores/Daxue Consulting.md",
-    "2026-05-25.md",
-    "10. Imágenes/Pasted image 20260606011955.png",
-    "2026-01-26.md",
-    "2026-01-16.md",
-    "10. Imágenes/Image_0.png",
-    "10. Imágenes/Mandoky, K. (2008). Estética cotidiana y juegos de la cultura-1779536300171.webp",
-    "13. Escritos/07. Proyectos/Voz y Luz.md",
-    "texto.pdf",
-    "Untitled.base",
-    "Untitled.pdf",
-    "10. Imágenes/Snapshot (10).jpeg",
-    "Sin título 1.base",
-    "10. Imágenes/Snapshot (6).jpeg",
-    "10. Imágenes/Pasted image 20260605192255.png",
-    "10. Imágenes/Pasted image 20260606011055.png",
-    "13. Escritos/Etica en el videojuego",
-    "01. Lecturas Antropología",
-    "01. Home/Untitled",
-    "04. Bibliografía/Bibliografía filosofía/hipotesis filosofica.pdf",
-    "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.pdf"
+    "IMG_3047.png",
+    "IMG_3046.png",
+    "IMG_3045.png",
+    "IMG_3044.png",
+    "IMG_3043.png",
+    "Pasted image 20260606192011.png",
+    "Pasted image 20260606191905.png",
+    "Pasted image 20260606191825.png",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
+    "10. Imágenes/braingame.png",
+    "Escritos/Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
+    "10. Imágenes/1.svg"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "githubRepo": "mpovg",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "leartoler",
-  "gardenBaseUrl": "https://https://mpovg.vercel.app/",
+  "gardenBaseUrl": "https://mpovg.vercel.app",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Amber Cathode\",\"author\":\"bkindler\",\"repo\":\"bkindler/amber-cathode\",\"screenshot\":\"screenshot.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/bkindler/amber-cathode/HEAD/theme.css\"}",
@@ -38,13 +38,13 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
+    "dgShowBacklinks": true,
     "dgShowLocalGraph": true,
     "dgShowInlineTitle": true,
     "dgShowFileTree": true,
     "dgEnableSearch": true,
     "dgShowToc": true,
-    "dgLinkPreview": false,
+    "dgLinkPreview": true,
     "dgShowTags": true
   },
   "uiStrings": {

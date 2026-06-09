@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "0iFBW2nrUWU8F2A-jvoQQ",
+      "name": "13. Escritos",
+      "value": "#ba1c80"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Escritos",
+      "color": "0iFBW2nrUWU8F2A-jvoQQ"
+    }
+  ]
+}

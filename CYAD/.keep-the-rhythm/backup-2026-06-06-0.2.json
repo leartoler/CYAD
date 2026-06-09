@@ -402,7 +402,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
         "wordCountStart": 4444,
         "charCountStart": 28073,
         "changes": [],
@@ -410,7 +410,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
         "wordCountStart": 5379,
         "charCountStart": 34506,
         "changes": [],
@@ -3510,7 +3510,7 @@
       },
       {
         "date": "2026-06-05",
-        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
         "wordCountStart": 4444,
         "charCountStart": 28073,
         "changes": [],
@@ -3518,7 +3518,7 @@
       },
       {
         "date": "2026-06-05",
-        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
         "wordCountStart": 5379,
         "charCountStart": 34506,
         "changes": [
@@ -3861,7 +3861,28 @@
         "filePath": "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
         "wordCountStart": 61,
         "charCountStart": 583,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 6,
+            "c": 64
+          },
+          {
+            "timeKey": "18:40",
+            "w": 52,
+            "c": 317
+          },
+          {
+            "timeKey": "19:00",
+            "w": 37,
+            "c": 190
+          },
+          {
+            "timeKey": "19:05",
+            "w": 42,
+            "c": 261
+          }
+        ],
         "id": 237
       },
       {
@@ -4051,9 +4072,41 @@
         "charCountStart": 32,
         "changes": [],
         "id": 251
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
+        "wordCountStart": 4444,
+        "charCountStart": 28073,
+        "changes": [],
+        "id": 252
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
+        "wordCountStart": 5382,
+        "charCountStart": 34519,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "13. Escritos/01. Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
+        "wordCountStart": 1567,
+        "charCountStart": 9609,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 738,
+        "charCountStart": 5172,
+        "changes": [],
+        "id": 255
       }
     ],
-    "wholeVaultWordCount": 528215,
-    "wholeVaultCharCount": 3456529
+    "wholeVaultWordCount": 528352,
+    "wholeVaultCharCount": 3457361
   }
 }

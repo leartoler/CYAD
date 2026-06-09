@@ -86,12 +86,14 @@
       "2026-05-23",
       "2026-05-24",
       "2026-05-25",
-      "2026-05-28"
+      "2026-05-28",
+      "2026-06-06",
+      "2026-06-07"
     ],
     "dailyActivity": [
       {
         "date": "2026-05-19",
-        "filePath": "13. Escritos/05. Informes/Segundo informe Trimestral.md",
+        "filePath": "Escritos/05. Informes/Segundo informe Trimestral.md",
         "wordCountStart": 747,
         "charCountStart": 4808,
         "changes": [
@@ -207,7 +209,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
         "wordCountStart": 533,
         "charCountStart": 3338,
         "changes": [],
@@ -215,7 +217,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Los objetos en los videojuegos.md",
+        "filePath": "Escritos/04. Lo que sea/Los objetos en los videojuegos.md",
         "wordCountStart": 698,
         "charCountStart": 4020,
         "changes": [],
@@ -223,7 +225,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
         "wordCountStart": 7157,
         "charCountStart": 44962,
         "changes": [],
@@ -231,7 +233,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/articulo.md",
+        "filePath": "Escritos/Artículos/articulo.md",
         "wordCountStart": 2018,
         "charCountStart": 12182,
         "changes": [],
@@ -239,7 +241,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
+        "filePath": "Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
         "wordCountStart": 304,
         "charCountStart": 1850,
         "changes": [],
@@ -247,7 +249,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego.md",
         "wordCountStart": 1517,
         "charCountStart": 9205,
         "changes": [],
@@ -255,7 +257,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego 2.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego II.md",
         "wordCountStart": 1517,
         "charCountStart": 9210,
         "changes": [],
@@ -277,7 +279,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/El juego como dimensión transindividual.md",
+        "filePath": "Escritos/Artículos/El juego como dimensión transindividual.md",
         "wordCountStart": 238,
         "charCountStart": 1507,
         "changes": [],
@@ -285,7 +287,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "filePath": "Escritos/04. Lo que sea/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
         "wordCountStart": 678,
         "charCountStart": 3963,
         "changes": [],
@@ -293,7 +295,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
+        "filePath": "Escritos/04. Lo que sea/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
         "wordCountStart": 643,
         "charCountStart": 3907,
         "changes": [],
@@ -301,7 +303,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/Videojuegos y Videoclips, una relación de recíproca influencia.md",
+        "filePath": "Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia.md",
         "wordCountStart": 1217,
         "charCountStart": 7161,
         "changes": [],
@@ -309,7 +311,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Hacia la concretización del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego.md",
         "wordCountStart": 924,
         "charCountStart": 5620,
         "changes": [],
@@ -317,7 +319,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/05. Informes/Informe Trimestral.md",
+        "filePath": "Escritos/05. Informes/Informe Trimestral.md",
         "wordCountStart": 654,
         "charCountStart": 4243,
         "changes": [],
@@ -325,7 +327,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Introducción.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
         "wordCountStart": 1573,
         "charCountStart": 9627,
         "changes": [],
@@ -333,7 +335,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/La individuación del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/La individuación del videojuego.md",
         "wordCountStart": 744,
         "charCountStart": 4500,
         "changes": [],
@@ -369,7 +371,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/03. Clases de Procesos/Notas sobre la complejidad en la ciencias sociales y su impacto en.md",
+        "filePath": "Escritos/03. Clases de Procesos/Notas sobre la complejidad en la ciencias sociales y su impacto en.md",
         "wordCountStart": 685,
         "charCountStart": 4094,
         "changes": [],
@@ -377,7 +379,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/06. Videojuegos/Personajes.md",
+        "filePath": "Escritos/06. Videojuegos/Personajes.md",
         "wordCountStart": 3107,
         "charCountStart": 18813,
         "changes": [],
@@ -385,7 +387,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
+        "filePath": "Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
         "wordCountStart": 249,
         "charCountStart": 1497,
         "changes": [],
@@ -393,7 +395,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
         "wordCountStart": 480,
         "charCountStart": 3068,
         "changes": [],
@@ -401,7 +403,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Propuesta 1. Hacia una exploración metafísica y ontológica de lo digital a través del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
         "wordCountStart": 4444,
         "charCountStart": 28073,
         "changes": [],
@@ -409,7 +411,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Propuesta 2. Hacia una exploración metafísica de lo digital a través del videojuego.  Una aportación teórica para una propuesta de diseño.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
         "wordCountStart": 5379,
         "charCountStart": 34506,
         "changes": [],
@@ -417,7 +419,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/02. Artículos/Presentacion.md",
+        "filePath": "Escritos/Artículos/Presentacion.md",
         "wordCountStart": 149,
         "charCountStart": 914,
         "changes": [],
@@ -439,7 +441,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Protocolo.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
         "wordCountStart": 4972,
         "charCountStart": 31336,
         "changes": [],
@@ -455,7 +457,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Repenzar el futuro 2.md",
+        "filePath": "Escritos/04. Lo que sea/Repenzar el futuro 2.md",
         "wordCountStart": 1399,
         "charCountStart": 8392,
         "changes": [],
@@ -477,7 +479,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Untitled 1.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 1.md",
         "wordCountStart": 588,
         "charCountStart": 3625,
         "changes": [],
@@ -485,7 +487,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 2.md",
         "wordCountStart": 297,
         "charCountStart": 1796,
         "changes": [],
@@ -493,7 +495,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/07. Clases/01. Ética en el videojuego/segundo.md",
+        "filePath": "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
         "wordCountStart": 590,
         "charCountStart": 3866,
         "changes": [],
@@ -501,7 +503,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/segundo control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II.md",
         "wordCountStart": 2240,
         "charCountStart": 13604,
         "changes": [],
@@ -509,7 +511,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/05. Informes/Segundo informe Trimestral.md",
+        "filePath": "Escritos/05. Informes/Segundo informe Trimestral.md",
         "wordCountStart": 747,
         "charCountStart": 4808,
         "changes": [],
@@ -517,7 +519,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
+        "filePath": "Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
         "wordCountStart": 845,
         "charCountStart": 5385,
         "changes": [],
@@ -525,7 +527,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Sin título.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Sin título.md",
         "wordCountStart": 184,
         "charCountStart": 1140,
         "changes": [],
@@ -533,7 +535,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/03. Clases de Procesos/Tarea.md",
+        "filePath": "Escritos/03. Clases de Procesos/Tarea.md",
         "wordCountStart": 875,
         "charCountStart": 7484,
         "changes": [],
@@ -541,7 +543,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "13. Escritos/01. Asesorías/Tercer control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Tercer control.md",
         "wordCountStart": 2651,
         "charCountStart": 15817,
         "changes": [],
@@ -549,7 +551,7 @@
       },
       {
         "date": "2026-05-20",
-        "filePath": "Voz y Luz.md",
+        "filePath": "Escritos/07. Proyectos/Voz y Luz.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -658,7 +660,7 @@
       },
       {
         "date": "2026-05-21",
-        "filePath": "Voz y Luz.md",
+        "filePath": "Escritos/07. Proyectos/Voz y Luz.md",
         "wordCountStart": 602,
         "charCountStart": 3761,
         "changes": [],
@@ -719,7 +721,7 @@
       },
       {
         "date": "2026-05-21",
-        "filePath": "13. Escritos/02. Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
         "wordCountStart": 480,
         "charCountStart": 3068,
         "changes": [],
@@ -796,7 +798,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/03. Clases de Procesos/Tarea procesos culturales.md",
+        "filePath": "Escritos/03. Clases de Procesos/Tarea procesos culturales.md",
         "wordCountStart": 1785,
         "charCountStart": 10955,
         "changes": [],
@@ -804,7 +806,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/03. Clases de Procesos/Tarea.md",
+        "filePath": "Escritos/03. Clases de Procesos/Tarea.md",
         "wordCountStart": 875,
         "charCountStart": 7484,
         "changes": [],
@@ -812,7 +814,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
+        "filePath": "Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
         "wordCountStart": 249,
         "charCountStart": 1497,
         "changes": [],
@@ -820,7 +822,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/03. Clases de Procesos/Notas sobre la complejidad en la ciencias sociales y su impacto en.md",
+        "filePath": "Escritos/03. Clases de Procesos/Notas sobre la complejidad en la ciencias sociales y su impacto en.md",
         "wordCountStart": 685,
         "charCountStart": 4094,
         "changes": [
@@ -852,7 +854,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/02. Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
         "wordCountStart": 480,
         "charCountStart": 3068,
         "changes": [],
@@ -956,7 +958,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -1087,7 +1089,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/01. Asesorías/Protocolo amplíado.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
         "wordCountStart": 14062,
         "charCountStart": 86630,
         "changes": [],
@@ -1095,7 +1097,7 @@
       },
       {
         "date": "2026-05-22",
-        "filePath": "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
         "wordCountStart": 533,
         "charCountStart": 3338,
         "changes": [
@@ -1134,7 +1136,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
         "wordCountStart": 1087,
         "charCountStart": 6894,
         "changes": [
@@ -1573,7 +1575,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
         "wordCountStart": 2887,
         "charCountStart": 18596,
         "changes": [],
@@ -1621,7 +1623,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
         "wordCountStart": 6186,
         "charCountStart": 38057,
         "changes": [
@@ -1672,7 +1674,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego 2.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego II.md",
         "wordCountStart": 1517,
         "charCountStart": 9210,
         "changes": [],
@@ -1680,7 +1682,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/Protocolo amplíado.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
         "wordCountStart": 14062,
         "charCountStart": 86630,
         "changes": [],
@@ -1688,7 +1690,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/segundo control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II.md",
         "wordCountStart": 2240,
         "charCountStart": 13604,
         "changes": [],
@@ -1731,7 +1733,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/02. Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
         "wordCountStart": 480,
         "charCountStart": 3068,
         "changes": [
@@ -1775,7 +1777,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
         "wordCountStart": 7157,
         "charCountStart": 44962,
         "changes": [],
@@ -1783,7 +1785,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/02. Artículos/Presentacion.md",
+        "filePath": "Escritos/Artículos/Presentacion.md",
         "wordCountStart": 149,
         "charCountStart": 914,
         "changes": [],
@@ -1791,7 +1793,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/04. Medium/Untitled 1.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 1.md",
         "wordCountStart": 588,
         "charCountStart": 3625,
         "changes": [],
@@ -1799,7 +1801,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 2.md",
         "wordCountStart": 297,
         "charCountStart": 1796,
         "changes": [],
@@ -1846,7 +1848,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "13. Escritos/01. Asesorías/La individuación del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/La individuación del videojuego.md",
         "wordCountStart": 744,
         "charCountStart": 4500,
         "changes": [],
@@ -2017,7 +2019,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "01. Lecturas/01.Template.md",
+        "filePath": "01. Home/01.Template.md",
         "wordCountStart": 53,
         "charCountStart": 515,
         "changes": [
@@ -2039,7 +2041,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/02. Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
         "wordCountStart": 2642,
         "charCountStart": 16522,
         "changes": [
@@ -2053,7 +2055,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
+        "filePath": "Escritos/03. Clases de Procesos/Consistencia lógica del protocolo de investigación.md",
         "wordCountStart": 304,
         "charCountStart": 1850,
         "changes": [],
@@ -2061,7 +2063,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
         "wordCountStart": 2887,
         "charCountStart": 18596,
         "changes": [
@@ -2334,7 +2336,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/01. Asesorías/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
         "wordCountStart": 7157,
         "charCountStart": 44962,
         "changes": [],
@@ -2390,7 +2392,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "Daxue Consulting.md",
+        "filePath": "03. Autores/Daxue Consulting.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -2422,7 +2424,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/02. Artículos/articulo.md",
+        "filePath": "Escritos/Artículos/articulo.md",
         "wordCountStart": 2018,
         "charCountStart": 12182,
         "changes": [],
@@ -2430,7 +2432,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 2.md",
         "wordCountStart": 297,
         "charCountStart": 1796,
         "changes": [],
@@ -2438,7 +2440,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/01. Asesorías/Tercer control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Tercer control.md",
         "wordCountStart": 2651,
         "charCountStart": 15817,
         "changes": [],
@@ -2454,7 +2456,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "13. Escritos/01. Asesorías/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
         "wordCountStart": 6186,
         "charCountStart": 38048,
         "changes": [],
@@ -2478,7 +2480,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
         "wordCountStart": 6186,
         "charCountStart": 38048,
         "changes": [],
@@ -2502,7 +2504,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
         "wordCountStart": 3598,
         "charCountStart": 22842,
         "changes": [
@@ -2832,7 +2834,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Tercer control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Tercer control.md",
         "wordCountStart": 2651,
         "charCountStart": 15817,
         "changes": [],
@@ -2840,7 +2842,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/02. Artículos/Libro Blanco.md",
+        "filePath": "Escritos/Artículos/Libro Blanco.md",
         "wordCountStart": 4065,
         "charCountStart": 25064,
         "changes": [],
@@ -2848,7 +2850,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/02. Artículos/articulo.md",
+        "filePath": "Escritos/Artículos/articulo.md",
         "wordCountStart": 2018,
         "charCountStart": 12182,
         "changes": [],
@@ -2856,7 +2858,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/segundo control.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II.md",
         "wordCountStart": 2240,
         "charCountStart": 13604,
         "changes": [],
@@ -2864,7 +2866,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Sin título.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Sin título.md",
         "wordCountStart": 184,
         "charCountStart": 1140,
         "changes": [],
@@ -2872,7 +2874,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Introducción.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
         "wordCountStart": 1573,
         "charCountStart": 9627,
         "changes": [],
@@ -2880,7 +2882,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Hacia la concretización del videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego.md",
         "wordCountStart": 924,
         "charCountStart": 5620,
         "changes": [],
@@ -2888,7 +2890,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego 2.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego II.md",
         "wordCountStart": 1517,
         "charCountStart": 9210,
         "changes": [],
@@ -2896,7 +2898,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Definición de videojuego.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego.md",
         "wordCountStart": 1517,
         "charCountStart": 9205,
         "changes": [],
@@ -2904,7 +2906,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Protocolo amplíado.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
         "wordCountStart": 14062,
         "charCountStart": 86630,
         "changes": [],
@@ -2912,7 +2914,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/01. Asesorías/Protocolo.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
         "wordCountStart": 4972,
         "charCountStart": 31336,
         "changes": [],
@@ -2920,7 +2922,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
+        "filePath": "Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
         "wordCountStart": 845,
         "charCountStart": 5385,
         "changes": [],
@@ -3063,7 +3065,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Untitled 1.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 1.md",
         "wordCountStart": 588,
         "charCountStart": 3625,
         "changes": [],
@@ -3071,7 +3073,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Untitled 2.md",
+        "filePath": "Escritos/04. Lo que sea/Untitled 2.md",
         "wordCountStart": 297,
         "charCountStart": 1796,
         "changes": [],
@@ -3079,7 +3081,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
+        "filePath": "Escritos/04. Lo que sea/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
         "wordCountStart": 643,
         "charCountStart": 3907,
         "changes": [],
@@ -3087,7 +3089,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "filePath": "Escritos/04. Lo que sea/WTF con los Videojuegos. Hacia la concretización de lo digital.md",
         "wordCountStart": 678,
         "charCountStart": 3963,
         "changes": [],
@@ -3095,7 +3097,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Repenzar el futuro 2.md",
+        "filePath": "Escritos/04. Lo que sea/Repenzar el futuro 2.md",
         "wordCountStart": 1399,
         "charCountStart": 8392,
         "changes": [],
@@ -3103,7 +3105,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Sabían que en términos de reproducción, vaporeon.md",
+        "filePath": "Escritos/04. Lo que sea/Sabían que en términos de reproducción, vaporeon.md",
         "wordCountStart": 679,
         "charCountStart": 4120,
         "changes": [],
@@ -3111,7 +3113,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "13. Escritos/04. Medium/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "filePath": "Escritos/04. Lo que sea/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
         "wordCountStart": 678,
         "charCountStart": 3963,
         "changes": [],
@@ -3143,7 +3145,7 @@
       },
       {
         "date": "2026-05-27",
-        "filePath": "13. Escritos/02. Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
         "wordCountStart": 4592,
         "charCountStart": 28814,
         "changes": [],
@@ -3281,9 +3283,1417 @@
         "charCountStart": 9683,
         "changes": [],
         "id": 188
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7157,
+        "charCountStart": 44962,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "wordCountStart": 2631,
+        "charCountStart": 16437,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/El juego como dimensión transindividual.md",
+        "wordCountStart": 238,
+        "charCountStart": 1507,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/Libro Blanco.md",
+        "wordCountStart": 4065,
+        "charCountStart": 25064,
+        "changes": [],
+        "id": 193
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 4592,
+        "charCountStart": 28814,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 194
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "wordCountStart": 480,
+        "charCountStart": 3068,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 28
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/Presentacion.md",
+        "wordCountStart": 149,
+        "charCountStart": 914,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia.md",
+        "wordCountStart": 1217,
+        "charCountStart": 7161,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 197
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/07. Proyectos/Voz y Luz.md",
+        "wordCountStart": 602,
+        "charCountStart": 3761,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 4,
+            "c": 39
+          }
+        ],
+        "id": 199
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Lecturas Nuevo Materialismo/Casemajor, N. (2015). Digital Materialism. Frameworks for Digital Media Studies.md",
+        "wordCountStart": 963,
+        "charCountStart": 6300,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Clippings/How Kim Kardashian’s Robbery Trial Came and Went.md",
+        "wordCountStart": 2694,
+        "charCountStart": 16590,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:40",
+            "w": -2,
+            "c": -18
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego.md",
+        "wordCountStart": 1517,
+        "charCountStart": 9205,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 3,
+            "c": 50
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego II.md",
+        "wordCountStart": 1517,
+        "charCountStart": 9210,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego.md",
+        "wordCountStart": 924,
+        "charCountStart": 5620,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 3,
+            "c": 42
+          }
+        ],
+        "id": 204
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
+        "wordCountStart": 1574,
+        "charCountStart": 9629,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": -9,
+            "c": -39
+          },
+          {
+            "timeKey": "18:25",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/La individuación del videojuego.md",
+        "wordCountStart": 744,
+        "charCountStart": 4500,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 3,
+            "c": 55
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
+        "wordCountStart": 4444,
+        "charCountStart": 28073,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
+        "wordCountStart": 5379,
+        "charCountStart": 34506,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": -96,
+            "c": -780
+          },
+          {
+            "timeKey": "18:30",
+            "w": 99,
+            "c": 793
+          }
+        ],
+        "id": 208
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Lecturas Videojuegos/Muriel, D. y Crawford, G. (2023). Los videojuegos como cultura. Identidad y experiencia en el mundo actual..md",
+        "wordCountStart": 711,
+        "charCountStart": 4911,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
+        "wordCountStart": 4972,
+        "charCountStart": 31336,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
+        "wordCountStart": 14062,
+        "charCountStart": 86630,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 27
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II.md",
+        "wordCountStart": 2240,
+        "charCountStart": 13604,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": -14,
+            "c": -71
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+        "wordCountStart": 871,
+        "charCountStart": 6840,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/03. Clases de Procesos/Semana10_FabianGutierrezGomez.md",
+        "wordCountStart": 845,
+        "charCountStart": 5385,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/04. Lo que sea/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "wordCountStart": 678,
+        "charCountStart": 3963,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/04. Lo que sea/Los objetos en los videojuegos.md",
+        "wordCountStart": 698,
+        "charCountStart": 4020,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/04. Lo que sea/Repenzar el futuro 2.md",
+        "wordCountStart": 1399,
+        "charCountStart": 8392,
+        "changes": [],
+        "id": 217
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/04. Lo que sea/Untitled 1.md",
+        "wordCountStart": 588,
+        "charCountStart": 3625,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/04. Lo que sea/Untitled 2.md",
+        "wordCountStart": 297,
+        "charCountStart": 1796,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
+        "wordCountStart": 590,
+        "charCountStart": 3866,
+        "changes": [],
+        "id": 220
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Home/01. Template video.md",
+        "wordCountStart": 57,
+        "charCountStart": 552,
+        "changes": [],
+        "id": 221
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:15",
+            "w": 78,
+            "c": 667
+          },
+          {
+            "timeKey": "19:20",
+            "w": 26,
+            "c": 194
+          },
+          {
+            "timeKey": "23:45",
+            "w": 26,
+            "c": 179
+          },
+          {
+            "timeKey": "23:50",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Home/01.Template.md",
+        "wordCountStart": 51,
+        "charCountStart": 497,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "01. Lecturas Filosofía de la Tecnología/Stiegler (2001). La técnica y el tiempo. Cine y malestar.md",
+        "wordCountStart": 104,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
+        "wordCountStart": 285,
+        "charCountStart": 1770,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": -7,
+            "c": -49
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Clippings/How Kim Kardashian’s Robbery Trial Came and Went.md",
+        "wordCountStart": 2692,
+        "charCountStart": 16573,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
+        "wordCountStart": 134,
+        "charCountStart": 1076,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 53,
+            "c": 324
+          },
+          {
+            "timeKey": "00:20",
+            "w": 55,
+            "c": 364
+          },
+          {
+            "timeKey": "01:05",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "01:10",
+            "w": 18,
+            "c": 138
+          },
+          {
+            "timeKey": "01:15",
+            "w": 105,
+            "c": 671
+          },
+          {
+            "timeKey": "01:25",
+            "w": 30,
+            "c": 207
+          },
+          {
+            "timeKey": "01:30",
+            "w": 9,
+            "c": 75
+          },
+          {
+            "timeKey": "05:40",
+            "w": 17,
+            "c": 112
+          }
+        ],
+        "id": 228
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/07. Proyectos/Voz y Luz.md",
+        "wordCountStart": 602,
+        "charCountStart": 3761,
+        "changes": [],
+        "id": 229
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "The ball.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Indice Notas.md",
+        "wordCountStart": 16,
+        "charCountStart": 117,
+        "changes": [
+          {
+            "timeKey": "01:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Indice.md",
+        "wordCountStart": 44,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-01-16.md",
+        "wordCountStart": 31,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-01-26.md",
+        "wordCountStart": 13,
+        "charCountStart": 211,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "03. Autores/Daxue Consulting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-05-25.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
+        "wordCountStart": 61,
+        "charCountStart": 583,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 6,
+            "c": 64
+          },
+          {
+            "timeKey": "18:40",
+            "w": 52,
+            "c": 317
+          },
+          {
+            "timeKey": "19:00",
+            "w": 37,
+            "c": 190
+          },
+          {
+            "timeKey": "19:05",
+            "w": 42,
+            "c": 261
+          },
+          {
+            "timeKey": "19:15",
+            "w": 0,
+            "c": 17
+          },
+          {
+            "timeKey": "19:20",
+            "w": 44,
+            "c": 262
+          },
+          {
+            "timeKey": "19:25",
+            "w": 58,
+            "c": 400
+          },
+          {
+            "timeKey": "19:30",
+            "w": 48,
+            "c": 294
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7157,
+        "charCountStart": 44962,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego.md",
+        "wordCountStart": 1520,
+        "charCountStart": 9255,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego II.md",
+        "wordCountStart": 1517,
+        "charCountStart": 9210,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/La individuación del videojuego.md",
+        "wordCountStart": 747,
+        "charCountStart": 4555,
+        "changes": [
+          {
+            "timeKey": "03:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 4,
+        "charCountStart": 39,
+        "changes": [
+          {
+            "timeKey": "04:15",
+            "w": 41,
+            "c": 247
+          },
+          {
+            "timeKey": "04:20",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "04:25",
+            "w": 3,
+            "c": 17
+          },
+          {
+            "timeKey": "04:30",
+            "w": 12,
+            "c": 85
+          },
+          {
+            "timeKey": "04:35",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "04:40",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "04:45",
+            "w": 66,
+            "c": 458
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Indice de Temas.md",
+        "wordCountStart": 16,
+        "charCountStart": 129,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Índice Ideas.md",
+        "wordCountStart": 16,
+        "charCountStart": 119,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "04:25",
+            "w": 292,
+            "c": 1826
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "04:25",
+            "w": 460,
+            "c": 2917
+          },
+          {
+            "timeKey": "04:30",
+            "w": -9,
+            "c": -68
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "04:30",
+            "w": 520,
+            "c": 3167
+          },
+          {
+            "timeKey": "04:45",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
+        "wordCountStart": 278,
+        "charCountStart": 1721,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
+        "wordCountStart": 590,
+        "charCountStart": 3866,
+        "changes": [
+          {
+            "timeKey": "04:45",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "18. Calendario/2026-03-10 Reunión Asesor.md",
+        "wordCountStart": 24,
+        "charCountStart": 146,
+        "changes": [],
+        "id": 250
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "05. Kanban/Kanban.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [],
+        "id": 251
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
+        "wordCountStart": 4444,
+        "charCountStart": 28073,
+        "changes": [],
+        "id": 252
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego..md",
+        "wordCountStart": 5382,
+        "charCountStart": 34519,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
+        "wordCountStart": 1567,
+        "charCountStart": 9609,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 738,
+        "charCountStart": 5172,
+        "changes": [],
+        "id": 255
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
+        "wordCountStart": 348,
+        "charCountStart": 2388,
+        "changes": [],
+        "id": 256
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:40",
+            "w": 7,
+            "c": 45
+          },
+          {
+            "timeKey": "07:45",
+            "w": 61,
+            "c": 321
+          },
+          {
+            "timeKey": "07:50",
+            "w": 53,
+            "c": 295
+          },
+          {
+            "timeKey": "07:55",
+            "w": 41,
+            "c": 218
+          },
+          {
+            "timeKey": "08:00",
+            "w": 20,
+            "c": 121
+          },
+          {
+            "timeKey": "08:05",
+            "w": 3,
+            "c": 22
+          },
+          {
+            "timeKey": "08:10",
+            "w": 31,
+            "c": 206
+          },
+          {
+            "timeKey": "08:15",
+            "w": 38,
+            "c": 211
+          },
+          {
+            "timeKey": "08:20",
+            "w": 3,
+            "c": 29
+          },
+          {
+            "timeKey": "08:25",
+            "w": 46,
+            "c": 303
+          },
+          {
+            "timeKey": "08:30",
+            "w": 43,
+            "c": 274
+          },
+          {
+            "timeKey": "08:35",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "09:50",
+            "w": 11,
+            "c": 57
+          },
+          {
+            "timeKey": "09:55",
+            "w": 16,
+            "c": 73
+          },
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:30",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "10:35",
+            "w": 2,
+            "c": 33
+          },
+          {
+            "timeKey": "10:40",
+            "w": 0,
+            "c": -10
+          },
+          {
+            "timeKey": "10:45",
+            "w": -2,
+            "c": -19
+          },
+          {
+            "timeKey": "10:50",
+            "w": 4,
+            "c": 30
+          },
+          {
+            "timeKey": "17:40",
+            "w": 24,
+            "c": 145
+          },
+          {
+            "timeKey": "17:45",
+            "w": 69,
+            "c": 371
+          },
+          {
+            "timeKey": "17:50",
+            "w": 41,
+            "c": 1465
+          },
+          {
+            "timeKey": "17:55",
+            "w": 49,
+            "c": 263
+          },
+          {
+            "timeKey": "18:00",
+            "w": 26,
+            "c": 158
+          },
+          {
+            "timeKey": "18:05",
+            "w": 41,
+            "c": 245
+          },
+          {
+            "timeKey": "18:10",
+            "w": 59,
+            "c": 346
+          },
+          {
+            "timeKey": "18:15",
+            "w": 139,
+            "c": 841
+          },
+          {
+            "timeKey": "18:20",
+            "w": 32,
+            "c": 192
+          },
+          {
+            "timeKey": "18:25",
+            "w": 35,
+            "c": 206
+          },
+          {
+            "timeKey": "18:30",
+            "w": 50,
+            "c": 296
+          },
+          {
+            "timeKey": "18:35",
+            "w": -61,
+            "c": -403
+          },
+          {
+            "timeKey": "18:40",
+            "w": 63,
+            "c": -887
+          },
+          {
+            "timeKey": "18:45",
+            "w": 47,
+            "c": 287
+          },
+          {
+            "timeKey": "18:50",
+            "w": 68,
+            "c": 373
+          },
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 127
+          },
+          {
+            "timeKey": "19:00",
+            "w": 33,
+            "c": 207
+          },
+          {
+            "timeKey": "19:05",
+            "w": 62,
+            "c": 367
+          },
+          {
+            "timeKey": "19:10",
+            "w": 111,
+            "c": 757
+          },
+          {
+            "timeKey": "19:15",
+            "w": 13,
+            "c": 105
+          },
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
+        "wordCountStart": 249,
+        "charCountStart": 1497,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 2750,
+        "charCountStart": 18031,
+        "changes": [],
+        "id": 259
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+        "wordCountStart": 6045,
+        "charCountStart": 38337,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/06. Videojuegos/Personajes.md",
+        "wordCountStart": 3107,
+        "charCountStart": 18813,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7157,
+        "charCountStart": 44962,
+        "changes": [],
+        "id": 263
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 264
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 4594,
+        "charCountStart": 28840,
+        "changes": [],
+        "id": 265
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 137,
+        "charCountStart": 923,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:20",
+            "w": -3,
+            "c": -12
+          },
+          {
+            "timeKey": "21:30",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "21:35",
+            "w": 22,
+            "c": 171
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+        "wordCountStart": 807,
+        "charCountStart": 5720,
+        "changes": [],
+        "id": 267
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales.md",
+        "wordCountStart": 769,
+        "charCountStart": 4749,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 57
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "01. Home/Articulos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 18,
+            "c": 150
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
+        "wordCountStart": 592,
+        "charCountStart": 3890,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
+        "wordCountStart": 292,
+        "charCountStart": 1826,
+        "changes": [],
+        "id": 271
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México.md",
+        "wordCountStart": 520,
+        "charCountStart": 3166,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Más allá del control.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 155
+          },
+          {
+            "timeKey": "21:40",
+            "w": 23,
+            "c": 137
+          },
+          {
+            "timeKey": "21:45",
+            "w": 39,
+            "c": 289
+          },
+          {
+            "timeKey": "21:50",
+            "w": -1,
+            "c": -32
+          },
+          {
+            "timeKey": "21:55",
+            "w": 12,
+            "c": 133
+          },
+          {
+            "timeKey": "22:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:05",
+            "w": -5,
+            "c": -29
+          },
+          {
+            "timeKey": "22:10",
+            "w": 3,
+            "c": 63
+          },
+          {
+            "timeKey": "22:15",
+            "w": -5,
+            "c": -40
+          },
+          {
+            "timeKey": "22:20",
+            "w": 7,
+            "c": -12
+          },
+          {
+            "timeKey": "22:25",
+            "w": -6,
+            "c": -79
+          },
+          {
+            "timeKey": "22:30",
+            "w": 4,
+            "c": 95
+          },
+          {
+            "timeKey": "22:35",
+            "w": -7,
+            "c": -125
+          },
+          {
+            "timeKey": "22:40",
+            "w": 27,
+            "c": 166
+          },
+          {
+            "timeKey": "22:45",
+            "w": 129,
+            "c": 737
+          },
+          {
+            "timeKey": "22:50",
+            "w": 34,
+            "c": 335
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Clippings/Microsoft Kinect Can't Identify African-Americans.md",
+        "wordCountStart": 529,
+        "charCountStart": 3403,
+        "changes": [],
+        "id": 274
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Videojuegos y política.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 1048,
+            "c": 6557
+          },
+          {
+            "timeKey": "23:05",
+            "w": 24,
+            "c": 159
+          },
+          {
+            "timeKey": "23:10",
+            "w": -300,
+            "c": -1541
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
+        "wordCountStart": 451,
+        "charCountStart": 2849,
+        "changes": [],
+        "id": 276
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
+        "wordCountStart": 278,
+        "charCountStart": 1721,
+        "changes": [],
+        "id": 277
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Escritos/Etica en el videojuego/Videojuegos y política.md",
+        "wordCountStart": 772,
+        "charCountStart": 5175,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales.md",
+        "wordCountStart": 776,
+        "charCountStart": 4806,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 160,
+        "charCountStart": 1107,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 160,
+        "charCountStart": 1107,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 281
       }
     ],
-    "wholeVaultWordCount": 484369,
-    "wholeVaultCharCount": 3165256
+    "wholeVaultWordCount": 530903,
+    "wholeVaultCharCount": 3473437
   }
 }
