@@ -65,7 +65,8 @@
     "connections_view_location": "right",
     "connections_list_component_key": "connections_list_v4",
     "frontmatter_filter_include": "",
-    "frontmatter_filter_exclude": ""
+    "frontmatter_filter_exclude": "",
+    "footer_connections": false
   },
   "context_items": {
     "template_preset": "xml_structured",

@@ -88,7 +88,8 @@
       "2026-05-25",
       "2026-05-28",
       "2026-06-06",
-      "2026-06-07"
+      "2026-06-07",
+      "2026-06-09"
     ],
     "dailyActivity": [
       {
@@ -4701,9 +4702,118 @@
           }
         ],
         "id": 281
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "01. Home/Home.md",
+        "wordCountStart": 160,
+        "charCountStart": 1107,
+        "changes": [],
+        "id": 282
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.md",
+        "wordCountStart": 656,
+        "charCountStart": 3950,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 359,
+            "c": 2281
+          },
+          {
+            "timeKey": "19:25",
+            "w": -22,
+            "c": -148
+          },
+          {
+            "timeKey": "19:30",
+            "w": 51,
+            "c": 301
+          },
+          {
+            "timeKey": "19:35",
+            "w": -335,
+            "c": -2139
+          },
+          {
+            "timeKey": "19:40",
+            "w": 409,
+            "c": 2537
+          },
+          {
+            "timeKey": "19:45",
+            "w": 87,
+            "c": 553
+          },
+          {
+            "timeKey": "19:50",
+            "w": -83,
+            "c": -536
+          },
+          {
+            "timeKey": "20:05",
+            "w": 203,
+            "c": 1436
+          },
+          {
+            "timeKey": "20:10",
+            "w": 40,
+            "c": 233
+          },
+          {
+            "timeKey": "20:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
+        "wordCountStart": 482,
+        "charCountStart": 3096,
+        "changes": [],
+        "id": 284
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "01. Lecturas Videojuegos/Buñuel, F., D. (2025). Nostalgia y pervivencia de relatos míticos en la sociedad del espectáculo interactivo..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 88,
+            "c": 786
+          },
+          {
+            "timeKey": "10:55",
+            "w": 72,
+            "c": 509
+          },
+          {
+            "timeKey": "11:00",
+            "w": 100,
+            "c": 651
+          },
+          {
+            "timeKey": "11:05",
+            "w": 80,
+            "c": 488
+          },
+          {
+            "timeKey": "11:10",
+            "w": 13,
+            "c": 57
+          }
+        ],
+        "id": 285
       }
     ],
-    "wholeVaultWordCount": 530903,
-    "wholeVaultCharCount": 3473437
+    "wholeVaultWordCount": 531965,
+    "wholeVaultCharCount": 3480447
   }
 }

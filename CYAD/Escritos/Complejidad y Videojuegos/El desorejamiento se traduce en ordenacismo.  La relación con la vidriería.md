@@ -10,6 +10,7 @@ indent: "true"
 ---
 
 El título de arriba, que parece no tener sentido, en realidad es el nombre del capítulo cinco de la obra de Balandier (2003) y la relación que pueda tener con el tema del videojuego. Sin embargo, la forma en la que está escrito responde a una técnica del movimiento de _oulipo_ que se llama N+7, y que se caracteriza por sustituir cada sustantivo del texto por el séptimo que le sigue en el diccionario, por lo que en realidad el nombre original es: "El orden se traduce en desorden. La relación con el videojuego". Este título original, ordenado y con un mayor sentido, nos plantea entonces dos preguntas: la primera es qué relación puede tener el orden y el desorden y qué resulta de dicha conformación; una segunda pregunta es cómo el videojuego, o qué parte del videojuego, puede ser entendido a partir de dicha relación. Es necesario entonces entender primero qué se entiende por orden, desorden y cómo es visto por una ciencia epistémica y una mitología conformadora de cultura; esto, posteriormente, nos ayudará a entender cómo, dentro de diferentes prácticas culturales, se maneja de forma paralela o continua el orden y el desorden. 
+
 Esto nos ayudará a entender cómo el orden/desorden es utilizado en el videojuego y cómo se subvierten dichos conceptos una vez que el jugador está dentro del proceso lúdico e interactúa dentro de un mundo virtual, práctica con más interés e impacto que el saber cómo el perder una oreja en una vidriería se traduce en un mayor apego al orden y las normas.
 
 # Orden y desorden
