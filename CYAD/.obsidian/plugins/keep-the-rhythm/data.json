@@ -89,7 +89,14 @@
       "2026-05-28",
       "2026-06-06",
       "2026-06-07",
-      "2026-06-09"
+      "2026-06-09",
+      "2026-06-14",
+      "2026-06-15",
+      "2026-06-19",
+      "2026-06-22",
+      "2026-06-23",
+      "2026-06-27",
+      "2026-06-28"
     ],
     "dailyActivity": [
       {
@@ -1624,7 +1631,7 @@
       },
       {
         "date": "2026-05-23",
-        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
         "wordCountStart": 6186,
         "charCountStart": 38057,
         "changes": [
@@ -2457,7 +2464,7 @@
       },
       {
         "date": "2026-05-24",
-        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
         "wordCountStart": 6186,
         "charCountStart": 38048,
         "changes": [],
@@ -2481,7 +2488,7 @@
       },
       {
         "date": "2026-05-25",
-        "filePath": "Escritos/Metafísica y ontología del videojuego/Trabajo final.md",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
         "wordCountStart": 6186,
         "charCountStart": 38048,
         "changes": [],
@@ -4811,9 +4818,930 @@
           }
         ],
         "id": 285
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Propuesta 1. Una exploración metafísica y ontológica.md",
+        "wordCountStart": 4444,
+        "charCountStart": 28073,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/La individuación del videojuego.md",
+        "wordCountStart": 747,
+        "charCountStart": 4556,
+        "changes": [],
+        "id": 287
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
+        "wordCountStart": 4972,
+        "charCountStart": 31336,
+        "changes": [],
+        "id": 288
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
+        "wordCountStart": 14064,
+        "charCountStart": 86657,
+        "changes": [],
+        "id": 289
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
+        "wordCountStart": 451,
+        "charCountStart": 2849,
+        "changes": [],
+        "id": 290
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Etica en el videojuego/Más allá del control.md",
+        "wordCountStart": 273,
+        "charCountStart": 1793,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
+        "wordCountStart": 278,
+        "charCountStart": 1721,
+        "changes": [],
+        "id": 292
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Etica en el videojuego/Videojuegos y política.md",
+        "wordCountStart": 772,
+        "charCountStart": 5175,
+        "changes": [],
+        "id": 293
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+        "wordCountStart": 507,
+        "charCountStart": 3172,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 96,
+            "c": 600
+          },
+          {
+            "timeKey": "19:30",
+            "w": 33,
+            "c": 218
+          },
+          {
+            "timeKey": "19:35",
+            "w": 70,
+            "c": 420
+          },
+          {
+            "timeKey": "19:40",
+            "w": 21,
+            "c": 135
+          },
+          {
+            "timeKey": "19:45",
+            "w": 32,
+            "c": 172
+          },
+          {
+            "timeKey": "19:50",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "19:55",
+            "w": 95,
+            "c": 549
+          },
+          {
+            "timeKey": "20:00",
+            "w": -2,
+            "c": 6
+          },
+          {
+            "timeKey": "20:05",
+            "w": 289,
+            "c": 1707
+          },
+          {
+            "timeKey": "20:10",
+            "w": 107,
+            "c": 662
+          },
+          {
+            "timeKey": "20:15",
+            "w": 62,
+            "c": 381
+          },
+          {
+            "timeKey": "20:20",
+            "w": -217,
+            "c": -1207
+          },
+          {
+            "timeKey": "20:25",
+            "w": 53,
+            "c": 344
+          },
+          {
+            "timeKey": "20:30",
+            "w": 60,
+            "c": 360
+          },
+          {
+            "timeKey": "20:35",
+            "w": 137,
+            "c": 1085
+          },
+          {
+            "timeKey": "20:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:45",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.md",
+        "wordCountStart": 1365,
+        "charCountStart": 8469,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 296
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "02. Conceptos/Fragmentar el Futuro.md",
+        "wordCountStart": 1197,
+        "charCountStart": 7292,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Definición de videojuego.md",
+        "wordCountStart": 1520,
+        "charCountStart": 9255,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
+        "wordCountStart": 6186,
+        "charCountStart": 38048,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "wordCountStart": 2633,
+        "charCountStart": 16461,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 4594,
+        "charCountStart": 28840,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 24,
+            "c": 153
+          }
+        ],
+        "id": 301
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "Escritos/Artículos/Lo político en el videojuego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "07:30",
+            "w": 4781,
+            "c": 31245
+          }
+        ],
+        "id": 302
+      },
+      {
+        "date": "2026-06-15",
+        "filePath": "01. Lecturas Metafísica y Ontología/Koyré, A. (1994). Pensar la ciencia.md",
+        "wordCountStart": 530,
+        "charCountStart": 3691,
+        "changes": [],
+        "id": 305
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "01. Lecturas Metafísica y Ontología/Koyré, A. (1994). Pensar la ciencia.md",
+        "wordCountStart": 530,
+        "charCountStart": 3691,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2026-06-19",
+        "filePath": "01. Lecturas Metafísica y Ontología/Koyré, A. (1994). Pensar la ciencia.md",
+        "wordCountStart": 530,
+        "charCountStart": 3691,
+        "changes": [],
+        "id": 307
+      },
+      {
+        "date": "2026-06-19",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 738,
+        "charCountStart": 5172,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": -12
+          },
+          {
+            "timeKey": "16:55",
+            "w": 40,
+            "c": 306
+          },
+          {
+            "timeKey": "17:00",
+            "w": 5,
+            "c": 46
+          },
+          {
+            "timeKey": "17:05",
+            "w": 72,
+            "c": 493
+          },
+          {
+            "timeKey": "17:10",
+            "w": 6,
+            "c": 47
+          },
+          {
+            "timeKey": "17:20",
+            "w": 8,
+            "c": 94
+          },
+          {
+            "timeKey": "17:25",
+            "w": 47,
+            "c": 356
+          },
+          {
+            "timeKey": "17:30",
+            "w": 59,
+            "c": 407
+          },
+          {
+            "timeKey": "17:35",
+            "w": 50,
+            "c": 365
+          },
+          {
+            "timeKey": "17:40",
+            "w": 57,
+            "c": 380
+          },
+          {
+            "timeKey": "17:45",
+            "w": 35,
+            "c": 245
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:05",
+            "w": 20,
+            "c": 130
+          },
+          {
+            "timeKey": "18:10",
+            "w": 40,
+            "c": 236
+          },
+          {
+            "timeKey": "18:15",
+            "w": 78,
+            "c": 497
+          },
+          {
+            "timeKey": "18:20",
+            "w": 28,
+            "c": 212
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 18,
+            "c": 150
+          },
+          {
+            "timeKey": "11:10",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "11:15",
+            "w": 77,
+            "c": 490
+          },
+          {
+            "timeKey": "11:20",
+            "w": 54,
+            "c": 376
+          },
+          {
+            "timeKey": "11:45",
+            "w": 71,
+            "c": 420
+          },
+          {
+            "timeKey": "11:50",
+            "w": 41,
+            "c": 253
+          },
+          {
+            "timeKey": "11:55",
+            "w": 23,
+            "c": 145
+          },
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 38
+          },
+          {
+            "timeKey": "12:05",
+            "w": 69,
+            "c": 440
+          },
+          {
+            "timeKey": "12:10",
+            "w": 80,
+            "c": 488
+          },
+          {
+            "timeKey": "12:15",
+            "w": 50,
+            "c": 342
+          },
+          {
+            "timeKey": "12:20",
+            "w": 50,
+            "c": 307
+          },
+          {
+            "timeKey": "12:25",
+            "w": 59,
+            "c": 324
+          },
+          {
+            "timeKey": "12:30",
+            "w": 21,
+            "c": 125
+          },
+          {
+            "timeKey": "12:35",
+            "w": 43,
+            "c": 269
+          },
+          {
+            "timeKey": "12:40",
+            "w": 74,
+            "c": 437
+          },
+          {
+            "timeKey": "12:45",
+            "w": 5,
+            "c": 31
+          },
+          {
+            "timeKey": "12:50",
+            "w": 45,
+            "c": 296
+          },
+          {
+            "timeKey": "12:55",
+            "w": 53,
+            "c": 319
+          },
+          {
+            "timeKey": "13:00",
+            "w": 41,
+            "c": 265
+          },
+          {
+            "timeKey": "13:10",
+            "w": -21,
+            "c": -132
+          },
+          {
+            "timeKey": "13:15",
+            "w": 88,
+            "c": 507
+          },
+          {
+            "timeKey": "13:20",
+            "w": 7,
+            "c": 64
+          },
+          {
+            "timeKey": "13:25",
+            "w": 57,
+            "c": 359
+          },
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:35",
+            "w": 52,
+            "c": 324
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 310
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
+        "wordCountStart": 6188,
+        "charCountStart": 38072,
+        "changes": [],
+        "id": 311
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+        "wordCountStart": 1353,
+        "charCountStart": 8663,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 1283,
+        "charCountStart": 8976,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 94,
+            "c": 697
+          },
+          {
+            "timeKey": "21:25",
+            "w": 14,
+            "c": 99
+          },
+          {
+            "timeKey": "21:30",
+            "w": 43,
+            "c": 289
+          },
+          {
+            "timeKey": "21:35",
+            "w": 83,
+            "c": 548
+          },
+          {
+            "timeKey": "21:40",
+            "w": 14,
+            "c": 141
+          },
+          {
+            "timeKey": "21:45",
+            "w": 62,
+            "c": 492
+          },
+          {
+            "timeKey": "21:50",
+            "w": 19,
+            "c": 130
+          },
+          {
+            "timeKey": "21:55",
+            "w": 22,
+            "c": 300
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+        "wordCountStart": 1065,
+        "charCountStart": 6642,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-06-23",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 1806,
+        "charCountStart": 12991,
+        "changes": [
+          {
+            "timeKey": "04:20",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "04:25",
+            "w": 555,
+            "c": 3469
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 2361,
+        "charCountStart": 16459,
+        "changes": [],
+        "id": 316
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "01. Lecturas/Calvino-Las cosmicomicas.md",
+        "wordCountStart": 164,
+        "charCountStart": 1079,
+        "changes": [],
+        "id": 317
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
+        "wordCountStart": 243,
+        "charCountStart": 1791,
+        "changes": [],
+        "id": 318
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "().md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 319
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas/Calvino-Las cosmicomicas.md",
+        "wordCountStart": 164,
+        "charCountStart": 1079,
+        "changes": [],
+        "id": 320
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series.md",
+        "wordCountStart": 4489,
+        "charCountStart": 30011,
+        "changes": [],
+        "id": 321
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "().md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+        "wordCountStart": 1065,
+        "charCountStart": 6642,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 66,
+            "c": 587
+          },
+          {
+            "timeKey": "21:30",
+            "w": 81,
+            "c": 407
+          },
+          {
+            "timeKey": "21:35",
+            "w": 27,
+            "c": 167
+          },
+          {
+            "timeKey": "21:40",
+            "w": 100,
+            "c": 675
+          },
+          {
+            "timeKey": "21:45",
+            "w": 8,
+            "c": 38
+          },
+          {
+            "timeKey": "22:05",
+            "w": 57,
+            "c": 338
+          },
+          {
+            "timeKey": "22:10",
+            "w": 131,
+            "c": 736
+          },
+          {
+            "timeKey": "22:15",
+            "w": 103,
+            "c": 607
+          },
+          {
+            "timeKey": "22:20",
+            "w": 29,
+            "c": 175
+          },
+          {
+            "timeKey": "22:25",
+            "w": 73,
+            "c": 433
+          },
+          {
+            "timeKey": "22:30",
+            "w": 41,
+            "c": 249
+          },
+          {
+            "timeKey": "22:40",
+            "w": 15,
+            "c": 84
+          },
+          {
+            "timeKey": "22:45",
+            "w": 16,
+            "c": 82
+          },
+          {
+            "timeKey": "22:50",
+            "w": 64,
+            "c": 390
+          },
+          {
+            "timeKey": "22:55",
+            "w": 160,
+            "c": 1005
+          },
+          {
+            "timeKey": "23:00",
+            "w": 71,
+            "c": 434
+          },
+          {
+            "timeKey": "23:10",
+            "w": 53,
+            "c": 294
+          },
+          {
+            "timeKey": "23:20",
+            "w": 4,
+            "c": 31
+          },
+          {
+            "timeKey": "23:25",
+            "w": 82,
+            "c": 474
+          },
+          {
+            "timeKey": "23:30",
+            "w": 302,
+            "c": 1801
+          },
+          {
+            "timeKey": "23:35",
+            "w": 238,
+            "c": 1459
+          },
+          {
+            "timeKey": "23:40",
+            "w": 2,
+            "c": 25
+          },
+          {
+            "timeKey": "23:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Clippings/Dark Play.md",
+        "wordCountStart": 409,
+        "charCountStart": 2806,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 1723,
+        "charCountStart": 10491,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "00:45",
+            "w": 133,
+            "c": 839
+          },
+          {
+            "timeKey": "00:50",
+            "w": 73,
+            "c": 460
+          },
+          {
+            "timeKey": "00:55",
+            "w": 69,
+            "c": 470
+          },
+          {
+            "timeKey": "01:00",
+            "w": 54,
+            "c": 326
+          },
+          {
+            "timeKey": "01:05",
+            "w": 57,
+            "c": 385
+          },
+          {
+            "timeKey": "01:10",
+            "w": 64,
+            "c": 420
+          },
+          {
+            "timeKey": "01:15",
+            "w": 109,
+            "c": 690
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series.md",
+        "wordCountStart": 4489,
+        "charCountStart": 30011,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": -17,
+            "c": -151
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/Playtime (1967) ⭐ 7.8.md",
+        "wordCountStart": 2073,
+        "charCountStart": 12739,
+        "changes": [],
+        "id": 328
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Nacimento de la tragedia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
+        "wordCountStart": 1462,
+        "charCountStart": 9741,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/-Feminism in Play-- Kishonna.md",
+        "wordCountStart": 38,
+        "charCountStart": 303,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Calvino-Las cosmicomicas.md",
+        "wordCountStart": 164,
+        "charCountStart": 1079,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/McCarthy-Meridiano de sangre.md",
+        "wordCountStart": 752,
+        "charCountStart": 4711,
+        "changes": [],
+        "id": 333
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
+        "wordCountStart": 639,
+        "charCountStart": 4713,
+        "changes": [],
+        "id": 334
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy.md",
+        "wordCountStart": 578,
+        "charCountStart": 3362,
+        "changes": [],
+        "id": 335
       }
     ],
-    "wholeVaultWordCount": 531965,
-    "wholeVaultCharCount": 3480447
+    "wholeVaultWordCount": 542399,
+    "wholeVaultCharCount": 3547902
   }
 }

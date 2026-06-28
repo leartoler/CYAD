@@ -6,49 +6,40 @@
       {
         "id": "de030ee6c50dbea5",
         "type": "tabs",
+        "dimension": 39.24205378973105,
         "children": [
           {
-            "id": "e4d86cc36c8c0409",
+            "id": "814ae3452dc4abfd",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e72284bfae0a5652",
+        "type": "tabs",
+        "dimension": 60.757946210268955,
+        "children": [
+          {
+            "id": "bf3643c284685235",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.md",
+                "file": "Clippings/Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria"
-            }
-          },
-          {
-            "id": "223a5cc8821ab92c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria"
-            }
-          },
-          {
-            "id": "0eca324b751145b9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "10. Imágenes/Pasted image 20260606191825.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260606191825"
+              "title": "Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ciencia",
+                "query": "tag:#crash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 616.5
+    "width": 335.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -377,56 +368,57 @@
       "translate:Open translation view": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "e105e905bb6264bc",
+  "active": "814ae3452dc4abfd",
   "lastOpenFiles": [
-    "10. Imágenes/IMG_3066.png",
-    "10. Imágenes/IMG_3043.png",
-    "01. Lecturas Videojuegos/Buñuel, F., D. (2025). Nostalgia y pervivencia de relatos míticos en la sociedad del espectáculo interactivo..md",
-    "10. Imágenes/IMG_3065.png",
-    "10. Imágenes/IMG_3064.png",
-    "10. Imágenes/IMG_3063.png",
-    "10. Imágenes/IMG_3062.png",
-    "10. Imágenes/IMG_3061.png",
-    "10. Imágenes/IMG_3060.png",
-    "04. Bibliografía/Bibliografía videojuegos/Buñuel, F., D. (2025). Nostalgia y pervivencia de relatos míticos en la sociedad del espectáculo interactivo.pdf",
-    "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.pdf",
-    "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.md",
-    "Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel.md",
-    "01. Home/Home.md",
-    "Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales.md",
-    "Escritos/Etica en el videojuego/Videojuegos y política.pdf",
-    "Escritos/Etica en el videojuego/Videojuegos y política.md",
-    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
-    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
-    "Escritos/Etica en el videojuego/Más allá del control.pdf",
-    "Escritos/Etica en el videojuego/Cultura y videojuegos.md",
-    "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
-    "Escritos/Etica en el videojuego/Más allá del control.md",
-    "Escritos/Etica en el videojuego/Representación sexual en los videojuegos.md",
-    "Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego.md",
-    "19. Referencias/CYAD 1.bib",
-    "19. Referencias/apa.csl",
-    "19. Referencias/CYAD.bib",
-    "19. Referencias",
-    "Clippings/Microsoft Kinect Can't Identify African-Americans.md",
-    "Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México.md",
-    "01. Home/Articulos.md",
-    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+    "01. Lecturas/Sicart-Play Matters Thinking Playful Series.md",
+    "Clippings/Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy.md",
+    "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
+    "04. Bibliografía/Bibliografía Metodología/Metodología de la investigación  para administración, economía, humanidades y ciencias sociales (César Augusto Bernal Torres) (Z-Library).pdf",
+    "04. Bibliografía/Bibliografía juegos/Katya_Mandoki_Prosaica_1.pdf",
+    "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
+    "01. Lecturas/McCarthy-Meridiano de sangre.md",
+    "01. Lecturas/Calvino-Las cosmicomicas.md",
+    "01. Lecturas/-Feminism in Play-- Kishonna.md",
+    "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+    "04. Bibliografía/Bibliografía videojuegos/Sicart, M. (2009). The Ethics of Computer Games.pdf",
+    "Nacimento de la tragedia.md",
+    "Clippings/Playtime (1967) ⭐ 7.8.md",
+    "04. Bibliografía/Bibliografía videojuegos/Gamification_Toward_definition.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/From Game Design Elements to Gamefulness Gamification.pdf",
+    "01. Lecturas Antropología/The Presentation of Self in Everyday Life.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/The Improvisation Studies Reader Spontaneous Acts.pdf",
+    "Clippings/Dark Play.md",
+    "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.pdf",
+    "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+    "().md",
+    "Clippings/draft-paper/Packet Garden.json",
+    "Clippings/draft-paper",
+    "Clippings/Packet Garden.md",
+    "Clippings/Doodlebuzz.md",
+    "Clippings/The Accidental News Explorer.md",
+    "Clippings/FAKE COMPUTER REAL VIOLENCE.md",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "10. Imágenes/Pasted image 20260619170337.png",
+    "10. Imágenes/Pasted image 20260623042128.png",
+    "10. Imágenes/Pasted image 20260623042116.png",
+    "10. Imágenes/Pasted image 20260623042101.png",
+    "10. Imágenes/Pasted image 20260623041624.png",
+    "10. Imágenes/Pasted image 20260623041609.png",
+    "10. Imágenes/Pasted image 20260623041304.png",
+    "10. Imágenes/Pasted image 20260623041045.png",
+    "10. Imágenes/Pasted image 20260622214848.png",
+    "10. Imágenes/Pasted image 20260622214836.png",
+    "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+    "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
     "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
-    "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
-    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.pdf",
-    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
-    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
-    "Escritos/06. Videojuegos/Personajes.md",
-    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "Escritos/03. Clases de Procesos/Planteamiento del problema y pregunta de investigación.md",
-    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.tex",
-    "01. Lecturas Videojuegos/Mitchell, L. (2017). Ludopolitics.md",
-    "10. Imágenes/IMG_3047.png",
-    "10. Imágenes/IMG_3046.png",
-    "10. Imágenes/IMG_3045.png"
+    "01. Lecturas Metafísica y Ontología/Koyré, A. (1994). Pensar la ciencia.md",
+    "01. Lecturas Nuevo Materialismo/Bennet, J. (2010). Vibrant Matter. A political ecology of things..md",
+    "Escritos/Artículos/Lo político en el videojuego.md",
+    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+    "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md"
   ]
 }
