@@ -5453,7 +5453,7 @@
       },
       {
         "date": "2026-06-27",
-        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series.md",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
         "wordCountStart": 4489,
         "charCountStart": 30011,
         "changes": [],
@@ -5664,7 +5664,7 @@
       },
       {
         "date": "2026-06-28",
-        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series.md",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
         "wordCountStart": 4489,
         "charCountStart": 30011,
         "changes": [
@@ -5739,9 +5739,144 @@
         "charCountStart": 3362,
         "changes": [],
         "id": 335
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas Videojuegos/Declos, A. (2024). The Ontology of Videogames.md",
+        "wordCountStart": 1098,
+        "charCountStart": 6936,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación.md",
+        "wordCountStart": 819,
+        "charCountStart": 5216,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "00:30",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+        "wordCountStart": 1353,
+        "charCountStart": 8663,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Deterding, S. et. al. (2011). Gamification. Toward a Definition.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 51,
+            "c": 497
+          },
+          {
+            "timeKey": "00:45",
+            "w": 14,
+            "c": 124
+          },
+          {
+            "timeKey": "00:50",
+            "w": 35,
+            "c": 250
+          },
+          {
+            "timeKey": "00:55",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "01:00",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "01:05",
+            "w": 7,
+            "c": 63
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 2282,
+        "charCountStart": 14083,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Home/01.Template.md",
+        "wordCountStart": 51,
+        "charCountStart": 497,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 6,
+            "c": 65
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 2361,
+        "charCountStart": 16459,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 16,
+            "c": 153
+          },
+          {
+            "timeKey": "01:10",
+            "w": 58,
+            "c": 388
+          },
+          {
+            "timeKey": "01:15",
+            "w": 133,
+            "c": 837
+          },
+          {
+            "timeKey": "01:20",
+            "w": 42,
+            "c": 307
+          },
+          {
+            "timeKey": "01:25",
+            "w": 36,
+            "c": 365
+          },
+          {
+            "timeKey": "01:30",
+            "w": 16,
+            "c": 158
+          }
+        ],
+        "id": 342
       }
     ],
-    "wholeVaultWordCount": 542399,
-    "wholeVaultCharCount": 3547902
+    "wholeVaultWordCount": 542817,
+    "wholeVaultCharCount": 3551143
   }
 }

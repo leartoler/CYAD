@@ -355,7 +355,112 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 ![[Pasted image 20260623042128.png]]
 
 
+#### Tercera Parte: Tecnicidad y sacralidad
+
+##### 0. Introducción
+
+(Tema::Lo sagrado. Imágen y demás (79))
+
+(Tema::Arquetipo (79))
+###### Imagen
+
+![[Pasted image 20260629011321.png]]
+
+
+##### 1. La falsa sacralidad ligasa al objeto técnico cerrado
+
+(Tema::Objeto técnico cerrado y sacralización (81))
+
+(Tema::Objeto moderno (82))
+
+(Tema::El automatismo (82))
+
+(Tema::Sobre el autómata(83))
+
+(Tema::Necesidad y tecnicidad (84))
+
+(Tema::Degradación de la tecnicidad y sacralidad (85))
+
+(Tema::Degradación de la sacralidad (85))
+
+(Tema::Lo sagrado (85))
+
+(Tema::Degradación de lo técnico (87))
+
+(Tema::Tecnicidad (87))
+
+(Tema::Reticulación temporal y espacial (87))
+
+(Tema::Objeto técnico (87))
+##### Imágen
+
+![[Pasted image 20260629012324.jpg]]
+
+![[Pasted image 20260629012442.jpg]]
+
+![[Pasted image 20260629012514.jpg]]
+
+![[Pasted image 20260629012545.jpg]]
+
+
+![[Pasted image 20260629012750.jpg]]
+
+
+
+
+![[Pasted image 20260629012810.jpg]]
+
+
+
+![[Pasted image 20260629012826.jpg]]
+
+
+
+
+
+
+![[Pasted image 20260629012843.jpg]]
+
+
+
+
+
+![[Pasted image 20260629012858.jpg]]
+
+
+
+
+![[Pasted image 20260629012916.jpg]]
+
+
+![[Pasted image 20260629012931.jpg]]
+
+
+
+
+![[Pasted image 20260629012949.jpg]]
+
+
+![[Pasted image 20260629013005.jpg]]
+
+
+![[Pasted image 20260629013022.jpg]]
+
+![[Pasted image 20260629013037.jpg]]
+
+ 
+
+
+
+
+
+
+
 ##### 2. Cultura y civilización
+
+
+
+
 
 
 
@@ -469,6 +574,24 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 (Nota::El objeto industrial es un ensamblaje, el del artesano un organismo que crece, se hace mientras se conforma (76))
 
+---
+
+(Nota::Crítica a Eliade, quien creía que la civilización había tomado la delatenra respecto a la cultura. Eliade pone a la cultura en casi todo y la técnica en la civilización. (79))
+
+(Nota::Hay una relación de isomorfismo entre sacralidad y tecnicidad (81))
+
+(Nota::Es la tendencia del individuo lo que está en el origen de lo mágico en el objeto técnico (81))
+
+(Nota::El funcionamiento técnico, para optimizarse, debe de ser especializado (83))
+
+(Nota::El deseo de automatismo constituye un todo que recibe una pluralidad de respuestas equivalentes, tal como un posible refrigerador (84))
+
+(Nota::El máximo poder del objeto es al momento de su compra. Después hay una adaptación y se pierde la percepción de él. Pierde su carácter modelo (84))
+
+(Nota::El tiempo de lo sagrado es reticular. Tiene por estructura la iteración (86))
+
+
+
 
 
 ---
@@ -490,7 +613,7 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 (Idea::Durante la discusión, se menciona la idea de la tecnología cerrada como una relación entre amo y esclavo, inspirada en la dialéctica hegeliana. Se hace referencia a la obra "Jax el fatalista" de Diderot y a una escritora afroamericana, cuyo nombre no se recuerda, para ilustrar que, contrariamente a la creencia de Simondon, el amo necesita al esclavo. Se propone que la tecnología puede ser vista como el esclavo, mientras que nosotros actuamos como amos, sugiriendo que en realidad somos más dependientes de la tecnología de lo que pensamos.)
 
-
+(Idea::el objeto mágico es el que nos permite duplicar)
 
 ---
 ### <mark style="background: #FF5582A6;">Pregunta</mark> 
