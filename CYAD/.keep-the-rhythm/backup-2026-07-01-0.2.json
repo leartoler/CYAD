@@ -94,7 +94,11 @@
       "2026-06-15",
       "2026-06-19",
       "2026-06-22",
-      "2026-06-23"
+      "2026-06-23",
+      "2026-06-27",
+      "2026-06-28",
+      "2026-06-29",
+      "2026-06-30"
     ],
     "dailyActivity": [
       {
@@ -5440,9 +5444,584 @@
         "charCountStart": 0,
         "changes": [],
         "id": 319
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas/Calvino-Las cosmicomicas.md",
+        "wordCountStart": 164,
+        "charCountStart": 1079,
+        "changes": [],
+        "id": 320
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
+        "wordCountStart": 4489,
+        "charCountStart": 30011,
+        "changes": [],
+        "id": 321
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "().md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+        "wordCountStart": 1065,
+        "charCountStart": 6642,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 66,
+            "c": 587
+          },
+          {
+            "timeKey": "21:30",
+            "w": 81,
+            "c": 407
+          },
+          {
+            "timeKey": "21:35",
+            "w": 27,
+            "c": 167
+          },
+          {
+            "timeKey": "21:40",
+            "w": 100,
+            "c": 675
+          },
+          {
+            "timeKey": "21:45",
+            "w": 8,
+            "c": 38
+          },
+          {
+            "timeKey": "22:05",
+            "w": 57,
+            "c": 338
+          },
+          {
+            "timeKey": "22:10",
+            "w": 131,
+            "c": 736
+          },
+          {
+            "timeKey": "22:15",
+            "w": 103,
+            "c": 607
+          },
+          {
+            "timeKey": "22:20",
+            "w": 29,
+            "c": 175
+          },
+          {
+            "timeKey": "22:25",
+            "w": 73,
+            "c": 433
+          },
+          {
+            "timeKey": "22:30",
+            "w": 41,
+            "c": 249
+          },
+          {
+            "timeKey": "22:40",
+            "w": 15,
+            "c": 84
+          },
+          {
+            "timeKey": "22:45",
+            "w": 16,
+            "c": 82
+          },
+          {
+            "timeKey": "22:50",
+            "w": 64,
+            "c": 390
+          },
+          {
+            "timeKey": "22:55",
+            "w": 160,
+            "c": 1005
+          },
+          {
+            "timeKey": "23:00",
+            "w": 71,
+            "c": 434
+          },
+          {
+            "timeKey": "23:10",
+            "w": 53,
+            "c": 294
+          },
+          {
+            "timeKey": "23:20",
+            "w": 4,
+            "c": 31
+          },
+          {
+            "timeKey": "23:25",
+            "w": 82,
+            "c": 474
+          },
+          {
+            "timeKey": "23:30",
+            "w": 302,
+            "c": 1801
+          },
+          {
+            "timeKey": "23:35",
+            "w": 238,
+            "c": 1459
+          },
+          {
+            "timeKey": "23:40",
+            "w": 2,
+            "c": 25
+          },
+          {
+            "timeKey": "23:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Clippings/Dark Play.md",
+        "wordCountStart": 409,
+        "charCountStart": 2806,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 1723,
+        "charCountStart": 10491,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "00:45",
+            "w": 133,
+            "c": 839
+          },
+          {
+            "timeKey": "00:50",
+            "w": 73,
+            "c": 460
+          },
+          {
+            "timeKey": "00:55",
+            "w": 69,
+            "c": 470
+          },
+          {
+            "timeKey": "01:00",
+            "w": 54,
+            "c": 326
+          },
+          {
+            "timeKey": "01:05",
+            "w": 57,
+            "c": 385
+          },
+          {
+            "timeKey": "01:10",
+            "w": 64,
+            "c": 420
+          },
+          {
+            "timeKey": "01:15",
+            "w": 109,
+            "c": 690
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
+        "wordCountStart": 4489,
+        "charCountStart": 30011,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": -17,
+            "c": -151
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/Playtime (1967) ⭐ 7.8.md",
+        "wordCountStart": 2073,
+        "charCountStart": 12739,
+        "changes": [],
+        "id": 328
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Nacimento de la tragedia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
+        "wordCountStart": 1462,
+        "charCountStart": 9741,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/-Feminism in Play-- Kishonna.md",
+        "wordCountStart": 38,
+        "charCountStart": 303,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/Calvino-Las cosmicomicas.md",
+        "wordCountStart": 164,
+        "charCountStart": 1079,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas/McCarthy-Meridiano de sangre.md",
+        "wordCountStart": 752,
+        "charCountStart": 4711,
+        "changes": [],
+        "id": 333
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
+        "wordCountStart": 639,
+        "charCountStart": 4713,
+        "changes": [],
+        "id": 334
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Clippings/Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy.md",
+        "wordCountStart": 578,
+        "charCountStart": 3362,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "01. Lecturas Videojuegos/Declos, A. (2024). The Ontology of Videogames.md",
+        "wordCountStart": 1098,
+        "charCountStart": 6936,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación.md",
+        "wordCountStart": 819,
+        "charCountStart": 5216,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "00:30",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+        "wordCountStart": 1353,
+        "charCountStart": 8663,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Deterding, S. et. al. (2011). Gamification. Toward a Definition.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 51,
+            "c": 497
+          },
+          {
+            "timeKey": "00:45",
+            "w": 14,
+            "c": 124
+          },
+          {
+            "timeKey": "00:50",
+            "w": 35,
+            "c": 250
+          },
+          {
+            "timeKey": "00:55",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "01:00",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "01:05",
+            "w": 7,
+            "c": 63
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 2282,
+        "charCountStart": 14083,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Home/01.Template.md",
+        "wordCountStart": 51,
+        "charCountStart": 497,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 6,
+            "c": 65
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 2361,
+        "charCountStart": 16459,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 16,
+            "c": 153
+          },
+          {
+            "timeKey": "01:10",
+            "w": 58,
+            "c": 388
+          },
+          {
+            "timeKey": "01:15",
+            "w": 133,
+            "c": 837
+          },
+          {
+            "timeKey": "01:20",
+            "w": 42,
+            "c": 307
+          },
+          {
+            "timeKey": "01:25",
+            "w": 36,
+            "c": 365
+          },
+          {
+            "timeKey": "01:30",
+            "w": 16,
+            "c": 158
+          }
+        ],
+        "id": 342
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "07. Videos/Conferencias/Jaroslav Švelch - Making Games in Communist Czechoslovakia (Game Days Trnava 2019).md",
+        "wordCountStart": 9910,
+        "charCountStart": 54052,
+        "changes": [],
+        "id": 343
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "07. Videos/Conferencias/Ciclo de clases - El futuro no es un sueño próximo Yuk Hui (2da clase).md",
+        "wordCountStart": 384,
+        "charCountStart": 2545,
+        "changes": [],
+        "id": 344
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
+        "wordCountStart": 1108,
+        "charCountStart": 6733,
+        "changes": [
+          {
+            "timeKey": "03:35",
+            "w": 0,
+            "c": -54
+          },
+          {
+            "timeKey": "03:40",
+            "w": 84,
+            "c": 629
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Hui, Y. (2016). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+        "wordCountStart": 239,
+        "charCountStart": 1766,
+        "changes": [],
+        "id": 346
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "estatuto de mayoría.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 347
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7157,
+        "charCountStart": 44962,
+        "changes": [],
+        "id": 348
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 349
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Dragon, J. (2025). The Expressionis Game Manifiesto.md",
+        "wordCountStart": 81,
+        "charCountStart": 743,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
+        "wordCountStart": 728,
+        "charCountStart": 4757,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "02. Conceptos/Fragmentar el Futuro.md",
+        "wordCountStart": 1197,
+        "charCountStart": 7292,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+        "wordCountStart": 1308,
+        "charCountStart": 7748,
+        "changes": [],
+        "id": 354
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "Escritos/Artículos/Bibliografía.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 662,
+            "c": 5439
+          }
+        ],
+        "id": 355
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+        "wordCountStart": 4618,
+        "charCountStart": 28993,
+        "changes": [],
+        "id": 356
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "transmodernidad.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 2,
+            "c": 32
+          }
+        ],
+        "id": 357
       }
     ],
-    "wholeVaultWordCount": 540134,
-    "wholeVaultCharCount": 3533970
+    "wholeVaultWordCount": 543565,
+    "wholeVaultCharCount": 3557189
   }
 }

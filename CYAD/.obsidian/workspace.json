@@ -6,23 +6,47 @@
       {
         "id": "de030ee6c50dbea5",
         "type": "tabs",
+        "dimension": 22.371638141809292,
         "children": [
           {
-            "id": "814ae3452dc4abfd",
+            "id": "44143d60950eb355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+                "file": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simondon, G. (2017). Sobre la técnica"
+              "title": "Juul-Half-Real Video Games between Real Rules and Fictional Worlds"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd29f4fb6f282155",
+        "type": "tabs",
+        "dimension": 77.62836185819071,
+        "children": [
+          {
+            "id": "d97c6000752fb49c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juul, J. (2005) Half-Real"
             }
           },
           {
-            "id": "5db2c81bbc8e8c9a",
+            "id": "96d85c6a5db60a62",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#crash",
+                "query": "tag:#Redes_neuronales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -362,94 +387,56 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "floating": {
-    "id": "40887a56db32e8b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87ec616da0893ef0",
-        "type": "window",
-        "children": [
-          {
-            "id": "9b359c4769328cb7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16d792e82efbf105",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://docs.forestry.md/advanced/fine-grained-access-token/",
-                    "title": "Fine grained access token",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Fine grained access token"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 328,
-        "y": 101,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5db2c81bbc8e8c9a",
+  "active": "96d85c6a5db60a62",
   "lastOpenFiles": [
-    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
-    "Pasted image 20260629013037.jpg",
-    "Pasted image 20260629013022.jpg",
-    "Pasted image 20260629013005.jpg",
-    "Pasted image 20260629012949.jpg",
-    "Pasted image 20260629012931.jpg",
-    "Pasted image 20260629012916.jpg",
-    "Pasted image 20260629012858.jpg",
-    "Pasted image 20260629012843.jpg",
-    "Pasted image 20260629012826.jpg",
-    "Pasted image 20260629012810.jpg",
-    "01. Lecturas Videojuegos/Deterding, S. et. al. (2011). Gamification. Toward a Definition.md",
-    "04. Bibliografía/Bibliografia Simondon/Simondon - El modo de existencia de los objetos técnicos [3].pdf",
-    "04. Bibliografía/Bibliografía videojuegos/serious-games-taxonomy.pdf",
+    "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+    "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
     "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
     "01. Home/01.Template.md",
-    "Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación.md",
-    "Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación.pdf",
-    "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+    "Escritos/Artículos/Lo político en el videojuego.pdf",
+    "01. Lecturas/Parkin-Muerte por video-juego.md",
+    "01. Lecturas/Carse-finite and infinite games_james carse.md",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
+    "10. Imágenes/Pasted image 20260709003910.jpg",
+    "10. Imágenes/Pasted image 20260709012842.jpg",
+    "10. Imágenes/Pasted image 20260709012826.jpg",
+    "10. Imágenes/Pasted image 20260709012815.jpg",
+    "10. Imágenes/Pasted image 20260709012801.jpg",
+    "10. Imágenes/Pasted image 20260709005958.jpg",
+    "10. Imágenes/Pasted image 20260709005939.jpg",
+    "10. Imágenes/Pasted image 20260709004808.jpg",
+    "10. Imágenes/Pasted image 20260709004744.jpg",
+    "10. Imágenes/Pasted image 20260709004729.jpg",
+    "Escritos/Complejidad y Videojuegos/Complejidad y videojuegos.md",
+    "Escritos/Complejidad y Videojuegos/Complejidad y videojuegos.pdf",
+    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.md",
+    "01. Lecturas Filosofía de la Tecnología/Pasquinelli (2023). El ojo del amo.md",
+    "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+    "transmodernidad.md",
+    "Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria.pdf",
+    "Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria.pdf",
+    "Escritos/Etica en el videojuego/Videojuegos y política.pdf",
+    "Escritos/Artículos/Bibliografía.md",
+    "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+    "02. Conceptos/Fragmentar el Futuro.md",
+    "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
+    "01. Lecturas Videojuegos/Dragon, J. (2025). The Expressionis Game Manifiesto.md",
+    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+    "estatuto de mayoría.md",
+    "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
     "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Cremin, C. (2016) Exploring videogames with Deleuze and Guattari.pdf",
-    "01. Lecturas Videojuegos/Declos, A. (2024). The Ontology of Videogames.md",
-    "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
-    "SMART-~1/multi/Índice_Ideas_md.ajson",
-    "SMART-~1/multi/Ética_en_la_educación_de_las_industrias_creativas_en_México_md.ajson",
-    "SMART-~1/multi/Voz_y_Luz_md.ajson",
-    "SMART-~1/multi/Sabían_que_en_términos_de_reproducción,_vaporeon_md.ajson",
-    "SMART-~1/multi/TagsRoutes_logMessage_md.ajson",
-    "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
-    "Clippings/Can a Game Boy Hold Grief I Played Zhou Yichen's Grandma Meta description (144 characters) I played Grandma, Zhou Yichen's Game Boy-style elegy.md",
-    "Clippings/¿Imaginas una IA que juegue por ti Pues esta es una de las ideas de PlayStation para los jugadores que no puedan superar los desafíos más difíciles.md",
-    "01. Lecturas/McCarthy-Meridiano de sangre.md",
-    "01. Lecturas/Calvino-Las cosmicomicas.md",
-    "01. Lecturas/-Feminism in Play-- Kishonna.md",
-    "Nacimento de la tragedia.md",
-    "Clippings/Playtime (1967) ⭐ 7.8.md",
-    "Clippings/Dark Play.md",
-    "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
-    "().md",
-    "Clippings/Packet Garden.md",
-    "Clippings/Doodlebuzz.md",
-    "Clippings/The Accidental News Explorer.md",
-    "Clippings/FAKE COMPUTER REAL VIOLENCE.md",
-    "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
-    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md"
+    "01. Lecturas Videojuegos/Hui, Y. (2016). The Question Concerning Technology in China. An Essay in Cosmotechnics.md",
+    "07. Videos/Conferencias/a brief story of game studies.mp4",
+    "07. Videos/Conferencias/Ciclo de clases - El futuro no es un sueño próximo Yuk Hui (2da clase).md",
+    "07. Videos/Conferencias/Jaroslav Švelch - Making Games in Communist Czechoslovakia (Game Days Trnava 2019).md",
+    "04. Bibliografía/Bibliografia Simondon/Simondon - El modo de existencia de los objetos técnicos [3].pdf",
+    "04. Bibliografía/Bibliografía videojuegos/serious-games-taxonomy.pdf",
+    "Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación.pdf"
   ]
 }

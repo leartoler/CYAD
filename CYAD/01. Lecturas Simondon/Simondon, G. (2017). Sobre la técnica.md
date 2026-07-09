@@ -10,7 +10,7 @@ Resumen generado:
 Audio:
 Consultado:
 ---
-### <mark style="background: #FFB8EBA6;">Concepto</mark>
+# <mark style="background: #FFB8EBA6;">Concepto</mark>
 
 (Concepto::Punto de acumulación: límite de convergencia de todos los progresos realizables sin cambios en la axiomática)
 
@@ -26,9 +26,11 @@ Consultado:
 ![[IMG_2993.png]]
 
 
-### 00. Presentación
+## 00. Presentación
 
-#### 01.  Modo de existencia de los objetos técnicos y psicosociología de la tecnicidad
+### 00.  Modo de existencia de los objetos técnicos y psicosociología de la tecnicidad
+
+En esta primera parte de la presentación, se aborda cómo se inserta el individuo en tres niveles: físico, vital y psicosocial. Se menciona que la diversidad de la realidad técnica no debe confundirse con una homogeneidad total. Además, se discute el cine como un fenómeno psicosocial, señalando la dificultad de conceptualizarlo según esquemas previos debido a que representa un nuevo modo de conciencia, conocimiento, apreciación y representación. Surge la interrogante sobre si las nuevas tecnologías, especialmente los videojuegos, pueden ser equiparables al pensamiento del autor sobre el cine.
 
 (Tema::Sobre los objetos técnicos (12))
 
@@ -38,7 +40,9 @@ Consultado:
 ![[IMG_2996.png]]
 
 
-#### 02. La búsqueda de la esencia de la tecnicidad y del objeto técnico en el MEOT
+### 01. La búsqueda de la esencia de la tecnicidad y del objeto técnico en el MEOT
+
+En esta sección se aborda el objeto técnico y la esencia de la tecnicidad, destacando tres puntos clave. Primero, se menciona que el uso y la utilidad del objeto técnico están limitados por representaciones y actitudes técnicas, considerando aspectos económicos, sociales y psicosociales. Luego, se discute la definición del objeto técnico y su concretización, relacionada con la solución de problemas y la fase de metaestabilidad, la cual depende de dos causas: la concretización interna (condiciones que estabilizan la técnica) y la extrínseca (aspectos sociales y culturales). Por último, se establece una diferenciación entre funcionamiento (dimensión interna y técnica) y función (dimensión extrínseca), subrayando la importancia del enfoque psicosocial en la función, mientras que el MEOT se centra más en el funcionamiento.
 
 (Tema::Sobre el uso y la utilidad (14))
 
@@ -50,7 +54,8 @@ Consultado:
 ![[IMG_2997.png]]
 
 
-#### 03. El objeto de una psicosociología de la tecnicidad
+### 02. El objeto de una psicosociología de la tecnicidad
+En esta sección del capítulo se aborda el concepto de tecnicidad, que se refiere a las diversas representaciones de la realidad técnica en el contexto social. Se enfatiza la separación entre la técnica y su aspecto psicosocial. Además, se menciona una futura diferenciación entre función y funcionamiento. La tecnicidad también abarca las representaciones y actitudes hacia la técnica, destacando su evolución desde la ilustración y su relación con otros elementos.
 
 (Tema::Lo que es la tecnicidad (16-17))
 ###### Imágen
@@ -58,7 +63,8 @@ Consultado:
 ![[IMG_2998.png]]
 
 
-#### 04. Objetividad y objetualidad del objeto técnico
+### 03. Objetividad y objetualidad del objeto técnico
+En esta sección se analiza la objetualidad del objeto técnico, diferenciándolo en dos aspectos: el técnico, que se refiere a su función y uso, y el psicosocial, que considera su relación con el operador. Se argumenta que el objeto técnico se convierte en tal cuando se separa de su productor, adquiriendo existencia económica y social. Además, se menciona que el objeto se rodea de tecnicidad, lo que implica un sistema complementario que refleja las interacciones dentro del cuerpo social y con otros elementos técnicos, trascendiendo así su mera dimensión tecnológica.
 
 (Tema::Lo objetual (18))
 
@@ -76,7 +82,8 @@ Consultado:
 ![[IMG_3001.png]]
 
 
-#### 05. ¿Por qué hacer una psicosociología de la tecnicidad?
+### 04. ¿Por qué hacer una psicosociología de la tecnicidad?
+En este capítulo se diferencia entre lo actual y la objetividad, señalando que la tecnicidad no se origina por la separación del ser técnico de su productor, sino por factores externos relacionados con lo económico y psicosocial. También se aborda la distinción entre el "objetual", que representa una existencia puramente técnica, y la "objetividad", que engloba aspectos económicos, sociales y psicosociales. Finalmente, se menciona la psicosociología, que busca entender las diversas formas en que se forma la subjetividad individual y su relación con la realidad técnica, considerada como la realidad humana.
 
 (Tema::tecnicidad y objeto técnico (20))
 
@@ -88,7 +95,8 @@ Consultado:
 ![[IMG_3002.png]]
 
 
-#### 06. ¿Por qué el conocimiento de lo humano debe de ser psicosociológico? Lo transindividual 
+### 05. ¿Por qué el conocimiento de lo humano debe de ser psicosociológico? Lo transindividual 
+En esta sección se aborda el concepto de transindividualidad, que distingue entre lo psíquico y lo colectivo. La transindividualidad no se centra en localizar a los individuos, sino en hacerlos coincidir. No se prioriza ni al individuo ni al colectivo como aspectos fundamentales; en cambio, se explora cómo el individuo se desarrolla tanto de manera individual como en su relación con lo colectivo.
 
 (Tema::Transindividualidad (22))
 ###### Imágen
@@ -96,7 +104,8 @@ Consultado:
 ![[IMG_3004.png]]
 
 
-#### 07. El recorrido de la psicosociología de la tecnicidad
+### 06. El recorrido de la psicosociología de la tecnicidad
+En este capítulo se enfatiza el aspecto pedagógico de la teoría, destacando que la tecnicidad define la relación entre los objetos y los seres humanos. Se menciona que la cultura debe integrar a los seres técnicos a través de un conocimiento que incluya valores y una comprensión de la realidad técnica. Se concluye que la tecnicidad es una forma esencial de existencia del ser humano, donde el objeto es un medio para entender nuestro entorno, sugiriendo que la relación primordial es entre el hombre y el mundo, más que con los objetos técnicos en sí.
 
 (Tema::Psicososciología (24))
 
@@ -112,7 +121,7 @@ Consultado:
 ## 1. Cursos
 ### Psicosociología de la tecnicidad (1960-1961)
 #### Introducción
-Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra dentro de una serie de significados; se socializa. Encuentra una similitud entre la tecnicidad y la sacralidad
+En la introducción, se aborda cómo la tecnicidad del objeto técnico se libera y se socializa, estableciendo un paralelo entre tecnicidad y sacralidad. Se menciona que la separación del objeto técnico puede ocurrir de dos maneras: por transmisión hereditaria, que requiere un aprendizaje específico, o por venalidad, donde el objeto se desvincula del productor y adquiere significados de la cultura dominante. Se destaca que la tecnicidad tiende a universalizarse, lo que implica que sus características sociales y culturales son efímeras. Además, se discuten los problemas del objeto de uso y su halo de socialidad, así como la diferencia entre alta tecnicidad y objetos sobredeterminados culturalmente. Se pone como ejemplo el diseño de las carcasas de automóviles, que cambian mientras el motor permanece igual. Finalmente, se menciona que algunos grupos pueden apropiarse de la sacralidad o tecnicidad, diluyendo su significado cultural, aunque este tema será explorado más a fondo en capítulos posteriores.
 
 (Tema::Separación del objeto técnico (36))
 
@@ -141,6 +150,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 #### Primera parte: aspectos psicosociales de la génesis del objeto de uso
 
 ##### 1. Progreso por medio de la saturación y por medio de la reconstitucion: ciencia y técnica
+En la primera parte se analiza el progreso de un objeto hasta su saturación, momento en el cual se estabiliza su esquema y se produce una convergencia universal. Una vez que el objeto alcanza esta saturación, entra en un límite donde no puede haber evolución técnica a menos que se reconfigure su esquema desde sus cimientos. Se menciona que la evolución de la tecnicidad ocurre por acumulación de elementos y cambios, a diferencia de lo sacro, que no es acumulativo. Este punto es relevante al considerar objetos lúdicos que, al saturarse, impiden su evolución. Se pone como ejemplo la realidad virtual y dispositivos como Kinect, que alcanzaron rápidamente su saturación y requieren una reconfiguración para avanzar.
 
 (Tema::Saturación y convergencia (41))
 
@@ -151,6 +161,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 2. Cultura y civilización 
+En este texto se discute la diferenciación entre cultura y civilización, destacando que la evolución técnica está más vinculada a la civilización, la cual avanza más rápidamente que la cultura. Se menciona que, en el caso de México, la cultura ha cambiado poco en comparación con los significativos avances en civilización en los últimos diez años. También se aborda la idea de homogeneidad, que se refiere a la representación uniforme de esquemas que impide el avance técnico. Se ejemplifica con la inteligencia artificial y objetos técnicos, señalando que la similitud entre ellos limita el desarrollo innovador.
 
 (Tema::Homogeneidad (42))
 ###### Imágen
@@ -159,6 +170,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 3. La cultura empuja al ostracismo al objeto técnico nuevo
+El texto discute el concepto de ostracismo, que se refiere a la pérdida de impacto de ciertos objetos. Se centra en cómo los objetos técnicos, como las computadoras, son civilizadores al ofrecer nuevas formas de estructurar la cultura y el pensamiento. Se menciona que la computadora no solo transforma la comunicación y el trabajo, sino que también influye en nuestra concepción del mundo a través de teorías como la de los sistemas y la complejidad. Además, se destaca el uso de los videojuegos como forma de esparcimiento, que el autor relacionará con la tecnicidad y la sacralidad.
 
 (Tema::Objeto técnico y civilización (45))
 ###### Imágen
@@ -167,6 +179,8 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 4. Reacción de defensa contra el ostracismo: desdoblamiento, criptotecnicidad, fanerotecnicidad
+El capítulo destaca cómo ciertos objetos técnicos pueden excluir a otros, introduciendo un "velo" que impide que estos últimos se integren en significaciones culturales. El autor establece una equivalencia entre lo técnico y lo sagrado, sugiriendo que este velo es similar a la separación entre lo sagrado y lo profano. También se menciona el desfase entre la magia, la técnica y la religión, temas que ya fueron abordados en la sección sobre objetos técnicos de su tesis principal, en el segundo libro.
+
 
 (Tema::Objetos fanerotécnicos y criptotécnicos (45-46))
 	Generalmente los objetos fanerotécnicos se consideran utilitarios mientras que los criptotécnicos son suceptibles de ser introducidos en la ciudadela de las culturas. 
@@ -178,6 +192,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 5. Ritualización y tecnofanía 
+El texto aborda la relación entre el objeto técnico y la cultura, centrándose en el concepto de tecnofanías. Explica cómo, a través de la ritualización, los objetos técnicos se convierten en imágenes y símbolos que se insertan en la cultura. Se destaca que los objetos técnicos pueden ser representados en su totalidad mediante un solo elemento, aunque existe una diferenciación entre estos objetos y su aspecto sacro. Además, se menciona la importancia de la tecnofanía en el nacimiento de nuevas formas de arte relacionadas con lo técnico, como en el caso del cine y los objetos digitales. También se critica el enfoque sobre la ritualización y la sobredeterminación en contextos como los videojuegos, donde los gráficos son considerados como una tecnofanía a pesar de ser un elemento menor en el ecosistema.
 
 (Tema::tecnofanías y ritualización (46-47))
 ###### Imágen
@@ -186,6 +201,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 6. Tecnofanía, neotenia, amateurismo y objeto arquetípico
+En este texto se explora el concepto de tecnofanía, destacando ejemplos como los juguetes y la relación entre arquetipos e índices. Se menciona que el juguete actúa como símbolo que hace referencia a la actividad de jugar más que al objeto mismo. Simondon propone una conexión entre lo sagrado y lo técnico, sugiriendo que la pedagogía también está presente en su análisis. Se discute el coleccionismo, señalando que sus motivaciones pueden ser variadas, desde trastornos hasta nostalgia, y no siempre se relacionan con ritualización. Se concluye que la tecnofanía es una mediadora entre la cultura y la técnica, generando una tensión que otorga valor cultural y una epicidad al objeto tecnofánico.
 
 (Tema::Juguete y arquetipo (48))
 
@@ -198,6 +214,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 7. El objeto técnico y el niño: tecnología genética
+El texto aborda la relación entre la infancia y el objeto técnico, sugiriendo que aprender sobre estos objetos en la niñez les confiere un carácter arquetípico y cultural. Sin embargo, el autor expresa desacuerdo con la idea de que el conocimiento técnico se adquiere solo mediante un primer acercamiento a los objetos en la infancia, afirmando que, en etapas tempranas, los niños interactúan con estos sin un razonamiento profundo. Se menciona que el entendimiento real de las técnicas y objetos técnicos se da más tarde, por ejemplo, en la educación universitaria. Además, se introduce el concepto de "edades de pregnancia" respecto a la tecnología y se sugiere que diferentes edades implican distintos acercamientos a los videojuegos, proponiendo la inclusión de estudios estadísticos sobre estas variaciones en la investigación.
 
 (Tema::Infancia y objeto técnico (50))
 
@@ -210,12 +227,14 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 8. El objeto técnico y la mujer
+Este capítulo aborda la relación entre la mujer y el objeto técnico, destacando que en su época, las mujeres tenían un acercamiento especial a estos objetos debido a su conexión mágica con la sexualidad. Se sugiere que, actualmente, esta relación se puede comparar con el desarrollo de la inteligencia artificial y el cloning, que se perciben como herramientas que facilitan el trabajo. Sin embargo, el autor no ve esto como un duplicado psicológico, sino más bien como una especie de "duende" o asistente, similar a un "minion". Se resalta la importancia de la simultaneidad en esta relación y cómo se relaciona con los avances en inteligencia artificial.
 ###### Imágen
 
 ![[Pasted image 20260619180526.png]]
 
 
 ##### 9. El objeto técnico y el grupo rural 
+Este capítulo aborda la relación entre la mujer y el objeto técnico, destacando que en su época, las mujeres tenían un acercamiento especial a estos objetos debido a su conexión mágica con la sexualidad. Se sugiere que, actualmente, esta relación se puede comparar con el desarrollo de la inteligencia artificial y el cloning, que se perciben como herramientas que facilitan el trabajo. Sin embargo, el autor no ve esto como un duplicado psicológico, sino más bien como una especie de "duende" o asistente, similar a un "minion". Se resalta la importancia de la simultaneidad en esta relación y cómo se relaciona con los avances en inteligencia artificial.
 
 (Tema::Machine transfer (56))
 ###### Imágen
@@ -224,6 +243,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 
 ##### 10. El objeto técnico y el subgrupo en situación pregnante
+El texto aborda cómo diferentes subgrupos sociales tienen distintas percepciones y relaciones con el objeto técnico, utilizando el ejemplo de marineros y barcos, los cuales poseen un significado casi sagrado en comparación con otros contextos civiles. Se menciona el ritual de despedir o bautizar barcos como una forma de humanización del objeto. También se discute que la compra y venta no agota la realidad técnica del objeto, sugiriendo que hay más que una simple transacción. Además, se identifican cuatro subgrupos relevantes en relación con los videojuegos y consolas: género, edad, situación económica y la forma de jugar.
 
 (Tema::Subgrupos temporarios)
 
@@ -244,6 +264,8 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 
 (Tema::Historicidad del objeto técnico (59))
 
+###### Imágen
+
 ![[Pasted image 20260622211503.png]]
 
 ![[Pasted image 20260622214153.png]]
@@ -260,6 +282,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 (Tema::Alienación y función del comprador (64))
 
 (Tema::Aumento de la sobre historicidad (64-65))
+###### Imágen
 
 ![[Pasted image 20260622213937.png]]
 
@@ -275,6 +298,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 (Tema::Grados de sobrehistoricidad (65))
 
 (Tema::Grados de sobrehistoricidad con relación a la separación entre producto y usuario (66))
+###### Imágen
 
 ![[Pasted image 20260622214721.png]]
 
@@ -284,7 +308,7 @@ Habla sobre la tecnicidad del objeto técnico y cómo este se libera y entra den
 (Tema::Objeto cerrado (67-68))
 
 (Tema::Objeto abierto (67-68))
-
+###### Imágen
 
 ![[Pasted image 20260622214836.png]]
 
@@ -358,6 +382,7 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 #### Tercera Parte: Tecnicidad y sacralidad
 
 ##### 0. Introducción
+El texto aborda la perspectiva de Mircea Eliade sobre la representación de la civilización y la cultura, y menciona a Jung en relación con la subjetividad cultural. Se explora la creencia de que la cultura, los arquetipos y los mitos están en oposición a lo racional, así como la idea de que lo sagrado y la técnica son elementos opuestos. Sin embargo, Simondón propone una relación isomórfica entre la sacralidad y la tecnicidad, sugiriendo que están interconectados y no deben ser considerados por separado, al igual que los aspectos racionales y metafísicos según la teoría de la complejidad.
 
 (Tema::Lo sagrado. Imágen y demás (79))
 
@@ -367,7 +392,10 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 ![[Pasted image 20260629011321.png]]
 
 
-##### 1. La falsa sacralidad ligasa al objeto técnico cerrado
+##### 1. La falsa sacralidad ligada al objeto técnico cerrado
+En esta parte, el orador analiza la falsa sacralidad del objeto técnico. Se menciona que los objetos cerrados y alineados, con mayor distancia entre el creador y el objeto, poseen menor sacralidad, y la que tienen es superficial. Se critica la relación entre la magia y la técnica, señalando que la magia se ve debilitada cuando se limita a partes aisladas en lugar de un conjunto. También se menciona que el automatismo se considera un aspecto mágico debido a la creación de un "doble" que opera automáticamente.
+
+Un punto clave es que la tendencia del individuo es fundamental en el origen de lo mágico en el objeto técnico. Se menciona el ejemplo de la mujer y el objeto técnico, donde se creía que estos objetos le otorgaban poderes mágicos al facilitar sus tareas. Además, se habla del objeto moderno, que responde a necesidades previas, y se establece una relación entre la evolución de la civilización y el desarrollo de la técnica. Esta relación es necesaria, aunque no siempre ideal, ya que puede llevar a un aumento de elementos innecesarios en la técnica.
 
 (Tema::Objeto técnico cerrado y sacralización (81))
 
@@ -378,6 +406,16 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 (Tema::Sobre el autómata(83))
 
 (Tema::Necesidad y tecnicidad (84))
+
+###### Imágen
+
+![[Pasted image 20260629012324.jpg]]
+
+![[Pasted image 20260629012442.jpg]]
+
+
+##### 1.1. Degradación paralela de la sacralidad y la tecnicidad; el hombre actual es moderno cuando se ve empujado por una necesidad arcaica de magia
+La degradación de la técnica está vinculada a la sacralidad, conceptualizándose lo sagrado como una red universal. Su degradación ocurre al particularizarse un elemento de esa red. Por otro lado, la degradación técnica sucede cuando lo técnico se aísla en el tiempo o el espacio. Se resalta que la técnica tiene una naturaleza reticular, que se manifiesta en su actualización temporal y en su expansión espacial. Por ejemplo, los videojuegos, que originalmente eran solo lúdicos, han evolucionado y ahora pueden ser utilizados en varias plataformas como computadoras y realidad virtual. Esta dualidad de elementos, espacial y temporal, define la tecnicidad. Además, se indica que un objeto solo se considera técnico si interactúa con otros en una red, adquiriendo significado en ese contexto, algo que no se había mencionado en estudios previos.
 
 (Tema::Degradación de la tecnicidad y sacralidad (85))
 
@@ -392,63 +430,252 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 (Tema::Reticulación temporal y espacial (87))
 
 (Tema::Objeto técnico (87))
-##### Imágen
-
-![[Pasted image 20260629012324.jpg]]
-
-![[Pasted image 20260629012442.jpg]]
+###### Imágen
 
 ![[Pasted image 20260629012514.jpg]]
 
 ![[Pasted image 20260629012545.jpg]]
 
 
+##### 2. Isomorfismo de la sacralidad y de la tecnicidad
+
+En esta sección se aborda el isomorfismo entre la sacralidad y la primicidad, definiendo el isomorfismo como la similitud de operaciones, similar a algo paralelo o holosimétrico. Se retoma la idea del objeto técnico, que se entiende como una red de objetos interrelacionados. Se menciona la aparición de un nuevo objeto técnico y la resistencia que enfrenta por parte de las redes establecidas para el objeto técnico antiguo. Se concluye que un objeto técnico nuevo solo puede concretarse plenamente cuando las demás redes y el contexto están alineados con él, permitiéndole actuar de manera efectiva.
+
+(Tema:: Objeto técnico, red de objetos, tecnicidad (87-88))
+	(+) En esta parte no se hablaría de objetos técnicos, sino de red o elementos dentro de una red
+
+(Tema::Aparición de un nuevo objeto técnico (88))
+	Ejemplo de interferencia en los primeros videojuegos
+	#videojuegos 
+
+###### Imágen
+
 ![[Pasted image 20260629012750.jpg]]
 
 
+##### 2.1 El verdadero progreso técnico supone estructura reticular
+En esta parte, se discute la noción de que el objeto técnico no existe de manera aislada, sino que forma parte de una red de elementos espaciales y temporales. Se menciona la propuesta de Simondón, enfatizando que la tecnicidad rodea al objeto técnico, como una consola o un vehículo, lo que lo convierte en un punto dentro de esa red. El texto también sugiere que el lenguaje a veces no es suficiente para describir adecuadamente el objeto técnico, el cual puede ser visto como una unidad en términos ontológicos. A medida que el objeto técnico se integra más en esta red, tiende a simplificarse. Esto se ejemplifica con la evolución de dispositivos como consolas de entretenimiento y computadoras, que han ido reduciendo sus funciones a lo largo del tiempo, en contraste con sus inicios donde ofrecían múltiples posibilidades.
 
+(Tema::Concretización del objeto técnico (89))
+
+(Tema::(+) Tecnicidad sobre el videojuego (89))
+
+(Tema::Aumento de tecnicidad, simplificación del objeto (90))
+
+###### Imágen
 
 ![[Pasted image 20260629012810.jpg]]
-
-
 
 ![[Pasted image 20260629012826.jpg]]
 
 
+##### 2.2. La ritualización primitiva; ritualización y reticulación
+En esta parte se aborda el aspecto ritual de lo sacro, según la perspectiva de Simondón, quien sostiene que la ritualización precedió a la religión y a la técnica. Se destaca que muchas operaciones técnicas primitivas fueron ritualizadas y sacralizadas. Un ejemplo mencionado es el de los escribas, quienes desempeñaban un papel crucial en un contexto donde el conocimiento y la escritura eran limitados, lo que hacía que su práctica técnica fuese considerada sagrada.
 
+(Tema::Isomorfismo entre sacralidad y tecnicidad (91))
 
-
+(Tema::Ritualizaciones (92))
+###### Imágen
 
 ![[Pasted image 20260629012843.jpg]]
 
 
+##### 2.3. Las coincidencias arcaicas de lo sagrado y lo técnico
+En esta parte, se discute la antigua relación entre lo sagrado y lo técnico en el contexto del trabajo, entendido no como hoy, sino como la acción de realizar algo. Se menciona el ejemplo de Hermes, cuyo vínculo con el pastoreo le confería un mayor poder, que disminuyó al asociarse con la agricultura en la antigua Grecia, un cambio que relegó su estatus religioso, dado que la agricultura se vinculó más con la fertilidad y la mujer.
 
+Además, se aborda el rito de paso, sugiriendo que no se debe entender la técnica solo como tal, sino en relación al trabajo. Es importante considerar cómo diferentes culturas y religiones perciben el trabajo; por ejemplo, el protestantismo enfatiza su importancia, mientras que el catolicismo no lo hace tanto, y en sociedades cazadoras-recolectoras, el trabajo tiene un papel menor. Se sugiere que sería beneficioso explorar más la obra de Leroi Gourhan para entender mejor la interacción entre lo sagrado, lo técnico y el trabajo.
+	#Leroi-Gourham 
 
+(Tema::Ritualización de la acción (93))
+
+(Tema::Sobre el temor (94))
+
+(Tema::Hermes, de Dios de pastoreo a dios agrícola (95))
+	#Hermes
+
+(Tema::Ritualización, tecnicidad y sacralidad (95))
+
+(Tema::Antigua y nueva noción de trabajo (95))
+###### Imágen
 
 ![[Pasted image 20260629012858.jpg]]
-
-
-
 
 ![[Pasted image 20260629012916.jpg]]
 
 
+##### 2.4. Las coincidencias actuales de lo sagrado y de lo técnico
+El texto aborda las coincidencias entre la técnica y las actividades en la actualidad, enfocándose en dos elementos clave: los grupos sociales y la red de redes. Se menciona cómo la cultura puede crear barreras técnicas, utilizando ejemplos como la transmisión de misas por televisión, que muestra una sacralización de la técnica, aunque la conexión no es perfecta. También se discute el respeto hacia instituciones sociales, como los desfiles militares en México, y cómo lo técnico se vuelve secundario en estas transmisiones.
+
+El segundo punto destaca la evolución de la participación en la red, donde la experiencia se vuelve más interactiva. Se hace referencia a ejemplos como un videojuego inspirado en la palabra de Dios y las plataformas que permiten una participación activa, contrastando con la experiencia pasiva de ver una misa. Se señala también cómo el rol del operador técnico puede alienar lo sacro al tratarlo como un objeto. En resumen, se evidencia una transformación en la relación entre lo técnico y lo sacro en la sociedad contemporánea, donde las interacciones y percepciones cambian con el tiempo.
+
+(Tema::Sacralización y objeto de trabajo técnico (96))
+
+(Tema::Reticulación técnica y acto de sacralidad (97))
+
+(Tema::Tecnicidad y sacralidad (97))
+
+(Tema::Funcionamiento en red (97))
+
+(Tema::Barrera cultural entre lo sacro y lo técnico (97))
+
+(Tema::Nula convergencia entre técnica y lo sacro ante el cerrazón de los grupos sociales (98))
+
+(Tema::Sobre los conceptos ontológicos de lo técnico (99))
+	(+) Esto también puede ser llevado al videojuego y más con lo de la regulación interna y hasta dónde llega algo a lo que se le puede llamar videojuego
+
+(Tema::Sobre el profesional o el ingeniero (100))
+
+(Tema::Contemplación y operación (100))
+
+###### Imágen
+
 ![[Pasted image 20260629012931.jpg]]
-
-
-
 
 ![[Pasted image 20260629012949.jpg]]
 
-
 ![[Pasted image 20260629013005.jpg]]
 
+
+##### 2.5. Encuentro posible de la sacralidad y la tecnicidad en el porvenir: la unidad de la Cultura
+
+En esta parte del texto, se aborda la relación entre lo sacro y lo técnico a través del concepto de tiempo de esparcimiento. Simondón señala que, desde el Renacimiento, el ocio ha cambiado, pasando de ser considerado un tiempo sagrado a uno más técnico, relacionado con la productividad y el descanso. Se menciona que, aunque algunos días de asueto tienen raíces religiosas, en la actualidad están más influidos por leyes y estructuras técnicas.
+
+El autor también destaca la importancia del arte como una acción estética dentro del tiempo de esparcimiento, que contrasta con el ámbito artesanal donde lo sacro sigue teniendo un papel predominante. Además, se menciona que el juego, considerado más técnico que sagrado, se ha integrado en la cultura actual, y se plantea la necesidad de un estudio que analice el tiempo de esparcimiento desde una perspectiva psicosocial.
+
+Finalmente, se plantea una pregunta sobre el papel del juego y los videojuegos en el tiempo de esparcimiento actual y su relación con lo sacro y lo técnico, sugiriendo una posible relegación del trabajo en esta dinámica.
+
+(Tema::Acción en la sacralidad y la tecnicidad (101))
+
+(Tema::Lo sacro y lo técnico a nivel artesanal (101))
+
+(Tema::Tiempo de esparcimiento en lo sacro y la tecnicidad (102-103))
+
+(Tema::Tiempo de esparcimiento de lo sacro (102))
+
+(Tema::Tiempo de esparcimiento de lo técnico (102))
+
+(Tema::Arte como categoría de acción entre lo sacro y lo técnico(105))
+###### Imágen
 
 ![[Pasted image 20260629013022.jpg]]
 
 ![[Pasted image 20260629013037.jpg]]
 
  
+##### 2.6. El advenimiento del sentimiento de universalidad del valor de las técnicas; sentido del enciclopedismo
+En esta sección se aborda el surgimiento del sentimiento de universalidad del valor de las técnicas, enfatizando su papel en el enciclopedismo. Antes, la técnica se percibía de manera singular, como una herramienta individual; sin embargo, con el enciclopedismo, se universalizó. Se menciona a Descartes y su pensamiento sobre la socialización de la ciencia. Un ejemplo destacado es el pararrayos, que transformó la percepción del rayo de un fenómeno sagrado a uno mortal, contribuyendo a la desacralización y a una nueva configuración metafísica. Se plantea cómo el pensamiento enciclopédico, a lo largo de la historia, ha ido de una visión universal a una más particular con los positivistas. Finalmente, se menciona que la cibernética tiene un papel similar al de la enciclopedia en la cultura, destacando la tecnificación y el desplazamiento de lo sacro hacia lo técnico, lo que implica un cambio en valores y significaciones.
+
+(Tema::El objeto, visto en sus partes y en su totalidad (104))
+
+(Tema::Tecnofanía y la cadena de trabajo (105))
+
+(Tema::Reglas de autonormatividad (106))
+
+(Tema::Descartes y la tecnicidad (107))
+
+(Tema::Tecnofanías en la Enciclopedia (107-108))
+
+(Tema::El objeto técnico (108))
+
+(Tema::Categorías tecnológicas de la enciclopedia (109))
+
+(Tema::Espíritu enciclopédico (109))
+
+(Tema::Evaluación de lo técnico (110))
+
+(Tema::Enciclopedía y cibernética (110))
+
+(Tema::Sobre el enciclopedismo (111))
+
+(Tema::Tecnicidad en la actualidad (113))
+
+###### Imágen
+
+![[Pasted image 20260709003910.jpg]]
+
+![[Pasted image 20260709003936.jpg]]
+
+![[Pasted image 20260709003953.jpg]]
+
+![[Pasted image 20260709004006.jpg]]
+
+
+##### 2.7. Tecnicidad y sacralidad como sistema de referencia y códigos de información
+
+(Tema::Precariedad del enciclopedismo (113))
+
+(Tema::Régimen de automantenimineto de lo sacro (113-115))
+
+(Tema::Ecumenismo de lo técnico (116))
+
+(Tema::Escalas de la realidad técnica (117))
+
+(Tema::Percepción de la realidad dada la tecnicidad (118))
+
+(Tema::Tecnicidad como marco psicosocial (118))
+
+(Tema::Sacralidad como marco psicosocial (119))
+
+###### Imágen
+
+![[Pasted image 20260709004729.jpg]]
+
+![[Pasted image 20260709004744.jpg]]
+
+![[Pasted image 20260709004808.jpg]]
+
+
+##### 2.8. La tecnicidad en el nivel de los grupos humanos vastos
+
+(Tema::Tecnofanía en grupos vastos (119))
+
+(Tema::Sacralidad y tecnofanía y cómo ven el tiempo (120))
+
+(Tema::El gesto técnico (121))
+
+(Tema::Unicidad en el objeto técnico (122))
+###### Imágen
+
+![[Pasted image 20260709005939.jpg]]
+
+![[Pasted image 20260709005958.jpg]]
+
+
+##### 2.9. Conclusión
+
+(Tema::Convergencia entre tecnicidad y sacralidad (122))
+
+(Tema::Lo estético y el ser. Lo sacro, lo técnico y lo ético (123))
+
+(Tema::Estética negativa y monstruosidad (124))
+
+(Tema::Lo monstruoso (124))
+
+(Tema::Sacralidad, naturaleza y técnica (124))
+
+(Tema::Propuesta de una normatividad como fundamento de una unidad cultural (125))
+
+(Tema::Alienación técnica (126))
+
+(Tema::La expiación y sacrificio convertido en régimen juridico y dentro del domino colectivo; y el hiato dualista de la normatividad mal empleada entre la técnica y lo sacro (127))
+
+(Tema::Sobre la constructividad (128))
+
+(Tema::Diferencia entre lo sacro y lo técnico (128))
+	(+) Juicios de valor 
+
+(Tema::Estética negativa (130))
+
+###### Imágen
+
+![[Pasted image 20260709012801.jpg]]
+
+![[Pasted image 20260709012815.jpg]]
+
+![[Pasted image 20260709012826.jpg]]
+
+
+![[Pasted image 20260709012842.jpg]]
 
 
 
@@ -456,7 +683,6 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 
 
-##### 2. Cultura y civilización
 
 
 
@@ -464,35 +690,16 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 
 
-##### 3. La cultura empuja al ostracismo al objeto técnico nuevo
-
-
-
-##### 4. Reacción de defensa contra el ostracismo: desdoblamiento, criptotecnicidad, fanerotecnicidad
 
 
 
 
-##### 5. Ritualización y tecnofanía
 
 
 
-##### 6. Tecnofanía, neotenia, amateurismo y objeto arquetípico
 
 
 
-##### 7. El objeto técnico y el niño: tecnología genética
-
-
-
-##### 8. El objeto técnico y la mujer
-
-
-##### 9. El objeto técnico y el grupo rural
-
-
-
-##### 10. El objeto técnico y el subgrupo  en situación pregnante
 
 
 
@@ -506,7 +713,7 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 
 ---
-### <mark style="background: #FFB86CA6;">Nota</mark> 
+# <mark style="background: #FFB86CA6;">Nota</mark> 
 
 (Nota::Resituar al individuo en el ser según 3 niveles: físico, vital y psicosocial (12))
 
@@ -590,12 +797,61 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 (Nota::El tiempo de lo sagrado es reticular. Tiene por estructura la iteración (86))
 
+---
 
+(Nota::Existe una realidad sobredeterminada que no puede ser aprehendida bajo una sola especia sin que pierda significado (88))
+
+(Nota::"El verdadero progreso técnico supone una estructura reticular" (89))
+
+(Nota::Cada utensilio existe cada vex menos como objeto y cada ve más como símbolo (89))
+
+(Nota::El objeto de uso no es un receptáculo de la tecnicidad, solo es un punto en una red (90))
+
+(Nota::Hay una interconexión posible de las redes técnicas entre sí (90))
+
+---
+
+(Nota::'Las técnicas no son neutras frente a la sacralidad; o son puntos de intersección o de exclusión' (92))
+
+(Nota::Las coincidencias entre sacralidad y tecnicidad son en cuanto a sus estructuras temporales y espaciales (93))
+
+---
+
+(Nota::"El esfuerzo técnico es contemplativo y operatorio (100))
+
+---
+
+(Nota::Tecnicidad y sacralidad se comunican a través del tiempo de esparcimiento que es algo intermedio. Ambos son polos opuestos que se equilibran. Dicho esto, el ocio es igual de importante y está en medio entre lo sacro y lo técnico (102))
+
+---
+
+(Nota::La tecnicidad se constituyó como unidad coherente y única con el movimiento de la Enciclopedia. Fue también ahí cuando se opuso al sentido de la sacralidad (103))
+	#tecnicidad #Enciclopedia #Enciclopedismo
+
+(Nota::El esquema de concatenación es aplicado por Descartes a realidades estéticas que anteriormente se trataban como ensamblajes de forma y materia (106))
+	#Descartes #Ensamblaje
+
+(Nota::La tecnicidad es autoconstituyente (106))
+	#tecnicidad 
+
+---
+
+(Nota::La técnica en red define las vías de acción y las dimensiones que dan una percepción relativa de la realidad humano y sacra; es decir, relativizan toda realidad (118))
+
+---
+
+(Nota::El encuentro entre tecnicidad y la sacralidad a través del arte es posible en el nivel de las redes vastas. Es en esta noción en donde la intuición de lo sagrado y la esquematización técnica posibilitan un aspecto negativo (124))
+	#esquema
+
+(Nota::Para la tecnicidad lo que no optimiza y destruye es monstruoso, tal como sucede con la pena de munerte. Tal acción total solo es coherente dentro de un sistema mágico y sacro (129))
+	#monstruoso #tecnicidad 
 
 
 
 ---
-### <mark style="background: #ADD8E6;">Idea</mark>
+# <mark style="background: #ADD8E6;">Idea</mark>
+
+(Idea::¿Es equparable el cine con los videojuegos al no haber un esquema previo y ser un nuevo modo de conciencia y de conocimiento, de apreciación y representación? es al final un "descubrimiento y construcción del hombre por él mismo".)
 
 (Idea::El velo se descubre a través de la ritualización)
 
@@ -615,24 +871,60 @@ La discusión se centra en la relación entre la escala microtécnica y el orden
 
 (Idea::el objeto mágico es el que nos permite duplicar)
 
+(Idea::El elemento a escala humano no se satura cuando el objeto técnico está dentro de una red)
+
+(Idea::Tecnicidad no es materialidad)
+
+(Idea::Saturar no es sobredeterminar ni sobre historicidad)
+
+(Idea::La tecnicidad anteriormente era a nivel individual y ahora entra a nivel de grupo. Lo sacro ahora igual, está a nivel de grupo)
+
+(Idea::Lo que cambia conforme pasa el tiempo es la relación entre órdenes de magnitud entre lo sacro y lo técnico)
+
+(Idea::¿Se ha banalizado el juego? Anteriormente el juego tenía un carácter más sacro, uníco, casi ritual. Ahora el juego es parte común del día a día, más que cualquier otra cosa. ¿Se debe esto a la técnico? No a nivel digital, sino cosmotécnica tal cual)
+
+(Idea::Antes del enciclopedismo el objeto técnico era individual e instrumental. Ese ha sido uno de los grandes cambios en la actualidad)
+	#objeto_técnico #Enciclopedismo 
+
+(Idea::EL videojuego es posible que haya nacido en una época de poder tecnofánico dirigido hacia los sistemas)
+	#videojuegos #tecnofanía #sistemas 
+
+(Nota::Hay un ecumenismo real en el campo de la ciencia)
+
+(Idea::El juicio de valor y concepción de lo técnico en subconjunto puede verse en esta visión actual sobre sobre todo como un sistema y en el porqué se relaciona el videojuego en esta fase histórica donde el sistema predomina)
+	#sistema #conjuntos
+
+
+
+
 ---
-### <mark style="background: #FF5582A6;">Pregunta</mark> 
+# <mark style="background: #FF5582A6;">Pregunta</mark> 
 
 (Pregunta::¿Cómo serían las tecnofanías en el videojuego?)
 
 (Pregunta::¿A qué se refiere el autor cuando menciona un objeto técnico rico en arquetipos y poder normativo?)
 
----
-### <mark style="background: #BBFABBA6;">Esquema</mark>
+(Pregunta::¿Lo del objeto técnico y conjunto, tomado desde un nivel macro, niega lo dicho en el primer libro?)
 
 
 ---
-### <mark style="background: #BB5CFBD1;">Contraargumentos</mark>
+# <mark style="background: #BBFABBA6;">Esquema</mark>
+
+
+---
+# <mark style="background: #BB5CFBD1;">Contraargumentos</mark>
 
 (Contraargumento::No estoy de acuerdo con la idea de la idea que tiene Simondon acerca de su entendimiento sobre el coleccionismo, ya que él le da un sentido más de nostalgia y por ende de ritualización (49))
 
+(Contraargumento::Cuando se menciona que la transmisión de un acto sacro es reflejo del acto verdadero, esto no pasa con el cideojuego, en tanto el jugador se cuelve parte del acto mismo, tal como se puede ver en los juegos de Roblox)
+	#Roblox
+
+(Contraargumento::Comenta Simondon que la cosmicidad es puramente representativa y no es afectiva ni emotiva, lo cual no estoy de acuerdo.)
 
 ---
-### <mark style="background: #ADCCFFA6;">HT</mark>
+# <mark style="background: #ADCCFFA6;">HT</mark>
 
 ---
+
+# <mark style="background: #ADD7B9;">Investigar</mark>
+
