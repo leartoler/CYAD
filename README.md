@@ -1,4 +1,4 @@
 # CYAD
 
-Avances realizados hasta el momento, con fecha del 20251021, para la ICR sobre metafísica y ontología del videojuego. 
+Avances en proceso sobre la investigación que gira en torno a la metafísica y ontología del videojuego. En este repositorio se encuentran las fuentes, textos, divagaciones, imágenes, etc. sobre el tema. 
 
