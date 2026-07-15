@@ -8,24 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Juul, J. (2005) Half-Real\"  ",
+      "query": "path:\"Capítulo 4\"  ",
       "color": {
         "a": 1,
         "rgb": 13193952
-      }
-    },
-    {
-      "query": "path:\"01. Lecturas Simondon\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6021202
-      }
-    },
-    {
-      "query": "tag:#ash",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
       }
     }
   ],
@@ -39,6 +25,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 155,
-  "scale": 0.030182895067324314,
+  "scale": 0.042315902689759544,
   "close": false
 }

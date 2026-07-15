@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 ---
+---
+
 Adams, D. (2021). _La vida, el universo y todo lo demás_ (B. Gómez Ibáñez, Trad.; Octava edición en Compactos). Editorial Anagrama.
 
 Avanessian, A. (2020). _Future metaphysics_ (J. A. Wagner, Trad.; English edition). Polity Press.
@@ -60,3 +62,85 @@ Smith, A., & Engel, R. (2026). _The White House compares deadly conflict to vide
 Švelch, J. (2018). _Gaming the Iron Curtain: How teenagers and amateurs in communist Czechoslovakia claimed the medium of computer games_. The MIT Press.
 
 Walker, A. (2018, marzo 2). After Three Hours With “Far Cry 5,” Its Politics Are Far From Clear. _VICE_. [https://www.vice.com/en/article/far-cry-5-hands-on-politics-progression/](https://www.vice.com/en/article/far-cry-5-hands-on-politics-progression/)
+
+---
+
+# Índice
+
+# 1. Introducción 
+## 1.1. Antecedentes
+## 1.2. Problema y pregunta de investigación
+## 1.3. Objetivos
+## 1.4. Metodología
+## 1.5. Estado del arte
+
+# 2. Marco teórico-metodológico
+## 2.1 Hacia una metafísica y ontología del videojuego
+### 2.1.1. Ontología. Hacia el discurso del ser en proceso; ontogénesis
+### 2.2.2. Metafísica. Del ser, la máquina y lo digital
+### 2.2.3. El videojuego y lo lúdico
+## 2.2. Una propuesta teórica para el desarrollo de un modelo explicativo de una ontología y metafísica del videojuego
+### 2.2.1. Simondonn y la génesis del objeto técnico
+### 2.2.2. Metafísica y cultura. De lo transindividual a la cosmotécnica
+### 2.2.3. Nuevo materialismo. Lo relacional en un ambiente digital
+
+# 3. Del jugar, juego y videojuego
+## 3.1. Diferencia entre el jugar y el juego
+## 3.2.Elementos que conforman al juego
+## 3.3. Del juego al videojuego. Más allá del medio
+### 3.3.1. Breve genealogía del videojuego
+### 3.3.2. Elementos que conforman al videojuego
+#### 3.3.2.1. Concepto de videojuego
+#### 3.3.2.2. Interfaz del videojuego
+#### 3.3.2.3. Interactividad en el videojuego
+
+### 3.3.2. Evolución del videojuego. Más allá de solo el juego
+#### 3.3.3.1. Inicio y desarrollo de los _Game studies_. El El videojuego como campo de estudio
+#### 3.3.3.2. El videojuego como modo de expresión artística
+#### 3.3.3.3. El videojuego y la sociedad
+### 3.4. Metafísica y ontología del videojuego
+### 3.5. De la imagen a propuesta ontológica sobre la interfaz
+### 3.6. Hacia una metafísica y ontología del videojuego
+# 4. Simondon y ontología del videojuego
+## 4.1. Proceso de individuación. Conformación del ser
+## 4.2. De lo preindividual a lo transindividual. La individuación como proceso
+### 4.2.1. Estados metaestables. Posibilidad de ser
+### 4.2.2. Transducción. Estructuración de ser
+### 4.2.3. Información y cuándo se conforma el ser
+## 4.3. De uno, muchos. Individuo humano, Individuo técnico, objeto técnico, máquinas y herramientas
+### 4.3.1. Individuo humano. De portador de herramientas a modulador
+### 4.3.2. Individuo técnico y modos de acoplamiento
+### 4.3.3. Objeto técnico. Evolución del individuo técnico
+#### 4.3.3.1. Elemento técnico. Características.
+#### 4.3.3.2. Conjunto técnico. Características.
+## 4.4. Hacia la concretización del objeto técnico
+### 4.4.1. Objeto técnico abstracto y concreto
+### 4.4.2. Concretización del objeto técnico
+### 4.4.3. De la conformación del medio asociado a la integración del medio tecnogeográfico
+### 4.4.4. Esencia técnica. Hacia la conformación de una génetica del videojuego
+### 4.4.5. Finalidad del objeto e individuo técnico. Del videojuego al jugador
+## 4.5. Individuación del videojuego. Del hardware, software, diseño y el jugador
+### 4.5.1. Del estado preindividual a lo transindividual del videojuego. Conformación del videojuego en tanto ser
+### 4.5.2. Metaestabilidad en el videojuego. Una genealogía del videojuego conforme su estructuración. De elementos, bits, diseño y conjuntos
+#### 4.5.2.1. Primera generación.
+#### 4.5.2.2. Segunda generación.
+#### 4.5.2.3. Tercera generación.
+#### 4.5.2.4. Cuarta generación.
+#### 4.5.2.5. Quinta generación.
+#### 4.5.2.6. Sexta generación.
+#### 4.5.2.7. Séptima generación.
+#### 4.5.2.8. Octava generación.
+#### 4.5.2.9. Novena generación.
+### 4.5.3. Concretización del videojuego. Conformación de un medio asociado
+#### 4.5.3.1. Concretización del videojuego y su software.
+#### 4.5.3.2. Concretización del videojuego y su hardware.
+#### 4.5.3.3. Concretización del videojuego y su diseño.
+## 4.6. Transindividuación del videojuego. Hacia una metafísica de lo fragmentado
+# 5. Metafísica del videojuego. Lo cosmotécnico
+## 5.1. Cultura y videojuego
+## 5.2. Cosmotécnica y videojuego
+# 6. Nuevo materialismo
+## 6.1 Nuevo  materialismo y videojuego
+# 7. Modelo explicativo
+# 8. Conclusiones
+

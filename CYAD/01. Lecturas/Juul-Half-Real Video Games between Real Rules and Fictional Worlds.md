@@ -2,7 +2,7 @@
 kindle-bookId: '4805'
 kindle-title: Half-Real Video Games between Real Rules and Fictional Worlds (Jesper Juul)
 kindle-author: Jesper Juul
-kindle-highlightsCount: 88
+kindle-highlightsCount: 87
 ---
 # Half-Real Video Games between Real Rules and Fictional Worlds
 ## Metadata
@@ -275,5 +275,269 @@ In order to describe games as rule-based systems, I draw on computer science and
 
 ---
 Marcel Danesi's writings on puzzles (2002), some game design theory, and some cognitive science. — location: [412]() ^ref-3900
+
+---
+
+It is also a model that applies to at least a 5,000-year history of games. — location: [424]() ^ref-59253
+
+---
+cultures.2 While many definitions of games have been attempted, — location: [429]() ^ref-14700
+
+---
+set up by — location: [433]() ^ref-54607
+
+---
+what it means to be playing rather than, say, working. So let us assume that a good definition should describe these three things: (1) the system set up by the rules of a game, (2) the relation between the game and the player of the game, and (3) the relation between the playing of the game and the rest of the world. — location: [432]() ^ref-11268
+
+---
+As demonstrated by Bernard Suits (1978), the simplest way to test a game definition is to test it for being either too broad or too narrow. — location: [455]() ^ref-27581
+
+---
+The existence of borderline cases is not a problem for the definition as long as we are able to understand why and how something is a borderline case. — location: [460]() ^ref-42952
+
+---
+It appears that it is only during the last third of the twentieth century that new game forms have challenged the classic model. — location: [463]() ^ref-32066
+
+---
+that mentioning the rules of a game can make it sound dull, — location: [464]() ^ref-9293
+
+---
+Having a definition of games also points to how we can create new kinds of "games" that try new things that games have not tried before. It is easier to break the rules once you are aware of them. — location: [467]() ^ref-24907
+
+---
+Play is mostly taken to be a free-form activity, whereas game is a rule-based activity. — location: [471]() ^ref-30360
+
+---
+Scandinavian languages have a stronger distinction with leg = play and spil = game with verbs for both-you can play play ("lege en leg") and game game ("spille et spil"), so to speak. — location: [474]() ^ref-23600
+
+---
+This manifests itself with the English translations of writers such as Ludwig Wittgenstein and Roger Caillois who write in languages with no clear play/game distinctions. — location: [477]() ^ref-54656
+
+---
+we should note that the definitions do not necessarily try to describe the same aspect of games: Some concentrate purely on the game as such, some on the activity of playing a game. — location: [483]() ^ref-62788
+
+---
+seven game definitions, which we will categorize afterward — location: [486]() ^ref-15629
+
+---
+All writers agree that games are rule-based (Crawford calls this a "formal system"). — location: [498]() ^ref-7726
+
+---
+being focus on the fact that rules are designed to be above — location: [499]() ^ref-38500
+
+---
+The question of outcomes is more interesting: It is a salient feature of games that they have variable outcomes-if the outcome is the same every time, it does not qualify as a game. The variability of the outcome follows from Crawford's mention of conflict (only one side can succeed). Salen and Zimmerman's contribution (2004) here is to point out that the outcome of a game shares some features with the rules of the game: the outcome of a game is quantifiable, — location: [500]() ^ref-50109
+
+---
+affairs to be brought about) — location: [506]() ^ref-35663
+
+---
+Only Bernhard Suits talks explicitly about goals (a specific state of affairs to be brought about) but goals are implicit in Salen and Zimmerman and Crawford's conflict-a conflict presupposes mutually contradicting goals between two entities or, in a broader sense, between a player and the difficulty of reaching a goal. As we will see later, a game without a goal is a borderline case. — location: [505]() ^ref-39122
+
+---
+Roger Caillois claims that games are voluntary. The problem is that it is quite unclear what this means. Is it not a game if social pressure forces the player to play? Because human motivation is too complex to be simply explained in terms of its being voluntary/involuntary, I believe that it is not possible to meaningfully describe whether games are voluntary or not. — location: [509]() ^ref-51770
+
+---
+primarily autotelic; that is, they are mostly used for their own sake rather than for an external purpose. — location: [512]() ^ref-1130
+
+---
+Separate and Unproductive — location: [517]() ^ref-52217
+
+---
+Both Huizinga and Caillois describe games as being outside "normal" life: They are assigned a separate space and separate time. — location: [520]() ^ref-29519
+
+---
+Suits's argument hinges on the fact that it is (mostly) possible to describe a game as the effort to reach what he calls a pre-lusory goal, a goal which can be said to exist independently of the game, and that there is always an optimal but disallowed way of reaching this goal. — location: [524]() ^ref-46362
+
+---
+And the concept of less efficient means completely breaks down in the case of video games. — location: [529]() ^ref-37622
+
+---
+If we look at any video game, how can we say that the player is using less efficient means? Would this be compared to making the game yourself? Hacking the game? Using a cheat code? Bernard Suits's definition is exemplary in that it shows how a feature of a definition can be alluring, in this case not because "less efficient means" is actually part of what makes a game a game, but because it entails some other features that are important, namely some player effort, some kind of separation of the game from the rest of the world, and some element of acceptance of the rules-in a way, Suits hints at the characteristic of games being voluntary. — location: [531]() ^ref-10517
+
+voluntad
+
+---
+Since some games are solitary, social groupings are not a universal aspect of games, but game rules and social groupings interplay-a group may form around the playing of a specific game, and an existing group may decide to play a game. — location: [540]() ^ref-36056
+
+---
+The Sims and Sim.City are often labeled games even though they do not have explicit goals. — location: [544]() ^ref-30703
+
+---
+Will Wright, claims that they are not games but toys (Costikyan 1994), — location: [544]() ^ref-47534
+
+---
+The proposal here is to be more explicit about the player's relation to the game by dividing the concept of goals into three distinct components, namely: 1. Valorization of the possible outcomes: Some outcomes are described as positive, some as negative. — location: [545]() ^ref-37296
+
+---
+Player effort: The player has to do something. — location: [548]() ^ref-3321
+
+---
+Attachment of the player to an aspect of the outcome: The player agrees to be happy if he or she wins the game, unhappy if he or she loses. — location: [549]() ^ref-64423
+
+---
+span — location: [553]() ^ref-20659
+
+---
+The second feature, unproductive, is dubious if productivity can mean something other than the production of physical goods. Caillois's suggestion is that gambling does not produce anything. From an economic viewpoint, this is problematic since gambling is a huge industry. — location: [555]() ^ref-1579
+
+---
+In these cases, specific descriptions have to be made as to what interactions are allowed between non-playing people and players.9 — location: [559]() ^ref-26128
+
+---
+Since all games are potential targets for betting and professional playing, I suggest that games are characterized as activities with negotiable consequences. — location: [565]() ^ref-15780
+
+---
+That games carry a degree of separation from the rest of the world is entailed in their consequences being negotiable. — location: [567]() ^ref-52385
+
+---
+1. Rules: Games are rule-based. 2. Variable, quantifiable outcome: Games have variable, quantifiable outcomes. 3. Valorization of outcome: The different potential outcomes of the game are assigned different values, some positive and some negative. 4. Player effort: The player exerts effort in order to influence the outcome. (Games are challenging.) 5. Player attached to outcome: The player is emotionally attached to the outcome of the game in the sense that a player will be winner and "happy" in case of a positive outcome, but a loser and "unhappy" in case of a negative outcome. 6. Negotiable consequences: The same game [set of rules] can be played with or without real-life consequences. — location: [570]() ^ref-19805
+
+---
+A game is a rule-based system with a variable and quantifiable outcome, where different outcomes are assigned different values, the player exerts effort in order to influence the outcome, the player feels emotionally attached to the outcome, and the consequences of the activity are negotiable. — location: [579]() ^ref-28953
+
+---
+Games have rules. The rules of games have to be sufficiently well defined that they can be either programmed on a computer or that players do not have to argue about them every time they play. — location: [589]() ^ref-4918
+
+---
+This explains some of the affinity between games and computers-and the fact that a several thousand-year-old non-electronic game is easily implementable in a computer program: The drive toward definiteness in the rules makes the game ripe for implementation in a programming language. The rules of any given game can be compared to a piece of software that then needs hardware to actually be played. In the case of games, the hardware can be a computer, mechanical devices, the laws of physics, or even the human brain. — location: [593]() ^ref-63917
+
+---
+must provide different possible outcomes. This is straightforward, — location: [602]() ^ref-28811
+
+---
+outcomes. This is straightforward, but for a game to work as a game activity, the game must also match the skill of the player(s). — location: [602]() ^ref-57526
+
+---
+For something to work as a game, the rules of the game must provide different possible outcomes. This is straightforward, but for a game to work as a game activity, the game must also match the skill of the player(s). — location: [601]() ^ref-34434
+
+---
+If players always achieve a draw or if a master player continually wins against a beginner, it is still a game, but the players are unable to use it as a game activity. — location: [607]() ^ref-7061
+
+---
+quantifiable outcome means that the outcome of a game is designed to be beyond discussion, meaning that the goal of Pac-Man (Namco 1980) is to get a high score, rather than to "move in a pretty way.i10 — location: [618]() ^ref-13496
+
+---
+Valorization means that some of the possible outcomes of the game are better than others. In a multiplayer game, the individual players are usually assigned conflicting positive outcomes (this is what creates the conflict in a game). — location: [622]() ^ref-24429
+
+---
+Player effort is another way of stating that games are challenging, or that games contain a conflict. It is a part of the rules of most games (except in games of pure chance) that the players' actions can influence the state of the game and the game's outcome. — location: [630]() ^ref-49032
+
+---
+The emotional attachment of the player to the outcome is a psychological feature of the game activity. — location: [635]() ^ref-45311
+
+---
+Curiously, this is not just related to player effort: a player may still feel happy when winning a game of pure chance. — location: [636]() ^ref-64645
+
+---
+depends on the player's attitude toward the game. — location: [638]() ^ref-6168
+
+---
+game is characterized by the fact that it can optionally be assigned reallife consequences. — location: [640]() ^ref-30952
+
+---
+There is an important difference between the actual operations of the game and the outcome of the game. The only way for a game to have negotiable consequences is if the operations and moves needed to play the game are mostly harmless. Any game involving actual weapons has strong non-negotiable consequences. This is in itself a point of contention, since many sports can lead to injury and even death. — location: [648]() ^ref-47401
+
+---
+The consequences of a game have a special status in that they are under continued negotiation, — location: [653]() ^ref-4823
+
+---
+Even so, all games have some officially sanctioned non-optional consequences, — location: [655]() ^ref-57846
+
+---
+Elections are not games since the consequences of the outcome are defined and not subject to negotiation, but the rules governing the execution of the election are potentially usable for game purposes. — location: [667]() ^ref-7712
+
+---
+This logically means that the marathon is and is not a game at the same time. A better explanation is that even professional players are playing a game, but that in this specific game session, the consequences have been negotiated to be financial and career-determining. — location: [673]() ^ref-27878
+
+---
+Professional sports is a special case. According to Roger Caillois, the professional player or athlete is working rather than playing (1961, 6). — location: [671]() ^ref-55555
+
+---
+the reason it can be discussed whether professional sports are games or not is that we associate a game with the context in which it usually appears; — location: [675]() ^ref-47914
+
+---
+If we begin with the borderline cases: pen and paper role-playing games are not classic games because, having a human game master, their rules are not fixed beyond discussion." Open-ended simulations like SirnCity are not classic games since they have no explicit goals-that is, no explicit values are assigned to the possible outcomes of the game, but what happens in the game is still attached to the player and the player invests effort in playing the game. — location: [683]() ^ref-28767
+
+---
+Even with this definition, "game" can mean two things: A static object or artifact or an activity or event that players perform. — location: [695]() ^ref-38816
+
+---
+the game as an object is a list of rules with the property that a computer or a group of players can implement unambiguously: the rules must-if implemented-produce variable and quantifiable outcomes and describe how the player(s) can exert effort. The game must provide a description of which outcomes are positive and which are negative. The game must explicitly or by convention signal to players that it is an activity with an outcome to which they should feel emotionally attached. Finally, the activity that the game describes must have consequences that are negotiable. As an activity, a game is a system that changes state according to a set of rules that are implemented by humans, computers, or natural laws. The game is such that its outcome is undetermined, variable, and quantifiable. The players are aware that some outcomes are more desirable than others. The players are able to exert effort in order to influence the outcome. The players feel attached to the eventual outcome. Finally, the consequences of the game have been negotiated, ideally before the beginning of the game. — location: [700]() ^ref-382
+
+---
+It is possible to take anything with rules, variable outcomes, player effort, and negotiable consequences and turn it into a game by simply assigning values to the outcomes between players. — location: [710]() ^ref-33403
+
+---
+A single person performing a mundane task such as sweeping the floor can decide to make it into a game by timing him or herself, trying to beat a personal record. — location: [712]() ^ref-8381
+
+---
+This indicates that there is a loose idea that games are repeatable. When we speak of a specific game, we generally speak of it as being a repeatable event. Salen and Zimmerman explicitly write that "rules are repeatable" (2004, 139). — location: [716]() ^ref-43645
+
+---
+Seymour Chatman has argued that narratives exist since they can be translated from one medium to another. "This transposability of the story is the strongest reason for arguing that narratives are indeed structures independent of any medium" (1978, 20). — location: [766]() ^ref-6353
+
+---
+While there is no single medium or set of props that is the ideal game medium, — location: [770]() ^ref-29747
+
+---
+There is no set of equipment or material support common to all games. — location: [771]() ^ref-7824
+
+---
+The adaptation of board and card games to computers is possible due to the fact that computers are capable of performing the operations defined in the rules of the games, operations that are normally performed by humans, as well as keeping track of the game state, something normally done by using cards and board pieces. — location: [776]() ^ref-39664
+
+---
+ecology of game media — location: [778]() ^ref-4296
+
+---
+This means that the rules of sports are less clearly defined than the rules of other games (hence the need for a referee). — location: [782]() ^ref-37630
+
+---
+implementations — location: [786]() ^ref-39775
+
+---
+adaptations, since much detail is lost in the physics model of the computer program because it is a simplification of the real world, and in the interface because the video game player's body is not part of the game state. — location: [788]() ^ref-50374
+
+---
+Game media support games in two distinct ways: 1. Computation: how the game medium upholds the rules and decides what happens in response to player input. 2. Game state: how the game medium keeps track of the current game state. — location: [790]() ^ref-8913
+
+---
+In technical terms, it corresponds to the low-level distinction in the computer between CPU (computation) and the RAM (memory). — location: [794]() ^ref-25538
+
+---
+The physical setting around the game does not translate well. — location: [797]() ^ref-39138
+
+---
+Video game to sport adaptations are almost nonexistent. A notable exception is that some players of paintball games have adopted the rules of Counter-Strike. — location: [807]() ^ref-57301
+
+---
+Sports allow for many things that video games cannot, mostly because of the importance of bodily capabilities in the world and the depth of the "interface." More information is transferred to the game state-in fact, the player's body is part of the game state. — location: [815]() ^ref-53195
+
+---
+The distinction between an implementation and an adaptation concerns whether there is an unambiguous correspondence between the possible game states in the two game versions. — location: [818]() ^ref-63227
+
+---
+This means that games that are formally equivalent can be experienced completely differently. — location: [841]() ^ref-55623
+
+---
+David Parlett's two books The Oxford History of Board Games (1999) and The Penguin Encyclopedia of Card Games (2000) indicates that all of the hundreds of games described fall within the classic game model. — location: [843]() ^ref-18986
+
+---
+Why is there an affinity between computers and games? Because games are a transmedial phenomenon, and the material support needed to play a game (like the projector and the screen in cinema) is immaterial, since games are not tied to a specific set of material devices, but to the processing of rules. This fits computers well because the well defined character of game rules means that they can be implemented on computers. — location: [847]() ^ref-58894
+
+---
+1. Rules: While video games are just as rule-based as other games, they modify the classic game model in that it is now the computer that upholds the rules. — location: [855]() ^ref-29757
+
+---
+2. Variable outcome: In many cases, the computer can act as a referee in order to determine the outcome of a game on the basis of events that would not be immediately discernible to a human. — location: [858]() ^ref-12869
+
+---
+3. Valorization of outcome: Open-ended simulation games such as The Sims change the basic game model by removing the goals, or more specifically, by not describing some possible outcome as better than others. 4. Player effort: The non-physical nature of video games means that player effort can work in new ways. — location: [861]() ^ref-27666
+
+---
+5. Attachment to outcome: Because an open-ended simulation game does not have a specific win or lose state, it gives the player a less well defined relation to the game outcome. — location: [865]() ^ref-51754
+
+---
+The game model by itself does not provide much explanation of the variations between games, or of why games are enjoyable. — location: [871]() ^ref-55282
 
 ---

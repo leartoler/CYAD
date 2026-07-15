@@ -1,0 +1,68 @@
+{
+  "documents": {
+    "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md": {
+      "documentFormat": "sections",
+      "viewType": "lineage",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": [],
+        "activeSection": null
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    },
+    "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md": {
+      "documentFormat": "sections",
+      "viewType": "lineage",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": []
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    }
+  },
+  "hotkeys": {
+    "customHotkeys": {}
+  },
+  "view": {
+    "fontSize": 16,
+    "h1FontSize_em": 1.802,
+    "theme": {
+      "inactiveNodeOpacity": 25
+    },
+    "cardWidth": 550,
+    "cardsGap": 50,
+    "scrolling": {
+      "centerActiveNodeH": false,
+      "centerActiveNodeV": true
+    },
+    "limitPreviewHeight": true,
+    "zoomLevel": 0.8,
+    "showMinimap": true,
+    "showLeftSidebar": false,
+    "leftSidebarWidth": 500,
+    "leftSidebarActiveTab": "pinned-cards",
+    "applyGapBetweenCards": true,
+    "outlineMode": false,
+    "nodeIndentationWidth": 60,
+    "maintainEditMode": false,
+    "alwaysShowCardButtons": false,
+    "hiddenVerticalToolbarButtons": []
+  },
+  "general": {
+    "defaultDocumentFormat": "sections",
+    "linkPaneType": "tab"
+  },
+  "styleRules": {
+    "documents": {},
+    "global": {
+      "rules": []
+    },
+    "settings": {
+      "activeTab": "document-rules"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"06d697c175f308bc","type":"text","text":"Esta primera parte del capítulo _Psicosociología de la tecnicidad_, de los cursos que impartió Simondon y que se encuentran en la recopilación _Sobre la Técnica_ (2017), hace referencia a los aspectos psicosociales de la génesis del objeto de uso. Además hace hincapié en el proceso de saturación que tiene el objeto técnico, el cómo el objeto puede llegar a un ostracismo, las diferentes formas en que distintos grupos se relacionan con el objeto técnico y, finalmente comienza a discutir la relación entre técnica y sacralidad, tema que profundizará en los capítulos posteriores. ","x":-220,"y":-200,"width":440,"height":340},
+		{"id":"410d8fa9fe8222c0","type":"text","text":"Con relación al tema principal de investigación, esta primera parte del curso nos dará claridad sobre dos temas que nos ayudará a comprender la evolución del videojuego y la forma en cómo se relacionan distintos grupos sociales: el desarrollo de distintos soportes del videojuego y la forma en cómo juegan los distintos tipos de jugadores. ","x":-220,"y":220,"width":440,"height":200},
+		{"id":"08558a389f460bd9","type":"text","text":"Juul, en donde menciona sobre el procesamiento y la memoria en los juegos","x":359,"y":202,"width":250,"height":98}
+	],
+	"edges":[
+		{"id":"23dee0bafd8c204c","fromNode":"06d697c175f308bc","fromSide":"bottom","toNode":"410d8fa9fe8222c0","toSide":"top"},
+		{"id":"31d5f1a3d1d911cd","fromNode":"410d8fa9fe8222c0","fromSide":"right","toNode":"08558a389f460bd9","toSide":"left"}
+	]
+}

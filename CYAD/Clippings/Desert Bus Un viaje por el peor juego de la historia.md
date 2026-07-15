@@ -1,0 +1,40 @@
+---
+title: "Desert Bus: Un viaje por el peor juego de la historia"
+source: "https://es.ign.com/pc/67728/desert-bus-un-viaje-por-el-peor-juego-de-la-historia"
+author:
+  - "[[Jaume Esteve]]"
+published: 2013-07-19
+created: 2026-07-14
+description: "Cuando se habla del peor juego de la historia, rápidamente se nos viene a la cabeza el nombre de ET. Pero puestos a destacar un título injugable, Desert Bus reúne características sobradas para llevarse el premio."
+tags:
+  - "clippings"
+---
+Atento, [**ET**](https://es.ign.com/feature/65437/leyendas-urbanas-del-mundo-del-videojuego "Leyendas urbanas del mundo del videojuego"), porque un nuevo competidor por el trono de peor **[juego](https://es.ign.com/blog/63946/cart-life-o-la-simulacion-del-tedio "Cart Life o la simulación del tedio")** de la historia ha aparecido en el horizonte. Su nombre, [**Desert Bus**](https://es.ign.com/feature/65400/grandes-fracasos-de-la-historia-de-los-videojuegos "Grandes fracasos de la historia del videojuego"), y su premisa, posiblemente la más aburrida de la historia: conducir un **autobús** desde Tucson, en **Arizona**, hasta **Las Vegas** por el desierto en tiempo real. El trayecto, para los que os estéis preguntando las distancias, se completa en unas ocho horas.
+
+![Desert Bus](https://im.ziffdavisinternational.com/ign_es/screenshot/d/desert-bus-un-viaje-por-el-peor-juego-de-la-histor/desert-bus-un-viaje-por-el-peor-juego-de-la-histor_gwgs.jpg "Desert Bus")
+
+Y, qué narices, para romper moldes necesitaban dar la campanada con un título rompedor. [Hemos hablado](https://es.ign.com/retro "IGN España Retro") en **IGN España** de juegos como **Cart Life** o **Papers, Please**, títulos que [hacen](https://es.ign.com/feature/67417/videojuegos-tedio-y-politica-papers-please "Videojuegos, tedio y política: Papers, Please") del día a día su eje central. **Desert Bus** es aún más extremo en su propuesta y te obliga a enfrentarte a una jornada de trabajo en tiempo real donde la monotonía es la única de tus mecánicas.
+
+Todos conocéis las carreteras americanas que cruzan los desiertos del país. Esas interminables extensiones de asfalto en línea recta en las que no dormirse es un logro y donde cruzarse con otro coche puede ser todo un acontecimiento. Por si el viaje no fuera lo suficientemente monónoto, **Penn & Teller** incluyeron una puyita extra: el volante está ligeramente desviado hacia la derecha por lo que hay que estar constantemente en tensión. Durante ocho horazas.
+
+Y, ojo, porque no está permitido pausar la partida. Para colmo, no hay pasajeros en el **autobús**, no hay tráfico y al acabar el viaje se consigue un punto. No nos queremos imaginar si existe, en algún lugar del mundo, una tabla con los mejores resultados pero una pieza en el **New Yorker**, donde ha aparecido una información interesantísima sobre el juego, tiene la cifra: la mejor marca del planeta asciende a la friolera de los cinco puntos.
+
+La historia del juego tiene miga. **Penn & Teller** querían criticar la fiebre anti videojuegos que se instauró durante los noventa en la sociedad. Aquí en **España** no fuimos ajenos a la aparición esporádica de alguna noticia que aseguraba lo nocivo que era el entretenimiento interactivo. De hecho, el fiscal general de **Estados Unidos** de aquella época, **Janet Reno**, era un conocido adversario de la violencia explícita en pantalla.
+
+**Teller** argumenta la creación del juego: "En los primeros noventa escribí un artículo en el **New Tork Times** donde cité todos los estudios que aseguraban que los videjuegos no suponían ningún problema para los niños. Y queríamos crear un entretenimiento que ayudara a reforzar esa idea. La ruta entre **Las Vegas** y **Tucson** es larga, aburrida y es un trabajo muy repetitivo. Ese era uno de los puntos más importantes, queríamos que fuera en tiempo real para que el fiscal general tuviera una buena prueba de lo que valioso que es un juego que refleja perfectamente la realidad". De hecho, en los créditos iniciales, el título se anunciaba como "estúpidamente real" y se hacía eco de una nueva era de "simuladores de la realidad".
+
+![Desert Bus](https://im.ziffdavisinternational.com/ign_es/screenshot/d/desert-bus-un-viaje-por-el-peor-juego-de-la-histor/desert-bus-un-viaje-por-el-peor-juego-de-la-histor_g937.jpg "Desert Bus")
+
+El juego [iba a aparecer](https://es.ign.com/feature/60584/el-mega-cd-de-sega-cumple-20-anos "El Mega CD de Sega cumple 20 años") en **Mega CD** e iba a estar enmarcado dentro de una compilación con más juegos llamada **Penn & Teller's Smoke and Mirrors**. De hecho, consiguieron un contrato con un editor, **Absolute Entertainment**, que se sacó de la manga un premio para aquel que fuera capaz de llegar a cien puntos: un viaje real de Tucson a Las Vegas en bus con un grupo de música y un puñado de chicas ligeras de ropa. Estamos hablando de que, en caso de conseguirlo, harían falta **800 horas** de juego.
+
+Pero cuando el juego se terminó, el **Mega CD** [estaba muerto](https://es.ign.com/news/67658/aparece-time-trax-juego-cancelado-de-mega-drive "Aparece Time Trax, juego cancelado de Mega Drive") y enterrado. Posiblemente en algún lugar del desierto que atraviesa **Desert Bus**. **Penn & Teller** no fueron capaces de encontrar un editor interesado en su juego y, a pesar de que algunos periodistas recibieron copias del juego, el título nunca vio la luz del día. Hasta 2005.
+
+Fue en aquel año cuando el creador de **Lost Levels**, Frank Cifaldi, recibió una copia de Smoke and Mirrors donde estaba el susodicho **Desert Bus**. **Cifaldi** se dedica a conservar algunos de los juegos más raros jamás creados, y un periodista que recibió una de esas copias se la mandó porque no sabía qué hacer con ella.
+
+![Desert Bus](https://im.ziffdavisinternational.com/ign_es/screenshot/d/desert-bus-un-viaje-por-el-peor-juego-de-la-histor/desert-bus-un-viaje-por-el-peor-juego-de-la-histor_vfbf.jpg)
+
+Con el juego revelado a la comunidad jugona, no tardó en aparecer un evento dedicado a Desert Bus. **Morgan van Humbeck**, el hombre que posee el récord mundial antes citado, decidió montar una campaña para reunir fondos para **Child's Play** organizando una maratón de Desert Bus. **Desert Bus for Hope** se puso en marcha por primera vez en 2007 y su objetivo era que cualquier jugón del mundo pudiera ver el tedio que suponía conducir ese maldito autobús desde Tucson hasta Las Vegas. La maratón ya cuenta con siete ediciones y ha recaudado más de un millón de dólares. Ahí es nada.
+
+En su primera edición, **van Humbeck** se pegó ciento ocho horas, junto a sus compañeros de maratón, para lograr la puntuación de cinco tantos hasta que, presas del cansancio, se estrellaron y terminaron su partida. Una partida que fue posible gracias a que familiares y amigos les llevaron comida y a que **Penn & Teller**, que se enteraron del evento, les mandaron comida china a domicilio. La campaña, eso sí, fue un éxito. "Pusimos el primer listón en nil dólares pero hice presión para subirlo hasta cinco mil y que nuestros espectadores vieran que aquella locura iba en serio", asegura van Humbeck. "Al final logramos veintidosmil dólares". Las maratones de Desert Bus se han convertido en un evento en el que han participado celebridades del videojuego como **Notch** o **Tim Schafer**.
+
+Puede que [no sea el mejor juego](https://es.ign.com/feature/66000/los-peores-juegos-de-esta-generacion-de-consolas "Los peores juegos de esta generación de consolas") del mundo, y decididamente no es el más divertido. Pero en su tedio, **Desert Bus** ha conseguido hacerse un hueco en el mundo del videojuego y, además, por una noble causa. Y si no tenéis un emulador de **Mega CD** a mano, lo podéis comprar por menos de un euro en **iOS** o **Android**. La próxima vez que cojamos un **Alsa**, seguro que veremos al conductor con otros ojos.
