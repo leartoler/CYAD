@@ -22,7 +22,7 @@ Consultado:
 (Tema::Desindividuación (22))
 ###### Escrito
 
-![[Pasted image 20260714174823.jpg]]
+![[Desindividuacion.jpg]]
 
 
 

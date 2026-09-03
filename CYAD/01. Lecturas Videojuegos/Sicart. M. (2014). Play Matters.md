@@ -226,7 +226,7 @@ En esta sección se discute el concepto de "jugueteo" o "playfulness", que se re
 
 (Tema::Estética relacional (76))
 	Estética de mediados de los noventa que no se enfocó en el objeto del arte como cosa. Describe una estética y valor artístico enfocado en crear contextos sociales particulares que puedan crear específicas relaciones humanas a través de actividades específicas. Algunas obras pueden ser: [[Rirkrit Tiravanija. untitled (freestill). 1992199520072011-]]
-	(78) Crítica
+	<mark style="background:#fff88f">(78)</mark> Crítica
 	El autor hace crítica al decir que dichas relaciones están determinadas por la naturaleza del espacio y el conocimiento del artista como creados y la audiencia como complíce.
 
 (Tema::Tecnología como arte relacional (77))
@@ -256,6 +256,42 @@ En esta sección se discute el concepto de "jugueteo" o "playfulness", que se re
 	Lo que importa es la actividad y lo que posibilita, más que el objeto o el lugar. La actividad es lo que importa y lo que hace algo estético.
 
 ## 6. Politics
+
+(Tema::Apropiación (83))
+	La apropiación se dirige hacia una creatividad carnivalesca, el cual puede guiar hacia una crítica hacia un contexto. Esto puede ir señalado hacia el mero acto de jugar. Para ver sobre lo carnivalesco ver la obra de [[Newstweek]]
+
+(Tema::Juego como liberación (84))
+	El juego, para Freire, es una liberación crítica de fuerzas que puede ser utilizado para explorar la posibilidad de liberación humana.
+
+(Tema::El juego político de hoy en día. Una crítica (84))
+	Actualmente el juego político de hoy en día solo es una skin con un tema político. Se hace una crítica a estos juegos de flash que solo tenían un tópico político y que desaparecían al momento. Una crítica más fuerte es que olvidan que **lo político no reside en el juego, sino en el jugar**.
+
+(Tema::Lo político en el juego (84))
+	Lo político reside en el jugar, de ahí que el efecto importante sea cuando se ocupan los juegos y estos se convierten en instrumentos de expresión política. Lo político sucede cuando jugar se convierte en una acción política. 
+	<mark style="background:#fff88f">(Jugar como acto político, p. 92): </mark>jugar es político en la forma en que participa críticamente con un contexto, lo apropia y usa su naturaleza autotélica para dar un doble significado: el juego como acto político y su significado político como tal. 
+	#política
+
+(Tema::Los juegos políticos de hoy en día (85))
+	Algunos juegos políticos no son jugados sino que se desarrollan operaciónes para activar y configurar sus mensajes, lo que lo convierte en una actividad apropiativa. Estos juegos se enfocan más en reafirmar. 
+	El juego político toma lugar cuendo se vuelve expresivo, creativo, apropiativo y usbversivo, y se usa para expresar políticamente. 
+	<mark style="background:#fff88f">(Sobre lo carnivalesco, p. 87):</mark> Un juego se vuelve político cuando se hace carnivalesco.
+	<mark style="background:#fff88f">(Cómo se puede negar, p. 87): </mark>Un juego político puede ser eliminado cuando se usa la extrema fuerza o es ignorado, pero con ello lo político se hace más evidente. 
+
+(Tema::El fluxus y el situacionismo (87))
+	El movimiento fluxus y el situacionismo, a través del juego con humor, promueven una visión e ideas políticas. El performar el arte es ccercano al espítirtu de la acción política a través del juego. 
+	Es con estas visiones de arte que lo político emerge de jugar en comunidad y desde caminos que contextualizan una comunidad. 
+	<mark style="background:#fff88f">(+):</mark> ver en este estado como lo político puede ser un signo de la transindividuación. 
+
+## 7. Architects
+
+
+
+
+
+
+
+
+
 
 
 
@@ -304,6 +340,11 @@ En esta sección se discute el concepto de "jugueteo" o "playfulness", que se re
 - Para ver sobre [[gamificación]] ver a [[Gamification_Toward_definition.pdf]] y [[From Game Design Elements to Gamefulness Gamification.pdf]]
 - Para tener un mejor entendimiento, ver [[Playtime (1967) ⭐ 7.8]]
 - Sobre cómo [[Noby noby boy]] se puede considerar como un juguete: [Noby Noby Boy - Katamaripedia](https://katamaripedia.miraheze.org/wiki/Noby_Noby_Boy)
+- [[Metakettle by Terrorbull Games  satirical games and subversive oddities]] o como es un juego político. Se hace referencia al Kettle, que es una táctica de encapsular a los protestantes (p. 86).
+- La obra [[paraSITE]], de Rakowits, usa una actitus juguetona para apropiarse del espacio y dar un statement político y social. 
+- la obra Newstweek es una intervención crítica hacia el consumo digital de noticias y la forma en como obra la información. Este dispositivo cambia los títulos de las noticias. Para más info sobre este dispositivo y su relación con el arte y el jugar, como acto de juguetear, ver en [[Newstweek]]
+- 
+
 ---
 ### <mark style="background: #ADCCFFA6;">HT</mark>
 

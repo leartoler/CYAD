@@ -2,7 +2,7 @@
 kindle-bookId: '4805'
 kindle-title: Half-Real Video Games between Real Rules and Fictional Worlds (Jesper Juul)
 kindle-author: Jesper Juul
-kindle-highlightsCount: 87
+kindle-highlightsCount: 106
 ---
 # Half-Real Video Games between Real Rules and Fictional Worlds
 ## Metadata
@@ -539,5 +539,63 @@ Why is there an affinity between computers and games? Because games are a transm
 
 ---
 The game model by itself does not provide much explanation of the variations between games, or of why games are enjoyable. — location: [871]() ^ref-55282
+
+---
+
+rules are the most consistent source of player enjoyment in games. — location: [877]() ^ref-32743
+
+---
+1. Rules are designed to be above discussion in the sense that a specific rule should be sufficiently clear that players can agree about how to use it. Rules describe what players can and cannot do, and what — location: [889]() ^ref-27676
+
+---
+2. The rules of the game construct a state machine, — location: [892]() ^ref-8214
+
+---
+3. The state machine of the game can be visualized as a landscape of possibilities or a branching game tree of possibilities — location: [893]() ^ref-17174
+
+---
+4. Since a game has multiple outcomes, the player must expend effort trying to reach as positive an outcome as possible. — location: [895]() ^ref-59894
+
+---
+5. The way the game is actually played when the player tries to overcome its challenges is its gameplay. — location: [898]() ^ref-25321
+
+---
+6. Games are learning experiences, — location: [900]() ^ref-39244
+
+---
+7. Any specific game can be more or less challenging, — location: [903]() ^ref-25771
+
+---
+There are two extreme ways of creating challenges for players: that of emergence (rules combining to provide variation) and progression (challenges presented serially by way of special-case rules). — location: [905]() ^ref-19294
+
+---
+Rules in games of emergence present a paradox contained in the sentence easy to learn but difficult to master. — location: [908]() ^ref-50611
+
+---
+The element of surprise in emergent games is special in that it is an interaction between the rules of the game and the fuzzy ways in which humans understand games. — location: [912]() ^ref-16240
+
+---
+What are rules? One school of thought describes rules as primarily being limitations. — location: [920]() ^ref-63236
+
+---
+In Suits's view, games limit the options of a player: — location: [922]() ^ref-2361
+
+---
+Katie Salen and Eric Zimmerman describe rules as limiting player action with the following argument: "Rules limit player action. The chief way that rules operate is to limit the activities of the player. — location: [928]() ^ref-4172
+
+---
+Rules are `sets of instructions,' and following those instructions means doing what the rules require and not doing something else instead" (2004, 122). — location: [931]() ^ref-8079
+
+---
+The rules of a game also set up potential actions, actions that are meaningful inside the game but meaningless outside. — location: [933]() ^ref-3831
+
+---
+Rules specify limitations and affordances. — location: [935]() ^ref-6456
+
+---
+but they also add meaning to the allowed actions and this affords players meaningful actions that were not otherwise available; rules give games structure. — location: [936]() ^ref-46375
+
+---
+The main difference between the rules of a video game and the rules of a sport is that sports use the preexisting systems of the physical world in the game. — location: [947]() ^ref-18207
 
 ---

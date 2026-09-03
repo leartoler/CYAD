@@ -102,7 +102,10 @@
       "2026-07-08",
       "2026-07-09",
       "2026-07-10",
-      "2026-07-14"
+      "2026-07-14",
+      "2026-07-20",
+      "2026-08-13",
+      "2026-09-02"
     ],
     "dailyActivity": [
       {
@@ -7989,7 +7992,7 @@
       },
       {
         "date": "2026-07-14",
-        "filePath": "Untitled.md",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
         "wordCountStart": 3,
         "charCountStart": 28,
         "changes": [
@@ -8117,9 +8120,1999 @@
         "charCountStart": 31336,
         "changes": [],
         "id": 508
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2022). Recursividad y contingencia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "06:10",
+            "w": 51,
+            "c": 491
+          }
+        ],
+        "id": 509
+      },
+      {
+        "date": "2026-07-17",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2022). Recursividad y contingencia.md",
+        "wordCountStart": 51,
+        "charCountStart": 491,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 61,
+            "c": 434
+          },
+          {
+            "timeKey": "12:20",
+            "w": 18,
+            "c": 142
+          }
+        ],
+        "id": 510
+      },
+      {
+        "date": "2026-07-17",
+        "filePath": "01. Lecturas Kant/Kant, I. (1992). Crítica a la razón de juzgar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 53,
+            "c": 534
+          }
+        ],
+        "id": 511
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2022). Recursividad y contingencia.md",
+        "wordCountStart": 130,
+        "charCountStart": 1067,
+        "changes": [
+          {
+            "timeKey": "07:05",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "08:05",
+            "w": 5,
+            "c": 31
+          },
+          {
+            "timeKey": "08:10",
+            "w": 12,
+            "c": 110
+          },
+          {
+            "timeKey": "08:15",
+            "w": 55,
+            "c": 391
+          },
+          {
+            "timeKey": "08:20",
+            "w": 45,
+            "c": 335
+          },
+          {
+            "timeKey": "08:25",
+            "w": 6,
+            "c": 34
+          }
+        ],
+        "id": 512
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "transmodernidad.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [],
+        "id": 513
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales.md",
+        "wordCountStart": 776,
+        "charCountStart": 4806,
+        "changes": [],
+        "id": 514
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "Escritos/Complejidad y Videojuegos/El juego como caos. Del juego al videojuego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 3074,
+            "c": 18670
+          },
+          {
+            "timeKey": "09:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 515
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
+        "wordCountStart": 4972,
+        "charCountStart": 31336,
+        "changes": [],
+        "id": 516
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "Escritos/Artículos/Bibliografía.md",
+        "wordCountStart": 1156,
+        "charCountStart": 9280,
+        "changes": [],
+        "id": 517
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
+        "wordCountStart": 65,
+        "charCountStart": 564,
+        "changes": [],
+        "id": 518
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Huizinga, J. (2007). Homo Ludens..md",
+        "wordCountStart": 540,
+        "charCountStart": 3491,
+        "changes": [],
+        "id": 519
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Caillos, R. (1958). Teoría de los juegos.md",
+        "wordCountStart": 1142,
+        "charCountStart": 7217,
+        "changes": [],
+        "id": 520
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Antropología/Balandier, G. (1999). El desorden.md",
+        "wordCountStart": 434,
+        "charCountStart": 3124,
+        "changes": [],
+        "id": 521
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Antropología/Popol Vuh.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 78,
+            "c": 670
+          }
+        ],
+        "id": 522
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 523
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Literatura/Calvino, I. (2024). Todas las Cosmicómicas.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 75,
+            "c": 654
+          }
+        ],
+        "id": 524
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Salen y Zimmerman (2004), Rules of Play. Game Dessign Fundamental.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 51,
+            "c": 491
+          },
+          {
+            "timeKey": "10:30",
+            "w": 14,
+            "c": 140
+          },
+          {
+            "timeKey": "10:40",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "11:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:00",
+            "w": 8,
+            "c": 74
+          },
+          {
+            "timeKey": "12:40",
+            "w": 20,
+            "c": 123
+          },
+          {
+            "timeKey": "12:45",
+            "w": 91,
+            "c": 630
+          },
+          {
+            "timeKey": "12:50",
+            "w": 15,
+            "c": 65
+          },
+          {
+            "timeKey": "12:55",
+            "w": 27,
+            "c": 185
+          }
+        ],
+        "id": 525
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "15. Ideas/Sobre Sim city.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 47,
+            "c": 268
+          }
+        ],
+        "id": 526
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6006,
+        "charCountStart": 38930,
+        "changes": [],
+        "id": 527
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2003). The game, the player, the world. Looking for a heart of gameness.md",
+        "wordCountStart": 69,
+        "charCountStart": 631,
+        "changes": [],
+        "id": 528
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Penix-Tadsen, P. (2016). Cultural Code. Video Games And Latin America.md",
+        "wordCountStart": 871,
+        "charCountStart": 6840,
+        "changes": [],
+        "id": 529
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Rodriguez H., G. F. (2022). Videojuegos y cultura de masas a finales del siglo XX..md",
+        "wordCountStart": 1131,
+        "charCountStart": 7379,
+        "changes": [],
+        "id": 530
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Clüver, C. et. al. (2022). Game, Play and Material. An Introduction.md",
+        "wordCountStart": 478,
+        "charCountStart": 3095,
+        "changes": [],
+        "id": 531
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+        "wordCountStart": 1214,
+        "charCountStart": 7841,
+        "changes": [],
+        "id": 532
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md",
+        "wordCountStart": 3669,
+        "charCountStart": 24225,
+        "changes": [],
+        "id": 533
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 534
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 190,
+        "charCountStart": 1464,
+        "changes": [],
+        "id": 535
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Videojuegos/Salen y Zimmerman (2004), Rules of Play. Game Dessign Fundamental.md",
+        "wordCountStart": 230,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 536
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 190,
+        "charCountStart": 1464,
+        "changes": [],
+        "id": 537
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Literatura/Calvino, I. (2024). Todas las Cosmicómicas.md",
+        "wordCountStart": 75,
+        "charCountStart": 654,
+        "changes": [],
+        "id": 538
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Antropología/Popol Vuh.md",
+        "wordCountStart": 78,
+        "charCountStart": 670,
+        "changes": [],
+        "id": 539
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+        "wordCountStart": 1217,
+        "charCountStart": 7893,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 540
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2022). Recursividad y contingencia.md",
+        "wordCountStart": 255,
+        "charCountStart": 1989,
+        "changes": [],
+        "id": 541
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6006,
+        "charCountStart": 38930,
+        "changes": [],
+        "id": 542
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 7188,
+        "charCountStart": 47639,
+        "changes": [],
+        "id": 543
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Clippings/Tetris el niño de 13 años que se convirtió en el primer humano en vencer al famoso juego.md",
+        "wordCountStart": 806,
+        "charCountStart": 5020,
+        "changes": [],
+        "id": 544
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2003). The game, the player, the world. Looking for a heart of gameness.md",
+        "wordCountStart": 69,
+        "charCountStart": 631,
+        "changes": [],
+        "id": 545
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego.md",
+        "wordCountStart": 1065,
+        "charCountStart": 6642,
+        "changes": [],
+        "id": 546
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7159,
+        "charCountStart": 44979,
+        "changes": [],
+        "id": 547
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Clippings/Inglaterra enfrenta a México, la altitud y a su estadio con la historia de por medio.md",
+        "wordCountStart": 1853,
+        "charCountStart": 11300,
+        "changes": [],
+        "id": 548
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Clippings/Kasparov vs. Deep Blue  The Match That Changed History.md",
+        "wordCountStart": 1335,
+        "charCountStart": 8764,
+        "changes": [],
+        "id": 549
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/Complejidad y videojuegos.md",
+        "wordCountStart": 72,
+        "charCountStart": 432,
+        "changes": [],
+        "id": 550
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+        "wordCountStart": 1308,
+        "charCountStart": 7748,
+        "changes": [],
+        "id": 551
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/El juego como caos. Del juego al videojuego.md",
+        "wordCountStart": 3078,
+        "charCountStart": 18707,
+        "changes": [],
+        "id": 552
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Untitled Kanban.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [],
+        "id": 553
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos.md",
+        "wordCountStart": 292,
+        "charCountStart": 1826,
+        "changes": [],
+        "id": 554
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos.md",
+        "wordCountStart": 1353,
+        "charCountStart": 8663,
+        "changes": [],
+        "id": 555
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
+        "wordCountStart": 1567,
+        "charCountStart": 9609,
+        "changes": [],
+        "id": 556
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Sobre la determinación. Obra de Simondon. Meot.md",
+        "wordCountStart": 2643,
+        "charCountStart": 15800,
+        "changes": [],
+        "id": 557
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Indice.md",
+        "wordCountStart": 44,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 558
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Escritos/Artículos/Lo político en el videojuego.md",
+        "wordCountStart": 4782,
+        "charCountStart": 31250,
+        "changes": [],
+        "id": 559
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7046,
+        "charCountStart": 44213,
+        "changes": [],
+        "id": 560
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7159,
+        "charCountStart": 44979,
+        "changes": [],
+        "id": 561
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Índice Ideas.md",
+        "wordCountStart": 16,
+        "charCountStart": 119,
+        "changes": [],
+        "id": 562
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Indice de Temas.md",
+        "wordCountStart": 16,
+        "charCountStart": 129,
+        "changes": [],
+        "id": 563
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Indice Notas.md",
+        "wordCountStart": 16,
+        "charCountStart": 117,
+        "changes": [],
+        "id": 564
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Escritos/Artículos/Bibliografía.md",
+        "wordCountStart": 1156,
+        "charCountStart": 9280,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 9,
+            "c": 54
+          },
+          {
+            "timeKey": "09:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:30",
+            "w": 12,
+            "c": 104
+          }
+        ],
+        "id": 565
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "Escritos/Artículos/Bibliografía.md",
+        "wordCountStart": 1177,
+        "charCountStart": 9438,
+        "changes": [],
+        "id": 566
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "01. Lecturas Filosofía de la Tecnología/Pasquinelli (2023). El ojo del amo.md",
+        "wordCountStart": 703,
+        "charCountStart": 5259,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 15
+          },
+          {
+            "timeKey": "18:50",
+            "w": 33,
+            "c": 219
+          },
+          {
+            "timeKey": "18:55",
+            "w": 53,
+            "c": 416
+          },
+          {
+            "timeKey": "19:00",
+            "w": -4,
+            "c": -27
+          },
+          {
+            "timeKey": "19:05",
+            "w": 65,
+            "c": 453
+          },
+          {
+            "timeKey": "19:10",
+            "w": 25,
+            "c": 215
+          },
+          {
+            "timeKey": "19:15",
+            "w": 54,
+            "c": 353
+          },
+          {
+            "timeKey": "19:20",
+            "w": 29,
+            "c": 242
+          }
+        ],
+        "id": 567
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01. Lecturas Videojuegos/Salen y Zimmerman (2004), Rules of Play. Game Dessign Fundamental.md",
+        "wordCountStart": 230,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 568
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "15. Ideas/Sobre Sim city.md",
+        "wordCountStart": 47,
+        "charCountStart": 268,
+        "changes": [],
+        "id": 569
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+        "wordCountStart": 1217,
+        "charCountStart": 7899,
+        "changes": [],
+        "id": 570
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6006,
+        "charCountStart": 38930,
+        "changes": [],
+        "id": 571
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 190,
+        "charCountStart": 1464,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": 25,
+            "c": 197
+          }
+        ],
+        "id": 572
+      },
+      {
+        "date": "2026-07-30",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 215,
+        "charCountStart": 1661,
+        "changes": [],
+        "id": 573
+      },
+      {
+        "date": "2026-08-02",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 215,
+        "charCountStart": 1661,
+        "changes": [],
+        "id": 574
+      },
+      {
+        "date": "2026-08-02",
+        "filePath": "TagsRoutes/logMessage.md",
+        "wordCountStart": 1575,
+        "charCountStart": 10162,
+        "changes": [],
+        "id": 575
+      },
+      {
+        "date": "2026-08-05",
+        "filePath": "TagsRoutes/logMessage.md",
+        "wordCountStart": 1650,
+        "charCountStart": 10650,
+        "changes": [],
+        "id": 576
+      },
+      {
+        "date": "2026-08-05",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6435,
+        "charCountStart": 41824,
+        "changes": [],
+        "id": 577
+      },
+      {
+        "date": "2026-08-06",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6435,
+        "charCountStart": 41824,
+        "changes": [],
+        "id": 578
+      },
+      {
+        "date": "2026-08-06",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+        "wordCountStart": 1415,
+        "charCountStart": 9037,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 22,
+            "c": 122
+          },
+          {
+            "timeKey": "00:45",
+            "w": 19,
+            "c": 110
+          },
+          {
+            "timeKey": "00:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "00:55",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "01:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "01:35",
+            "w": 28,
+            "c": 145
+          }
+        ],
+        "id": 579
+      },
+      {
+        "date": "2026-08-06",
+        "filePath": "01. Lecturas Videojuegos/Keogh, B. (2018). A Play of Bodies.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 1,
+            "c": 23
+          },
+          {
+            "timeKey": "00:30",
+            "w": 35,
+            "c": 219
+          },
+          {
+            "timeKey": "00:35",
+            "w": 1,
+            "c": 31
+          },
+          {
+            "timeKey": "21:35",
+            "w": 51,
+            "c": 491
+          },
+          {
+            "timeKey": "23:55",
+            "w": 15,
+            "c": 102
+          }
+        ],
+        "id": 580
+      },
+      {
+        "date": "2026-08-07",
+        "filePath": "01. Lecturas Videojuegos/Keogh, B. (2018). A Play of Bodies.md",
+        "wordCountStart": 103,
+        "charCountStart": 866,
+        "changes": [],
+        "id": 581
+      },
+      {
+        "date": "2026-08-07",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6435,
+        "charCountStart": 41824,
+        "changes": [],
+        "id": 582
+      },
+      {
+        "date": "2026-08-07",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+        "wordCountStart": 1484,
+        "charCountStart": 9423,
+        "changes": [
+          {
+            "timeKey": "03:10",
+            "w": 23,
+            "c": 121
+          },
+          {
+            "timeKey": "03:15",
+            "w": 19,
+            "c": 114
+          },
+          {
+            "timeKey": "18:50",
+            "w": 45,
+            "c": 243
+          },
+          {
+            "timeKey": "18:55",
+            "w": 2,
+            "c": 17
+          },
+          {
+            "timeKey": "19:00",
+            "w": 56,
+            "c": 338
+          },
+          {
+            "timeKey": "21:05",
+            "w": -1,
+            "c": -11
+          }
+        ],
+        "id": 583
+      },
+      {
+        "date": "2026-08-08",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2005) Half-Real.md",
+        "wordCountStart": 1628,
+        "charCountStart": 10245,
+        "changes": [],
+        "id": 584
+      },
+      {
+        "date": "2026-08-09",
+        "filePath": "01. Lecturas Videojuegos/Keogh, B. (2018). A Play of Bodies.md",
+        "wordCountStart": 103,
+        "charCountStart": 866,
+        "changes": [],
+        "id": 585
+      },
+      {
+        "date": "2026-08-09",
+        "filePath": "01. Lecturas enactivismo/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 51,
+            "c": 491
+          },
+          {
+            "timeKey": "14:10",
+            "w": 44,
+            "c": 285
+          }
+        ],
+        "id": 586
+      },
+      {
+        "date": "2026-08-11",
+        "filePath": "01. Lecturas enactivismo/Untitled.md",
+        "wordCountStart": 95,
+        "charCountStart": 776,
+        "changes": [],
+        "id": 587
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 215,
+        "charCountStart": 1661,
+        "changes": [
+          {
+            "timeKey": "05:30",
+            "w": 4,
+            "c": 23
+          },
+          {
+            "timeKey": "05:35",
+            "w": 46,
+            "c": 307
+          },
+          {
+            "timeKey": "05:40",
+            "w": 50,
+            "c": 334
+          },
+          {
+            "timeKey": "05:45",
+            "w": 51,
+            "c": 339
+          },
+          {
+            "timeKey": "05:50",
+            "w": 108,
+            "c": 706
+          },
+          {
+            "timeKey": "05:55",
+            "w": 109,
+            "c": 636
+          },
+          {
+            "timeKey": "06:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "06:05",
+            "w": 33,
+            "c": 317
+          }
+        ],
+        "id": 588
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "Escritos/Borradores/Untitled 1.md",
+        "wordCountStart": 588,
+        "charCountStart": 3625,
+        "changes": [],
+        "id": 589
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas/Parkin-Muerte por video-juego.md",
+        "wordCountStart": 602,
+        "charCountStart": 3976,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 590
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas enactivismo/Casper (2019). Social enactivism.md",
+        "wordCountStart": 76,
+        "charCountStart": 640,
+        "changes": [],
+        "id": 591
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
+        "wordCountStart": 1462,
+        "charCountStart": 9741,
+        "changes": [],
+        "id": 592
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
+        "wordCountStart": 65,
+        "charCountStart": 564,
+        "changes": [],
+        "id": 593
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 3808,
+        "charCountStart": 23880,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 5,
+            "c": 40
+          },
+          {
+            "timeKey": "15:00",
+            "w": 31,
+            "c": 196
+          },
+          {
+            "timeKey": "15:05",
+            "w": 26,
+            "c": 172
+          },
+          {
+            "timeKey": "15:10",
+            "w": 73,
+            "c": 392
+          },
+          {
+            "timeKey": "15:15",
+            "w": 80,
+            "c": 503
+          },
+          {
+            "timeKey": "15:20",
+            "w": 70,
+            "c": 470
+          },
+          {
+            "timeKey": "15:25",
+            "w": 115,
+            "c": 700
+          },
+          {
+            "timeKey": "15:30",
+            "w": 20,
+            "c": 130
+          },
+          {
+            "timeKey": "15:35",
+            "w": 61,
+            "c": 360
+          },
+          {
+            "timeKey": "15:40",
+            "w": 49,
+            "c": 309
+          }
+        ],
+        "id": 594
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "Clippings/Metakettle by Terrorbull Games  satirical games and subversive oddities.md",
+        "wordCountStart": 732,
+        "charCountStart": 4878,
+        "changes": [],
+        "id": 595
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "Clippings/paraSITE.md",
+        "wordCountStart": 1367,
+        "charCountStart": 9055,
+        "changes": [],
+        "id": 596
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "Clippings/Newstweek.md",
+        "wordCountStart": 346,
+        "charCountStart": 2501,
+        "changes": [],
+        "id": 597
+      },
+      {
+        "date": "2026-08-14",
+        "filePath": "01. Lecturas enactivismo/Untitled.md",
+        "wordCountStart": 95,
+        "charCountStart": 776,
+        "changes": [],
+        "id": 598
+      },
+      {
+        "date": "2026-08-14",
+        "filePath": "TagsRoutes/logMessage.md",
+        "wordCountStart": 1800,
+        "charCountStart": 11626,
+        "changes": [],
+        "id": 599
+      },
+      {
+        "date": "2026-08-14",
+        "filePath": "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
+        "wordCountStart": 4338,
+        "charCountStart": 27152,
+        "changes": [],
+        "id": 600
+      },
+      {
+        "date": "2026-08-14",
+        "filePath": "Escritos/Borradores/Lo político en el juego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 3,
+            "c": 20
+          },
+          {
+            "timeKey": "10:40",
+            "w": 36,
+            "c": 206
+          },
+          {
+            "timeKey": "10:45",
+            "w": 61,
+            "c": 370
+          },
+          {
+            "timeKey": "10:50",
+            "w": 87,
+            "c": 516
+          },
+          {
+            "timeKey": "10:55",
+            "w": 116,
+            "c": 693
+          }
+        ],
+        "id": 601
+      },
+      {
+        "date": "2026-08-14",
+        "filePath": "Escritos/Borradores/(ﾉ｀□´)ﾉ⌒.com.md",
+        "wordCountStart": 305,
+        "charCountStart": 1820,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 602
+      },
+      {
+        "date": "2026-08-15",
+        "filePath": "Escritos/Borradores/(ﾉ｀□´)ﾉ⌒.com.md",
+        "wordCountStart": 305,
+        "charCountStart": 1821,
+        "changes": [],
+        "id": 603
+      },
+      {
+        "date": "2026-08-15",
+        "filePath": "Clippings/Juegos que NO DEBIERON existir  CulturaVJ.md",
+        "wordCountStart": 5024,
+        "charCountStart": 30209,
+        "changes": [],
+        "id": 604
+      },
+      {
+        "date": "2026-08-18",
+        "filePath": "Clippings/Juegos que NO DEBIERON existir  CulturaVJ.md",
+        "wordCountStart": 5024,
+        "charCountStart": 30209,
+        "changes": [],
+        "id": 605
+      },
+      {
+        "date": "2026-08-18",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 616,
+        "charCountStart": 4323,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 20,
+            "c": 137
+          },
+          {
+            "timeKey": "01:10",
+            "w": 24,
+            "c": 162
+          },
+          {
+            "timeKey": "10:30",
+            "w": 48,
+            "c": 298
+          }
+        ],
+        "id": 606
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
+        "wordCountStart": 708,
+        "charCountStart": 4920,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 50,
+            "c": 379
+          },
+          {
+            "timeKey": "09:20",
+            "w": 15,
+            "c": 107
+          },
+          {
+            "timeKey": "09:25",
+            "w": 65,
+            "c": 431
+          },
+          {
+            "timeKey": "09:30",
+            "w": 41,
+            "c": 253
+          },
+          {
+            "timeKey": "09:35",
+            "w": 39,
+            "c": 229
+          },
+          {
+            "timeKey": "09:40",
+            "w": 16,
+            "c": 95
+          },
+          {
+            "timeKey": "09:55",
+            "w": 31,
+            "c": 220
+          },
+          {
+            "timeKey": "10:00",
+            "w": 40,
+            "c": 380
+          },
+          {
+            "timeKey": "10:05",
+            "w": 6,
+            "c": 56
+          },
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 607
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Clippings/Participatory games aren’t for everyone.md",
+        "wordCountStart": 998,
+        "charCountStart": 6067,
+        "changes": [],
+        "id": 608
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Clippings/LA CIUDAD GENÉRICA de Rem Koolhaas.md",
+        "wordCountStart": 2611,
+        "charCountStart": 17373,
+        "changes": [],
+        "id": 609
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "2026-01-16.md",
+        "wordCountStart": 31,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 610
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "2026-01-26.md",
+        "wordCountStart": 13,
+        "charCountStart": 211,
+        "changes": [],
+        "id": 611
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "2026-05-25.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 612
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "estatuto de mayoría.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 613
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Indice.md",
+        "wordCountStart": 44,
+        "charCountStart": 304,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": -44,
+            "c": -304
+          }
+        ],
+        "id": 614
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Indice de Temas.md",
+        "wordCountStart": 16,
+        "charCountStart": 129,
+        "changes": [],
+        "id": 615
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Índice Ideas.md",
+        "wordCountStart": 16,
+        "charCountStart": 119,
+        "changes": [],
+        "id": 616
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Indice Notas.md",
+        "wordCountStart": 16,
+        "charCountStart": 117,
+        "changes": [],
+        "id": 617
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "playfulness.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 618
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 619
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "Untitled Kanban.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": -2,
+            "c": -32
+          }
+        ],
+        "id": 620
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "transmodernidad.md",
+        "wordCountStart": 2,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": -2,
+            "c": -32
+          }
+        ],
+        "id": 621
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "15. Ideas/Simondon y la teoría de los actantes.md",
+        "wordCountStart": 53,
+        "charCountStart": 304,
+        "changes": [],
+        "id": 622
+      },
+      {
+        "date": "2026-08-19",
+        "filePath": "02. Conceptos/objeto técnico abstracto.md",
+        "wordCountStart": 265,
+        "charCountStart": 2051,
+        "changes": [],
+        "id": 623
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "01. Lecturas Videojuegos/Kent, S. L. (2001). La gran historia del videojuego (D. Tejera Expósito, Trad.; Watcher)..md",
+        "wordCountStart": 1352,
+        "charCountStart": 8550,
+        "changes": [],
+        "id": 624
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "Clippings/Levers (2001) by Vectorpark.md",
+        "wordCountStart": 456,
+        "charCountStart": 3380,
+        "changes": [],
+        "id": 625
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II.md",
+        "wordCountStart": 2226,
+        "charCountStart": 13533,
+        "changes": [],
+        "id": 626
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "Clippings/Analog Game Studies.md",
+        "wordCountStart": 884,
+        "charCountStart": 5907,
+        "changes": [],
+        "id": 627
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "Clippings/Stories That Can't Be Told Linearly.md",
+        "wordCountStart": 10218,
+        "charCountStart": 53180,
+        "changes": [],
+        "id": 628
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "Clippings/Foreborn by Twist And Scream.md",
+        "wordCountStart": 603,
+        "charCountStart": 4727,
+        "changes": [],
+        "id": 629
+      },
+      {
+        "date": "2026-08-20",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": 68,
+            "c": 602
+          }
+        ],
+        "id": 630
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Making Old Hardware Play New Tunes (Published 2007).md",
+        "wordCountStart": 905,
+        "charCountStart": 5447,
+        "changes": [],
+        "id": 631
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 68,
+        "charCountStart": 602,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 14,
+            "c": 85
+          },
+          {
+            "timeKey": "00:15",
+            "w": 15,
+            "c": 103
+          },
+          {
+            "timeKey": "00:20",
+            "w": 26,
+            "c": 152
+          },
+          {
+            "timeKey": "00:25",
+            "w": 17,
+            "c": 129
+          },
+          {
+            "timeKey": "00:40",
+            "w": 10,
+            "c": 95
+          },
+          {
+            "timeKey": "00:45",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "00:50",
+            "w": 10,
+            "c": 96
+          },
+          {
+            "timeKey": "00:55",
+            "w": 14,
+            "c": 117
+          },
+          {
+            "timeKey": "01:00",
+            "w": 12,
+            "c": 99
+          },
+          {
+            "timeKey": "01:05",
+            "w": 62,
+            "c": 369
+          },
+          {
+            "timeKey": "01:10",
+            "w": 42,
+            "c": 239
+          },
+          {
+            "timeKey": "01:15",
+            "w": 26,
+            "c": 156
+          },
+          {
+            "timeKey": "02:20",
+            "w": 58,
+            "c": 351
+          },
+          {
+            "timeKey": "02:25",
+            "w": 49,
+            "c": 324
+          },
+          {
+            "timeKey": "02:30",
+            "w": 74,
+            "c": 416
+          }
+        ],
+        "id": 632
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/MILAN MACHINIMA FESTIVAL.md",
+        "wordCountStart": 55,
+        "charCountStart": 477,
+        "changes": [],
+        "id": 633
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Henry Jenkins - Games, the New Lively Art.md",
+        "wordCountStart": 11541,
+        "charCountStart": 71867,
+        "changes": [],
+        "id": 634
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Bang the Machine br Computer Gaming Art.md",
+        "wordCountStart": 3378,
+        "charCountStart": 23338,
+        "changes": [],
+        "id": 635
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/BitStreams.md",
+        "wordCountStart": 1278,
+        "charCountStart": 8677,
+        "changes": [],
+        "id": 636
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Artcade.md",
+        "wordCountStart": 527,
+        "charCountStart": 3490,
+        "changes": [],
+        "id": 637
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Play. Il mondo dei videogiochi  Palazzo Esposizioni Roma.md",
+        "wordCountStart": 249,
+        "charCountStart": 1889,
+        "changes": [],
+        "id": 638
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Nettime-bold metabolics3.md",
+        "wordCountStart": 903,
+        "charCountStart": 6258,
+        "changes": [],
+        "id": 639
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Alien Intelligence.md",
+        "wordCountStart": 23,
+        "charCountStart": 173,
+        "changes": [],
+        "id": 640
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Game On.md",
+        "wordCountStart": 352,
+        "charCountStart": 2437,
+        "changes": [],
+        "id": 641
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/museum meltdown.md",
+        "wordCountStart": 20,
+        "charCountStart": 180,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": -20,
+            "c": -180
+          }
+        ],
+        "id": 642
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Bang the Machine Computer Gaming Art and Artifacts.md",
+        "wordCountStart": 201,
+        "charCountStart": 1452,
+        "changes": [],
+        "id": 643
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/World of Games.md",
+        "wordCountStart": 774,
+        "charCountStart": 5101,
+        "changes": [],
+        "id": 644
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/GAME AS CRITIC AS ART. MEDIATECA CAIXAFOUM BARCELONA.md",
+        "wordCountStart": 298,
+        "charCountStart": 1987,
+        "changes": [],
+        "id": 645
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Playware.md",
+        "wordCountStart": 1125,
+        "charCountStart": 7146,
+        "changes": [],
+        "id": 646
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Suicide Solution - Brody Condon (in Try Again).md",
+        "wordCountStart": 63,
+        "charCountStart": 434,
+        "changes": [],
+        "id": 647
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Brody Condon.md",
+        "wordCountStart": 71,
+        "charCountStart": 580,
+        "changes": [],
+        "id": 648
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Escritos/Borradores/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
+        "wordCountStart": 645,
+        "charCountStart": 3934,
+        "changes": [],
+        "id": 649
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Escritos/Borradores/(ﾉ｀□´)ﾉ⌒.com.md",
+        "wordCountStart": 305,
+        "charCountStart": 1821,
+        "changes": [],
+        "id": 650
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/JOHN KLIMA.md",
+        "wordCountStart": 991,
+        "charCountStart": 6623,
+        "changes": [],
+        "id": 651
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Dreams Come True.md",
+        "wordCountStart": 507,
+        "charCountStart": 3448,
+        "changes": [],
+        "id": 652
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/game.md",
+        "wordCountStart": 893,
+        "charCountStart": 5880,
+        "changes": [],
+        "id": 653
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Inverse Forensics.md",
+        "wordCountStart": 886,
+        "charCountStart": 5729,
+        "changes": [],
+        "id": 654
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Audience & Avatar - John Paul Bichard.md",
+        "wordCountStart": 452,
+        "charCountStart": 2901,
+        "changes": [],
+        "id": 655
+      },
+      {
+        "date": "2026-08-21",
+        "filePath": "Clippings/Synthetic Performances (2009-10)  Eva & Franco Mattes.md",
+        "wordCountStart": 123,
+        "charCountStart": 994,
+        "changes": [],
+        "id": 656
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Clippings/Synthetic Performances (2009-10)  Eva & Franco Mattes.md",
+        "wordCountStart": 123,
+        "charCountStart": 994,
+        "changes": [],
+        "id": 657
+      },
+      {
+        "date": "2026-08-26",
+        "filePath": "Clippings/Synthetic Performances (2009-10)  Eva & Franco Mattes.md",
+        "wordCountStart": 123,
+        "charCountStart": 994,
+        "changes": [],
+        "id": 658
+      },
+      {
+        "date": "2026-08-27",
+        "filePath": "Clippings/Synthetic Performances (2009-10)  Eva & Franco Mattes.md",
+        "wordCountStart": 123,
+        "charCountStart": 994,
+        "changes": [],
+        "id": 659
+      },
+      {
+        "date": "2026-08-28",
+        "filePath": "Clippings/La PS2 Hacía ARTE con tus PARTIDAS GUARDADAS (y no lo notaste) – KVN.md",
+        "wordCountStart": 423,
+        "charCountStart": 9444,
+        "changes": [],
+        "id": 660
+      },
+      {
+        "date": "2026-08-28",
+        "filePath": "Clippings/MUSICA… ¿Cómo cabía una ORQUESTA en un solo CARTUCHO - KVN.md",
+        "wordCountStart": 4877,
+        "charCountStart": 28575,
+        "changes": [],
+        "id": 661
+      },
+      {
+        "date": "2026-08-28",
+        "filePath": "01. Lecturas Videojuegos/El Videojuego, cibertexto y cajón de arena..md",
+        "wordCountStart": 80,
+        "charCountStart": 563,
+        "changes": [],
+        "id": 662
+      },
+      {
+        "date": "2026-08-28",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 663
+      },
+      {
+        "date": "2026-08-28",
+        "filePath": "Clippings/MILAN MACHINIMA FESTIVAL.md",
+        "wordCountStart": 55,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 664
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "Clippings/MILAN MACHINIMA FESTIVAL.md",
+        "wordCountStart": 55,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 665
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+        "wordCountStart": 1214,
+        "charCountStart": 7841,
+        "changes": [],
+        "id": 666
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "01. Lecturas Videojuegos/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+        "wordCountStart": 153,
+        "charCountStart": 1159,
+        "changes": [],
+        "id": 667
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Videojuegos/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+        "wordCountStart": 153,
+        "charCountStart": 1159,
+        "changes": [],
+        "id": 668
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "Clippings/When Games Break The 5th Wall.md",
+        "wordCountStart": 4744,
+        "charCountStart": 25600,
+        "changes": [],
+        "id": 669
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "Clippings/the SECRET CHIPS inside ’90s cartridges  when games were more powerful than the consoles.md",
+        "wordCountStart": 5725,
+        "charCountStart": 33064,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 530,
+            "c": 3216
+          }
+        ],
+        "id": 670
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 7188,
+        "charCountStart": 47639,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 325,
+            "c": 2170
+          },
+          {
+            "timeKey": "09:45",
+            "w": 96,
+            "c": 657
+          },
+          {
+            "timeKey": "09:50",
+            "w": 87,
+            "c": 629
+          },
+          {
+            "timeKey": "09:55",
+            "w": 115,
+            "c": 834
+          },
+          {
+            "timeKey": "10:00",
+            "w": 119,
+            "c": 800
+          },
+          {
+            "timeKey": "10:05",
+            "w": 114,
+            "c": 785
+          },
+          {
+            "timeKey": "10:10",
+            "w": 76,
+            "c": 713
+          },
+          {
+            "timeKey": "10:15",
+            "w": 8,
+            "c": 72
+          }
+        ],
+        "id": 671
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 672
+      },
+      {
+        "date": "2026-09-03",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 673
       }
     ],
-    "wholeVaultWordCount": 553144,
-    "wholeVaultCharCount": 3619292
+    "wholeVaultWordCount": 561266,
+    "wholeVaultCharCount": 3672613
   }
 }

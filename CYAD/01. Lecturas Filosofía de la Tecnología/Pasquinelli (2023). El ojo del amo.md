@@ -34,7 +34,7 @@ Consultado:
 (Tema::Lógica del umbral (140))
 
 (Tema::Cerebro y máquina (140))
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702191411.png]]
 
@@ -54,7 +54,7 @@ Consultado:
 (Tema::Autoorganización, conexión y neuronas (146))
 
 (Tema::Teoría hebbiana de asamblea celular (146))
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702191725.png]]
 
@@ -67,7 +67,7 @@ Consultado:
 
 (Tema::El constructor universal (157))
 
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702192033.png]]
 
@@ -79,7 +79,7 @@ Consultado:
 (Temas::Autoorganización y política (152))
 [[Friederich Hayek]]
 
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702192149.png]]
 
@@ -94,7 +94,7 @@ Consultado:
 
 (Tema::Escuela simbólica es conexionista (155))
 
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702192414.png]]
 
@@ -113,7 +113,7 @@ Consultado:
 
 (Tema::Pioneros de la IA (158))
 
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702192546.png]]
 
@@ -133,39 +133,70 @@ Consultado:
 (Tema::Autonomía según la cibernética (161))
 
 (Tema::IA y sociedad (163))
-#### Escrito
+###### Escrito
 
 ![[Pasted image 20260702192911.png]]
 
 ![[Pasted image 20260702194857.png]]
 
 
-
-
-
-
-
 ## 7. La automatización del reconocimiento de patrones
 
 ### 1. La controversia sobre la percepción Gestalt
 
+(Tema::Cerebro vs. escuela del Gestalt (165))
+
+(Tema::Escuela del Gestalt (166))
+
+###### Escrito
+
+![[Percepcion_Gestalt.png]]
+
+
+![[Von_Neumann.png]]
 
 
 ### 2. La invención de las redes neuronales artificiales
 
+(Tema::Inducción vs. deducción (169))
+
+(Tema::Redes neuronales artificiales (170))
+	#máquinas_inductivas
+
+(Tema::Cambios importantes con las redes neuronales (173))
+	#McCulloch #Pitts
+
+###### Escrito
+
+![[invención_redes_neuronales_artificiales.png]]
 
 
 ### 3. Lo que el ojo de la rana le dice al cerebro de la rana
 
+(Tema::Campos de fuerza::174-175)
+	#Campos_de_fuerza #gestalt 
+
+(Tema::El ojo y la cognición , del percepto al concepto (177))
+	#Lettuin #Maturana #McCulloch #Pitts 
+
+###### Escrito 
+
+![[Campos_de_fuerza.png]]
 
 
+### 4. El lenguaje del cerebro no es el lenguaje de las matemáticas
 
-### 4. El len
+(Tema::Ideas de Von Neumann (180-181))
+	#Von_Neumann 
 
+(Tema::Sobre el error (181))
 
+(Tema::Hayek y la modelización (184))
+	#Hayek
 
+###### Escrito
 
-
+![[Lenguaje_Matematicas.png]]
 
 
 
@@ -193,15 +224,38 @@ Consultado:
 ---
 (Nota::Seguir una norma siempre tendrá un significado diferente para un ser humano y para una máquina. Wittgenstein (162))
 
+---
+(Nota::Los conexionistas creían en que el reconocimiento de un patrón significaba razonamiento lógico (167))
+	#conexionistas
+
+(Nota::Von neumann propuso una síntesis entre el gestalt y la lógica computacional, mismo que inspiró la red neuronal perceptron de Roseblatt que explicaba el cálculo estadístico (167))
+	#Von_Neumann #gestalt #perceptron 
+
+(Nota::Sobre la topología en la visión artificial (168))
+
+---
+
+(Nota::Con Leibniz se buscó la inteligencia de las máquinas con el postulado de que el humano puede expresar su inteligencia por medio de una lógica proposicional, el cual es un tipo de pensamiento lineal como el lenguaje o la máquina de turing (169))
+	#Leibniz #máquina_de_Turing
+
+---
+
+(Nota::Las redes neuronales tienen una arquitectura destribuida. Esta memoria distribuida due una gran inspiración para el perceptron (182))
+	#perceptron 
+
 
 ---
 # <mark style="background: #ADD8E6;">Idea</mark>
 
 (Idea::Durante una época se adaptaban lo mecánico y lo tecnológico a lo cultural y físico. Posible empacho de una tecnofanía. La máquina como modelo ontológico de un todo)
 
+(Idea::Los estudios de la cibernética dejaron también en un lado el percepto de "El todo es más que la suma de sus partes")
+
 
 ---
 ### <mark style="background: #FF5582A6;">Pregunta</mark> 
+
+(Pregunta::¿Cuál es el modelo de los campos de fuerza?)
 
 ---
 ### <mark style="background: #BBFABBA6;">Esquema</mark>

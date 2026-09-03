@@ -136,6 +136,8 @@ Walker, A. (2018, marzo 2). After Three Hours With “Far Cry 5,” Its Politics
 #### 4.5.3.2. Concretización del videojuego y su hardware.
 #### 4.5.3.3. Concretización del videojuego y su diseño.
 ## 4.6. Transindividuación del videojuego. Hacia una metafísica de lo fragmentado
+%%Este seria 5. Lo que es pertinente para aplicar.%%
+
 # 5. Metafísica del videojuego. Lo cosmotécnico
 ## 5.1. Cultura y videojuego
 ## 5.2. Cosmotécnica y videojuego
@@ -144,3 +146,9 @@ Walker, A. (2018, marzo 2). After Three Hours With “Far Cry 5,” Its Politics
 # 7. Modelo explicativo
 # 8. Conclusiones
 
+%%El dios venidero. Frank -> Figura de dionisio. %%Perspectiva. %%
+
+Mito interpretacion y cultura. 
+
+
+%%

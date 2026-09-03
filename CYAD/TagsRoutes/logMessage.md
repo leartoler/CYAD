@@ -197,3 +197,43 @@
 |[2026-05-25 20:54:44] |After filtered pathes=>|| filtered nodes: |1|  links:| 1269|
 |[2026-05-25 20:54:44] |Tags parse completed=>||  tag nodes: |348| tag links:| 401|
 |[2026-05-25 20:54:44] |tags num:| 348| broken files: |0| tag links:| 401|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2026-08-02 21:47:25] |File parse completed=>|| markdown and linked files nodes:| 1053| total file links:| 1053|
+|[2026-08-02 21:47:25] |add tags and other files=>||  total nodes: |1493|  total links:| 1502|
+|[2026-08-02 21:47:25] |After filtered pathes=>|| filtered nodes: |1|  links:| 1502|
+|[2026-08-02 21:47:25] |Tags parse completed=>||  tag nodes: |440| tag links:| 449|
+|[2026-08-02 21:47:25] |tags num:| 440| broken files: |0| tag links:| 449|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2026-08-02 21:58:05] |File parse completed=>|| markdown and linked files nodes:| 1053| total file links:| 1053|
+|[2026-08-02 21:58:05] |add tags and other files=>||  total nodes: |1493|  total links:| 1502|
+|[2026-08-02 21:58:05] |After filtered pathes=>|| filtered nodes: |1|  links:| 1502|
+|[2026-08-02 21:58:05] |Tags parse completed=>||  tag nodes: |440| tag links:| 449|
+|[2026-08-02 21:58:05] |tags num:| 440| broken files: |0| tag links:| 449|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2026-08-05 18:51:28] |File parse completed=>|| markdown and linked files nodes:| 1052| total file links:| 1042|
+|[2026-08-05 18:51:28] |add tags and other files=>||  total nodes: |1493|  total links:| 1491|
+|[2026-08-05 18:51:28] |After filtered pathes=>|| filtered nodes: |1|  links:| 1491|
+|[2026-08-05 18:51:28] |Tags parse completed=>||  tag nodes: |441| tag links:| 449|
+|[2026-08-05 18:51:28] |tags num:| 441| broken files: |0| tag links:| 449|
+
+
+
+||||||||
+|-:|-:|-:|-:|-:|-:|-:|
+|[2026-08-14 10:27:14] |File parse completed=>|| markdown and linked files nodes:| 1069| total file links:| 1068|
+|[2026-08-14 10:27:15] |add tags and other files=>||  total nodes: |1540|  total links:| 1547|
+|[2026-08-14 10:27:15] |After filtered pathes=>|| filtered nodes: |1|  links:| 1547|
+|[2026-08-14 10:27:15] |Tags parse completed=>||  tag nodes: |471| tag links:| 479|
+|[2026-08-14 10:27:15] |tags num:| 471| broken files: |0| tag links:| 479|

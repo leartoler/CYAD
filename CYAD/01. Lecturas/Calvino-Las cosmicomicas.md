@@ -2,7 +2,7 @@
 kindle-bookId: '57851'
 kindle-title: Las cosmicomicas (Calvino Italo)
 kindle-author: Italo Calvino
-kindle-highlightsCount: 59
+kindle-highlightsCount: 26
 ---
 # Las cosmicomicas
 ## Metadata
@@ -199,5 +199,84 @@ Si las galaxias se alejan, el enrarecimiento del universo es compensado por la f
 
 ---
 Esto no era todo: hice un rápido cálculo de los átomos jugados y me di cuenta de que eran sólo una pequeña parte de los que robaba y escondía. ¿Estaba preparando una reserva de hidrógeno? ¿Para qué? ¿Qué se le había metido en la cabeza? Tuve una sospecha: Pfwfp quería construirse un universo por su cuenta, nuevo, flamante. — location: [786]() ^ref-11586
+
+---
+
+sólo sobreviviría el que estaba dispuesto a cambiar las bases de la propia existencia tanto que las razones por las cuales valía la pena vivir serían completamente distintas y se olvidarían. — location: [963]() ^ref-3091
+
+---
+–Casarme con él. Volverme pez con él. Y echar al mundo otros peces. Adiós. — location: [1012]() ^ref-7169
+
+---
+cambiado por ninguno de ellos. Cuánto apostamos — location: [1020]() ^ref-30155
+
+---
+Cuánto apostamos — location: [1021]() ^ref-29579
+
+---
+Según la cibernética, el universo se forma a través de una serie de "retroacciones" positivas y negativus, en primer lugar por la fuerza de gravedad que concentra masas de hidrógeno en la nube primitiva, después por la fuerza nuclear y la fuerza centrífuga que se equilibran con la primera. A partir del momento en que el proceso se pone en movimiento, éste no puede sino seguir la lógica de esas "retroacciones" en cadena. — location: [1023]() ^ref-54861
+
+---
+Hacíamos siempre apuestas, el Decano y yo, porque no había otra cosa que hacer y también porque la única prueba de que yo existiese era el hecho de que apostaba con él, y la única prueba de que existiese él era el hecho de que apostaba conmigo. — location: [1037]() ^ref-10207
+
+---
+ni siquiera teníamos el concepto de número para empezar a contar, ya que no se conseguía separar nada de nada. — location: [1046]() ^ref-1047
+
+---
+como era pobre de imaginación, apenas una palabra empezaba a tener un significado, no se le ocurría que pudiera tener otro. — location: [1053]() ^ref-30416
+
+---
+Lo único era enunciar hipótesis, más aún, enunciar hipótesis sobre la posibilidad de enunciar hipótesis. — location: [1056]() ^ref-6413
+
+---
+conseguía proponer eventualidades que en apariencia no tenían nada que ver con — location: [1083]() ^ref-7809
+
+---
+nacidos que salían crepitando del recalentamiento de una estrella "supernova"-. ¡Te apuesto! — location: [1076]() ^ref-14865
+
+---
+Pero la pasión del juego me llevaba, de cada acontecimiento posible, a prever la serie interminable de acontecimientos que de él derivaban, hasta los más marginales y aleatorios. — location: [1111]() ^ref-63328
+
+---
+Había embocado un canal, una espiral más allá de la cual los acontecimientos hormigueaban con multiplicada densidad, no había más que tomarlos a puñados y arrojárselos a la cara a mi competidor que jamás había supuesto su existencia. — location: [1116]() ^ref-23000
+
+---
+en un instante comprendí que con esto que parecía un revoltijo casual de palabras había tocado una reserva infinita de nuevas combinaciones entre los signos de los cuales se serviría la realidad compacta y opaca y uniforme para disfrazar su monotonía, y quizá la carrera hacia el futuro, aquella carrera que yo por primera vez había previsto y auspiciado, no tendía sino a través del tiempo y del espacio a desmenuzarse en alternativas como ésta, hasta disolverse en una geometría de invisibles triángulos y rebotes como el recorrido de la pelota entre las líneas blancas de la cancha que yo trataba de imaginarme trazadas en el fondo del vórtice luminoso del sistema planetario, — location: [1118]() ^ref-55138
+
+---
+Y yo pienso qué hermoso era entonces, a través de aquel vacío, trazar redes y parábolas, individualizar el punto exacto, la intersección entre espacio y tiempo en que saltaría el acontecimiento, indiscutible en el ápice de su resplandor; mientras que ahora los acontecimientos se caen ininterrumpidos, como una coladura de cemento, en columna uno sobre el otro, uno encastrado en el otro, separados por títulos negros e incongruentes, legibles en más sentidos pero intrínsecamente ilegibles, una masa de acontecimientos sin forma ni dirección, que circunda, sumerge, aplasta todo razonamiento. — location: [1155]() ^ref-61265
+
+---
+Pantoteros — location: [1209]() ^ref-38227
+
+---
+En mi mente sus historias de terrores infligidos por nosotros, se confundían con mis recuerdos de terror sufrido: cuanto más me enteraba de lo que habíamos hecho temblar, más temblaba. — location: [1222]() ^ref-55580
+
+---
+Por aquel sueño hubiera debido comprender muchas cosas, y sobre todo una: que Flor de Helecho no deseaba otra cosa que ser agredida. — location: [1233]() ^ref-53279
+
+---
+–Quisiera preguntárselo a él -dijo Zahn, con aire torvo-. — location: [1239]() ^ref-29533
+
+---
+perdido lo mismo daba hacerles sentir el anriguo — location: [1263]() ^ref-34563
+
+---
+salvo aquel vago nombre que había perdido relación con las experiencias del presente. — location: [1361]() ^ref-63449
+
+---
+culpas, nuestra ruina. Ahora aquellos despojos servirían a los Nuevos, distraídos ocupantes del planeta, para señalar un punto del paisaje, seguirían el destino del nombre "Dinosaurio" convertido en un sonido opaco sin sentido. — location: [1363]() ^ref-7057
+
+---
+una mulata dinosauria. — location: [1376]() ^ref-28525
+
+---
+Desde la penumbra de los miedos y las dudas de generaciones ahora ignaras, continuaban extendiendo el cuello, levantando sus zarpas, y cuando la última sombra de su imagen se había borrado, su nombre continuaba superponiéndose a todos los significados, perpetuando su presencia en las relaciones entre los seres vivientes. Ahora, borrado hasta el nombre, les aguardaba convertirse en una sola cosa con los moldes mudos y anónimos del pensamiento, a través de los cuales cobran forma y sustancia las cosas pensadas: por los Nuevos, y por los que vendrían aún después. — location: [1407]() ^ref-27920
+
+---
+la línea invisible que recorría yo y la que ella recorría se convertirían en una sola línea, ocupada por una mezcolanza de ella y de mí donde todo lo que en ella era suave y secreto era penetrado, más aún, envolvía y casi diría sorbía todo lo que en mí con más tensión había llegado hasta allí, padeciendo por estar solo y separado y seco. — location: [1456]() ^ref-56492
+
+---
+En el mismo momento en que Ursula H'x dejara de serme extraña, un extraño con sus finos bigotitos negros compartiría nuestra intimidad de modo inextricable; — location: [1462]() ^ref-63297
 
 ---

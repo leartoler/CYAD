@@ -1,0 +1,1 @@
+Sim city es uno de los juegos que siempre están dentro de los límites de lo que es o no un juego, tal como lo exterioriza [[Salen y Zimmerman (2004), Rules of Play. Game Dessign Fundamental]], [[Juul, J. (2005) Half-Real]] e incluso [[Sicart. M. (2014). Play Matters]]

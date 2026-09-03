@@ -2,7 +2,7 @@
   "documents": {
     "01. Lecturas Yuk Hui/Hui, Y, (2020). Fragmentar el Futuro.md": {
       "documentFormat": "sections",
-      "viewType": "lineage",
+      "viewType": "markdown",
       "activeSection": "1",
       "pinnedSections": {
         "sections": [],
@@ -14,7 +14,18 @@
     },
     "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md": {
       "documentFormat": "sections",
-      "viewType": "lineage",
+      "viewType": "markdown",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": []
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    },
+    "Escritos/Complejidad y Videojuegos/El juego como caos. Del juego al videojuego.md": {
+      "documentFormat": "sections",
+      "viewType": "markdown",
       "activeSection": "1",
       "pinnedSections": {
         "sections": []
@@ -40,7 +51,7 @@
       "centerActiveNodeV": true
     },
     "limitPreviewHeight": true,
-    "zoomLevel": 0.8,
+    "zoomLevel": 1,
     "showMinimap": true,
     "showLeftSidebar": false,
     "leftSidebarWidth": 500,

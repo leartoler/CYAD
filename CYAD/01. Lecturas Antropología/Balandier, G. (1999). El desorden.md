@@ -1,13 +1,13 @@
 ---
-Título:
-Autor:
-Año:
-Editorial:
-Libro:
+Título: "El desorden: la teoría del caos y las ciencias sociales, elogio de la fecundidad del movimiento"
+Autor: Georges Balandier
+Año: 1999
+Editorial: Gedisa
+Libro: "[[El-Desorden-Balandier.pdf]]"
 Leído:
-APA:
+APA: "Balandier, G. (1999). El desorden: La teoría del caos y las ciencias sociales, elogio de la fecundidad del movimiento (4a. reimp). Gedisa."
 Audio:
-Consultado:
+Consultado: true
 ---
 ### <mark style="background: #FFB8EBA6;">Concepto</mark>
 

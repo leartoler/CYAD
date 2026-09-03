@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "cc8360a984effa0d",
+        "id": "0f266a912402b98d",
         "type": "tabs",
+        "dimension": 81.36503067484662,
         "children": [
           {
-            "id": "09adb9a8ad4541ba",
+            "id": "4982e1608861198f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Casa encendida (2008). Try Again"
+            }
+          },
+          {
+            "id": "02a736025cd86d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
+                "file": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sicart-Play Matters Thinking Playful Series."
+              "title": "Simondon, G. (2017). Sobre la técnica"
             }
           },
           {
-            "id": "1cb4ac339d5f82b7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Escritos/Artículos/Untitled.canvas",
-                "viewState": {
-                  "x": 182,
-                  "y": 339,
-                  "zoom": -1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "df7f7dc3ce870fc7",
+            "id": "3e1fb8cd169ced11",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -47,37 +47,43 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "680a1144c4cfd05b",
+        "type": "tabs",
+        "dimension": 18.634969325153374,
+        "children": [
           {
-            "id": "a6e19fd05b09fefc",
+            "id": "6fc1573d3d451145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
+                "file": "Clippings/Dreams Come True.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocolo"
+              "title": "Dreams Come True"
             }
           },
           {
-            "id": "c4871d8a71adc883",
+            "id": "452e9985c1e6aac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escritos/Artículos/Bibliografía.md",
+                "file": "Clippings/Audience & Avatar - John Paul Bichard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bibliografía"
+              "title": "Audience & Avatar - John Paul Bichard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +103,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -109,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Linda_Hughes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 332.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -256,16 +264,6 @@
             }
           },
           {
-            "id": "4f687e39bbd664cc",
-            "type": "leaf",
-            "state": {
-              "type": "infranodus-graph-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "infranodus-graph-view"
-            }
-          },
-          {
             "id": "c2c53765059afe67",
             "type": "leaf",
             "state": {
@@ -366,21 +364,30 @@
             }
           },
           {
-            "id": "27b49001f5546677",
+            "id": "bacc3043cf721e3c",
+            "type": "leaf",
+            "state": {
+              "type": "grill-session",
+              "state": {},
+              "icon": "flame",
+              "title": "Grill"
+            }
+          },
+          {
+            "id": "90fb74b1f61df3e6",
             "type": "leaf",
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon",
-              "title": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md"
+              "icon": "infranodus-icon"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
-    "width": 772.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -409,60 +416,64 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
       "lineage:Toggle Lineage view": false,
+      "grill:Grill": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "1cb4ac339d5f82b7",
+  "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "01. Lecturas/Sicart-Play Matters Thinking Playful Series..md",
-    "Escritos/Artículos/Bibliografía.md",
-    "01. Lecturas Nuevo Materialismo/Diffractive_Reading_New_Materialism.pdf",
-    "01. Lecturas Nuevo Materialismo/Carnal_Knowledge_Towards_a_New_Mate.pdf",
-    "01. Lecturas Nuevo Materialismo/Speculative_Grammatology_Deconstruct.pdf",
-    "01. Lecturas Nuevo Materialismo/Critical_Theory_and_New_Materialisms.pdf",
-    "01. Lecturas Nuevo Materialismo/New_Materialisms_Ontology,_Agency.pdf",
-    "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
-    "Escritos/Artículos/Untitled.canvas",
-    "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
-    "01. Lecturas Yuk Hui/Hui, Y. (2025). Arte y cosmotécnica.md",
-    "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
-    "Pasted image 20260714174823.jpg",
-    "Clippings/FatUglyOrSlutty.com - Links.md",
-    "Clippings/The Guy Looking To Expose Online Gaming's Worst Jerks.md",
-    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "12. Gráficas/Teoria 1.canvas",
-    "Capítulo 4.canvas",
-    "Escritos/Borradores/Videojuego, juego digital o juego electrónico o cómo llamar a los nintendos.md",
-    "12. Gráficas/Individuación.canvas",
-    "Untitled-1782849651586.webp",
-    "transmodernidad.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Nacimento de la tragedia.md",
-    "Indice Notas.md",
-    "Pasted image 20260714163324.jpg",
-    "Pasted image 20260714163307.jpg",
-    "Untitled 1.md",
+    "01. Lecturas Filosofía de la Tecnología/Manuel-DeLanda-Teoria-de-Los-Ensamblajes.pdf",
+    "01. Lecturas Yuk Hui/Yuk-Hui-Sobre-La-Existencia-de-Los-Objetos-Digitales.pdf",
     "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
-    "Pasted image 20260714163340.jpg",
-    "04. Bibliografía/Bibliografía_antropología/Mito_y_tragedia_de_la_grecia_antigua_II.pdf",
-    "04. Bibliografía/Bibliografía_antropología/Mito_y_tragedia_en_la_Grecia_antigua.pdf",
-    "04. Bibliografía/Bibliografía_antropología",
-    "01. Lecturas Videojuegos/Sicart. M. (2014). Play Matters.md",
-    "01. Lecturas Videojuegos/Carrubba, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
-    "Clippings/Desert Bus Un viaje por el peor juego de la historia.md",
+    "Pasted image 20260902101444.jpg",
+    "Pasted image 20260902101433.jpg",
+    "Pasted image 20260902101422.jpg",
+    "Pasted image 20260902101411.jpg",
+    "Pasted image 20260902101358.jpg",
+    "Pasted image 20260902101347.jpg",
+    "Pasted image 20260902101336.jpg",
+    "Pasted image 20260902101325.jpg",
+    "Pasted image 20260902101252.jpg",
+    "Pasted image 20260902101242.jpg",
+    "Millán, S. (2024). Ontologías Indígenas.md",
+    "Clippings/the SECRET CHIPS inside ’90s cartridges  when games were more powerful than the consoles.md",
+    "Clippings/When Games Break The 5th Wall.md",
+    "01. Lecturas Videojuegos/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+    "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+    "Clippings/MILAN MACHINIMA FESTIVAL.md",
+    "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+    "01. Lecturas Videojuegos/El Videojuego, cibertexto y cajón de arena..md",
+    "Clippings/MUSICA… ¿Cómo cabía una ORQUESTA en un solo CARTUCHO - KVN.md",
+    "Clippings/La PS2 Hacía ARTE con tus PARTIDAS GUARDADAS (y no lo notaste) – KVN.md",
+    "Clippings/Synthetic Performances (2009-10)  Eva & Franco Mattes.md",
+    "Clippings/Dreams Come True.md",
+    "Clippings/Brody Condon.md",
+    "Clippings/Suicide Solution - Brody Condon (in Try Again).md",
+    "Clippings/Playware.md",
+    "Clippings/GAME AS CRITIC AS ART. MEDIATECA CAIXAFOUM BARCELONA.md",
+    "Clippings/World of Games.md",
+    "Clippings/Bang the Machine Computer Gaming Art and Artifacts.md",
+    "Clippings/Game On.md",
+    "Clippings/Alien Intelligence.md",
+    "Clippings/Nettime-bold metabolics3.md",
+    "Clippings/Play. Il mondo dei videogiochi  Palazzo Esposizioni Roma.md",
+    "Clippings/Artcade.md",
+    "Clippings/Audience & Avatar - John Paul Bichard.md",
+    "04. Bibliografía/Bibliografía videojuegos/aabuze,+Gintere.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/gameshow.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Videogames  Art (Andy Clarke, Grethe Mitchell).pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Handbook of Computer Game Studies (Joost Raessens Jeffrey Goldstein).pdf",
+    "04. Bibliografía/Bibliografía filosofía/Argument_structure_representation.pdf",
+    "Untitled.canvas",
+    "Sin título.base",
+    "Capítulo 4.canvas",
+    "Canvas. El juego como caos.canvas",
+    "04. Bibliografía/Bibliografía filosofía/Sobre la firmeza del sabio, el ocio, la tranquilidad, la brevedad de la vida (Séneca).epub",
+    "04. Bibliografía/Bibliografía filosofía/El nacimiento de la tragedia (Friederich Nietzsche).pdf",
     "04. Bibliografía/Bibliografía arte/Essays_on_the_blurring_of_art.pdf",
-    "04. Bibliografía/Bibliografía arte/Art.pdf",
-    "Clippings/Vi åker jeep  We go by Jeep.md",
-    "Clippings/Precise Ambiguities.md",
-    "Clippings/Rirkrit Tiravanija. untitled (freestill). 1992199520072011-.md",
-    "01. Lecturas/Sicart-Beyond Choices The Design of Ethical Gameplay.md",
-    "Clippings/Proteus en Steam.md",
-    "playfulness.md",
-    "10. Imágenes/Pasted image 20260316125326.png",
-    "10. Imágenes/Pasted image 20260606002313.png",
-    "10. Imágenes/Pasted image 20260709003910.jpg",
-    "10. Imágenes/Pasted image 20260709012842.jpg",
-    "10. Imágenes/Pasted image 20260709012826.jpg"
+    "Untitled 1.canvas",
+    "Escritos/Artículos/Untitled.canvas",
+    "12. Gráficas/Teoria 1.canvas",
+    "12. Gráficas/Individuación.canvas"
   ]
 }

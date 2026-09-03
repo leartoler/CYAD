@@ -60,3 +60,4 @@ mientras realizaba alguna de estas actividades tan poco activas. En el caso de l
 En el caso de los videojuegos, no obstante, nos llegan con lúgubre regularidad noticias frescas de tragedias, ocurridas casi siempre en Asia. Las circunstancias son siempre similares: un joven aparece muerto ante el teclado, al parecer a causa de su enfermiza relación con esta sedentaria afición. — location: [176]() ^ref-21356
 
 ---
+A

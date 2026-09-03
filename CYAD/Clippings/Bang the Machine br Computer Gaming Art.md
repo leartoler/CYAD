@@ -1,0 +1,116 @@
+---
+title: "Bang the Machine: <br> Computer Gaming Art"
+source: "https://artdaily.cc/news/8209/Bang-the-Machine---br--Computer-Gaming-Art"
+author:
+  - "[[Artdaily]]"
+published:
+created: 2026-08-21
+description: "P  STRONG SAN FRANCISCO, CALIFORNIA.- /STRONG  Yerba Buena Center for the Arts presents an interactive multimedia exhibition that explores the histor"
+tags:
+  - "clippings"
+---
+[![Banner_01c1](https://artdaily.cc/banners/vbmuseum-2026-01.gif)](https://www.vbmuseum.org/)
+
+| The First Art Newspaper on the Net |  | Established in 1996 |  | Friday, August 21, 2026 |
+| --- | --- | --- | --- | --- |
+
+  
+[![undefined](https://artdaily.cc/banners/Artdaily-Amazon-14.jpg)](https://amzn.to/4uVRlkj)  
+Bang the Machine: Computer Gaming Art  
+[![undefined](https://artdaily.cc/banners/Artdaily-Amazon-42.jpg)](https://amzn.to/44FIurv)  
+
+**SAN FRANCISCO, CALIFORNIA.-** Yerba Buena Center for the Arts presents an interactive multimedia exhibition that explores the history and influence of computer game culture and the extraordinary relationship between interactive computer games and contemporary art. On view in our Galleries from January 17 through April 4, 2004, Bang the Machine: Computer Gaming Art and Artifacts is produced in partnership with the How They Got Game Project of the Stanford Humanities Laboratory, which will concurrently present the exhibit, Fictional Worlds, Virtual Experiences: Storytelling and Computer Games, at the Cantor Center for Visual Arts at Stanford University.  
+  
+Bang the Machine: Computer Gaming Art and Artifacts explores a wide variety of subject areas, from the relationship between computer games and military simulations to contemporary features and cross-fertilization with artistic endeavors. The primary exhibition, entitled Game Scenes, will feature the U.S. Army’s computer game, America’s Army, developed by the MOVES Institute of the Naval Postgraduate School in Monterey, California. America’s Army is a game designed by the military so that “young Americans could explore soldiering in the US Army” and “advance through progressive experiences ranging from basic training at Fort Benning, Ga., to Special Forces Assessment and Selection at Fort Bragg, N.C.” Co-curated by Henry Lowood, Curator for History of Science & Technology Collections at the Stanford University Libraries, the installation at Yerba Buena Center for the Arts will include artifacts simulating a battlefield environment like those in the game, created by Ignited Minds studio for the Electronic Entertainment Exposition. The CounterGaming areas of Game Scenes will present a wide range of game content and narrative media developed using game software. The exhibition will also feature a collection of machinima, animated movies made using game software.  
+  
+Game Scenes will showcase the work of a wide variety of national and international artists whose works are heavily influenced by computer games and associated technology. The artists’ projects include:  
+  
+\*Katherine Isbister and Rainey Straus will construct a virtual recreation of the Yerba Buena Center for the Arts Galleries in the online gaming environment of The Sims Online. The Sims Online is an interactive online environment where players can recreate their lives, families, friends and life choices. Isbister and Strauss will recreate the look of The Sims Online environment in the physical space of the Yerba Buena Center for the Arts complex. Visitors will be able to sit in the Galleries and access the game online, thereby occupying the virtual and physical space of the YBCA Galleries simultaneously.  
+  
+\*Janek Simon will create an interactive installation of the Carpet Invaders, which includes a floor projection of a videogame that simulates the early Space Invaders. The modular components of the videogame are made to resemble Afghani rug designs which reference weapons and warfare.  
+  
+\*Fur will present their interactive Painstation console, whose software is based on the early videogame, Pong. Players use their right hands to control a bat on screen, and must keep their left hand on the console’s “pain execution unit” to avoid ending the game. If a player’s bat misses a ball, his/her left hand suffers the consequences through the application of heat, electric shocks or a quick whipping.  
+  
+\*Jon Haddock will present a series of his Screenshots, drawings shown from an isometric perspective which draw on the visual vocabulary of computer games. Each drawing stages a socio-political event, (such as the assassination of Martin Luther King Jr. at the Lorraine Motel) used interchangeably with fictionalized events (such as the picnic scene from The Sound of Music).  
+  
+\*C-level will present Waco Resurrection, its first chapter of Endgames, a new 3D multiplayer computer game series based on alternative utopias and apocalyptic moments. In Waco Resurrection, each player enters the game as a David Koresh (wearing a real-life Koresh mask) and must defend the Branch Davidian compound against “internal intrigue, skeptical civilians, rival Koresh and the inexorable advance of government agents.”  
+  
+\*Italian artist Mauro Ceolin will present a series of portraits of videogame designers who have created the most inventive and original titles, and portraits of electronic musicians who sample old computer game music in their dance mixes.  
+  
+\*Acclaimed Bay Area graphic artist and graphic designer Amy Franceschini will create lemon-tree powered handheld games (such as Nintendo and Sony Playstation).  
+  
+\*Los Angeles-based artist Brody Condon will present 600 Polygon John Carmack, a 5-foot tall sculpture of legendary programmer John Carmack. The sculpture is not a portrait of Carmack, but a portrait of the low polygon game avatar of him that he developed for this game, Quake III.  
+  
+\*Acclaimed digital artists Paul Kaiser and Shelley Eshkar, who have collaborated with artists such as Merce Cunningham and Bill T. Jones, will create a room-sized installation entitled Arrival.  
+  
+\*New York-based artist Paul Johnson and Korean-based artist Sunny Kim present Budaechigae, a collaborative videogame project (Budaechigae or “army soup” is a spicy dish popularized during the famine conditions of the 1950-53 Korean War). In this game, Kim and Johnson create individual videogame characters or avatars which function as self portraits. Although both artists have designed the appearance, role and behavior of their respective avatars in advance, the relationship between them will evolve over the course of the exhibition. Each character’s behavior has been created without consultation between the artists.  
+  
+\*Futurefarmers presents Playshop, an open-access library that will occupy the physical space of the YBCA cafe. Playshop will present workshops, projects, lectures, performances and research and will act as an incubation space for collaboration and research that will foster discourse around art, technology and its related disciplines. In addition, Future Farmers will build a website that will serve as a window into the space featuring projects, researching and developments during Playshop. The website will extend Playshop beyond the exhibition and serve as a resource for artists working in similar media.  
+  
+The Game Scenes exhibition will also include a machinima movie series, curated by Galen Davis and Henry Lowood. Machinima are made and best viewed with the same software that is used to produce and play 3-D action games, usually “first-person shooters” like Quake and Unreal. Just as game developers use software called “game engines” to produce the sophisticated graphics, lighting and camera views in their games, machinima makers take advantage of this sophisticated software as a “found technology” that can be applied to making animated movies.  
+  
+Game Commons, an exhibition “plug-in” developed by the online floating work-space, Kingdom of Piracy (\<KOP>), will accompany the exhibition. Game Commons comprises three new artworks that are realized online, along with site-specific gallery installations, curated links and an open communication platform on the \<KOP>website. It celebrates game culture as an open sphere of exchange, interplay and re-appropriation. Game Commons connects the community values of game culture with notions of digital or creative commons that have recently reinvigorated the debate about the future shape of the information society. \<KOP> was launched at Ars Electronica 2002 and keeps re-inventing itself in different arenas and on different platforms. \<KOP> is co-curated by Shu Lea Cheang, Armin Medosch and Yukiko Shikata.  
+  
+The exhibition will also feature Club Busta Buena, an interactive videogame created by the youth from YBCA’s education program, Young Artists at Work. Through the exploration of drawing human anatomy, character creation, sculpture, painting, computer generated three-dimensional modeling, texturing and animation, each student will create an original textured, animated character model for their 3-dimensional game utilizing Studio Max software. The videogame, with code written by Dierdre Dixon, will allow Gallery visitors to experience distinct club rooms where they can test their dance skills against the coolest dancers in virtual space. The music featured in Club Busta Buena is the Young Artists original work from The DJ Project, created over Summer 2003.  
+  
+Bang the Machine: Computer Gaming Art and Artifacts  
+In conjunction with the How The Got Game Project of the Stanford Humanities Laboratory, the Center presents an exhibition that addresses the pervasive influence of computer game culture. The program explores a variety of subject areas, from the evolution of the game and its roots in military training applications to its contemporary features and cross-fertilization with artistic endeavors. Among the anticipated projects included in the exhibition are: interactive lemon-tree powered handheld games by acclaimed artist and graphic designer, Amy Franceschini; renderings of historic events in the isometric perspective of videogames by John Haddock; and a curated show in a virtual Yerba Buena Center for the Arts in The Sims Online created by Katherine Isbister/Rainey Straus. Also on display is an interactive videogame created by the youth from YBCA’s education program, Young Artists at Work. An exhibition plug-in by the Kingdom of Piracy, titled Game Commons, will accompany the exhibition. This exhibition considers the impact of networking and communal interaction related to online gaming and the Internet. A concurrent exhibit, Fictional Worlds, Virtual Experiences: Storytelling and Computer Games, will be open at the Cantor Center for Visual Arts at Stanford University.  
+  
+Mark Lombardi: Global Networks - Organized by Independent Curators International, Global Networks is a solo exhibition of Mark Lombardi’s large-scale drawings. Lombardi’s word illustrates connections between political leaders, corporate leaders, religious institutions and members of organized crime. Both intricate and monumental, the drawings are visual narratives of the complex networks through which capital circulates in a trans-national economy. Influential leaders such as George Bush, Ronald Reagan, Oliver North, Australian bankers Frank Nugan and Michael Hand, Pat Robertson, Bill Clinton and Saudi Banker Khalid bin Mahfouz are some of the protagonists in these narratives, teaming up with prominent international corporations and banks to further their political and economic agendas. A former librarian, Lombardi culled information from published sources, but made a point of stating that his research did not stem from primary research. Part of the 14,000 index cards upon which he recorded and noted this information will also be on display in the exhibition, as well as a documentary interview with the artist, who died in 2000.  
+  
+Tom Marioni: The Golden Rectangle - The Golden Rectangle is a solo exhibition featuring old and new work by Tom Marioni, one of the Bay Area’s most treasured conceptual artists. The main component of the exhibition is a site-specific installation commissioned by YBCA titled The Temple of Geometry. Consisting as a series of white cubes within the white cube of the gallery, The Temple treats the art viewing environment as a place of hushed reverence and quiet contemplation. The exhibition reflects Marioni’s interest in Asian art and thought, specifically Zen Buddhism, in emphasizing the creative process over the finished product, to the ephemeral over the permanent. Rather than giving primacy to the art object, Marioni treats the Gallery as a space for social interaction. In addition, Marioni will extend The Act of Drinking Beer with Friends, his ongoing performance project, into the Center’s Galleries, where he will be interacting with visitors on a weekly basis. Marioni’s exhibition coincides with Awake: Art, Buddhism and the Dimensions of Consciousness, a celebration of Buddhism and the arts taking place in various venues along the West Coast, organized by independent curators Mary Jane Jacob and Jacquelynn Baas.  
+  
+Funding - YBCA Visual Arts Programs are made possible in part by The Wallace Foundation; National Endowment for the Arts; Institute of Museum and Library Services; Novellus Systems, Inc.; Columbia Foundation; The Barbro Osher Pro Suecia Foundation; ChevronTexaco; Betlach Family Foundation; Metropolitan Life Foundation; Bank of American Foundation; Zellerbach Family Fund; adidas; The Japan Foundation; CENTURY 21®Fine Homes & EstatesSM; Korea Foundation; Asian Cultural Council; Mike Wilkins and Sheila Duignan; Gerson and Barbara Bakar Philanthropic Fund; Levi Strauss Foundation; LEF Foundation; Tony Hawk Foundation; The American-Scandinavian Foundation; Embassy of Sweden; SWEA International San Francisco Chapter; Austrian Consulate Los Angeles; Academy of Art College; Byron Meyer; and Roselyn C. Swig; Capital Group Companies Charitable Foundation; The Northwestern Mutual Foundation; James Irvine Foundation; Fagan Print Media; Delta Dental Plan of California; IDEO, The SBC Foundation, and Members of Yerba Buena Center for the Arts.  
+
+  
+[![undefined](https://artdaily.cc/banners/Artdaily-Amazon-44.jpg)](https://amzn.to/4bonLMy)  
+
+<table width="956"><tbody><tr><td width="531" rowspan="2">Today's News<br><br>August 21, 2026<br><br><a href="https://artdaily.cc/news/199315/The-Lewis-Collection-s-rare-Foujita-masterpieces-head-to-Sotheby-s-Hong-Kong">The Lewis Collection's rare Foujita masterpieces head to Sotheby's Hong Kong</a><br><br><a href="https://artdaily.cc/news/199336/Morphy-s-Sept--15-17-Firearms---Militaria-auction-features-nearly-1-200-lots-">Morphy's Sept. 15-17 Firearms & Militaria auction features nearly 1,200 lots</a><br><br><a href="https://artdaily.cc/news/199301/Rijksmuseum-receives-rare-17th-century-drawing-book">Rijksmuseum receives rare 17th-century drawing book</a><br><br><a href="https://artdaily.cc/news/199314/Christie-s-to-auction-Bill-Blass-collection-during-New-York-Fashion-Week">Christie's to auction Bill Blass collection during New York Fashion Week</a><br><br><a href="https://artdaily.cc/news/199311/Final-days-to-see-Rafael-Moreno-and-Yuyan-Wang-at-CRAC-Alsace">Final days to see Rafael Moreno and Yuyan Wang at CRAC Alsace</a><br><br><a href="https://artdaily.cc/news/199319/Julien-s-Auctions-launches-inaugural-Celebrity---Culture-Week-in-Abu-Dhabi">Julien's Auctions launches inaugural Celebrity & Culture Week in Abu Dhabi</a><br><br><a href="https://artdaily.cc/news/199303/Rare-vintage-print-by-anti-apartheid-photographer-Ernest-Cole-enters-private-sale">Rare vintage print by anti-apartheid photographer Ernest Cole enters private sale</a><br><br><a href="https://artdaily.cc/news/199321/Visionary-New-York-artist-Ted-Victoria-dies-at-85">Visionary New York artist Ted Victoria dies at 85</a><br><br><a href="https://artdaily.cc/news/199310/Pekka-Halonen-s-iconic-snowscapes-featured-in-new-exhibition-at-Ordrupgaard">Pekka Halonen's iconic snowscapes featured in new exhibition at Ordrupgaard</a><br><br><a href="https://artdaily.cc/news/199320/The-Mayor-Gallery-pairs-Michael-Landy-and-John-Tweddle-in-Market-Day">The Mayor Gallery pairs Michael Landy and John Tweddle in Market Day</a><br><br><a href="https://artdaily.cc/news/199318/75-years--Art-finds-a-home-at-Forest-Lawn">75 years: Art finds a home at Forest Lawn</a><br><br><a href="https://artdaily.cc/news/199302/Pierre-Bellot-to-present-new-abstract-works-exploring-surface-and-memory-at-Art---Concept">Pierre Bellot to present new abstract works exploring surface and memory at Art: Concept</a><br><br><a href="https://artdaily.cc/news/199312/Galleri-Magnus-Karlsson-hosts-Thomas-Broom--s-eighth-solo-exhibition-False-Idols">Galleri Magnus Karlsson hosts Thomas Broomé's eighth solo exhibition False Idols</a><br><br><a href="https://artdaily.cc/news/199313/Futura-Seoul-presents-3rd-Poem--Es-Devlin--Come-Home-Again">Futura Seoul presents 3rd Poem: Es Devlin, Come Home Again</a><br><br><a href="https://artdaily.cc/news/199304/Paul-Weinberg-featured-at-24th-DongGang-International-Photography-Festival">Paul Weinberg featured at 24th DongGang International Photography Festival</a><br><br><a href="https://artdaily.cc/news/199306/Silverlens-New-York-to-present-Geraldine-Javier-s-first-US-solo-exhibition">Silverlens New York to present Geraldine Javier's first US solo exhibition</a><br><br><a href="https://artdaily.cc/news/199307/Antwerp-s-Open-Monument-Day-2026-puts-volunteers-and-hidden-heritage-in-the-spotlight">Antwerp's Open Monument Day 2026 puts volunteers and hidden heritage in the spotlight</a><br><br><a href="https://artdaily.cc/news/199308/On-display--How-Graphic-Design-Shapes-Us-at-Museum-Angewandte-Kunst--Frankfurt">On display: How Graphic Design Shapes Us at Museum Angewandte Kunst, Frankfurt</a><br><br><a href="https://artdaily.cc/news/199309/Wallace-Chan-brings-monumental-titanium-sculptures-to-Shanghai-in-Vessels-of-Other-Worlds">Wallace Chan brings monumental titanium sculptures to Shanghai in Vessels of Other Worlds</a><br><br><a href="https://artdaily.cc/news/199316/Leading-curator-and-art-historian-Lisa-Slade-to-deliver-2026-National-Gallery-Annual-Lecture">Leading curator and art historian Lisa Slade to deliver 2026 National Gallery Annual Lecture</a><br><br><a href="https://artdaily.cc/news/199317/Temporary-Gallery--Centre-for-contemporary-art-presents-untame-flow-stay-release">Temporary Gallery. Centre for contemporary art presents untame flow stay release</a><br></td><td width="425"><ins><iframe width="406" height="280" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3790681608719523&output=html&h=280&slotname=1026646605&adk=1325327715&adf=2064555155&pi=t.ma~as.1026646605&abgtt=6&w=406&fwrn=4&fwrnh=100&lmt=1787294507&rafmt=1&format=406x280&url=https%3A%2F%2Fartdaily.cc%2Fnews%2F8209%2FBang-the-Machine---br--Computer-Gaming-Art&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUxLjAuNDEyOS45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q9QT9CcmFuZCIsIjk5LjAuMC4wIl0sWyJNaWNyb3NvZnQgRWRnZSIsIjE1MS4wLjQxMjkuOTMiXSxbIkNocm9taXVtIiwiMTUxLjAuNzkyMi4xMzgiXV0sMF0.&dt=1787294488982&bpp=29&bdt=1496&idt=371&shv=r20260820&mjsv=m202608170101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=1&correlator=1834540958596&frm=20&pv=2&u_tz=-360&u_his=1&u_h=1050&u_w=1680&u_ah=1002&u_aw=1680&u_cd=24&u_sd=1&dmc=32&adx=873&ady=3834&biw=1657&bih=918&scr_x=0&scr_y=193&eid=42532243%2C95397678%2C122880397%2C122880501&oid=2&pvsid=7232267098252472&tmod=2025628508&uas=0&nvt=1&ref=https%3A%2F%2Fwww.bing.com%2F&fc=1920&brdim=0%2C0%2C0%2C0%2C1680%2C0%2C1680%2C1002%2C1672%2C918&vis=1&rsz=d%7C%7CaEebr%7C&abl=CA&pfx=0&fu=16512&bc=true%2Ctrue%2Ctrue%2Ctrue%2Ctrue&bz=1&ifi=2&uci=a!2&btvi=1&fsb=1&dtd=18137"></iframe></ins><br><ins><iframe width="423" height="280" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3790681608719523&output=html&h=280&slotname=9308800612&adk=3943133612&adf=3330019697&pi=t.ma~as.9308800612&abgtt=6&w=423&fwrn=4&fwrnh=100&lmt=1787294507&rafmt=1&format=423x280&url=https%3A%2F%2Fartdaily.cc%2Fnews%2F8209%2FBang-the-Machine---br--Computer-Gaming-Art&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUxLjAuNDEyOS45MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q9QT9CcmFuZCIsIjk5LjAuMC4wIl0sWyJNaWNyb3NvZnQgRWRnZSIsIjE1MS4wLjQxMjkuOTMiXSxbIkNocm9taXVtIiwiMTUxLjAuNzkyMi4xMzgiXV0sMF0.&dt=1787294489056&bpp=1&bdt=1570&idt=357&shv=r20260820&mjsv=m202608170101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C406x280&nras=1&correlator=1834540958596&frm=20&pv=1&u_tz=-360&u_his=1&u_h=1050&u_w=1680&u_ah=1002&u_aw=1680&u_cd=24&u_sd=1&dmc=32&adx=873&ady=4128&biw=1657&bih=918&scr_x=0&scr_y=500&eid=42532243%2C95397678%2C122880397%2C122880501&oid=2&pvsid=7232267098252472&tmod=2025628508&uas=0&nvt=1&ref=https%3A%2F%2Fwww.bing.com%2F&fc=1920&brdim=0%2C0%2C0%2C0%2C1680%2C0%2C1680%2C1002%2C1672%2C918&vis=1&rsz=d%7C%7CaEebr%7C&abl=CA&pfx=0&fu=16512&bc=true%2Ctrue%2Ctrue%2Ctrue%2Ctrue&bz=1&ifi=3&uci=a!3&btvi=2&fsb=1&dtd=18123"></iframe></ins></td></tr></tbody></table>
+
+---
+
+  
+[Museums](https://artdaily.cc/index.asp?int_sec=100), [Exhibits](https://artdaily.cc/index.asp?int_sec=101), [Artists](https://artdaily.cc/index.asp?int_sec=102), [Milestones](https://artdaily.cc/index.asp?int_sec=103), [Digital Art](https://artdaily.cc/index.asp?int_sec=104), [Architecture](https://artdaily.cc/index.asp?int_sec=106), [Photography](https://artdaily.cc/index.asp?int_sec=107),  
+[Photographers](https://artdaily.cc/index.asp?int_sec=108), [Special Photos](https://artdaily.cc/index.asp?int_sec=109), [Special Reports](https://artdaily.cc/index.asp?int_sec=123), [Featured Stories](https://artdaily.cc/index.asp?int_sec=111), [Auctions](https://artdaily.cc/index.asp?int_sec=112), [Art Fairs](https://artdaily.cc/index.asp?int_sec=113),  
+[Anecdotes](https://artdaily.cc/index.asp?int_sec=114), [Art Quiz](https://artdaily.cc/index.asp?int_sec=121), [Education](https://artdaily.cc/index.asp?int_sec=115), [Mythology](https://artdaily.cc/index.asp?int_sec=116), [3D Images](https://artdaily.cc/index.asp?int_sec=118), [Last Week](https://artdaily.cc/index.asp?int_sec=2&int_modo=2), .
+
+---
+
+---
+
+  
+[Founder:  
+Ignacio Villarreal  
+(1941 - 2019)](https://artdaily.com/ix/)  
+  
+Editor: [Ofelia Zurbia Betancourt](mailto:artdailynews@yahoo.com)  
+  
+Art Director: Juan José Sepúlveda Ramírez  
+
+---
+
+  
+Royalville Communications, Inc  
+produces:  
+  
+
+| [ignaciovillarreal](https://artdaily.com/ix/) | [facundocabral-elfinal.org](https://artdaily.com/ix/facundo-cabral/) |  |  |
+| --- | --- | --- | --- |
+| Founder's Site. | Hommage |  |  |
+|  |  |  |  |
+
+![](https://artdaily.cc/news/8209/images/close.gif)
+
+Tell a Friend
+
+Dear User, please complete the form below in order to recommend the Artdaily newsletter to someone you know.
+
+Please complete all fields marked \*.
+
+Sending Mail
+
+![](https://artdaily.cc/images/ajax-loader.gif)
+
+Sending Successful
+
+![](https://artdaily.cc/images/ok.png)

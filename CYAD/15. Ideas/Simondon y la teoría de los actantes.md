@@ -1,0 +1,1 @@
+ tengo la hipótesis de que solo los objetos técnicos concretos pueden ser actantes en tanto tienen una autonomía lejos del creados, por lo que solo así pueden ser vistos como elementos con su propia agencia y no solo como herramientas que permiten la acción de cada uno de los hujumanos que lo manipula. 

@@ -14,6 +14,11 @@ Consultado:
 
 (Concepto::Punto de acumulación: límite de convergencia de todos los progresos realizables sin cambios en la axiomática)
 
+(Concepto::Iatroquímica)
+	microcosmos individual con un centro 
+
+(Concepto::Archeus (150))
+	Principio inmaterial, diferente al alma, que tienen todos, vivos o no. Esencial para entender lo energético en la alquimia.
 
 ---
 # <mark style="background: #FFF3A3A6;">Tema</mark>
@@ -677,39 +682,214 @@ En esta sección se aborda el surgimiento del sentimiento de universalidad del v
 
 ![[Pasted image 20260709012842.jpg]]
 
+---
 
+## Nacimiento de la tecnología (1970)
 
+(Tema::Espíritu tecnológico de occidente (131))
 
+(Tema::Máquina como encadenamiento de operadores (131))
 
+(Tema::Automatismo como esencia del maquinismo (132))
 
+(Tema::Maquinismo y naturaleza. Orden de magnitud (132))
 
+(Tema::Máquina (132))
 
+(Tema::Logos de la máquina. Transformación (132))
+	(+) Hay más que agrupamiento en el conjunto
+	(+) En una máquina esta transferencia en cadena es serial y convergente. En algo orgánico es emergente. 
 
+(Tema::Estructuras de la tecnología física de las máquinas (133))
+	(+) El acercamiento que tiene un videojuego también implica cambios de estado.
 
+(Tema::La alquimia. ciencia y técnica: convergencia y separación (135))
 
+(Tema::Sobre el humunculo (136))
 
+###### - Sobre el hermetismo y el fin de la alquimia. (145-146)
 
+Se habla de órdenes de magnitud entre la alquimia y los primeros procesos químicos. 
 
+- El fin de la alquimia coincide con el inicio del procedimiento de la destilación. 
+- El hermetismo mecanicista como algo individual. Se da un cerrazón
 
+(Tema::Sobre cómo la alquimia supone un continuo cambio entre diferentes reinos (148))
 
+(Tema::Sobre los diferentes tipos de compartimiento según el lugar geográfico en donde se viva. Paralelismo con el cuerpo humano (148))
 
+###### - Sobre la naturaleza del alquimista y de lo que se mantiene continuo. (150 - 152).
 
+Sobre el cambio y cómo hay algo que se mantiene. VEr en este caso la lectura de Octavia Butler. #Octavia_Butler
 
+(Tema::Alquimista (150))
 
+(Tema::Transmutación del alma (150))
 
+(Tema::Continuidad (152))
 
+###### - Creación procedural. Potencia creadora al inicio. (153)
+Se ve una similitud entre el pensamiento de Van Helmut y el movimiento de las máquinas, con una energía inicial.
 
+(Tema::Pensamiento de Van Helmont (153))
+	#Van_Helmont
 
+(Tema::Principios entre Van Helmont y el cartesianismo (153))
 
+(Tema::Archeus como agente seminal (153))
+	#archeus
 
+El blas es la fuerza impulsora, que puede ser involuntario o voluntario.
 
+(Tema::Sobre el papel del alquimista (165))
 
+###### - Sobre el valor del movimiento (154-155)
+Se da una diferenciación con la contemplación de oriente y que posteriormente retoma Kant
 
+(Tema::Valor del movimiento (154))
 
+###### - Sobre la operación técnica (155-156)
+Se da a entender al proceso continuo como algo continuo con un principio generador y sin fin
 
+(Tema::Operación técnica (155))
 
+(Tema::Técnica)
 
+(Tema::Transfinitud o iteración)
 
+(Tema::El saber tecnológico (156))
+
+###### - Procedimiento de análisis (157)
+
+(Tema::Procedimiento de análisis (157))
+
+###### - Sobre el simbolismo, el lenguaje, código y ley (160)
+
+(Nota::Según Berthelot, era un deber religioso hablar en enigmas porque los dioses estaban celosos de que los hombres escribieran (159))
+
+(Tema::Simbolismo (160))
+
+(Tema::Código (166))
+
+(Tema::Ley (166))
+
+###### - Paralelismo entre la alquimia y el pensamiento recursivo (162-163)
+
+(Tema::Alquimia, técnica y reproducción. Continuación (162))
+
+(Nota::La técnica es una aceleración de los procesos naturales. No hay oposición entre naturaleza y técnica (163))
+
+###### - Conclusión sobre el hermetismo. Las técnicas primitivas (164)
+
+(Tema::Las técnicas primitivas (162))
+
+(Tema::Sistema cerrado)
+
+(Tema::Sistema abierto)
+
+###### - Técnica cerrada. Perfeccionamiento (164-165)
+
+(Tema::Tecnica cerrada (164))
+
+###### - Hermetismo (165)
+
+(Tema::Sobre el hermetismo (165))
+
+(Tema::Hermetismo. Un punto entre lo abierto y lo cerrado (165))
+
+###### - Sobre el código (167)
+
+(Tema::Aparición del código (167))
+
+(Tema::Código y mecánica (167-168))
+
+###### - Sobre la mecánica (168)
+
+(Tema::Mecánica (167-168))
+
+(Tema::La mecánica y su ausencia en la determinación de un modelo cultural (168))
+
+(Tema::La mecánica se convierte en fuente de cultura al regular (168))
+
+(Tema::Conformación de un código en la mecánica (168))
+
+(Tema::Noción de trabajo en la mecánica (168))
+
+(Nota::maquinismo no solo está en lo técnico, como ejemplo está el uso de los microorganismos en alimentos o medicamentos (168))
+
+###### - 3 momentos del hermetismo (169)
+
+(Tema::3 momentos del hermetismo (169))
+
+###### - Sobre el hermetismo de lo divino, que es ascendente (170)
+
+(Tema::Hermetismo mecánico, de organismos a lo social (170))
+
+(Tema::Mecánica elemental (170))
+
+(Idea:: (+) Bajo el concepto de mecánica elemental funciona también lo digital, con los elementos mínimos del lenguaje formal y la construcción de elementos, clases, etc. Todo de forma digital)
+
+(Nota::El mecanisismo es ascendente e incluso inverso al antiguo. En vez de animizar a los minerales, como la alquimia, mecaniza al espiritu (171))
+
+(Idea:: (+) Lo digital va en el mismo sentido. DIgitaliza al alma)
+
+(Nota::La realidad del mecanisismo y del hermetismo antiguo suponen una realidad continua (171))
+
+###### - Los 3 niveles de progreso y sus formas 
+
+(Tema::3 niveles de progreso (172))
+
+(Tema::3 etapas del desarrollo del hermetismo (172))
+
+###### - Técnica abierta y cerrada. Hombre y naturaleza (173)
+
+(Idea::Técnica abierta y cerrada. Hombre y naturaleza (173))
+
+###### Escritos
+
+![[Pasted image 20260902100947.jpg]]
+
+![[Pasted image 20260902101001.jpg]]
+
+![[Pasted image 20260902101014.jpg]]
+
+![[Pasted image 20260902101033.jpg]]
+
+![[Pasted image 20260902101045.jpg]]
+
+![[Pasted image 20260902101057.jpg]]
+
+![[Pasted image 20260902101112.jpg]]
+
+![[Pasted image 20260902101136.jpg]]
+
+![[Pasted image 20260902101150.jpg]]
+
+![[Pasted image 20260902101201.jpg]]
+
+![[Pasted image 20260902101215.jpg]]
+
+![[Pasted image 20260902101230.jpg]]
+
+![[Pasted image 20260902101242.jpg]]
+
+![[Pasted image 20260902101252.jpg]]
+
+![[Pasted image 20260902101325.jpg]]
+
+![[Pasted image 20260902101336.jpg]]
+
+![[Pasted image 20260902101347.jpg]]
+
+![[Pasted image 20260902101358.jpg]]
+
+![[Pasted image 20260902101411.jpg]]
+
+![[Pasted image 20260902101422.jpg]]
+
+![[Pasted image 20260902101433.jpg]]
+
+![[Pasted image 20260902101444.jpg]]
 
 
 ---
@@ -846,6 +1026,11 @@ En esta sección se aborda el surgimiento del sentimiento de universalidad del v
 (Nota::Para la tecnicidad lo que no optimiza y destruye es monstruoso, tal como sucede con la pena de munerte. Tal acción total solo es coherente dentro de un sistema mágico y sacro (129))
 	#monstruoso #tecnicidad 
 
+---
+
+(Nota::El efecto de regulación es reacción positiva. El auto mantenimiento es reacción positiva (136))
+
+
 
 
 ---
@@ -894,7 +1079,7 @@ En esta sección se aborda el surgimiento del sentimiento de universalidad del v
 (Idea::El juicio de valor y concepción de lo técnico en subconjunto puede verse en esta visión actual sobre sobre todo como un sistema y en el porqué se relaciona el videojuego en esta fase histórica donde el sistema predomina)
 	#sistema #conjuntos
 
-
+(Idea::¿cuál es el hermetismo de ahorita? Con el cerrazón del macrocosmos y preocupaciones estratégicas, cuyo monopolio de las grandes empresas buscan prever su porvenir)
 
 
 ---
@@ -905,6 +1090,15 @@ En esta sección se aborda el surgimiento del sentimiento de universalidad del v
 (Pregunta::¿A qué se refiere el autor cuando menciona un objeto técnico rico en arquetipos y poder normativo?)
 
 (Pregunta::¿Lo del objeto técnico y conjunto, tomado desde un nivel macro, niega lo dicho en el primer libro?)
+
+---
+
+(Pregunta::¿En qué momento se da la relación eficaz con la naturaleza y esta consigo mismo, dentro del encadenamiento que provee la máquina? (133))
+
+(Pregunta::En la alquimia hay un cambio de estado. ¿Lo digital puede suponer lo mismo? Un cambio de lo eléctrico a lo virtual y de una simulación (136))
+
+
+
 
 
 ---

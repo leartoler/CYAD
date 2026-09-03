@@ -1,0 +1,12 @@
+{
+  "author": "Fabian",
+  "sendmail": "fabian.gutiferrez.gomez@gmail.com",
+  "kindlemail": "fabian.gutierrez.gomez_BCrx2R@kindle.com",
+  "port": "587",
+  "smtphost": "smtp@gmail.com",
+  "pass": "Kalinifta",
+  "expath": "",
+  "backend": "https://staneks.de/apps/md2mobi/",
+  "pagebreak": true,
+  "user": "fabian@obsidian.md"
+}
