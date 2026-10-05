@@ -104,7 +104,8 @@
       "2026-07-10",
       "2026-07-14",
       "2026-07-20",
-      "2026-08-13"
+      "2026-08-13",
+      "2026-09-02"
     ],
     "dailyActivity": [
       {
@@ -9990,9 +9991,442 @@
         "charCountStart": 453,
         "changes": [],
         "id": 664
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "Clippings/MILAN MACHINIMA FESTIVAL.md",
+        "wordCountStart": 55,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 665
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+        "wordCountStart": 1214,
+        "charCountStart": 7841,
+        "changes": [],
+        "id": 666
+      },
+      {
+        "date": "2026-09-01",
+        "filePath": "01. Lecturas Videojuegos/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+        "wordCountStart": 153,
+        "charCountStart": 1159,
+        "changes": [],
+        "id": 667
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Videojuegos/Mäyrä, F., (2008). An Introduction to Game Studies. Games in Culture.md",
+        "wordCountStart": 153,
+        "charCountStart": 1159,
+        "changes": [],
+        "id": 668
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "Clippings/When Games Break The 5th Wall.md",
+        "wordCountStart": 4744,
+        "charCountStart": 25600,
+        "changes": [],
+        "id": 669
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "Clippings/the SECRET CHIPS inside ’90s cartridges  when games were more powerful than the consoles.md",
+        "wordCountStart": 5725,
+        "charCountStart": 33064,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 530,
+            "c": 3216
+          }
+        ],
+        "id": 670
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 7188,
+        "charCountStart": 47639,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 325,
+            "c": 2170
+          },
+          {
+            "timeKey": "09:45",
+            "w": 96,
+            "c": 657
+          },
+          {
+            "timeKey": "09:50",
+            "w": 87,
+            "c": 629
+          },
+          {
+            "timeKey": "09:55",
+            "w": 115,
+            "c": 834
+          },
+          {
+            "timeKey": "10:00",
+            "w": 119,
+            "c": 800
+          },
+          {
+            "timeKey": "10:05",
+            "w": 114,
+            "c": 785
+          },
+          {
+            "timeKey": "10:10",
+            "w": 76,
+            "c": 713
+          },
+          {
+            "timeKey": "10:15",
+            "w": 8,
+            "c": 72
+          }
+        ],
+        "id": 671
+      },
+      {
+        "date": "2026-09-02",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 672
+      },
+      {
+        "date": "2026-09-03",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 673
+      },
+      {
+        "date": "2026-09-04",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 674
+      },
+      {
+        "date": "2026-09-05",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 675
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Videojuegos/Casa encendida (2008). Try Again.md",
+        "wordCountStart": 498,
+        "charCountStart": 3348,
+        "changes": [],
+        "id": 676
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Clippings/Dreams Come True.md",
+        "wordCountStart": 507,
+        "charCountStart": 3382,
+        "changes": [],
+        "id": 677
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 678
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano..md",
+        "wordCountStart": 256,
+        "charCountStart": 2120,
+        "changes": [],
+        "id": 679
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
+        "wordCountStart": 256,
+        "charCountStart": 2120,
+        "changes": [],
+        "id": 680
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo.md",
+        "wordCountStart": 2633,
+        "charCountStart": 16461,
+        "changes": [],
+        "id": 681
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Clippings/Audience & Avatar - John Paul Bichard.md",
+        "wordCountStart": 452,
+        "charCountStart": 2901,
+        "changes": [],
+        "id": 682
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
+        "wordCountStart": 1192,
+        "charCountStart": 7308,
+        "changes": [],
+        "id": 683
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7159,
+        "charCountStart": 44979,
+        "changes": [],
+        "id": 684
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+        "wordCountStart": 807,
+        "charCountStart": 5720,
+        "changes": [],
+        "id": 685
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "02. Conceptos/individuación.md",
+        "wordCountStart": 314,
+        "charCountStart": 2598,
+        "changes": [],
+        "id": 686
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7046,
+        "charCountStart": 44213,
+        "changes": [],
+        "id": 687
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+        "wordCountStart": 6045,
+        "charCountStart": 38337,
+        "changes": [],
+        "id": 688
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 8128,
+        "charCountStart": 54299,
+        "changes": [],
+        "id": 689
+      },
+      {
+        "date": "2026-09-09",
+        "filePath": "Clippings/Entrevista a Susana P. Tosca entre la ludología y los mundos transmedia.md",
+        "wordCountStart": 1234,
+        "charCountStart": 8273,
+        "changes": [],
+        "id": 690
+      },
+      {
+        "date": "2026-09-11",
+        "filePath": "Clippings/Entrevista a Susana P. Tosca entre la ludología y los mundos transmedia.md",
+        "wordCountStart": 1234,
+        "charCountStart": 8273,
+        "changes": [],
+        "id": 691
+      },
+      {
+        "date": "2026-09-11",
+        "filePath": "Clippings/En abril inicia credencialización del Servicio Universal de Salud.md",
+        "wordCountStart": 67,
+        "charCountStart": 493,
+        "changes": [],
+        "id": 692
+      },
+      {
+        "date": "2026-09-17",
+        "filePath": "Clippings/En abril inicia credencialización del Servicio Universal de Salud.md",
+        "wordCountStart": 67,
+        "charCountStart": 493,
+        "changes": [],
+        "id": 693
+      },
+      {
+        "date": "2026-09-21",
+        "filePath": "Clippings/En abril inicia credencialización del Servicio Universal de Salud.md",
+        "wordCountStart": 67,
+        "charCountStart": 493,
+        "changes": [],
+        "id": 694
+      },
+      {
+        "date": "2026-09-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería.md",
+        "wordCountStart": 1308,
+        "charCountStart": 7748,
+        "changes": [],
+        "id": 695
+      },
+      {
+        "date": "2026-09-21",
+        "filePath": "Escritos/Complejidad y Videojuegos/Complejidad y videojuegos.md",
+        "wordCountStart": 72,
+        "charCountStart": 432,
+        "changes": [],
+        "id": 696
+      },
+      {
+        "date": "2026-09-22",
+        "filePath": "Clippings/En abril inicia credencialización del Servicio Universal de Salud.md",
+        "wordCountStart": 67,
+        "charCountStart": 480,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": -67,
+            "c": -480
+          }
+        ],
+        "id": 697
+      },
+      {
+        "date": "2026-09-22",
+        "filePath": "02. Conceptos/individuación.md",
+        "wordCountStart": 314,
+        "charCountStart": 2598,
+        "changes": [],
+        "id": 698
+      },
+      {
+        "date": "2026-09-22",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 147,
+        "charCountStart": 1162,
+        "changes": [],
+        "id": 699
+      },
+      {
+        "date": "2026-09-22",
+        "filePath": "Clippings/Entrevista a Susana P. Tosca entre la ludología y los mundos transmedia.md",
+        "wordCountStart": 1234,
+        "charCountStart": 8273,
+        "changes": [],
+        "id": 700
+      },
+      {
+        "date": "2026-09-22",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7159,
+        "charCountStart": 44979,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 701
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7046,
+        "charCountStart": 44213,
+        "changes": [],
+        "id": 702
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7159,
+        "charCountStart": 44981,
+        "changes": [],
+        "id": 703
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "20. Comentarios/20260514. Dra. Euridice..md",
+        "wordCountStart": 1106,
+        "charCountStart": 7334,
+        "changes": [],
+        "id": 704
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "20. Comentarios/20250925. Dr. Bastarrachea.md",
+        "wordCountStart": 1460,
+        "charCountStart": 9042,
+        "changes": [],
+        "id": 705
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "20. Comentarios/Simondon y la génesis del objeto técnico.md",
+        "wordCountStart": 1560,
+        "charCountStart": 9408,
+        "changes": [],
+        "id": 706
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Clippings/La Teoría de la Información de Gilbert Simondon  La individuación ~ G. Simondon 610.md",
+        "wordCountStart": 5045,
+        "charCountStart": 28895,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 472,
+            "c": 2865
+          }
+        ],
+        "id": 707
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Clippings/European Commission stops short of imposing mandatory requirements following citizens' Stop Destroying Videogames initiative.md",
+        "wordCountStart": 912,
+        "charCountStart": 6571,
+        "changes": [],
+        "id": 708
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Clippings/Commission will engage with industry following European Citizens' Initiative on the disabling of videogames by publishers.md",
+        "wordCountStart": 349,
+        "charCountStart": 2582,
+        "changes": [],
+        "id": 709
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Clippings/Stop Killing Games says 'the fight goes on' after European Commission rejects proposed rule changes 'We're much more than just this single petition'.md",
+        "wordCountStart": 1104,
+        "charCountStart": 7194,
+        "changes": [],
+        "id": 710
       }
     ],
-    "wholeVaultWordCount": 559796,
-    "wholeVaultCharCount": 3662737
+    "wholeVaultWordCount": 561738,
+    "wholeVaultCharCount": 3675480
   }
 }

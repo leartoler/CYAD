@@ -66,7 +66,7 @@
     "connections_list_component_key": "connections_list_v4",
     "frontmatter_filter_include": "",
     "frontmatter_filter_exclude": "",
-    "footer_connections": false
+    "footer_connections": true
   },
   "context_items": {
     "template_preset": "xml_structured",

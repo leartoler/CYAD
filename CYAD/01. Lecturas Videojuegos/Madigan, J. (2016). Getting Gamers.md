@@ -30,6 +30,10 @@ Consultado:
 ---
 # <mark style="background: #FFB86CA6;">Nota</mark> 
 
+75 - Se habla sobre el suceso de Anita Sarkeesian y de su canal en el que cuestiona los tropos de los videojuegos y como son mayoritariamente machistas. 
+
+
+
 
 ---
 # <mark style="background: #ADD8E6;">Idea</mark>

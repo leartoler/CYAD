@@ -23,12 +23,14 @@ Consultado:
 	+ Se da una importancia a la interactividad, tanto en el diseño como en la forma en que lo percibimos
 		#interacción
 
+
 ### 1.1. The old and the new
 
 (Tema::Las computadoras y las nuevas formas de jugar (15))
 	- "computers work as enablers of games, letting us play old games in new ways, and allowing for new types of games that would previously not have been possible."
 	- the question is not whether video games are old or new, but how video games are games, how they borrow from nonelectronic games, and how they depart from traditional game forms. 
-	
+
+
 ### 1.2. The game as rules
 
 (Tema::Dos formas en que los juegos se estructuran y enfrentan al jugador (16))
@@ -36,7 +38,8 @@ Consultado:
 		two basic ways in which games are structured and provide challenges for players: that of emergence (a number of simple rules combining to form interesting variations) and that of progression (separate challenges presented serially).
 	(+) La progresión es la que está mas asociado al videojuego y dentro del papel del diseñador
 		#emergencia #Jugador 
-	
+
+
 ### 1.3.Game as fiction
 
 (Tema::Las reglas dan un sentido de dirección (17))
@@ -47,6 +50,7 @@ Consultado:
 (Tema::El papel de la ficción (17))
 	Cómo cambia la ficción en el videojuego: 
 		"Fiction plays a different role in different games and game genres, and while some players may be thrilled by the fiction of a game, others may dismiss it as unimportant decoration of the game rules."
+
 
 ### 1.4.What a game is
 
@@ -59,9 +63,11 @@ Consultado:
 		 5. the player feels emotionally attached to the outcome; 
 		 6. and the consequences of the activity are optional and negotiable.
 
+
 ### 1.5. The study of videogames
 
 Se habla sobre cómo no se casa con ninguna tradición y que dará una breve semblanza sobre la historia de los videojuegos
+
 
 ### 1.6. Game for other purposes
 
@@ -74,6 +80,7 @@ Se habla sobre cómo no se casa con ninguna tradición y que dará una breve sem
 	Allen newel y el uso del juego como modelo para estudiar la resolución de problemas
 		"Games and game-like problems have been commonly used for studying human problem solving-for example, in the work of Allen Newell and Herbert A. Simon (1972). "
 			#Allen_Newell #Herbert_Simon
+
 
 ### 1.7. Games fot their own sake
 
@@ -88,12 +95,14 @@ Se habla sobre cómo no se casa con ninguna tradición y que dará una breve sem
 (Tema::Bernard Suit y su filosofía del deporte (23))
 	Suit comenta sobre que el juego es donde el jugador alcanza su objetivo de la manera menos efectiva:
 > 		"The Grasshopper (1978), where a series of game definitions are proposed and discussed. Suits is best known for his description of games as letting the player reach the goal using only the less efficient means available."
-> 
+
+
 ### 1.8. Video game studies
 
 (Tema::Estudio de los videojuegos (24))
 	Muchos de los temas a discutir dentro de los videojuegos son con relación a dicotomías que enfrentan polos opuestos: 
 > 		"Video game studies have so far been a jumble of disagreements and discussions with no clear outcomes, but this need not be a problem. The discussions have often taken the form of simple dichotomies, and though they are unresolved, they remain focal points in the study of games. The most important conflicts here are games versus players, rules versus fiction, games versus stories, games versus the broader culture, and game ontology versus game aesthetics."
+
 
 ### 1.9. Games or players
 
@@ -114,41 +123,90 @@ Se habla sobre cómo no se casa con ninguna tradición y que dará una breve sem
 > 		"We cannot ignore the role of the rules without ignoring a basic aspect of the player experience: that different games yield different kinds of experiences."
 
 
-
 ### 1.10. Rules or fiction
 
+(Tema:: Principio de irrelevancia (25))
+	Según Irving Goofman es cuando algún elemento de un juego no es importante, como el caso de que un caballo en ajedrez sea hecho de pan.
+
+(Nota::Para Caillois no puede subsistir las reglas con la historia (26))
+
+(Tema::La ficción no es tan importante para Juul (27))
+	Debido princpalmente a: 
+	1. Rules are what makes a game a game. 
+	2. Fiction is incidental to whether something is a game. 
+	3. A game can be interesting without fiction. 
+	4. A game with an interesting fictional world can be a terrible game. 
+	5. Therefore, fiction in games is unimportant.
+
+(Tema::Representación en el juego (28))
+	[[Frank Lantz]] comenta que la representación de un juego es irrelevante. Sin embargo, como comenta Juul al final, las reglas pueden ser parte representacional de una forma alegórica.
 
 
 ### 1.11. Games telling stories
 
+(Tema::Discusión sobre la historia de los gamestudies y cómo se fue sesarrollando (31-33))
+
+(Tema::Ludología(33))
+	Ludology was probably popularized by Gonzalo Frasca's 1999 article "Ludology Meets Narratology.
 
 
 ### 1.12. Games or the borader culture
 
+(Tema::Henry Jenskins como transmedia (33))
+	Henry Jenkins (2003) sees video games as part of a bigger complex of transmedia storytelling, where content can move between different media. 
+	Y continua
+	video games are part of a general ecology of transmedia storytelling.
 
 
 ### 1.13. Game ontology or game staethics
 
+(Tema::Ontología y estética (34))
+	DEbate entre lo que es un videojuego y lo que lo hace disfrutable (estética).
+
+(Tema::Diversos tipos de juego (35))
+	video games are also part of a general game ecology, where the video game incorporates other kinds of games and inspires other types of games.
 
 
 ### 1.14. Fun in theory
 
+(Nota::El juego provee un contexto para las acciones. Las reglas de un juego suman significados y permiten acciones diferenciado entre movimientos. (35))
 
-### 1.15. The cultural status of games
-
-
-
-
-### 1.16. 
-
-###
-
-
+(Tema::Conflicto en el juego (36))
+	El conflicto en un juego proporciona un contexto para una interacción social. Uno entre en un mundo de interacción simbólica. 
 
 
 ## 2. Video Games and the Classic Game Model
 
+(Tema::Lo que debe de tener una buena definición de videojuego (43))
+	1. Sistema con las reglas
+	2. Relación entre el juego y el jugador del juego
+	3. Relación entre el estar jugando y el resto del mundo.
 
+(Tema::Sobre los nuevos juegos (51))
+	Es durante el último momento del siglo 20 en que comienzan a aparecer juegos que confrontan el modelo clásico. 
+	Tener una definición de juego funciona para poder crear nuevos tipos de juegos, unos que no se hayan tratado antes.
+
+
+### 1. The language issue
+
+(Nota::Jugar es una actividad libre, pero el juego es una actividad basada en reglas (51))
+
+### 2. Some previous definitions
+
+(Tema::Algunas definiciones sobre lo que es el juego (53))
+	![[Juul, J. (2005) Half-Real-1790909873540.webp]]
+
+
+### 3. Rules and outcomes
+
+(Nota::La viariabilidad de un sistema es importante. Si fuera la misma, no calificaría como juego)
+
+(Nota::El resultado del juego debe de ser cuantificable (55))
+
+### 4. Goals and conflicts
+
+(Tema::Autores que hablan de objetivos(55))
+	Entre ellos se encuentra Suits. Salem y Zimerman se refieren a ellos de manera implicita, igualmente Crawford
 
 ## 3. Rules
 
@@ -225,7 +283,9 @@ Se habla sobre cómo no se casa con ninguna tradición y que dará una breve sem
 # <mark style="background: #ADD7B9;">Investigar</mark>
 
 - [ ] Investigar sobre el artículo de Juul en donde discute las diferencias entre juegos y películas.
-- [ ] 
+- [ ] [[Puls in Space]]
+- [ ] [[Game liberation]]
+- [ ] Chris Crawford's seminal The Art of Computer Game Design (1982)
 
 
 

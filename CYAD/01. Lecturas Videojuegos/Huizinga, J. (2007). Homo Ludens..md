@@ -14,9 +14,9 @@ Consultado:
 
 
 ---
-### <mark style="background: #FFF3A3A6;">Tema</mark>
+# <mark style="background: #FFF3A3A6;">Tema</mark>
 
-#### 1. Esencia y significación del juego como fenómeno cultural
+## 1. Esencia y significación del juego como fenómeno cultural
 
 (Tema::El juego más allá de la cultura (14))
 
@@ -70,7 +70,40 @@ Consultado:
 
 ![[Pasted image 20260316125423.png]]
 
-#### 2. El concepto de juego y sus expresiones en el lenguaje
+## 2. El concepto de juego y sus expresiones en el lenguaje
+
+(Tema:: competencia y juego (46))
+En los helenicos la competencia está unido a la función cultural y está unido al juego, la fiesta y la acción sacra. 
+
+(Tema::Lo serio y el juego(64))
+Lo serio se determina y agota con la negación del juego. El juego, por el contrario, no se define ni se agota por lo no serio. Lo serio trata de excluir el juego, mientras que el juego puede incluir lo serio.
+
+## 3. Juego y competición, función creadora de cultura
+
+65-La cultura atiende en forma de juego, la cultura al principio se juega. De ahí que la cultura, en sus fases primarias, tiene algo de lúdica, se desarrolla en las formas y con el ánimo de juego
+
+66-para huizinga el juego social es más fecundo para la cultura, al igual que aquel que tiene valores morales, intelectuales, etc. (+) Poner en este caso el papel que tienen los eSport a la hora de formar una cultura.
+
+66-un rasgo del juego es su carácter antiético, aunque no siempre agonal. Otra característica es la tensión y la incertidumbre. 
+
+66-Por otra parte la competencia y la exhibición preceden a la diversión como parte de la cultura.
+
+68- el espectáculo sagrado y la fiesta agonal son formas universales en los que le cultura surge dentro del juego y como juego. + Poner aquí lo dionisiaco.
+
+69-la finalidad de la competencia es en si misma, característica que comparte de la misma manera con la naturaleza propia del juego. De ahí que la vanagloria cobre un fundamental interés, puesto que señala solo una superioridad ante los otros, son ningún miramento hacia una ganancia material.
+
+**ganar**,70
+Ganar es mostrarse, en el desenlace de un juego, superior a otro. Pero este ganar beneficia a todo el grupo al que pertenece el ganador. Así ganar, es exceder a los demás, ser el primero y verse honrado como tal.
+
+72-A toda competencia se une un "por algo", "en algo" y "con algo".
+
+73-La figura del tramposo no es la misma que la del aguafiestas, pues mantiene el juego hasta que es descubierto. En este punto la trampa también tiene un lugar importante a la hora de hablar de mitos. (+) Huizinga oe relación entre los que ganan por trampa y astucia y los dioses  que se divierten a costa de otros, sin embargo considero que aquí se hace patente el ser más inteligente, astuto, lo que Paz llamaría como "el te chingue" pero de una forma metafísica. 
+
+(+) La crítica hacia [[polymarket]] no sería en si hacia apartar hacia las vidas, o no solo eso, sino también la inmediatez con lo que suceden los hechos y el alcance que pueden tener.
+
+(+) La creencia de que la nobleza descansa en la virtud es una idea que fue cambiando confirme se fue desarrollando la cultura, elevándose a lo ético y religioso. Acá en realidad hablamos de un cambio de fase, un desfase, que cambia el contenido de cada concepto.
+
+
 
 
 
