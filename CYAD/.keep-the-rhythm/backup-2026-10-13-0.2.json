@@ -105,7 +105,8 @@
       "2026-07-14",
       "2026-07-20",
       "2026-08-13",
-      "2026-09-02"
+      "2026-09-02",
+      "2026-10-03"
     ],
     "dailyActivity": [
       {
@@ -10993,11 +10994,472 @@
         "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
         "wordCountStart": 3062,
         "charCountStart": 20210,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "03:05",
+            "w": 5,
+            "c": 53
+          },
+          {
+            "timeKey": "03:10",
+            "w": 22,
+            "c": 193
+          },
+          {
+            "timeKey": "03:15",
+            "w": 57,
+            "c": 404
+          },
+          {
+            "timeKey": "03:20",
+            "w": 58,
+            "c": 378
+          },
+          {
+            "timeKey": "03:25",
+            "w": 4,
+            "c": 22
+          },
+          {
+            "timeKey": "23:30",
+            "w": 429,
+            "c": 3311
+          },
+          {
+            "timeKey": "23:35",
+            "w": 42,
+            "c": 318
+          },
+          {
+            "timeKey": "23:40",
+            "w": 4,
+            "c": 47
+          },
+          {
+            "timeKey": "23:45",
+            "w": 11,
+            "c": 96
+          },
+          {
+            "timeKey": "23:50",
+            "w": 11,
+            "c": 111
+          },
+          {
+            "timeKey": "23:55",
+            "w": 21,
+            "c": 151
+          }
+        ],
         "id": 766
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "02. Conceptos/transducción.md",
+        "wordCountStart": 279,
+        "charCountStart": 2160,
+        "changes": [],
+        "id": 767
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7046,
+        "charCountStart": 44213,
+        "changes": [],
+        "id": 768
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
+        "wordCountStart": 256,
+        "charCountStart": 2120,
+        "changes": [],
+        "id": 769
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 3726,
+        "charCountStart": 25294,
+        "changes": [],
+        "id": 770
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Metafísica y Ontología/Aristóteles (1995), Física..md",
+        "wordCountStart": 51,
+        "charCountStart": 491,
+        "changes": [],
+        "id": 771
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano..md",
+        "wordCountStart": 256,
+        "charCountStart": 2120,
+        "changes": [],
+        "id": 772
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+        "wordCountStart": 6045,
+        "charCountStart": 38337,
+        "changes": [],
+        "id": 773
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
+        "wordCountStart": 1214,
+        "charCountStart": 7841,
+        "changes": [],
+        "id": 774
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+        "wordCountStart": 2054,
+        "charCountStart": 13654,
+        "changes": [],
+        "id": 775
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "Clippings/La Teoría de la Información de Gilbert Simondon  La individuación ~ G. Simondon 610.md",
+        "wordCountStart": 5517,
+        "charCountStart": 31760,
+        "changes": [],
+        "id": 776
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "Sin título.md",
+        "wordCountStart": 90,
+        "charCountStart": 773,
+        "changes": [],
+        "id": 777
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+        "wordCountStart": 807,
+        "charCountStart": 5720,
+        "changes": [],
+        "id": 778
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Penas, L. (2013). El concepto de potencia en Simondon. Hacia una filosofía horizontal de los afectos..md",
+        "wordCountStart": 570,
+        "charCountStart": 3982,
+        "changes": [],
+        "id": 779
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 8128,
+        "charCountStart": 54299,
+        "changes": [],
+        "id": 780
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
+        "wordCountStart": 6188,
+        "charCountStart": 38072,
+        "changes": [],
+        "id": 781
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (1992) The Genesis of the individual.md",
+        "wordCountStart": 55,
+        "charCountStart": 582,
+        "changes": [],
+        "id": 782
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
+        "wordCountStart": 8703,
+        "charCountStart": 56935,
+        "changes": [],
+        "id": 783
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
+        "wordCountStart": 1428,
+        "charCountStart": 9683,
+        "changes": [],
+        "id": 784
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Boever, A. et. al. (2012). Gilbert Simondon. Being and Technology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 51,
+            "c": 491
+          }
+        ],
+        "id": 785
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
+        "wordCountStart": 675,
+        "charCountStart": 5109,
+        "changes": [],
+        "id": 786
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
+        "wordCountStart": 1567,
+        "charCountStart": 9609,
+        "changes": [],
+        "id": 787
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "01. Lecturas Videojuegos/Juul, J. (2021). The Game of video game object. A minimal theory of when se wee pixels as objects rather than pictures.md",
+        "wordCountStart": 286,
+        "charCountStart": 2047,
+        "changes": [],
+        "id": 788
+      },
+      {
+        "date": "2026-10-04",
+        "filePath": "20. Comentarios/Simondon y la génesis del objeto técnico.md",
+        "wordCountStart": 1560,
+        "charCountStart": 9408,
+        "changes": [],
+        "id": 789
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Boever, A. et. al. (2012). Gilbert Simondon. Being and Technology.md",
+        "wordCountStart": 51,
+        "charCountStart": 491,
+        "changes": [],
+        "id": 790
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
+        "wordCountStart": 6045,
+        "charCountStart": 38337,
+        "changes": [],
+        "id": 791
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "02. Conceptos/Concretización.md",
+        "wordCountStart": 825,
+        "charCountStart": 6217,
+        "changes": [],
+        "id": 792
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
+        "wordCountStart": 807,
+        "charCountStart": 5720,
+        "changes": [],
+        "id": 793
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (1992) The Genesis of the individual.md",
+        "wordCountStart": 55,
+        "charCountStart": 582,
+        "changes": [],
+        "id": 794
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
+        "wordCountStart": 675,
+        "charCountStart": 5109,
+        "changes": [],
+        "id": 795
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
+        "wordCountStart": 2054,
+        "charCountStart": 13654,
+        "changes": [],
+        "id": 796
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "02. Conceptos/medio tecnogeográfico.md",
+        "wordCountStart": 273,
+        "charCountStart": 2292,
+        "changes": [],
+        "id": 797
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 3726,
+        "charCountStart": 25294,
+        "changes": [],
+        "id": 798
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
+        "wordCountStart": 6435,
+        "charCountStart": 41824,
+        "changes": [],
+        "id": 799
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
+        "wordCountStart": 1192,
+        "charCountStart": 7308,
+        "changes": [],
+        "id": 800
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
+        "wordCountStart": 7046,
+        "charCountStart": 44213,
+        "changes": [],
+        "id": 801
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
+        "wordCountStart": 2101,
+        "charCountStart": 13896,
+        "changes": [],
+        "id": 802
+      },
+      {
+        "date": "2026-10-05",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 174,
+        "charCountStart": 1319,
+        "changes": [],
+        "id": 803
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
+        "wordCountStart": 2101,
+        "charCountStart": 13896,
+        "changes": [],
+        "id": 804
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 3726,
+        "charCountStart": 25294,
+        "changes": [
+          {
+            "timeKey": "02:25",
+            "w": 6,
+            "c": 42
+          },
+          {
+            "timeKey": "02:30",
+            "w": 61,
+            "c": 431
+          },
+          {
+            "timeKey": "02:35",
+            "w": 13,
+            "c": 120
+          },
+          {
+            "timeKey": "02:45",
+            "w": 14,
+            "c": 89
+          },
+          {
+            "timeKey": "06:10",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "06:15",
+            "w": 100,
+            "c": 754
+          },
+          {
+            "timeKey": "06:20",
+            "w": 64,
+            "c": 492
+          },
+          {
+            "timeKey": "06:25",
+            "w": 13,
+            "c": 93
+          }
+        ],
+        "id": 805
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 174,
+        "charCountStart": 1319,
+        "changes": [],
+        "id": 806
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "Sin título.md",
+        "wordCountStart": 90,
+        "charCountStart": 773,
+        "changes": [],
+        "id": 807
+      },
+      {
+        "date": "2026-10-09",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 3998,
+        "charCountStart": 27327,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 808
+      },
+      {
+        "date": "2026-10-12",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 3998,
+        "charCountStart": 27327,
+        "changes": [],
+        "id": 809
+      },
+      {
+        "date": "2026-10-12",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 8128,
+        "charCountStart": 54299,
+        "changes": [],
+        "id": 810
       }
     ],
-    "wholeVaultWordCount": 562707,
-    "wholeVaultCharCount": 3681886
+    "wholeVaultWordCount": 563694,
+    "wholeVaultCharCount": 3689494
   }
 }

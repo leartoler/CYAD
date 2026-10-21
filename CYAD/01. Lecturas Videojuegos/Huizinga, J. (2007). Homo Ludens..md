@@ -103,9 +103,9 @@ Ganar es mostrarse, en el desenlace de un juego, superior a otro. Pero este gana
 
 (+) La creencia de que la nobleza descansa en la virtud es una idea que fue cambiando confirme se fue desarrollando la cultura, elevándose a lo ético y religioso. Acá en realidad hablamos de un cambio de fase, un desfase, que cambia el contenido de cada concepto.
 
+(?) Juego mas viejo que la cultura?
 
-
-
+(+) 143- se habla del juego y como se paga con la vida, siendo importante lo lúdico. En este sentido poner lo del juego prehispánico y como se jugaba con la vida. 
 
 
 
@@ -139,7 +139,7 @@ Ganar es mostrarse, en el desenlace de un juego, superior a otro. Pero este gana
 
 (Nota::EL juego fue antes que todo cultura y, también, se cierne sobre ellas y permanece libre de ellas (35))
 
-
++ 143. 
 
 
 

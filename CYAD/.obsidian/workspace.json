@@ -10,15 +10,17 @@
           {
             "id": "452e9985c1e6aac1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
+                "file": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Robson, J. y Grant, T. (2018). The aesthetics of videogames"
+              "title": "Simondon, G. (2009). La individuación a la luz de la nociones de forma e información"
             }
           },
           {
@@ -34,8 +36,164 @@
               "icon": "lucide-file",
               "title": "Madigan, J. (2016). Getting Gamers"
             }
+          },
+          {
+            "id": "40af595d1f41bdca",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Escritos/Tesis/Capítulo 4.canvas",
+                "viewState": {
+                  "x": -3534.050580147923,
+                  "y": -3293.5278470957496,
+                  "zoom": -0.6666666666666663
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Capítulo 4"
+            }
+          },
+          {
+            "id": "616ddcf71862708a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20261008023352.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261008023352"
+            }
+          },
+          {
+            "id": "ae9271ca8717bb44",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Juego transmedia, videojuego mas que lo visual, algoritmo.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Juego transmedia, videojuego mas que lo visual, algoritmo"
+            }
+          },
+          {
+            "id": "f8fd5a63424e0b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22. Notas de voz/La distinción entre descubrimiento y justificación científica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La distinción entre descubrimiento y justificación científica"
+            }
+          },
+          {
+            "id": "17d8324cb14bd36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista"
+            }
+          },
+          {
+            "id": "3b567b5989bd52b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simondon, G. (2009). La individuación a la luz de la nociones de forma e información"
+            }
+          },
+          {
+            "id": "ff222a8364d5acd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Películas y Series/Button, C. (2023). The Giggle..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Button, C. (2023). The Giggle."
+            }
+          },
+          {
+            "id": "a29d0b3065d6c502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/A connectomics milestone Mapping the complete male fruit fly brain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A connectomics milestone Mapping the complete male fruit fly brain"
+            }
+          },
+          {
+            "id": "97657ac56022d7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64"
+            }
+          },
+          {
+            "id": "017e1b1a892848c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos"
+            }
+          },
+          {
+            "id": "7b23ae84bbcdfd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Videojuegos/Deterding, S. et. al. (2011). Gamification. Toward a Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deterding, S. et. al. (2011). Gamification. Toward a Definition"
+            }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -69,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "huizinga",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -373,56 +530,57 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "452e9985c1e6aac1",
+  "active": "7b23ae84bbcdfd1c",
   "lastOpenFiles": [
-    "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
-    "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
-    "14. Archivos/individuacion_introduccion - MB.pdf",
+    "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
+    "01. Lecturas Videojuegos/Carrubba, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
+    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
+    "01. Lecturas Videojuegos/Huizinga, J. (2007). Homo Ludens..md",
+    "14. Archivos/protocoloampliado.pdf",
     "Escritos/Tesis/Capítulo 4.canvas",
-    "Escritos/Tesis/Canvas. El juego como caos.canvas",
-    "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
-    "14. Archivos/simondon_objetos_1 - MB.pdf",
+    "04. Bibliografía/Bibliografía juegos/Verdad y método I (Hans-Georg Gadamer) (z-library.sk, 1lib.sk, z-lib.sk) (1).pdf",
+    "04. Bibliografía/Bibliografía juegos/The Phenomenology of Play Encountering Eugen Fink (Steve Stakland) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "04. Bibliografía/Bibliografía juegos/What Animals Teach Us about Politics (Brian Massumi) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "04. Bibliografía/Bibliografía juegos/The Genesis of Animal Play - Testing the Limits (Bradford Books) (Gordon M. Burghardt) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Clippings/gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos.md",
+    "Clippings/Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64.md",
+    "Clippings/A connectomics milestone Mapping the complete male fruit fly brain.md",
+    "01. Lecturas Antropología/434_04_07_juegopelota.pdf",
+    "01. Lecturas Antropología/1925-Caso-Patolli.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/Intra-acting bio-object.pdf",
     "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "11. Películas y Series/Button, C. (2023). The Giggle..md",
+    "11. Películas y Series/Hwang, Dong-hyuk (2021) EL juego del calamar.md",
+    "Pasted image 20261017200744.jpg",
+    "Pasted image 20261017200713.jpg",
+    "Pasted image 20261017200657.jpg",
+    "Pasted image 20261017200639.jpg",
+    "Pasted image 20261017200618.jpg",
+    "Pasted image 20261017195244.jpg",
+    "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+    "Macuilxochitl.jpg",
+    "Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquistaP.jpg",
+    "22. Notas de voz/La distinción entre descubrimiento y justificación científica.md",
+    "22. Notas de voz",
+    "Juego transmedia, videojuego mas que lo visual, algoritmo.jpg",
+    "Jonathan Blow talks good design — for video games and beyond.md",
+    "Individuacion estable, estructurante.jpg",
+    "Indice Notas.md",
+    "Sin título.md",
+    "Sin título.base",
+    "Sin título.canvas",
+    "2026-01-26.md",
+    "2026-01-16.md",
+    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+    "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+    "Escritos/Tesis/Canvas. El juego como caos.canvas",
+    "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
+    "2026-10-06.md",
+    "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
     "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
-    "Pasted image 20261005134022.png",
     "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
-    "Pasted image 20261005152438.png",
-    "Pasted image 20261005145429.png",
     "02. Conceptos/medio tecnogeográfico.md",
     "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
-    "01. Lecturas Simondon/Heredia, J. M. (2024). Discusiones simondianas entre las tecnologías digitales y lo transindividual.md",
-    "01. Lecturas Simondon/Combes, M. (2017). Simondon. Una filosofía de lo transindividual..md",
-    "01. Lecturas Simondon/Heredia, J. (2015), Lo psicosocial y lo transindividual en Gilbert Simondon.md",
-    "02. Conceptos/Concretización.md",
-    "Pasted image 20261004233714.png",
-    "Pasted image 20261004211935.png",
-    "Pasted image 20261004211058.png",
-    "14. Archivos/control_3_MB.pdf",
-    "14. Archivos/2253804805 - MB.pdf",
-    "14. Archivos/De pixeles a polígonos - MB.pdf",
-    "14. Archivos/definicion - MB.pdf",
-    "14. Archivos/individuacion_introduccion - MB (1).pdf",
-    "01. Lecturas Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.md",
-    "20. Comentarios/Simondon y la génesis del objeto técnico.md",
-    "01. Lecturas Simondon/Montoya S., J. W. (2006). La individuación y le técnica en la obra de Simondon..md",
-    "01. Lecturas Videojuegos/Juul, J. (2021). The Game of video game object. A minimal theory of when se wee pixels as objects rather than pictures.md",
-    "Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información.md",
-    "01. Lecturas Simondon/Boever, A. et. al. (2012). Gilbert Simondon. Being and Technology.md",
-    "04. Bibliografía/Bibliografia Simondon/Gilbert Simondon Being and Technology.pdf",
-    "04. Bibliografía/Bibliografia Simondon/Simondon_Gilbert_1964_1992_The_Genesis_of_the_Individual.pdf",
-    "01. Lecturas Simondon/Simondon, G. (1992) The Genesis of the individual.md",
-    "01. Lecturas Simondon/Penas, L. (2013). El concepto de potencia en Simondon. Hacia una filosofía horizontal de los afectos..md",
-    "Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación.md",
-    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
-    "Sin título.md",
-    "01. Lecturas Simondon/Builes Roldán, I., Manrique Tisnés, H., & Henao Galeano, C. M. (2017). El proyecto simondoniano. la individuación del ser en devenir..md",
-    "Clippings/La Teoría de la Información de Gilbert Simondon  La individuación ~ G. Simondon 610.md",
-    "01. Lecturas Videojuegos/Cremin, C. (2016). Exploring Videogames With Deleuze and Guattari.md",
-    "Pasted image 20261004032521.jpg",
-    "Pasted image 20261004032447.jpg",
-    "Pasted image 20261004031150.jpg",
-    "Pasted image 20261004031130.jpg",
-    "01. Lecturas Filosofía de la Tecnología/Metafísica (Aristóteles, Tomás Calvo Martínez.pdf",
     "12. Gráficas/Teoria 1.canvas",
     "12. Gráficas/Individuación.canvas",
     "Capítulo 4.canvas",

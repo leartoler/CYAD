@@ -385,6 +385,108 @@ N.(Nota::La energía potencial define las condiciones formales reales del estado
 ![[Pasted image 20261004032521.jpg]]
 
 
+#### 2. Diferentes ordenes de energía potencial; nociones de cambios de fase, de equilibrio estable y de equilibrio metaestable de un estado. Teoría de Tanmmann
+
+N.(Nota::La energía puede no cambiar de naturaleza y no obstante cambiar de orden (98))
+
+(Tema::Irreversibilidad(99))
+
+(Tema::Sobre la hipótesis de Tammann(100))
+
+(Tema::Estructura y energía(105))
+
+(Tema::Estructura, potencia y energía (105))
+
+(Tema::Energías potenciales estructurales(106))
+
+###### Notas
+
+![[Pasted image 20261008023352.jpg]] 
+![[Energía potencial.jpg]]
+
+
+### II. Individuación y estados de sistema
+
+#### 1. Individuación y formas alotrópicas cristalinas; ser y relación 
+
+N. (Nota::Los caracteres de individuación son anteriores a toda idea de sustancia (106))
+
+(Tema::Germen, de metaestable a estable; aporte local interno(107))
+
+(Tema::Transducción amplificante(107))
+
+(Tema::Experimento para el germen cristalino en el azufre(108))
+
+(Tema::Condiciones formales(108))
+
+(Tema::Individuación(108))
+
+(Tema::Conservación de la individuaclidad(109))
+
+(Tema::Individualidad estable(109))
+
+(Tema::Individuación estructurante(109))
+
+(Tema::Naturaleza de la sustancia(109))
+
+(Tema::Individuación completa e incompleta(110))
+
+(Tema::Existencia de un estado individualizado(111))
+
+(Tema::Sobre la potencialidad original de un ser(112))
+
+(Tema::Sobre los gérmenes y lo local(113))
+
+(Tema::Allagmátiva(115))
+
+(Tema::El ser como agente. Devenir(114))
+
+(Tema::Fuerzas del sistema(114))
+
+N.(Nota::la forma es el sistema, en tanto macrofísico. La materia es lo microfísico, molecular (114))
+
+(Tema::Información(115))
+
+(Tema::Estabilidad del individuo (115))
+
+N. (Nota::El noumeno son las relaciones (115))
+#noumeno
+
+(Tema::Sobre el conocimiento(116))
+
+(Tema::Relación(116))
+
+(Tema::Sobre el pensamiento(117))
+
+###### Notas
+
+![[TRansducción amplificante.jpg]]
+
+![[conservación de la individualidad.jpg]]
+
+![[Individuacion estable, estructurante.jpg]]
+
+![[germenes y lo local.jpg]]
+
+![[Pasted image 20261008062532.jpg]]
+
+![[Sobre el pensamiento.jpg]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Capítulo Segundo. Individuación en información
 
@@ -422,15 +524,102 @@ N.(Nota::La energía potencial define las condiciones formales reales del estado
 ![[Pasted image 20260930152948.jpg]]
 
 
+
+
 ### Parte III. La individuación psíquica.
 #### La individuación de las unidades perceptivas y la significación
 
-(Tema::Estado de conflicto (347))
-	Similar al estado de metaestabilidad. Es el instante de más alta incertidumbre y más decisivo. Fuente de los determinismos y de las secuencias genéticas que toman allí su origen absoluto. 
 
-(Tema::Génesis de forma (348))
-	La génesis de forma se da cuando la relación de un conjunto viviente con su medio y con él mismo pasa por una fase crítica, rica en tensiones y en virtualidad, y culmina con la desaparición de la especie o con la aparición de una forma de vida nueva. Esta situación se da entre el infividuo, el medio, y el conflicto entre estos dos. 
-	No solo cambia el individuo, sino también el conjunto del complejo vital formado por la especie y su medio, haciendo así una nueva estructura. 
+#### III. La individualidad psíquica
+#### Capítulo primero. La individuación de las unidades perceptivas y la significación
+#### 1. Segregación de las unidades perceptivas; teoría genética y de la captación holística; el determinismo de la buena forma
+
+(Tema::Percepción y conocimiento en su totalidad (345))
+	Define el problema de la individuación con relación a la percepción y su separación con la totalidad.
+	- Percepción:
+		- Como asociación de elementos sensitivos, o
+		- → Captación de figura sobre fondo
+	Ante esto la pregunta es: ¿cómo percibe objetos separados y no continuos?
+
+(Tema::Crítica al asociacionismo y psicología de la forma (345-346))
+	El segregacionismo (objetos separados) no está resuelto por el asociacionismo, que no explica su coherencia interna, misma que no puede ser explicada como resultado de una asociación. Utilizan el hábito para garantizar la coherencia, pero dicho concepto lo toman mal.
+
+(Tema::Hábito (345)) 
+	Es algo dinámico que solo puede comunicar a la percepción lo que él mismo posee (de ahí lo repetido del hábito), y que es la unidad y continuidad temporal de los objetos.
+
+N. (Nota::El asociacionismo, si bien utiliza el hábito, lo ve como si fuera algún tipo de innatismo; es decir, como si se naciera con ello (346))
+
+(Tema::El objeto no es asociacionismo (346)) 
+	El objeto percibido no solo es una suma de algo pasivamente constituido.
+
+(Tema::Objeto percibido (346)) 
+	Posee un dinamismo que hace que se pueda transformar sin perder su unidad, lo que es. Además posee autonomía y una independencia energética que lo convierte en un sistema de fuerzas.
+
+(Tema::Conjunto (346)) 
+	Su unidad es solo estructural, no energética. No posee información y su devenir solo es de degradación, de aumento de entropía.
+
+(Tema::Sistema (346)) 
+	Unidad metaestable hecha de una pluralidad de conjuntos en donde existe una relación de analogía y un potencial energético. Se puede mantener metaestable.
+	Los elementos del sistema son: 
+	- Separación relativa de conjuntos que contiene 
+	- Estructura analógica 
+	- Disparidad 
+	- Actividad relacional de información
+
+(Tema::Información en el sistema (346)) 
+	Es actividad relacional. No puede ser cuantificada de manera abstracta sino solo en referencia a estructuras y esquemas del sistema.
+
+(Tema::Problema de la teoría de la forma (346-347))
+	Tiene una explicación innatista y capta el fenómeno en su totalidad una sola vez. Otro problema es que presupone que la materia en apariencia inerte encierra una virtualidad de las formas y que hay una predestinación (no toma en cuenta los experimentos físicos). Así, lo que le falta a la teoría de la forma (Gestalt) y al asociacionismo es saber sobre individuación, en donde aparece la unidad y su coherencia. Además, por su naturaleza de totalidad tampoco considera el conjunto absoluto.
+
+(Tema::Conjunto absoluto (347)) 
+	Son 3 cosas: el solvente, el cuerpo disuelto y el conjunto de fuerzas y energías potenciales que derivan de la metaestabilidad y se aplican al estado de solución sobresaturada cuando se hace la cristalización.
+
+N. (Nota::No se puede prever nada, por mucho que se tenga de forma antecedente la metaestabilidad. El fenómeno se da de pronto, cuando hay una máxima energía potencial (347))
+
+(Tema::Preindividuo y metaestabilidad (347)) 
+	En esta parte lo preindividual es una fase, un estado de tensión que ante el más ligero accidente local cambia. Lo metaestable es un estado de conflicto en donde hay una mayor incertidumbre. Esto inicia un determinismo, un origen.
+
+(Tema::Transformación y degradación (348)) 
+	En lo vital hay una transformación, pero no necesariamente génesis de forma. No toda transformación es génesis de forma. La degradación es transformación también y se observa en lo físico como cristales en los fenómenos de erosión, abrasión, etc. Aun con este cambio, esta degradación, se conservan propiedades como las direcciones de la estructura (clivaje).
+
+(Tema::Génesis de forma en lo vital (348))
+	“Existe génesis de formas cuando la relación de un conjunto viviente con su medio y consigo mismo pasa por una fase crítica, rica en tensiones y en virtualidad, y que culmina con la desaparición de la especie o con la aparición de una forma de vida nueva. El todo de la situación está constituido no solamente por la especie y su medio, sino también por la tensión del conjunto formado por la relación de la especie con su medio y dentro del cual las relaciones de incompatibilidad devienen cada vez más fuertes. Por otra parte, no es solamente la especie la que es modificada, sino también todo el conjunto del complejo vital formado por la especie y su medio, que descubre una nueva estructura.”
+	Lo importante es: - La génesis originada en una fase crítica - El todo constituido también por la tensión - El cambio que hay en la especie y su medio, descubriendo una nueva estructura.
+
+(Tema::Conjunto y génesis de forma en lo psíquico (348-349)) 
+	- La percepción es la génesis de formas en lo psíquico. 
+	- El conjunto en lo psíquico y que efectúa la percepción está constituido por la relación entre el sujeto y el mundo; tres elementos. 
+	- Después de la percepción las tensiones son incorporadas a la psique y forman parte de su estructura. 
+	- → [+] Con esto del cambio de estructura se puede saber qué tanto se percibió un juego. - Lewin (de la Gestalt) comentaba que todo, incluido las tensiones, eran parte de lo psicológico; Simondon, solo después de la percepción las tensiones lo eran.
+	- Antes de la percepción, la relación de incompatibilidad entre el sujeto y su medio existe solo como potencial.
+
+(Tema::Percepción (349)) 
+	- Percibir no es captar una cosa (como lo cree la Gestalt). 
+	- Percibir es la solución de un conflicto, descubrimiento de una compatibilidad, invención de una forma. Esto diferenciaría el percibir con el ver, y en el caso del martillo de Heidegger, solo se percibe cuando el martillo se rompe. 
+	- Percibir no solo cambia la relación entre el sujeto y el objeto, sino también su estructura, puesto que ya hay un impacto psíquico.  
+	[+] En este caso, ¿qué y cómo se percibiría el videojuego, y qué sería una pregunta? 
+	- La percepción también se degrada (tal como pasa en lo físico y vital). Esta degradación se traduce en la degradación también del individuo (cada forma —o lo que percibió— es parte de su estructura).
+
+###### Escritos
+
+![[Pasted image 20261017195244.jpg]]
+
+![[Pasted image 20261017200618.jpg]]
+
+![[Pasted image 20261017200639.jpg]]
+
+![[Pasted image 20261017200657.jpg]]
+
+![[Pasted image 20261017200713.jpg]]
+
+![[Pasted image 20261017200744.jpg]]
+
+
+
+
+
+ 
 
 (Tema::Realidad Transductiva (351))
 	El individuo no es ni un ser sustancial como un elemento, ni una pura relación, sino que es la realidad de una relación metaestable. 
@@ -462,6 +651,12 @@ N.(Nota::La energía potencial define las condiciones formales reales del estado
 
 (Tema::Afectividad y emotividad(366))
 	Son la forma transductiva por excelencia del psiquismo, intermedio entre la conciencia clara y la subconciencia, unión permanente del individuo consigo mismo y con el mundo, o más bien, unión unión entre la relación del individuo consigo mismo y la unión del individuo con el mundo. 
+
+
+
+
+
+
 
 
 ---
