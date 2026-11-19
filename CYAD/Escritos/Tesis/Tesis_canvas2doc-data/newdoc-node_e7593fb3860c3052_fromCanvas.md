@@ -1,0 +1,3 @@
+### 2.2.1 el jugar animal
+
+En un experimento realizado en el 2022 por la Universidad de Queens Mary, en Londres Inglaterra, pusieron una serie de pelotas coloridas en una arena conectada a una área de alimentación y cuya ruta no estaba obstruida. Durante el transcurso que duró el experimento hubieron algunos abejorros que rodaron las pelotas durante 44 veces en un día e, incluso, 117 veces durante los 18 días que duró el experimento (Quaglia, 2002).

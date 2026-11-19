@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{
+			"id":"41037ef65f67ed99",
+			"type":"text",
+			"text":"Comentar que si bien para la sociedad como comenta simondon lo que importa es el pasado individual, esto no es necesario para las comunidades online en donde predomina lo fugaz y el anonimato, por lo que el pasado queda de sobra. \n\nSiondon 436",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-20,
+			"width":420,
+			"height":220,
+			"color":"3"
+		},
+		{
+			"id":"3483716d38b12d3d",
+			"type":"text",
+			"text":"Otra cosa es que no se proyecta el porvenir como sucede con lo social, sino lo que se desea o quiere. Se crea una narrativa en linea y, para el caso de estos ejemplos de comunidad en linea, algo similar a un juego, como cuando se crean un personaje.\n",
+			"styleAttributes":{},
+			"x":340,
+			"y":-20,
+			"width":440,
+			"height":200,
+			"color":"3"
+		},
+		{"id":"7fd50268dae3be55","x":860,"y":-20,"width":560,"height":200,"type":"text","text":"Poner también como ejemplo lo de los videojuegos de donald trump y como se utiliza para propaganda. Comunicación entre iguales."},
+		{"id":"9073e815e7a23427","x":240,"y":520,"width":440,"height":180,"type":"text","text":"Enfatizar más el sentido de lo interior y lo exterior, tal como se muestra en Simondon"},
+		{"id":"c3953bfaeeeaed0e","x":820,"y":360,"width":440,"height":240,"type":"text","text":"Ver la crítica que hace Simondon sobre lo sustanci"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

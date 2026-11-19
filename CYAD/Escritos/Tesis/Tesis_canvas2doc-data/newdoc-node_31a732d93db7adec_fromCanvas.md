@@ -1,0 +1,1 @@
+Este último púinto es el que arca un parteaguas en la forma en cómo se aborda el fenpómeno del comportamineto en el animal pero también es elk que presenta más problemas epistemológicos. A partir de estos puntos y de aceptar la emoción de los animales se puede ya comenzar a esbozar un concepto acerca de lo que es el jugar. Pero, llegar a este punto no fue sencillo. 

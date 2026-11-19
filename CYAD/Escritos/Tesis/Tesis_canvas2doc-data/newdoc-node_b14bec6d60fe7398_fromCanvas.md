@@ -1,0 +1,1 @@
+El presente capítulo comenzara con la pregunta de qué es el jugar y cómo es compun en distintas ontologías. La respuesta a ello nos dará elementos para poder diferenciar y distinguir el jugar de los humanos y ver porqué es tan importante para el desarrollo de la cultura, pasando entonces de una acción a un sustantivo caracterizado que es el juego. 

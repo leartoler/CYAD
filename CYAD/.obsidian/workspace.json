@@ -4,39 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6426f6d405e934c2",
+        "id": "31702a62021acdc5",
         "type": "tabs",
         "children": [
-          {
-            "id": "452e9985c1e6aac1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Simondon, G. (2009). La individuación a la luz de la nociones de forma e información"
-            }
-          },
-          {
-            "id": "4351c75785b36f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Madigan, J. (2016). Getting Gamers"
-            }
-          },
           {
             "id": "40af595d1f41bdca",
             "type": "leaf",
@@ -44,58 +14,62 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Escritos/Tesis/Capítulo 4.canvas",
+                "file": "Escritos/Tesis/Tesis.canvas",
                 "viewState": {
-                  "x": -3534.050580147923,
-                  "y": -3293.5278470957496,
-                  "zoom": -0.6666666666666663
+                  "x": 1445.2264143964103,
+                  "y": -2158.947525421243,
+                  "zoom": -1.3333333333333333
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Capítulo 4"
+              "title": "Tesis"
             }
           },
           {
-            "id": "616ddcf71862708a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20261008023352.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261008023352"
-            }
-          },
-          {
-            "id": "ae9271ca8717bb44",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Juego transmedia, videojuego mas que lo visual, algoritmo.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Juego transmedia, videojuego mas que lo visual, algoritmo"
-            }
-          },
-          {
-            "id": "f8fd5a63424e0b1b",
+            "id": "b4779f54558c0d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22. Notas de voz/La distinción entre descubrimiento y justificación científica.md",
+                "file": "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La distinción entre descubrimiento y justificación científica"
+              "title": "Consalvo, M. (2009). There is no Magic Circle"
             }
           },
           {
-            "id": "17d8324cb14bd36d",
+            "id": "da0e6b540b8890f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consalvo, M. (2009). There is no Magic Circle"
+            }
+          },
+          {
+            "id": "bc1a41a4eb2da70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21. Convocatorias/2027 Luxembourg – History of Games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2027 Luxembourg – History of Games"
+            }
+          },
+          {
+            "id": "0c31a67833560106",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,91 +83,61 @@
             }
           },
           {
-            "id": "3b567b5989bd52b3",
+            "id": "00d833ada98b998a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+                "file": "Clippings/GTA VI How the Hype and Launch Windows Compare to Vice City and GTA V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simondon, G. (2009). La individuación a la luz de la nociones de forma e información"
+              "title": "GTA VI How the Hype and Launch Windows Compare to Vice City and GTA V"
             }
           },
           {
-            "id": "ff222a8364d5acd2",
+            "id": "7de6d2f438f7a481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Películas y Series/Button, C. (2023). The Giggle..md",
+                "file": "Clippings/No price shock for 'GTA VI' as gamers gear up for preorders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Button, C. (2023). The Giggle."
+              "title": "No price shock for 'GTA VI' as gamers gear up for preorders"
             }
           },
           {
-            "id": "a29d0b3065d6c502",
+            "id": "7576d7fb2a8271a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/A connectomics milestone Mapping the complete male fruit fly brain.md",
+                "file": "Clippings/10% of surveyed workers who game plan to skip work on Grand Theft Auto VI's launch day..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A connectomics milestone Mapping the complete male fruit fly brain"
+              "title": "10% of surveyed workers who game plan to skip work on Grand Theft Auto VI's launch day."
             }
           },
           {
-            "id": "97657ac56022d7f7",
+            "id": "b732ebec0aedd880",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "zotflow-local-zotero-reader-view",
               "state": {
-                "file": "Clippings/Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64.md",
-                "mode": "source",
-                "source": false
+                "file": "04. Bibliografía/Bibliografía antropología/Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals (Sumner, William Graham, 1840-1910) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64"
-            }
-          },
-          {
-            "id": "017e1b1a892848c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos"
-            }
-          },
-          {
-            "id": "7b23ae84bbcdfd1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Lecturas Videojuegos/Deterding, S. et. al. (2011). Gamification. Toward a Definition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deterding, S. et. al. (2011). Gamification. Toward a Definition"
+              "icon": "book-open",
+              "title": "Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals.pdf"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -227,8 +171,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "huizinga",
-                "matchingCase": true,
+                "query": "gamesqua",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -261,12 +205,22 @@
               "icon": "lucide-file",
               "title": "Mulas y Bertolazzi (2023). La evolución de los videojuegos"
             }
+          },
+          {
+            "id": "acebb82cb2492625",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-tree-view",
+              "state": {},
+              "icon": "library",
+              "title": "Zotero Library"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 1051.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -447,10 +401,10 @@
             "id": "9e50960e27ab3277",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -491,9 +445,19 @@
               "state": {},
               "icon": "infranodus-icon"
             }
+          },
+          {
+            "id": "f4debaca8b402177",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -527,66 +491,71 @@
       "smart-lookup:Smart Lookup: Open lookup view": false,
       "lineage:Toggle Lineage view": false,
       "grill:Grill": false,
+      "zotflow:ZotFlow: Activity Center": false,
+      "zotflow:ZotFlow: Search Zotero": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7b23ae84bbcdfd1c",
+  "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "01. Lecturas Videojuegos/Magnuson, J. (2023). Game Poems.md",
-    "01. Lecturas Videojuegos/Carrubba, L. (2023). Videojuegos en disputa. Las experiencias videolúdicas y los juegos que vendrán.md",
-    "01. Lecturas Videojuegos/Svelch, J. (2018). Gaming the Iron Curtain.md",
-    "01. Lecturas Videojuegos/Huizinga, J. (2007). Homo Ludens..md",
-    "14. Archivos/protocoloampliado.pdf",
-    "Escritos/Tesis/Capítulo 4.canvas",
-    "04. Bibliografía/Bibliografía juegos/Verdad y método I (Hans-Georg Gadamer) (z-library.sk, 1lib.sk, z-lib.sk) (1).pdf",
-    "04. Bibliografía/Bibliografía juegos/The Phenomenology of Play Encountering Eugen Fink (Steve Stakland) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "04. Bibliografía/Bibliografía juegos/What Animals Teach Us about Politics (Brian Massumi) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "04. Bibliografía/Bibliografía juegos/The Genesis of Animal Play - Testing the Limits (Bradford Books) (Gordon M. Burghardt) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Clippings/gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos.md",
-    "Clippings/Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64.md",
-    "Clippings/A connectomics milestone Mapping the complete male fruit fly brain.md",
-    "01. Lecturas Antropología/434_04_07_juegopelota.pdf",
-    "01. Lecturas Antropología/1925-Caso-Patolli.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Intra-acting bio-object.pdf",
-    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
-    "11. Películas y Series/Button, C. (2023). The Giggle..md",
-    "11. Películas y Series/Hwang, Dong-hyuk (2021) EL juego del calamar.md",
-    "Pasted image 20261017200744.jpg",
-    "Pasted image 20261017200713.jpg",
-    "Pasted image 20261017200657.jpg",
-    "Pasted image 20261017200639.jpg",
-    "Pasted image 20261017200618.jpg",
-    "Pasted image 20261017195244.jpg",
+    "Escritos/Artículos/articulo.md",
+    "Escritos/Artículos/The magic circle is a lie.md",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/01 - Bontems, Kritski - Editorial.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/02 - Duhem, Barthélémy - For Eco-Technology.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/03 - Carrozzini - Is the Object Obsolescent.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/04 - Schrub - Normativity of techniques in the era of the Capitalocene.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/05 - de Cesare, Bontems - Progress and Growth.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/06 - Alombert - Pharmacology of computational automata.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/07 - Bardin, Ferrari - Governing Metastability.indd",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/08 - Laforcade - Coupling Contradictions.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/09 - Pouget - Scientific and technical progress and human progress.pdf",
+    "04. Bibliografía/Bibliografia Simondon/AION 2026/10 - Pascal - Deficient hearing, implants and devices.pdf",
+    "Clippings/10% of surveyed workers who game plan to skip work on Grand Theft Auto VI's launch day..md",
+    "Clippings/No price shock for 'GTA VI' as gamers gear up for preorders.md",
+    "Clippings/GTA VI How the Hype and Launch Windows Compare to Vice City and GTA V.md",
     "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
-    "Macuilxochitl.jpg",
-    "Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquistaP.jpg",
-    "22. Notas de voz/La distinción entre descubrimiento y justificación científica.md",
-    "22. Notas de voz",
-    "Juego transmedia, videojuego mas que lo visual, algoritmo.jpg",
-    "Jonathan Blow talks good design — for video games and beyond.md",
-    "Individuacion estable, estructurante.jpg",
-    "Indice Notas.md",
-    "Sin título.md",
-    "Sin título.base",
+    "01. Lecturas Videojuegos/GTA 6. impacto económico y social.md",
+    "Clippings/Ahead of GTA VI’s release, Logitech is giving 7,000 employees the day off to play video games—and its CEO says it'll boost productivity.md",
+    "18. Calendario/2027-01-31 2027 Luxembourg – History of Games.md",
+    "21. Convocatorias/2027 Luxembourg – History of Games.md",
+    "18. Calendario/2027-01-31 2027 Luxemburg.md",
+    "Clippings/PlayStation Store Shutdown PS3 and PS Vita in 2027.md",
+    "Escritos/Tesis/Tesis.canvas",
+    "2026-11-18.md",
+    "18. Calendario/2026-03-10 Reunión Asesor.md",
+    "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
+    "IMG_3366.png",
+    "IMG_3365.png",
+    "IMG_3364.png",
+    "IMG_3363.png",
+    "IMG_3362.png",
+    "IMG_3361.png",
+    "IMG_3360.png",
+    "IMG_3359.png",
+    "Space Invaders Arcade Machine (Taito, 1978).md",
+    "Wacko 1984 Midway.md",
+    "01. Lecturas Videojuegos/Sutton-Smith, B, (1997). The ambiguity of play.md",
+    "2. Del jugar, juego y videojuego.md",
+    "Escritos/Tesis/Tesis_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_04eac963583c3dbf_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_27d6a1368b03db48_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_bfe93758514e3288_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_02cffa6ad394f3d9_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_31a732d93db7adec_fromCanvas.md",
+    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_eeb801f8d6c57986_fromCanvas.md",
+    "Pasted image 20261110200457.jpg",
+    "Pasted image 20261110200444.jpg",
+    "Escritos/Artículos/Articulo comunidades.canvas",
+    "Escritos/Artículos/Untitled.canvas",
+    "Escritos/Tesis/Capítulo 4.canvas",
     "Sin título.canvas",
-    "2026-01-26.md",
-    "2026-01-16.md",
-    "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
-    "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
     "Escritos/Tesis/Canvas. El juego como caos.canvas",
-    "01. Lecturas Videojuegos/Robson, J. y Grant, T. (2018). The aesthetics of videogames.md",
-    "2026-10-06.md",
-    "Escritos/Tesis/4. Simondon y la génesis del objeto técnico. Modo de existencia del videojuego.md",
-    "01. Lecturas/Juul-Half-Real Video Games between Real Rules and Fictional Worlds.md",
-    "07. Videos/Conferencias/Cápsula. La transducción en Simondon.md",
-    "02. Conceptos/medio tecnogeográfico.md",
-    "01. Lecturas Simondon/Jaramillo Amaya, M. (2024). Sobre la noción de “información” en la filosofía de Gilbert Simondon.md",
     "12. Gráficas/Teoria 1.canvas",
     "12. Gráficas/Individuación.canvas",
     "Capítulo 4.canvas",
-    "Untitled.canvas",
-    "Canvas. El juego como caos.canvas",
-    "Untitled 1.canvas",
-    "Escritos/Artículos/Untitled.canvas"
+    "Untitled.canvas"
   ]
 }

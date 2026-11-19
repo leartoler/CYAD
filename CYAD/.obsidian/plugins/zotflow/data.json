@@ -1,0 +1,119 @@
+{
+  "settings": {
+    "librariesConfig": {
+      "2735709": {
+        "mode": "ignored"
+      },
+      "7347294": {
+        "mode": "readonly"
+      }
+    },
+    "syncInterval": 30,
+    "autoSync": false,
+    "useWebDav": false,
+    "useCache": true,
+    "maxCacheSizeMB": 500,
+    "librarySourceNoteTemplatePath": "",
+    "sourceNoteFolder": "",
+    "librarySourceNotePathTemplate": "Source/{{libraryName}}/@{{citationKey | default: title | default: key}}",
+    "localSourceNoteTemplatePath": "",
+    "localSourceNoteFolder": "",
+    "localSidecarFolder": "",
+    "localSourceNotePathTemplate": "Source/Local/@{{basename}}",
+    "autoImportAnnotationImages": false,
+    "annotationImageFolder": "Source/Images",
+    "overwriteViewer": true,
+    "readerColorScheme": "obsidian-theme",
+    "defaultLightTheme": "obsidian",
+    "defaultDarkTheme": "obsidian",
+    "treeCollectionSort": "name-asc",
+    "treeItemSort": "title-asc",
+    "treeSingleClickOpen": false,
+    "itemDisplayTitleTemplate": "",
+    "convertNoteLinks": true,
+    "linkedAttachmentBaseDir": "",
+    "useZoteroStorage": false,
+    "zoteroStoragePath": "",
+    "defaultEditableRegionLocked": true,
+    "hideEditableRegionMarkers": false,
+    "alwaysOpenChildNoteInEditor": false,
+    "defaultCitationFormat": "footnote",
+    "citationTrigger": "@@",
+    "citationPandocTemplate": "",
+    "citationFootnoteRefTemplate": "",
+    "citationFootnoteTemplate": "",
+    "citationWikilinkTemplate": "",
+    "autoCopyAnnotation": "off",
+    "autoUpdateSourceNotesAfterSync": true,
+    "autoPurgeTrashedSourceNotes": false,
+    "autoDisableNoteImageTextTools": true,
+    "epubFontFamily": "",
+    "cslDefaultStyleId": "apa",
+    "cslDefaultFormat": "markdown",
+    "cslStylesFolder": ""
+  },
+  "customThemes": [
+    {
+      "background": "#1C1C1C",
+      "foreground": "#dadada",
+      "id": "obsidian",
+      "label": "Obsidian"
+    }
+  ],
+  "viewStates": {
+    "7347294:G6FJU8DK": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "scale": 1,
+        "scrollYPercent": 0,
+        "appearance": {
+          "lineHeight": 1.2,
+          "wordSpacing": 0,
+          "letterSpacing": 0,
+          "pageWidth": 0,
+          "useOriginalFont": false
+        },
+        "lastReadAloudPosition": null
+      }
+    },
+    "04. Bibliografía/Bibliografia Simondon/Simondon - El modo de existencia de los objetos técnicos [3].pdf": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "pageIndex": 0,
+        "scale": "page-width",
+        "top": 852,
+        "left": 0,
+        "scrollMode": 0,
+        "spreadMode": 0,
+        "lastReadAloudPosition": null
+      }
+    },
+    "04. Bibliografía/Bibliografía videojuegos/Sutton, B. (2001). The Ambiguity of Play.pdf": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "pageIndex": 2,
+        "scale": "page-width",
+        "top": 446,
+        "left": -11,
+        "scrollMode": 0,
+        "spreadMode": 0,
+        "lastReadAloudPosition": null
+      }
+    },
+    "14. Archivos/control_3_MB.pdf": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "pageIndex": 0,
+        "scale": 110,
+        "top": 217,
+        "left": 10,
+        "scrollMode": 0,
+        "spreadMode": 0,
+        "lastReadAloudPosition": null
+      }
+    },
+    "04. Bibliografía/Bibliografía antropología/Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals.pdf": {
+      "secondaryViewState": null
+    }
+  }
+}

@@ -468,24 +468,9 @@ N. (Nota::El noumeno son las relaciones (115))
 
 ![[germenes y lo local.jpg]]
 
-![[Pasted image 20261008062532.jpg]]
+![[Pasted image 20261110165747.jpg]]
 
 ![[Sobre el pensamiento.jpg]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Capítulo Segundo. Individuación en información
@@ -528,7 +513,6 @@ N. (Nota::El noumeno son las relaciones (115))
 
 ### Parte III. La individuación psíquica.
 #### La individuación de las unidades perceptivas y la significación
-
 
 #### III. La individualidad psíquica
 #### Capítulo primero. La individuación de las unidades perceptivas y la significación
@@ -616,6 +600,273 @@ N. (Nota::No se puede prever nada, por mucho que se tenga de forma antecedente l
 ![[Pasted image 20261017200744.jpg]]
 
 
+#### 2. Tensión psíquica y grado de metaestabilidad. Buena forma y forma geométrica; los diferentes tipos de equilibrio
+
+(Tema::Percepción (349))
+	La percepción es un acto de individuación, pero es necesario que haya tensión psíquica. Es la solución aportada a un problema.
+
+(Tema::La buena forma (349))
+	La buena forma es lo simple, pero esta tiene carácter cualitativo puesto que no está en carácter metaestable.
+
+(Tema::Invención y solución (350))
+	- A pesar de haber sido solo percepciones la de las columnas, Vignola lo considera como invención que antes no pudo hacerse; es decir, se solucionó un problema.
+	- Vitruvio comenta que los órdenes clásicos eran formas que antes no conocían.
+
+(Tema::Forma e información (350))
+	Información como aquello que puede incorporar diferentes elementos de una situación metaestable, de ahí que algo simple no tenga mucha info.
+
+(Tema::Esquemas estructurales (350))
+	Las figuras simples como el cuadrado y el círculo son más esquemas estructurales que formas. Es posible que sean innatos.
+	- [+] Considerar la percepción y la buena forma también a partir de la investigadora española de UK sobre videojuegos.
+
+N.(Nota::La tensión se resuelve en estructura, organización de la polaridad del sujeto y la polaridad del objeto. Es decir, un fondo y una ubicación espacial de cómo está el objeto y el sujeto (351))
+
+(Tema::Estructuración de la percepción (350))
+	La percepción de un esquema se estructura por la tensión y el grado de metaestabilidad del sistema formado por el sujeto y el objeto en una situación determinada.
+
+(Tema::Estructura de la percepción. Polarización (350))
+	Cuando se estructura la percepción se capta:
+	- La forma del objeto
+	- Su orientación en el conjunto
+	- Su polaridad, en dos valores
+	La unidad es percibida cuando se puede hacer una reorientación del campo perceptivo en función de la polaridad del objeto.
+
+N.(Nota::La percepción es polaridad y requiere también una tensión previa, un potencial (351))
+
+(Tema::Sobre el malestar (351))
+	Cuando no puede resolverse la tensión en la percepción subsiste un malestar.
+
+###### Escritos
+
+![[Estructuracion_percepcion.jpg]]
+
+![[Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.jpg]]
+
+
+#### 3. Relación entre la segregación de las unidades perceptivas y los demás tipos de individuación. Metaestabilidad y teoría de la información en tecnología y en psicología
+
+N.(Nota::La individuación no es un proceso en el que se aplique a un solo dominio de la realidad (351))
+
+(Tema::Individuo como realidad transductiva. Realidad de relación metaestable (351))
+	- No hay un solo dominio de la realidad individualizada, sino que existe una realidad individualizada en mixto.
+	- El individuo es una realidad transductiva.
+	- El individuo no es pura sustancia ni pura relación, sino realidad de una relación metaestable que, como vimos, se encuentra dentro de una fase.
+
+(Tema::Individuo físico (351))
+	El individuo físico hace desaparecer el estado metaestable disminuyendo las tensiones del sistema. Deviene por entero en estructura espacial inmóvil e involutiva.
+
+(Tema::Individuo vital (351))
+	La aparición del individuo vital no destruye el potencial de metaestabilidad del sistema; su equilibrio mantiene la estabilidad de un equilibrio dinámico y da pie a una serie de estructuraciones sucesivas. Lo metaestable se mantiene.
+
+Nota (Nota::Individuación física realizada de golpe. Ejemplo de cómo sería lo vivo si su individuación fuera física (352))
+
+Nota (Tema::Metaestabilidad de lo viviente (352))
+	Es permanente. Con relación a su vida:
+	1. Vida indefinida, como algunas formas de vida elemental.
+	2. Limitado en su existencia por su propia estructuración, que se opone a una metaestabilidad continua del conjunto individuo-medio.	
+	En este caso ocurre el desgaste, la enfermedad, se pierde la plasticidad, su capacidad de volver metaestables las situaciones y convertirlas en problemas con múltiples soluciones. Hay una estructuración cada vez más en sí mismo.
+
+(Tema::Limitación de la vida (352))
+	No es solo individuación, sino también el no poder eliminar el pasado y no poder resolver más problemas.
+	“En este sentido, la limitación de la duración de vida no está absolutamente ligada a la individuación; es solamente el resultado de formas muy complejas de la individuación por las cuales las consecuencias del pasado no son eliminadas del individuo y le sirven a la vez de instrumento para resolver las dificultades por venir y de obstáculo para acceder a tipos nuevos de problemas y de situaciones.”
+	Aunque no habla aquí de una degradación, incluso como obstáculo.
+
+(Tema::Aprendizaje (352))
+	- Al aprender hay una estructuración interna del individuo y conserva el cómo actuar con base en lo aprendido.
+	Aquí es señalado bajo esquemas descubiertos y el determinismo de esos esquemas.
+
+(Tema::Caos e irreversibilidad (352-353))
+	Cuando hay sucesión de secuencias temporales y sus consiguientes leyes hay una irreversibilidad que especializa al individuo.
+	Hay un umbral que al llegar ya no hay irreversibilidad y todo progreso esconde una posibilidad de muerte.
+
+(Tema::Seres ilimitados (353))
+	Se refiere a seres sencillos cuyos movimientos se ejecutan de manera automática por el sist. nervioso; además, es difícil ubicar sus límites (más debido a que están en grupo). Estos seres no tienen límite a su duración de vida.
+
+(Tema::Grado de individualidad estructural y temporal. Metaestabilidad (353))
+	- La individualidad estructural corresponde a la noción de límite, tanto de frontera de su ser con relación a otros seres y, además, de organización interior.
+	- Esta individualidad estructural debe de estar en el mismo plano que el de la estructuración temporal, el cual no se puede revertir.
+	- El origen de la estructuración temporal y de la individuación estructural es el proceso en donde la metaestabilidad es conservada, o acentuada, en la relación del individuo con el medio.
+
+Idea (Idea::La metaestabilidad corresponde a configuraciones espaciales y temporales. La individuación física corresponde a una teoría de la metaestabilidad.)
+
+Nota (Nota::El problema físico de la individualidad es topológico y de potenciales → estructural (353))
+
+(Tema::Teoría alagmática (353))
+	Una teoría que considere los procesos de intercambio entre configuraciones espaciales y secuencias temporales. Esto debido a que, como se comentó antes, a la individuación física le atañe una teoría de la metaestabilidad.
+
+Idea (Idea::Hay una incompatibilidad entre la teoría de la forma y la de la información.)
+
+(Tema::Teoría de la información (353))
+	- No considera la génesis absoluta de los intercambios mutuos de las formas, ni de las estructuras, ni de las secuencias temporales.
+	- En cambio, trata sobre la traducción de secuencias temporales en organizaciones espaciales y viceversa. Sin embargo, considera secuencias y organizaciones ya dadas y no su génesis.
+	- Privilegia la simplicidad y pregnancia de las formas debido a que entre más simple es la forma es más fácil transmitirla con cantidades de señales pequeñas. Esto corresponde con la teoría de la forma, que igualmente privilegia la simplicidad y pregnancia de las formas.
+
+(Tema::Teoría de la forma y de información, límite (354))
+	Ambas teorías son inútiles para el estudio del individuo porque emplean 2 criterios mutuamente incompatibles.
+	→ Y es que la simplificación de las formas que privilegia la teoría de la forma hace que haya una pérdida de información.
+
+(Tema::Individuación: ni buena forma ni (354))
+	La individuación física no es asimilable ni por la buena forma ni por la cantidad de información dada. Contiene, eso sí, forma e información en una misma unidad, de ahí la necesidad de una mediación.
+
+(Nota::La estabilidad del obj. físico no corresponde a la cantidad de información (354))
+
+###### Escritos
+
+![[Individuo_transductivo.jpg]]
+
+![[Metaestabilidad_vida.jpg]]
+
+![[Pasted image 20261110170134.jpg]]
+
+![[Allagmatica.jpg]]
+
+![[Pasted image 20261030061337.jpg]]
+
+
+#### 4. Introducción de la variación cuántica en la reproducción de la individuación psíquica
+
+(Tema::El quantum en la percepción. Ejemplo a la fotografía (354))
+	Con el contraste de la foto y pasado de una escala de grises a 2 tonos, blanco y negro, paradójicamente se aumenta la cantidad de señales útiles disminuyendo la cantidad de info del sist. verdadero. Así se mejora la percepción del objeto y se disminuye la info.
+
+(Tema::Percepción (355))
+	Lo que se percibe es la realidad de ciertos umbrales de intensidad y de cualidad conservados por los objetos.
+	Se percibe, por lo tanto, es la captación de la coherencia de ese haz de relaciones.
+
+(Tema::Objeto físico (355))
+	El objeto físico es organización de umbrales y niveles, que se mantienen y se transportan a través de diversas situaciones. El objeto físico es un haz de relaciones diferenciadas.
+	→ Lo que se percibe son estos umbrales.
+
+(Tema::Problemas con el hilemorfismo (355))
+	“El hilemorfismo es aquí radicalmente insuficiente porque no puede definir ese carácter de pluralidad unificada y de unidad pluralizada hecho de un haz de relaciones cuánticas.”
+
+###### Escritos
+
+![[Pasted image 20261110170313.jpg]]
+
+![[Pasted image 20261110170331.jpg]]
+
+
+#### 5. La problemática perceptiva; cantidad de información, cualidad de información, intensidad de información
+
+(Tema::Teoría de la forma (356))
+	“[…] La teoría de la forma define las buenas formas por la pregnancia y por la simplicidad: la buena forma, aquella que tiene el poder de imponerse, prevalece sobre formas que poseen menos coherencia, nitidez, pregnancia. El círculo, el cuadrado, son así buenas formas.”
+
+(Tema::Teoría de la información (356))
+	“[…] la teoría de la información responde a un conjunto de problemas técnicos que son contemporáneos al uso de las corrientes débiles en la transmisión de las señales y al uso de los diferentes modos de registro de las señales sonoras y luminosas.”
+		<mark style="background:rgba(205, 244, 105, 0.55)">- [+] </mark>En el caso del vj esto no es soporte de señales ni tampoco es posible su captación según una organización espacial y temporal, sino que es algo creado a partir de un esquema mental.
+
+(Tema::Límite a la cantidad de información (357))
+	Sobre la cantidad de señales sujeta al soporte material.
+
+<mark style="background:#d4b106">Nota</mark>(Nota::Forma es cualidad, información es cantidad. También, en el caso de la película o la TV, lo que importa es la velocidad (tiempo) y no tanto el espacio, cosa contraria a la teoría de la forma (358))
+
+<mark style="background:#40a9ff">Idea </mark>(Idea::La diferencia entre forma e información en PC no es similar que entre la TV o la foto, pues algo procedural, con un algoritmo básico (No Man's Sky p. ej.), tiene menos info que cualquier juego de su generación.)
+
+(Tema::Forma y cantidad de información (358))
+	La cantidad de info no permite conocer el tipo de datos que expresa. Si hay mucha info no se puede saber qué hay.
+	Incluso en ocasiones la cantidad de señales parece aumentar cuando se pierden las cualidades de las formas. Esto quiere decir que no hay un paralelismo entre ambas.
+
+<mark style="background:#d4b106">Nota</mark> (Nota::Se habla de una realidad info, misma que no se puede definir ni por la cantidad de info ni por el concepto de buena forma (359))
+
+(Tema::Intensidad de información (359))
+	Supone 2 cosas principales:
+	1. Un sujeto orientado por un dinamismo vital,
+	2. Un dónde situarse en el mundo.	
+	De ahí que sea necesario que el sujeto esté en una situación concreta, con sus instintos y pasiones, mismos que le permitirían acrecentar o disminuir voluntariamente la cantidad de señales o la cualidad de las formas. Para ello entra también la subjetividad del sujeto.
+	Dicho esto:
+> 	“Toda señal recibida posee un coeficiente de intensidad posible, gracias al cual corregimos a todo instante nuestra situación en relación con el mundo en el que estamos.”
+	- Es a nivel de los diferentes gradientes, como la luminosidad, coloreado, etc., que la info toma un sentido intensivo, predominantemente.
+
+(Tema::Formas geométricas pregnantes (360))
+	Las formas geométricas pregnantes no nos permiten orientarnos, solo son esquemas innatos de nuestra percepción, pero no introducen un sentido preferencial.
+
+(Tema::Polaridad y su importancia. Insuficiencia de la cantidad y forma (360))
+	- La cantidad de señales solo da a luz un terreno sin polaridad.
+	- Las estructuras de las formas solo suministran marcos.
+	- Es necesario que los detalles y los conjuntos tengan un sentido en relación con nosotros, una polaridad, que sean captados como intermediarios entre el sujeto y el mundo, un acoplamiento del sujeto y el mundo.
+
+(Tema::Lo que se percibe (360))
+	No es el objeto lo que se percibe, sino el mundo polarizado de tal forma que este tenga sentido. El objeto como tal solo aparece de forma artificial.
+
+(Tema::Formas pregnantes (360))
+	La captación de formas se efectúa una sola vez, sin aprendizaje y sin hábito.
+		<mark style="background:#ff4d4f">- [+]</mark> Para este caso ver también a Peirce y Kant en cuanto a percepción. Igualmente sobre la teoría del objeto, propuesta en la tesis de la lic.
+
+<mark style="background:#d4b106">Nota</mark>(Nota::La afectividad puede matizarse, transponerse, modificarse (360))
+
+<mark style="background:#d4b106">Nota</mark>(Nota::La polaridad perceptiva es importante para la segregación de unidades perceptivas, mismas que no pueden dar cuenta ni la buena forma ni la cantidad de señales (360))
+
+(Tema::Percepción e intensidad (361))
+	El sujeto percibe de manera de aumentar la intensidad de info, el potencial de info de una situación.
+
+(Tema::Percibir como organización (361))
+	Considerando a Wiener, percibir es luchar contra la entropía de tal forma en que se organiza, mantiene o inventa una organización. Organiza totalidades e introduce organizaciones ∴, se percibe intensidades y se organiza.
+
+(Tema::Percibir (361))
+	Percibir es retener la mayor cantidad de señales en las formas más ancladas al sujeto. Esto por medio de la mediación entre cualidad y cantidad. Percibir es intensidad, captura y organización de intensidades dentro de la relación del mundo con el sujeto.
+
+(Tema::Percibir y estado metaestable (362))
+	Las condiciones de la percepción son iguales a las de toda estructuración estable, por lo que es necesario que haya un estado metaestable que preceda a la percepción.
+
+(Tema::Kant y los tipos de diversidad (362))
+	Kant ha querido explicar la percepción por la síntesis de lo diverso de la sensibilidad, pero existen 3 formas de lo diverso:
+	1. Lo diverso cualitativo
+	2. Lo diverso cuantitativo
+	3. Lo diverso intensivo	
+	Esto está relacionado con la percepción y la forma, cantidad y lo intensivo.
+
+(Tema::Lo que es la percepción (362))
+	“[…] la percepción es la resolución que transforma en estructura organizada las tensiones que afectaban a este sistema sobresaturado; se podría decir que toda percepción verdadera es resolución de un problema de compatibilidad. La percepción reduce el número de las tensiones cualitativas y las compatibilidades, transformándolas en potencial de información, mixto de cualidad y cantidad. Una figura sobre un fondo no es todavía un objeto; el objeto es la estabilización provisoria de una serie de dinamismos que van de las tensiones a los aspectos de la determinación que caracterizan una situación […]”
+	Y es que la diversidad intensiva hace que el sist. sujeto-mundo algo similar a una solución sobresaturada.
+
+(Tema::Percepción y orientación. Polarización (362))
+	Con la polarización, que uno funciona como un orientarse, el sujeto puede reducir a la unidad los aspectos de la heterogeneidad. Esta orientación funciona sobre el medio que se simplifica.
+	Tanto lo múltiple, lo heterogéneo, son aspectos que preceden al acto de orientación.
+
+(Tema::Percibir (363))
+	Percibir es atravesar. Es acto activo que supone a un sujeto dentro del sist.
+
+(Tema::Subjetividad (363))
+	La subjetividad efectúa la segregación de los objetos según las formas que aporta. Es lo que marca la diferenciación.
+
+(Tema::Estabilidad de la percepción (363))
+	“[…] estableciendo la relación entre la sobresaturación y la indeterminación, el sujeto de la percepción hace aparecer un número finito de soluciones necesarias; en algunos casos, el problema puede comportar varias soluciones (como en las figuras con perspectiva reversible), pero generalmente conlleva una sola, y esta unicidad realiza la estabilidad de la percepción.”
+
+(Tema::Pregnancia y percepción (363))
+	- La pregnancia de una percepción proviene de su intensidad y no de su cualidad ni del número de señales.
+	- La percepción es más pregnante en cuanto el dinamismo anterior de incompatibilidad es más fuerte. Así, el deseo intenso da a la percepción una gran intensidad.
+	- La pregnancia está ligada al carácter dinámico del campo perceptivo. Es una solución que constituye para la problemática vital.
+
+(Tema::Formación de concepto (364))
+	- El concepto no es una síntesis de percepciones en un esquema relacional que le confiere unidad.
+	- El concepto requiere una tensión interceptiva que le dé sentido a la relación del sujeto con el mundo y consigo mismo.
+	- El concepto, al igual que la percepción, necesita una reactivación para mantenerse en su integridad. Se mantiene a través de la existencia de umbrales cuánticos que sostienen la distinción de los conceptos.
+	- El ingreso de nuevos conceptos acarrea una reestructuración del conjunto de los conceptos.
+
+###### Escritos
+
+![[Pasted image 20261110194850.jpg]]
+
+![[Pasted image 20261110194911.jpg]]
+
+![[Pasted image 20261110194924.jpg]]
+
+![[Pasted image 20261110194947.jpg]]
+
+![[Pasted image 20261110195004.jpg]]
+
+![[Pasted image 20261110195018.jpg]]
+
+![[Concepto.jpg]]
+
+
+
+
+
+
+
+
+
 
 
 
@@ -651,6 +902,231 @@ N. (Nota::No se puede prever nada, por mucho que se tenga de forma antecedente l
 
 (Tema::Afectividad y emotividad(366))
 	Son la forma transductiva por excelencia del psiquismo, intermedio entre la conciencia clara y la subconciencia, unión permanente del individuo consigo mismo y con el mundo, o más bien, unión unión entre la relación del individuo consigo mismo y la unión del individuo con el mundo. 
+
+
+
+
+
+
+
+
+
+## IV. Los fundamentos de lo transindividual y la individuación colectiva
+### I. Lo individual y lo social, la individuación de grupo
+#### 1. Tiempo social y tiempo individual
+
+**Pfo. 1** Sobre cómo se halla el individuo en la sociedad y cómo el tiempo de los 2 es de diferente forma. Pfo. 1
+
+**Pfo. 2** El cómo opera el individuo y lo social, y cómo el primero está en continuo proceso de individuación, por lo que lo social es una operación, no algo que se superpone o una suma. Esto hace que operen en distinto modo, de forma inversa
+
+(Tema::Diferentes tipos de presente (435))
+	“La sociedad encuentra al ser individual y es encontrada por él en el presente. Pero ese presente no es el mismo que aquel que podría llamarse en última instancia el presente individual, o presente somatopsíquico. La relación social está efectivamente en el presente, desde el punto de vista de cada individuo.”
+
+(Tema::El devenir de la sociedad (435))
+	La sociedad tiene ella misma su equivalente de sustancialidad y por ello una correlación entre porvenir y pasado. Su afirmación de permanencia es un modo de devenir, y la permanencia es la estabilidad de un devenir que posee dimensión temporal.
+
+(Tema::El individuo frente a lo social (435-436))
+	El individuo encuentra una exigencia determinada de porvenir (el qué hacer) y una conservación del pasado (historia). El futuro para el individuo está condicionado según puntos de contacto y su estructura es análoga a su pasado; por lo que está encaminado a hacer esto o aquello.
+	Así, su tiempo corre a partir del presente y por ello se le proponen fines. Lo social, por ello, se le presenta al individuo como una serie de estilos y roles.
+
+N.(Nota::“Para la sociedad lo que importa sobre todo es el pasado individual, pues el acuerdo entre lo individual y lo social se logra por la coincidencia de dos reticulaciones.” (436))
+
+(Tema::Socialización del individuo (436))
+	Para socializar, el individuo debe de proyectar su porvenir a través de lo social. Debe integrarse y coincidir c/ una reticulación.
+
+(Tema::Proceso de socialización del individuo (436))
+	Hay el pasado individual y social. El individuo extrae del pasado social su impulso de lo que en él se asociaría al dinamismo de su porvenir (ya no del pasado individual). Hay una inversión.
+	[+] Es entonces que el individuo se ve afectado por lo social más de lo que le gustaría, y de ahí también viene el inconformismo, de un pasado social del que no está de acuerdo y de un porvenir (lo que se espera de él) abrumador y poco deseable.
+	“[…] El alma social y el alma individual operan en sentido inverso, individúan a contrapelo una de otra. Por eso el individuo puede aparecerse a sí mismo como huyendo de lo social y confirmándose en la oposición a lo social.”
+
+N.(Nota::Lo social no es un medio (pues el individuo no es estático), ni tampoco es la presencia de muchos individuos, ni una realidad sustancial superior al individuo (436))
+
+(Tema::Lo que es la sociedad (437))
+	“[…] es la operación y la condición de operación por la cual se crea un modo de presencia más compleja que la presencia del ser individuado solo.”
+	[+] Resalta aquí la condición de operación.
+
+###### Escritos
+
+![[IMG_3346.jpeg]]
+
+![[IMG_3347.jpeg]]
+
+![[IMG_3348.jpeg]]
+
+
+#### 2. Grupos de interioridad y grupos de exterioridad
+
+**Pfo. 1.** Definición del in-group y out-group y cómo se relaciona el ser individuado con cada uno de ellos.
+
+**Pfo. 2.** Límites y ejemplos de los in-group y out-group.
+
+**Pfo. 3.** Comienza con el espacio de la vida social habitual y termina con los elementos por los cuales se conforma la individuación social con el in-group basado, sobre todo, bajo la creencia.
+
+(Tema::In-group y out-group (437))
+	In-group: relación analógica entre seres individuados y que coinciden su pasado y su porvenir.
+	- El in-group es el grupo abierto, el cuerpo social del sujeto y base de su personalidad social, por lo que comparte junto al grupo la creencia como modo de participación y molde de personalidad.
+	- Out-group: relación no analógica entre seres individuados y cuyo porvenir se encuentra relacionado solo a una estructura reticular a la cual deben pasar.
+	- Todo in-group supone un out-group.
+
+N.(Nota::Lo social está hecho de la mediación entre el ser individual y el out-group con el in-group como intermedio (437))
+
+N.(Nota::La operación social está situada en el límite entre el in-group y el out-group antes que entre el individuo y el grupo (437))
+
+(Tema::Extensión del individuo en el in-group (437))
+	El cuerpo del individuo se extiende hasta los límites del in-group, por lo que hay un esquema corporal y un esquema social.
+
+(Tema::Ampliación y reducción del grupo: marginación y caridad (437))
+	- Reducción del grupo objeto: la reducción de un grupo objeto alrededor de un sujeto hasta tal punto que toda expansión de personalidad es nula y todo in-group sea out-group y no se siente incluido en ningún lado. Esto se produce en los casos de delincuencia, marginados, etc.
+	- Apertura del grupo: por dilatación de la personalidad todo grupo puede ser aceptado por el sujeto como in-group, de tal forma que un inmenso grupo, o la humanidad, se siente parte del mismo grupo.
+
+(Tema::Caridad (438))
+	“La caridad es la fuerza de expansión de la personalidad que no quiere reconocer ningún límite al *in-group* y lo considera como coextensivo a la humanidad entera o incluso a toda la creación; para San Francisco de Asís no solamente los hombres, sino también los mismos animales, formaban parte del *in-group*, del grupo de interioridad. Del mismo modo, Cristo no reconocía enemigos, teniendo una actitud de interioridad incluso hacia aquellos que lo golpeaban.”
+	- Para la caridad no hay límite del in-group.
+
+(Tema::Estatuto de vida corriente (438))
+	La vida social habitual y que sitúa al individuo entre los límites del grupo de interioridad y exterioridad.
+
+(Tema::Individuación social (438))
+	La forma en que el individuo se integra a lo social es por medio de una analogía de funcionamiento entre la operación de la presencia individual y social.
+	- Esta analogía se realiza cuando el individuo encuentra una individuación social que recubre su individuación personal.
+	- El individuo tiene una relación con el in-group y out-group como porvenir y pasado.
+
+(Tema::Individuación in-group)
+	- Individuo e in-group: el in-group es fuente de virtualidades, de tensiones, como el porvenir individual. Precede al individuo en el encuentro con el grupo de exterioridad.
+		- Bajo la pertenencia al grupo de interioridad se define una creencia como algo no estructurado, similar al porvenir, pero asume el pasado para darle un origen a ese grupo de interioridad (real o mítico). Porvenir y pasado son simplificados.
+
+###### Escritos
+
+![[Pasted image 20261103161002.jpg]]
+
+![[Pasted image 20261103161054.jpg]]
+
+![[Pasted image 20261103161124.jpg]]
+
+
+#### 3. La realidad social como sistema de relaciones
+
+Pfo. 1. Definición de lo social como sistema y no como sustancia. La forma en que lo social interior es igual al individuo y lo que es la vida social
+
+Pfo. 2. De cómo el psicologismo y el sociologismo son insuficientes para representar la vida social puesto que no entienden bien la interioridad y exterioridad de los grupos.
+
+Pfo. 3. Puntos de vista del sociologismo y el psicologismo acerca del individuo y lo social. El psicologismo lo reduce todo a necesidades y como si hubiera un individuo puro y completamente aislado. El sociologismo, en cambio, sustancializa todo y con una estructura antagónica que no está situada pero siempre está adversa.
+
+(Tema::Crítica y observación de lo social como sustancia (439))
+	Lo social solo se sustancializa para el delincuente o el alienado, ya que lo social no es de orden sustancial ni relacional.
+		- [+] Bajo esta perspectiva conviene ver cómo se construyen las narrativas acerca de una sociedad en contra del individuo y de entes como una agenda o los guerreros de la justicia.
+
+(Tema::Lo social (439))
+	Sistema de relaciones, sistema que implica una relación y la distancia.
+
+(Tema::Interioridad del grupo (439))
+	La interioridad del grupo es una cierta dimensión de la personalidad individual, no algo externo a él. Es una zona de participación alrededor del individuo y que mediatiza la relación entre lo individuado y lo social.
+
+(Tema::La vida social (439))
+	La vida social es relación entre el medio de participación y no participación; entre el in y el out del group.
+
+(Tema::Insuficiencia del psicologismo (439))
+	Entre sus principales críticas se encuentra el desconocimiento de la frontera de actividad relacional entre grupo de interioridad y exterioridad.
+
+(Tema::Insuficiencia del sociologismo (439))
+	Sustancializa lo social a partir de lo exterior y no reconoce el carácter relacional de la actividad social.
+
+(Tema::Insuficiencia del psicologismo y sociologismo (439))
+	Otro de los problemas es que cargan lo psicológico y lo social de elementos presociales tales como estabilidad afectiva, adaptabilidad y capacidad de aculturación.
+	- Tanto la sociología como el psicologismo ven al ser individual desde una perspectiva que desborda su propia existencia individual.
+
+N.(Nota::Hay en lo social contenidos que son del orden preindividual pero que no son considerados como tales en la actitud sociológica (440))
+
+###### Escritos
+
+![[Pasted image 20261103162204.jpg]]
+
+![[Pasted image 20261103162223.jpg]]
+
+![[Pasted image 20261103162241.jpg]]
+
+
+#### 4. Insuficiencia de la noción de esencia del hombre y de la antropología
+
+**Pfo. 1.** Los límites de la antropología y cómo sustancializa al hombre.
+**Pfo. 2.** Propone que puede estudiar la antropología y que son las relaciones. Toma como ejemplo el trabajo y lo desglosa. Termina en que no hay aglomeración sino superposición.
+**Pfo. 3.** Después de tanto rodeo ya da una definición del grupo de interioridad y cómo también es una individuación
+**Pfo. 4.** En esta parte se desarrolla cómo se da la operación de individuación y cómo se desenvuelve el individuo en el grupo. Relacionado a la individuación de cristales
+**Pfo. 5.** Termina por donde empezó y hace una crítica a los sociogrupos y psicogrupos 
+
+(Tema::Límites de la antropología (441))
+	La antropología sustancia lo individual para dar una esencia del hombre. Hay una especificidad que lo separa de lo vital.
+
+<mark style="background:#d4b106">Nota</mark> (Nota::Lo vital es lo vital aplicado al hombre (441))
+
+<mark style="background:#40a9ff">Idea</mark> (Idea::Con esto de la antropología puede manifestarse que las separaciones y subdivisiones no son muy acordes al pensamiento de Simondon.)
+
+(Tema::Lo humano (441))
+	Lo humano es social, psicosocial, psíquico, somático, y ninguno de estos es fundamental ni accesorio.
+
+(Tema::Actividades humanas. Ejemplo del trabajo (442))
+	Pone como ejemplo el trabajo, pero puede ser cualquier otra, y es que cualquier actividad es en relación entre el grupo de interioridad y exterioridad.
+
+(Tema::Grupo y grupo de interioridad (442))
+	Todo grupo, como el grupo de interioridad, no está hecho de una aglomeración sino de superposiciones de personalidades individuales.
+
+(Tema::Personalidad individual; coextensión del grupo (442))
+	Cada personalidad es coextensiva a la personalidad del grupo.
+
+(Tema::Concepto de personalidad (442))
+	Personalidad para Simondon es en el sentido psicosomático e incluye instintos, creencias, actitudes somáticas, significaciones, expresiones.
+
+(Tema::Superposición de personalidad como individuación (442))
+	Ya establecido que el grupo de interioridad es una superposición de personalidades individuales, se explica el papel que juega como estructura y función autoconstitutiva.
+	“[…] Esta superposición es una individuación, la resolución de un conflicto, la asunción de tensiones conflictuales en estabilidad orgánica, estructural y funcional.”
+	Es decir, que el grupo al ser una superposición es también una individuación.
+	- La personalidad psicosocial se individúa al mismo tiempo que el grupo; no hay una personalidad previamente constituida que se integre al grupo.
+
+<mark style="background:#d4b106">Nota</mark> (Nota::No es ni el grupo quien efectúa su acción sobre el individuo ni el individuo sobre el grupo (443))
+
+(Tema::Operación de la individuación de grupo (443))
+	Los seres individuados son medio y agentes de una [[sincristalización]] de varios seres individuales, y la personalidad es resultado de esa sincristalización.
+	- Tanto el grupo como el individuo deben de estar tensos y parcialmente indeterminados, como lo preindividual antes de la individuación.
+	- El individuo debe de ser aún portador de tensiones, tendencias, potenciales, de realidad estructurable pero no estructurada.
+
+(Tema::Nacimiento del grupo de interioridad (443))
+	El gpo. de interioridad nace cuando las fuerzas del porvenir contenidas en varios individuos desembocan en una estructuración colectiva. La participación, que es la superposición que lo hace único, se realiza en ese momento de individuación del grupo + individuación de los individuos agrupados.
+
+<mark style="background:#d4b106">Nota</mark> (Nota::La individuación que da nacimiento al gpo. es también la de los individuos agrupados (443))
+
+(Tema::Llegada de un nuevo individuo al gpo. constituido (443))
+	“[…] incluso en el caso límite en que el grupo ya constituido recibe un nuevo individuo y lo incorpora, la incorporación del nuevo es para este último un nuevo nacimiento (individuación), y para el grupo también un renacimiento; un grupo que no se recrea incorporando nuevos miembros se disuelve en tanto grupo de interioridad.”
+	Hay una nueva individuación.
+
+<mark style="background:#d4b106">Nota</mark> (Nota::“El miembro de un grupo alimenta por sí mismo la personalidad colectiva reclutando seres nuevos e introduciéndolos en el grupo.” (443))
+
+###### Escritos
+
+![[Pasted image 20261110200410.jpg]]
+
+![[Pasted image 20261110200427.jpg]]
+
+![[Pasted image 20261110200444.jpg]]
+
+![[Pasted image 20261110200457.jpg]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

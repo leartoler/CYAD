@@ -1,0 +1,3 @@
+### 2.2.2 ¿Dónde jugarán las máquinas?
+
+En 1997, el entonces mejor jugador de ajedrez, Garry Kasparov, jugó por segunda ocasión un match de seis partidas de ajedrez contra la super computadora de ajedrez de *IBM*, *Deep Blue* (Chesscom) Lo interesante para los motivos de esta investigación fueron la segunda y tercera partida: la segunda, con una victoria para *Deep Blue*, supuso el parteaguas del match y fue donde, según Kasparov, la máquina hizo un movimiento más propio de un humano que de algo artificial; en respuesta a ello, en la tercera partida, Kasparov comenzó con una apertura irregular, poco estudiada, con la creencia de que la máquina no lo tuviera en su base de datos, dando como resultado un empate. 

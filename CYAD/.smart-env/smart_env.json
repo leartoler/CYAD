@@ -13,7 +13,7 @@
       }
     },
     "excluded_headings": "",
-    "file_exclusions": "Untitled,01. Lecturas Simondon/Blanco,J.,Parente,D.,Rodriguez,P. Y Vaccari,A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon/Montoya,J. W. (2015). El individuo técnico. un objeto inevitable.md",
+    "file_exclusions": "Untitled,01. Lecturas Simondon/Blanco,J.,Parente,D.,Rodriguez,P. Y Vaccari,A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon/Montoya,J. W. (2015). El individuo técnico. un objeto inevitable.md,04. Bibliografía/Bibliografía videojuegos/Video Games as Art A Communication-Oriented Perspective on the Relationship between Gaming and the Art (Frank G. Bosman etc.) (z-library.sk,1lib.sk,z-lib.sk).pdf,04. Bibliografía/Bibliografía antropología/Folkways  a study of the sociological importance of usages,manners,customs,mores,and morals (Sumner,William Graham,1840-1910) (z-library.sk,04. Bibliografía/Bibliografía antropología/Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals (Sumner, William Graham, 1840-1910) (z-library.sk, 1lib.sk, z-lib.sk).pdf,04. Bibliografía/Bibliografía videojuegos/Video Games as Art A Communication-Oriented Perspective on the Relationship between Gaming and the Art (Frank G. Bosman etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "folder_exclusions": ""
   },
   "language": "en",
@@ -84,7 +84,7 @@
     "results_limit": 20
   },
   "embedding_models": {
-    "default_model_key": "transformers#1782711453847"
+    "default_model_key": "transformers#1795071398101"
   },
   "event_logs": {
     "native_notice_info": false,

@@ -1,0 +1,3 @@
+![](https://www.youtube.com/watch?v=DJMr36hLY38)
+
+This is an original official UK import game from Taito themselves, rather than a Midway version from the States. It features a joystick rather than buttons t...

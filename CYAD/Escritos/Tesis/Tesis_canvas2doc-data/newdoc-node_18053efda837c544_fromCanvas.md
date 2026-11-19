@@ -1,0 +1,2 @@
+Sobre cómo el videojuego trae a colación una serie de procesos que sin vistos dentro de lo digital, tal como lo es el control. Esto permite a los sitemas digitales o lo limitado a las reglas expandirse. Esto se puede ampliar más cuando consideramos lo que dice Simondon sobre la identidad de las relaciones y no las relaciones de la identidad y qué otro tipo de relaciones más allá de lo evidente puede traernos la contraposición entre videojuego y lo digitao más allá de lo meramente político.
+

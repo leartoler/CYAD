@@ -7,5 +7,9 @@
 	"edges":[
 		{"id":"23dee0bafd8c204c","fromNode":"06d697c175f308bc","fromSide":"bottom","toNode":"410d8fa9fe8222c0","toSide":"top"},
 		{"id":"31d5f1a3d1d911cd","fromNode":"410d8fa9fe8222c0","fromSide":"right","toNode":"08558a389f460bd9","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

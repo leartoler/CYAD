@@ -1,0 +1,1 @@
+Antes de entender la individuación del videojuego y proponer un modelo explicativo de su metafísica y ontogénesis1, es necesario conocer su fase preindividual2: el juego. Pero como sustantivo el juego tiene aún un elemento que lo antecede y que es común a otro tipo de ontologías y que no es otro sino la acción del jugar. 

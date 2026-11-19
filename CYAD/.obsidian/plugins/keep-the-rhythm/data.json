@@ -106,7 +106,13 @@
       "2026-07-20",
       "2026-08-13",
       "2026-09-02",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-21",
+      "2026-10-26",
+      "2026-10-28",
+      "2026-10-30",
+      "2026-11-10",
+      "2026-11-18"
     ],
     "dailyActivity": [
       {
@@ -11703,9 +11709,1087 @@
         "charCountStart": 952,
         "changes": [],
         "id": 834
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "01. Lecturas Videojuegos/Barr, P. (2023). The Stuff Games Are Made of.md",
+        "wordCountStart": 1097,
+        "charCountStart": 7143,
+        "changes": [],
+        "id": 835
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "01. Lecturas Videojuegos/Caillos, R. (1958). Teoría de los juegos.md",
+        "wordCountStart": 1142,
+        "charCountStart": 7217,
+        "changes": [
+          {
+            "timeKey": "08:55",
+            "w": 2062,
+            "c": 12648
+          },
+          {
+            "timeKey": "09:00",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "09:05",
+            "w": 1,
+            "c": -2
+          },
+          {
+            "timeKey": "09:35",
+            "w": 1,
+            "c": 16
+          }
+        ],
+        "id": 836
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/Videojuegos y extrema derecha.md",
+        "wordCountStart": 3122,
+        "charCountStart": 21586,
+        "changes": [],
+        "id": 837
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/UN Report Examines Gaming And Violent Extremism.md",
+        "wordCountStart": 863,
+        "charCountStart": 6208,
+        "changes": [],
+        "id": 838
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/¿Game-over sexismo Análisis de actitudes misóginas y acoso dentro de la comunidad gamer de México.md",
+        "wordCountStart": 7805,
+        "charCountStart": 48910,
+        "changes": [],
+        "id": 839
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/La 'machosfera' de internet incuba la violencia que ha asaltado Teotihuacán y dos universidades de México.md",
+        "wordCountStart": 2334,
+        "charCountStart": 19922,
+        "changes": [],
+        "id": 840
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/Un videojuego está sufriendo el boicot de nacionalistas españoles. El motivo eres un azteca y matas conquistadores.md",
+        "wordCountStart": 846,
+        "charCountStart": 6009,
+        "changes": [],
+        "id": 841
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/La derecha mexicana Discord como los supremacistas en EU.md",
+        "wordCountStart": 1153,
+        "charCountStart": 7823,
+        "changes": [],
+        "id": 842
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "Clippings/Videojuegos están plagados de comunidades racistas y sexistas.md",
+        "wordCountStart": 772,
+        "charCountStart": 5133,
+        "changes": [],
+        "id": 843
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "11. Películas y Series/Button, C. (2023). The Giggle..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 844
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 4912,
+        "charCountStart": 33186,
+        "changes": [],
+        "id": 845
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+        "wordCountStart": 313,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 846
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "22. Notas de voz/La distinción entre descubrimiento y justificación científica.md",
+        "wordCountStart": 127,
+        "charCountStart": 775,
+        "changes": [],
+        "id": 847
+      },
+      {
+        "date": "2026-10-22",
+        "filePath": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+        "wordCountStart": 313,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 848
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+        "wordCountStart": 313,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 849
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 4912,
+        "charCountStart": 33186,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 31
+          }
+        ],
+        "id": 850
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 4912,
+        "charCountStart": 33217,
+        "changes": [],
+        "id": 851
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+        "wordCountStart": 313,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 852
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "01. Lecturas juegos/Burghardt, G. (2005). The Genesis of Animal Play.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "05:15",
+            "w": 86,
+            "c": 704
+          },
+          {
+            "timeKey": "05:20",
+            "w": 1592,
+            "c": 10352
+          },
+          {
+            "timeKey": "05:25",
+            "w": -155,
+            "c": -1170
+          },
+          {
+            "timeKey": "05:30",
+            "w": 23,
+            "c": 188
+          },
+          {
+            "timeKey": "05:35",
+            "w": 54,
+            "c": 443
+          }
+        ],
+        "id": 853
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "01. Lecturas juegos/Burghardt, G. (2005). The Genesis of Animal Play.md",
+        "wordCountStart": 1600,
+        "charCountStart": 10517,
+        "changes": [],
+        "id": 854
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "Clippings/Do bees play A groundbreaking study says yes.md",
+        "wordCountStart": 1525,
+        "charCountStart": 9884,
+        "changes": [],
+        "id": 855
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 856
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 600,
+            "c": 3649
+          }
+        ],
+        "id": 857
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Escritos/Complejidad y Videojuegos/Complejidad y videojuegos.md",
+        "wordCountStart": 72,
+        "charCountStart": 432,
+        "changes": [],
+        "id": 858
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Escritos/Borradores/Escrito - WTF con los Videojuegos. Hacia la concretización de lo digital.md",
+        "wordCountStart": 680,
+        "charCountStart": 3990,
+        "changes": [],
+        "id": 859
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Escritos/Borradores/Los objetos en los videojuegos.md",
+        "wordCountStart": 700,
+        "charCountStart": 4047,
+        "changes": [],
+        "id": 860
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Escritos/Artículos/Libro Blanco.md",
+        "wordCountStart": 4065,
+        "charCountStart": 25064,
+        "changes": [],
+        "id": 861
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 862
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Clippings/'Gamers' don't have to be your audience. 'Gamers' are over.md",
+        "wordCountStart": 1572,
+        "charCountStart": 9856,
+        "changes": [],
+        "id": 863
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Clippings/Noah Wardrip-Fruin.md",
+        "wordCountStart": 468,
+        "charCountStart": 3332,
+        "changes": [],
+        "id": 864
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Clippings/The Secret Meaning Behind GamerGate's Branding.md",
+        "wordCountStart": 1603,
+        "charCountStart": 10850,
+        "changes": [],
+        "id": 865
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Clippings/Meet the Female Gamer Mascot Born of Anti-Feminist Internet Drama.md",
+        "wordCountStart": 1359,
+        "charCountStart": 8512,
+        "changes": [],
+        "id": 866
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "Clippings/Vivian James.md",
+        "wordCountStart": 4575,
+        "charCountStart": 31173,
+        "changes": [],
+        "id": 867
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Escritos/Artículos/Presentacion.md",
+        "wordCountStart": 149,
+        "charCountStart": 914,
+        "changes": [],
+        "id": 868
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo amplíado.md",
+        "wordCountStart": 14064,
+        "charCountStart": 86657,
+        "changes": [],
+        "id": 869
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Escritos/Metafísica y ontología del videojuego/Protocolo.md",
+        "wordCountStart": 4972,
+        "charCountStart": 31336,
+        "changes": [],
+        "id": 870
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Clippings/Este jugador quedó atrapado en No Man's Sky y la comunidad hizo lo que mejor sabe hacer salvar la vida de un desconocido.md",
+        "wordCountStart": 905,
+        "charCountStart": 5831,
+        "changes": [],
+        "id": 871
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "01. Lecturas Simondon/Blanco, J., Parente, D., Rodriguez, P. Y Vaccari, A. (2015). Amar a las máquinas. Cultura y técnica en Gilbert Simondon.md",
+        "wordCountStart": 483,
+        "charCountStart": 3759,
+        "changes": [],
+        "id": 872
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Clippings/Vivian James.md",
+        "wordCountStart": 4575,
+        "charCountStart": 31173,
+        "changes": [],
+        "id": 873
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 5456,
+        "charCountStart": 36393,
+        "changes": [
+          {
+            "timeKey": "05:25",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "05:30",
+            "w": 6,
+            "c": 23
+          },
+          {
+            "timeKey": "05:35",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "05:55",
+            "w": 1358,
+            "c": 8772
+          },
+          {
+            "timeKey": "06:00",
+            "w": 24,
+            "c": 144
+          },
+          {
+            "timeKey": "06:05",
+            "w": 14,
+            "c": 177
+          },
+          {
+            "timeKey": "06:10",
+            "w": 4,
+            "c": 27
+          }
+        ],
+        "id": 874
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Untitled 1.md",
+        "wordCountStart": 600,
+        "charCountStart": 3649,
+        "changes": [],
+        "id": 875
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 876
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Indice Notas.md",
+        "wordCountStart": 16,
+        "charCountStart": 117,
+        "changes": [],
+        "id": 877
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 878
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "Clippings/AI after Simondon Individuation, Technicity, and Milieu.md",
+        "wordCountStart": 1679,
+        "charCountStart": 11666,
+        "changes": [],
+        "id": 879
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 880
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "Untitled 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 1,
+            "c": 3
+          },
+          {
+            "timeKey": "12:35",
+            "w": 16,
+            "c": 87
+          },
+          {
+            "timeKey": "12:40",
+            "w": 48,
+            "c": 264
+          },
+          {
+            "timeKey": "12:50",
+            "w": 32,
+            "c": 275
+          },
+          {
+            "timeKey": "12:55",
+            "w": 12,
+            "c": 37
+          },
+          {
+            "timeKey": "13:00",
+            "w": 90,
+            "c": 604
+          },
+          {
+            "timeKey": "13:05",
+            "w": 54,
+            "c": 350
+          },
+          {
+            "timeKey": "13:10",
+            "w": 32,
+            "c": 191
+          }
+        ],
+        "id": 881
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "01. Lecturas Videojuegos/Mulas y Bertolazzi (2023). La evolución de los videojuegos.md",
+        "wordCountStart": 1025,
+        "charCountStart": 6606,
+        "changes": [],
+        "id": 882
+      },
+      {
+        "date": "2026-11-02",
+        "filePath": "Untitled 2.md",
+        "wordCountStart": 285,
+        "charCountStart": 1811,
+        "changes": [],
+        "id": 883
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 7837,
+        "charCountStart": 51783,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 0,
+            "c": -16
+          },
+          {
+            "timeKey": "17:00",
+            "w": 9,
+            "c": 85
+          },
+          {
+            "timeKey": "18:20",
+            "w": 1282,
+            "c": 8002
+          },
+          {
+            "timeKey": "19:40",
+            "w": 12,
+            "c": 85
+          },
+          {
+            "timeKey": "19:45",
+            "w": 40,
+            "c": 336
+          },
+          {
+            "timeKey": "19:50",
+            "w": 10,
+            "c": 91
+          },
+          {
+            "timeKey": "19:55",
+            "w": 639,
+            "c": 4251
+          },
+          {
+            "timeKey": "20:00",
+            "w": 27,
+            "c": 234
+          },
+          {
+            "timeKey": "20:05",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 884
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "11. Películas y Series/Button, C. (2023). The Giggle..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 885
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/A connectomics milestone Mapping the complete male fruit fly brain.md",
+        "wordCountStart": 1627,
+        "charCountStart": 11712,
+        "changes": [],
+        "id": 886
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/Google Mapped a Fruit Fly’s Brain. Now It’s Playing Doom and Super Mario 64.md",
+        "wordCountStart": 612,
+        "charCountStart": 3964,
+        "changes": [],
+        "id": 887
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/gabrycinadoom-fly-control Is the fly brain actually playing DOOM Control experiments on the viral fly-connectome demos.md",
+        "wordCountStart": 592,
+        "charCountStart": 4002,
+        "changes": [],
+        "id": 888
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/Videojuegos están plagados de comunidades racistas y sexistas.md",
+        "wordCountStart": 772,
+        "charCountStart": 5133,
+        "changes": [],
+        "id": 889
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/Do bees play A groundbreaking study says yes.md",
+        "wordCountStart": 1525,
+        "charCountStart": 9884,
+        "changes": [],
+        "id": 890
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 891
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/AI after Simondon Individuation, Technicity, and Milieu.md",
+        "wordCountStart": 1679,
+        "charCountStart": 11666,
+        "changes": [],
+        "id": 892
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Untitled 2.md",
+        "wordCountStart": 285,
+        "charCountStart": 1811,
+        "changes": [],
+        "id": 893
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "01. Lecturas juegos/Burghardt, G. (2005). The Genesis of Animal Play.md",
+        "wordCountStart": 1600,
+        "charCountStart": 10517,
+        "changes": [],
+        "id": 894
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 174,
+        "charCountStart": 1319,
+        "changes": [],
+        "id": 895
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Escritos/Tesis/Tesis_fromCanvas.md",
+        "wordCountStart": 291,
+        "charCountStart": 2131,
+        "changes": [],
+        "id": 896
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Escritos/Tesis/Tesis_fromCanvas_final.md",
+        "wordCountStart": 496,
+        "charCountStart": 2888,
+        "changes": [],
+        "id": 897
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2017). Sobre la técnica.md",
+        "wordCountStart": 8128,
+        "charCountStart": 54299,
+        "changes": [],
+        "id": 898
+      },
+      {
+        "date": "2026-11-10",
+        "filePath": "Clippings/Kasparov vs. Deep Blue  The Match That Changed History.md",
+        "wordCountStart": 1335,
+        "charCountStart": 8764,
+        "changes": [],
+        "id": 899
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "01. Lecturas juegos/Burghardt, G. (2005). The Genesis of Animal Play.md",
+        "wordCountStart": 1600,
+        "charCountStart": 10517,
+        "changes": [],
+        "id": 900
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 174,
+        "charCountStart": 1319,
+        "changes": [],
+        "id": 901
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "Clippings/Kasparov vs. Deep Blue  The Match That Changed History.md",
+        "wordCountStart": 1335,
+        "charCountStart": 8764,
+        "changes": [],
+        "id": 902
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "01. Lecturas juegos/Burghardt, G. (2005). The Genesis of Animal Play.md",
+        "wordCountStart": 1600,
+        "charCountStart": 10517,
+        "changes": [],
+        "id": 903
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "01. Lecturas Videojuegos/Madigan, J. (2016). Getting Gamers.md",
+        "wordCountStart": 174,
+        "charCountStart": 1319,
+        "changes": [],
+        "id": 904
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+        "wordCountStart": 9860,
+        "charCountStart": 64887,
+        "changes": [],
+        "id": 905
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "Clippings/Kasparov vs. Deep Blue  The Match That Changed History.md",
+        "wordCountStart": 1335,
+        "charCountStart": 8764,
+        "changes": [],
+        "id": 906
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "01. Lecturas Videojuegos/Sutton-Smith, B, (1997). The ambiguity of play.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:25",
+            "w": 113,
+            "c": 857
+          },
+          {
+            "timeKey": "07:05",
+            "w": 19,
+            "c": 106
+          },
+          {
+            "timeKey": "07:10",
+            "w": 13,
+            "c": 98
+          }
+        ],
+        "id": 907
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "Clippings/How I found a definition of games after searching for 16 years.md",
+        "wordCountStart": 2623,
+        "charCountStart": 15489,
+        "changes": [],
+        "id": 908
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "2026-10-01.md",
+        "wordCountStart": 28,
+        "charCountStart": 227,
+        "changes": [],
+        "id": 909
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "11. Películas y Series/Button, C. (2023). The Giggle..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 910
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "TagsRoutes/logMessage.md",
+        "wordCountStart": 1875,
+        "charCountStart": 12116,
+        "changes": [],
+        "id": 911
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "Escritos/Tesis/Tesis_fromCanvas.md",
+        "wordCountStart": 1074,
+        "charCountStart": 7837,
+        "changes": [],
+        "id": 912
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "2. Del jugar, juego y videojuego.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "06:05",
+            "w": 2190,
+            "c": 13143
+          },
+          {
+            "timeKey": "06:10",
+            "w": 18,
+            "c": 144
+          },
+          {
+            "timeKey": "06:30",
+            "w": -2208,
+            "c": -13287
+          }
+        ],
+        "id": 913
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "01. Lecturas Videojuegos/Sutton-Smith, B, (1997). The ambiguity of play.md",
+        "wordCountStart": 345,
+        "charCountStart": 2223,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 914
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
+        "wordCountStart": 68,
+        "charCountStart": 628,
+        "changes": [],
+        "id": 915
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "Clippings/PlayStation Store Shutdown PS3 and PS Vita in 2027.md",
+        "wordCountStart": 619,
+        "charCountStart": 4891,
+        "changes": [],
+        "id": 916
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
+        "wordCountStart": 68,
+        "charCountStart": 628,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 1663,
+            "c": 10170
+          },
+          {
+            "timeKey": "08:00",
+            "w": 23,
+            "c": 170
+          },
+          {
+            "timeKey": "08:30",
+            "w": 2,
+            "c": 46
+          },
+          {
+            "timeKey": "08:35",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "08:40",
+            "w": -12,
+            "c": -163
+          }
+        ],
+        "id": 917
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "21. Convocatorias/2027 Luxembourg – History of Games.md",
+        "wordCountStart": 1236,
+        "charCountStart": 9710,
+        "changes": [],
+        "id": 918
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "18. Calendario/2026-03-10 Reunión Asesor.md",
+        "wordCountStart": 24,
+        "charCountStart": 146,
+        "changes": [
+          {
+            "timeKey": "08:55",
+            "w": -24,
+            "c": -146
+          }
+        ],
+        "id": 919
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "2026-11-18.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 920
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "18. Calendario/2027-01-31 2027 Luxembourg – History of Games.md",
+        "wordCountStart": 14,
+        "charCountStart": 96,
+        "changes": [
+          {
+            "timeKey": "08:55",
+            "w": 5,
+            "c": 38
+          }
+        ],
+        "id": 921
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "01. Lecturas Videojuegos/GTA 6. impacto económico y social.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 3722,
+            "c": 22641
+          }
+        ],
+        "id": 922
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "Escritos/Artículos/The magic circle is a lie.md",
+        "wordCountStart": 420,
+        "charCountStart": 2384,
+        "changes": [
+          {
+            "timeKey": "01:55",
+            "w": 5,
+            "c": 26
+          },
+          {
+            "timeKey": "02:00",
+            "w": 43,
+            "c": 254
+          },
+          {
+            "timeKey": "02:05",
+            "w": 68,
+            "c": 418
+          },
+          {
+            "timeKey": "02:10",
+            "w": 47,
+            "c": 274
+          },
+          {
+            "timeKey": "02:25",
+            "w": 32,
+            "c": 187
+          },
+          {
+            "timeKey": "02:30",
+            "w": 115,
+            "c": 661
+          },
+          {
+            "timeKey": "02:40",
+            "w": 51,
+            "c": 294
+          },
+          {
+            "timeKey": "02:45",
+            "w": 29,
+            "c": 165
+          },
+          {
+            "timeKey": "02:50",
+            "w": 11,
+            "c": 58
+          },
+          {
+            "timeKey": "02:55",
+            "w": 28,
+            "c": 139
+          },
+          {
+            "timeKey": "10:25",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 923
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "01. Lecturas Videojuegos/GTA 6. impacto económico y social.md",
+        "wordCountStart": 3722,
+        "charCountStart": 22641,
+        "changes": [],
+        "id": 924
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "01. Lecturas Antropología/Soustelle, J. (2025). La vida cotidiana de los aztecas en vísperas de la conquista.md",
+        "wordCountStart": 313,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 925
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "Clippings/GTA VI How the Hype and Launch Windows Compare to Vice City and GTA V.md",
+        "wordCountStart": 2778,
+        "charCountStart": 17950,
+        "changes": [],
+        "id": 926
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "Clippings/No price shock for 'GTA VI' as gamers gear up for preorders.md",
+        "wordCountStart": 763,
+        "charCountStart": 4643,
+        "changes": [],
+        "id": 927
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "Clippings/10% of surveyed workers who game plan to skip work on Grand Theft Auto VI's launch day..md",
+        "wordCountStart": 1304,
+        "charCountStart": 8731,
+        "changes": [],
+        "id": 928
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "Escritos/Artículos/articulo.md",
+        "wordCountStart": 2018,
+        "charCountStart": 12182,
+        "changes": [],
+        "id": 929
       }
-    ],
-    "wholeVaultWordCount": 564663,
-    "wholeVaultCharCount": 3695605
+    ]
   }
 }
