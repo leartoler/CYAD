@@ -16,9 +16,9 @@
               "state": {
                 "file": "Escritos/Tesis/Tesis.canvas",
                 "viewState": {
-                  "x": 1445.2264143964103,
-                  "y": -2158.947525421243,
-                  "zoom": -1.3333333333333333
+                  "x": -2883.9828165262,
+                  "y": 4188.151060378871,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
@@ -133,11 +133,105 @@
                 "file": "04. Bibliografía/Bibliografía antropología/Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals (Sumner, William Graham, 1840-1910) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
               "icon": "book-open",
-              "title": "Folkways  a study of the sociological importance of usages, manners, customs, mores, and morals.pdf"
+              "title": "Zotero Reader"
+            }
+          },
+          {
+            "id": "ca872ef16d11b6d9",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografía arte/Essays_on_the_blurring_of_art.pdf"
+              },
+              "icon": "book-open",
+              "title": "Essays_on_the_blurring_of_art.pdf"
+            }
+          },
+          {
+            "id": "e67eed864cebd8af",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/El proyecto simondiano. la individuación del ser en devenir 1.pdf"
+              },
+              "icon": "book-open",
+              "title": "El proyecto simondiano. la individuación del ser en devenir 1.pdf"
+            }
+          },
+          {
+            "id": "f50ac74b31e1fdf2",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/El proyecto simondiano. la individuación del ser en devenir.pdf"
+              },
+              "icon": "book-open",
+              "title": "El proyecto simondiano. la individuación del ser en devenir.pdf"
+            }
+          },
+          {
+            "id": "cf9abcc582e7da08",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/La-Individuacio-n-y-la-Te-cnica-en-la-Obra-de-Simondon-pdf.pdf"
+              },
+              "icon": "book-open",
+              "title": "La-Individuacio-n-y-la-Te-cnica-en-la-Obra-de-Simondon-pdf.pdf"
+            }
+          },
+          {
+            "id": "405b1b21eee5fb9a",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/Simondon, G. (2007). El modo de existencia de los objetos técnicos.pdf"
+              },
+              "icon": "book-open",
+              "title": "Simondon, G. (2007). El modo de existencia de los objetos técnicos.pdf"
+            }
+          },
+          {
+            "id": "de64f4d6996d4ba0",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/Simondon, G. (1992). The Genesis of the Individual.pdf"
+              },
+              "icon": "book-open",
+              "title": "Simondon, G. (1992). The Genesis of the Individual.pdf"
+            }
+          },
+          {
+            "id": "fa99c459f4ad6ddd",
+            "type": "leaf",
+            "state": {
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "04. Bibliografía/Bibliografia Simondon/Gilbert Simondon Being and Technology.pdf"
+              },
+              "icon": "book-open",
+              "title": "Gilbert Simondon Being and Technology.pdf"
+            }
+          },
+          {
+            "id": "7f6be9ea07da4559",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -171,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "videojuegos mundo del arte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1051.5
+    "width": 491.5
   },
   "right": {
     "id": "251599948ab2c7fd",
@@ -501,17 +595,19 @@
   },
   "active": "e105e905bb6264bc",
   "lastOpenFiles": [
-    "04. Bibliografía/Bibliografía videojuegos/Videojuegos_estudio.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Bit_aparte_0.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Bit_aparte_2.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Bit_aparte_3.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Bit_aparte_4.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Deporte_ocio.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/Guerra_de_las_imagenes.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/libro_blanco.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/esport.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/videojuegos_arte.pdf",
-    "04. Bibliografía/Bibliografía videojuegos/modos_de_ver.pdf",
+    "01. Lecturas Simondon/Simondon, G. (2009). La individuación a la luz de la nociones de forma e información.md",
+    "Escritos/Tesis/Tesis.canvas",
+    "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
+    "04. Bibliografía/Bibliografía Yuk Hui/Hui, Y. (2017). Cosmotechnics as Cosmopolitics.pdf",
+    "04. Bibliografía/Bibliografía Yuk Hui/Hui, Y. (2020). Fragmentar el futuro. Ensayos sobre tecnodiversidad.pdf",
+    "04. Bibliografía/Bibliografía Yuk Hui/Hui, Y. (2021). Art and Cosmotechnics.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Contreras Espinosa, R. S. y Eguia Gomez, J. L. (2024). Explorando el patrimonio cultural e histórico a través de juegos serios.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Sosa Castañón, G. (2024). The Market of Identity. A Review on Video Games and Identity Works.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/López Pérez, B. E. (2024). Narrative Depiction of Suicide in Horror Video Games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Taylor, N. (2024). A Postdisciplinary Posture on Games.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Terrasa-Torres, M. (2023). Una mirada a la oscuridad. La estética ludoficcional desde la dificultad no-mecánica.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Castiñeiras López, J. (2023). Game Studies. Miradas desde la Historia del Arte.pdf",
+    "04. Bibliografía/Bibliografía videojuegos/To DiGRA/Lozano, A. (2023). Revisión de los Game Studies desde la estética del formalismo y el romanticismo.pdf",
     "Escritos/Artículos/articulo.md",
     "Escritos/Artículos/The magic circle is a lie.md",
     "Clippings/10% of surveyed workers who game plan to skip work on Grand Theft Auto VI's launch day..md",
@@ -524,10 +620,8 @@
     "21. Convocatorias/2027 Luxembourg – History of Games.md",
     "18. Calendario/2027-01-31 2027 Luxemburg.md",
     "Clippings/PlayStation Store Shutdown PS3 and PS Vita in 2027.md",
-    "Escritos/Tesis/Tesis.canvas",
     "2026-11-18.md",
     "18. Calendario/2026-03-10 Reunión Asesor.md",
-    "01. Lecturas Videojuegos/Consalvo, M. (2009). There is no Magic Circle.md",
     "IMG_3366.png",
     "IMG_3365.png",
     "IMG_3364.png",
@@ -545,7 +639,6 @@
     "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_27d6a1368b03db48_fromCanvas.md",
     "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_bfe93758514e3288_fromCanvas.md",
     "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_02cffa6ad394f3d9_fromCanvas.md",
-    "Escritos/Tesis/Tesis_canvas2doc-data/newdoc-node_31a732d93db7adec_fromCanvas.md",
     "Pasted image 20261110200457.jpg",
     "Pasted image 20261110200444.jpg",
     "Escritos/Artículos/Articulo comunidades.canvas",
